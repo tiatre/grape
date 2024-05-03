@@ -84,9 +84,31 @@ def read_cognates(input_file):
     return cognates_dict
 
 
+import matplotlib.pyplot as plt
+
+
+def draw_and_save_graph(G):
+    plt.figure(figsize=(8, 6))  # Set the size of the image
+    nx.draw(
+        G,
+        with_labels=True,
+        node_color="skyblue",
+        font_weight="bold",
+        node_size=700,
+        font_size=9,
+    )
+    plt.title("Language Graph")
+    plt.savefig("language_graph.png")  # Save the graph to a file
+    plt.close()  # Close the plot to free up memory
+
+
 def main():
     cognates = read_cognates("ie.tsv")
     print(cognates[("English", "ANT")])
+
+    # Obtain the number of languages and concepts
+    num_languages = len(set([lang for lang, _ in cognates.keys()]))
+    num_concepts = len(set([concept for _, concept in cognates.keys()]))
 
     # Print the contents of the dictionary
     for key, value in cognates.items():
@@ -94,6 +116,27 @@ def main():
 
     G = build_language_graph(cognates)
     print(G.edges(data=True))
+
+    # Iterate with different resolutions
+    resolution = 0.0
+    history = []
+    while True:
+        resolution += 0.1
+
+        community_generator = nx.algorithms.community.greedy_modularity_communities(
+            G, weight="weight", resolution=resolution
+        )
+        communities = list(community_generator)
+        num_communities = len(communities)
+
+        # If `history` is empty or the number of communities is different from the last element of `history`
+        if not history or num_communities != history[-1][1]:
+            history.append((resolution, num_communities))
+            print(f"Resolution: {resolution:.1f}, Communities: {num_communities}")
+            print(communities)
+
+        if num_communities == num_languages:
+            break
 
 
 if __name__ == "__main__":
