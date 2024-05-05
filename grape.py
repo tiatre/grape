@@ -1,5 +1,27 @@
 import networkx as nx
 from collections import defaultdict
+from dataclasses import dataclass
+from typing import List, FrozenSet
+from functools import cached_property
+
+
+@dataclass
+class HistoryEntry:
+    """Class to store a history entry with resolution and communities.
+
+    Attributes:
+        resolution (float): The resolution value indicating the distance to the root.
+        communities (List[FrozenSet[str]]): A list of communities, each represented as a frozenset of strings.
+    """
+
+    resolution: float
+    communities: List[FrozenSet[str]]
+
+    @cached_property
+    def number_of_communities(self) -> int:
+        """Returns the number of communities in this history entry, caching the result."""
+        return len(self.communities)
+
 
 # TODO: Work on dynamic resolution adjustment
 
@@ -96,12 +118,13 @@ def build_history(G, num_languages):
         community_generator = nx.algorithms.community.greedy_modularity_communities(
             G, weight="weight", resolution=resolution
         )
-        communities = list(community_generator)
+        communities = [frozenset(community) for community in community_generator]
         num_communities = len(communities)
 
-        # If `history` is empty or the number of communities is different from the last element of `history`
-        if not history or num_communities != len(history[-1][1]):
-            history.append((resolution, communities))
+        # If `history` is empty or the number of communities is different from the last entry
+        if not history or num_communities != history[-1].number_of_communities:
+            history_entry = HistoryEntry(resolution, communities)
+            history.append(history_entry)
             print(f"Resolution: {resolution:.1f}, Communities: {num_communities}")
             print(communities)
 
@@ -114,12 +137,12 @@ def build_history(G, num_languages):
 from ete3 import Tree, TreeNode
 
 
-def build_tree_from_history(history):
+def build_tree_from_history(history: List[HistoryEntry]):
     """
     Constructs a phylogenetic tree from a provided historical sequence of taxonomic groupings.
 
     Parameters:
-    history (list of tuples): Each tuple contains a resolution (float) and a list of frozensets.
+    history (List[HistoryEntry]): Each HistoryEntry contains a resolution (float) and a list of frozensets.
         The resolution indicates the cumulative distance from the root of the tree,
         while each frozenset contains names of taxa that form a clade at this resolution.
         The history is expected to be sorted from the most distant from the root to the closest,
@@ -139,28 +162,27 @@ def build_tree_from_history(history):
     last_observed_ancestor = {}
 
     # Extract all taxa from the last element in history, which contains the most granular clades (individual taxa).
-    taxa = sorted(taxon for clade in history[-1][1] for taxon in clade)
+    taxa = sorted(taxon for clade in history[-1].communities for taxon in clade)
 
     # Initialize the last observed ancestor of each taxon to the root of the tree.
     for taxon in taxa:
         last_observed_ancestor[taxon] = tree
 
-    # Iterate through the history, starting from the second tuple to avoid redundancy with the root initialization.
+    # Iterate through the history, starting from the second entry to avoid redundancy with the root initialization.
     observed_clades = {}
-    for resolution, clades in history[1:]:
+    for entry in history[1:]:
+        resolution, clades = entry.resolution, entry.communities
         for clade in clades:
             # Create a label for the clade using sorted taxa names to ensure uniqueness and consistency.
             clade_label = ",".join(sorted(clade))
 
-            # Avoid processing the same clade label more than once, but make sure to extend its branch length
-            # as long as it is not a single taxon clade.
+            # Avoid processing the same clade label more than once.
             if clade_label in observed_clades:
                 if len(clade) > 1:
                     observed_clades[clade_label].dist = resolution
                 continue
 
-            # Create a new node for the clade; the name will be the taxon label if the clade contains a single taxon,
-            # or empty otherwise.
+            # Create a new node for the clade.
             node = TreeNode(name=clade_label if len(clade) == 1 else "")
 
             # Connect the new clade node to its ancestor nodes, ensuring no duplicate branches are created.
@@ -168,12 +190,9 @@ def build_tree_from_history(history):
             for taxon in clade:
                 ancestor = last_observed_ancestor[taxon]
                 if ancestor not in branches_added:
-                    # If the ancestor is the root, the branch length is the resolution itself. Otherwise,
-                    # the branch length is the difference between the current resolution and the ancestor's resolution.
                     if ancestor == tree:
                         branch_length = resolution
                     else:
-                        # Make sure there is a minimum branch length to avoid zero-length branches.
                         branch_length = max(1e-8, resolution - ancestor.dist)
                     ancestor.add_child(node, dist=branch_length)
                     branches_added.add(ancestor)
