@@ -4,7 +4,7 @@ import networkx as nx
 from collections import defaultdict
 
 
-def build_language_graph(data):
+def cognateset_graph(data):
     # Extract languages and concepts from keys
     languages = set()
     concepts = set()
@@ -56,7 +56,7 @@ def build_language_graph(data):
     return G
 
 
-def build_language_graph2(
+def adjusted_cognateset_graph(
     data: Dict[Tuple[str, str], Set[int]],
     distance_matrix: np.ndarray,
     sorted_languages: List[str],
@@ -119,3 +119,26 @@ def build_language_graph2(
             G.add_edge(lang1, lang2, weight=weight)
 
     return G
+
+def build_graph(method: str, **kwargs) -> nx.Graph:
+    """
+    Selects and executes a graph construction method based on the provided method string.
+
+    Args:
+        method (str): Name of the method to execute. Can be 'cognateset_graph' or 'adjusted_cognateset_graph'.
+        kwargs: Arguments required by the selected graph construction method.
+
+    Returns:
+        nx.Graph: The resulting graph from the selected method.
+
+    Raises:
+        ValueError: If an invalid method name is provided.
+    """
+    graph_methods = {
+        'cognateset_graph': cognateset_graph,
+        'adjusted_cognateset_graph': adjusted_cognateset_graph
+    }
+    if method in graph_methods:
+        return graph_methods[method](**kwargs)
+    else:
+        raise ValueError(f"Invalid graph construction method: {method}")

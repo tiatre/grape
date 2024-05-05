@@ -145,7 +145,7 @@ def draw_and_save_graph(G):
     plt.close()  # Close the plot to free up memory
 
 
-def main():
+def main(args):
     # Read the cognate data from a file
     cognates = phylodata.read_cognate_file("ie.tsv")
 
@@ -159,8 +159,17 @@ def main():
     distance_matrix = phylodata.compute_distance_matrix(cognates)
     print(distance_matrix)
 
-    # G = graph.build_language_graph(cognates)
-    G = graph.build_language_graph2(cognates, distance_matrix, languages)
+    # Build the graph
+    if args["graph_method"] == "cognateset_graph":
+        G = graph.build_graph("cognateset_graph", data=cognates)
+    elif args["graph_method"] == "adjusted_cognateset_graph":
+        G = graph.build_graph(
+            "adjusted_cognateset_graph",
+            data=cognates,
+            distance_matrix=distance_matrix,
+            sorted_languages=languages,
+        )
+
     print(G.edges(data=True))
 
     history = build_history(G, num_languages)
@@ -174,4 +183,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    args = {"graph_method": "adjusted_cognateset_graph", "input_file": "ie.tsv"}
+    main(args)
