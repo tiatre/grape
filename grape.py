@@ -4,6 +4,8 @@ from dataclasses import dataclass
 from typing import List, FrozenSet
 from functools import cached_property
 
+import phylodata
+
 
 @dataclass
 class HistoryEntry:
@@ -76,36 +78,6 @@ def build_language_graph(data):
             G.add_edge(lang1, lang2, weight=weight)
 
     return G
-
-
-def read_cognates(input_file):
-    cognates_dict = {}
-
-    with open(input_file, "r") as f_in:
-        # Skip the header line
-        next(f_in)
-
-        # Process each line in the input file
-        for line in f_in:
-            # Split the line by tabs
-            lang, concept, cognateset = line.strip().split("\t")
-
-            # Skip if cognateset is empty
-            if not cognateset:
-                continue
-
-            # Remove the concept and language from cognateset
-            cognateset = int(cognateset.split(".")[1])
-
-            # Create a tuple of language and concept
-            key = (lang, concept)
-
-            # Add cognateset to the set for the corresponding language-concept pair
-            if key not in cognates_dict:
-                cognates_dict[key] = set()
-            cognates_dict[key].add(cognateset)
-
-    return cognates_dict
 
 
 def build_history(G, num_languages):
@@ -225,7 +197,7 @@ def draw_and_save_graph(G):
 
 
 def main():
-    cognates = read_cognates("ie.tsv")
+    cognates = phylodata.read_cognate_file("ie.tsv")
     print(cognates[("English", "ANT")])
 
     # Obtain the number of languages and concepts
