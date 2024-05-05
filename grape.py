@@ -1,10 +1,11 @@
 import networkx as nx
-from collections import defaultdict
+
 from dataclasses import dataclass
-from typing import List, FrozenSet
+from typing import List, FrozenSet, Dict, Set, Tuple
 from functools import cached_property
 
 import phylodata
+import graph
 
 
 @dataclass
@@ -26,58 +27,6 @@ class HistoryEntry:
 
 
 # TODO: Work on dynamic resolution adjustment
-
-
-def build_language_graph(data):
-    # Extract languages and concepts from keys
-    languages = set()
-    concepts = set()
-    for lang, concept in data.keys():
-        languages.add(lang)
-        concepts.add(concept)
-
-    # Prepare to count cognatesets shared between language pairs for each concept
-    concept_lang_cognatesets = defaultdict(lambda: defaultdict(set))
-
-    # Fill the structure with available data
-    for (lang, concept), cognatesets in data.items():
-        concept_lang_cognatesets[concept][lang] = cognatesets
-
-    # Create a structure to hold weights of edges between languages
-    language_pairs = defaultdict(int)
-
-    # Calculate weights for edges by checking shared cognatesets
-    for concept in concepts:
-        # Get languages for this concept
-        concept_languages = concept_lang_cognatesets[concept]
-
-        # Compare each pair of languages
-        lang_list = list(concept_languages.keys())
-        for i in range(len(lang_list)):
-            for j in range(i + 1, len(lang_list)):
-                lang1 = lang_list[i]
-                lang2 = lang_list[j]
-                # Find intersection of cognatesets and increment weight for the pair
-                shared_cognatesets = concept_lang_cognatesets[concept][
-                    lang1
-                ].intersection(concept_lang_cognatesets[concept][lang2])
-                if shared_cognatesets:
-                    language_pairs[(lang1, lang2)] += len(shared_cognatesets)
-                    language_pairs[(lang2, lang1)] += len(shared_cognatesets)
-
-    # Create the graph
-    G = nx.Graph()
-
-    # Add nodes
-    for language in languages:
-        G.add_node(language)
-
-    # Add weighted edges based on shared cognatesets
-    for (lang1, lang2), weight in language_pairs.items():
-        if weight > 0:
-            G.add_edge(lang1, lang2, weight=weight)
-
-    return G
 
 
 def build_history(G, num_languages):
@@ -197,18 +146,21 @@ def draw_and_save_graph(G):
 
 
 def main():
+    # Read the cognate data from a file
     cognates = phylodata.read_cognate_file("ie.tsv")
-    print(cognates[("English", "ANT")])
 
-    # Obtain the number of languages and concepts
-    num_languages = len(set([lang for lang, _ in cognates.keys()]))
-    num_concepts = len(set([concept for _, concept in cognates.keys()]))
+    # Obtain a sorted list of languages and concepts, and then their counts
+    languages = sorted({lang for lang, _ in cognates.keys()})
+    concepts = sorted({concept for _, concept in cognates.keys()})
+    num_languages = len(languages)
+    num_concepts = len(concepts)
 
-    # Print the contents of the dictionary
-    for key, value in cognates.items():
-        print(key, ":", value)
+    # Compute the distance matrix
+    distance_matrix = phylodata.compute_distance_matrix(cognates)
+    print(distance_matrix)
 
-    G = build_language_graph(cognates)
+    # G = graph.build_language_graph(cognates)
+    G = graph.build_language_graph2(cognates, distance_matrix, languages)
     print(G.edges(data=True))
 
     history = build_history(G, num_languages)
