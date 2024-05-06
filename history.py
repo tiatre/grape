@@ -71,11 +71,52 @@ class DynamicAdjustmentStrategy(ParameterSearchStrategy):
         return num_communities == target
 
 
+class AdaptiveDynamicAdjustmentStrategy(ParameterSearchStrategy):
+    def __init__(
+        self,
+        initial_value: float = 0.1,
+        adjust_factor: float = 0.05,
+        target: int = None,
+    ):
+        self.initial_value = initial_value
+        self.adjust_factor = adjust_factor
+        self.target = target
+        self.value = initial_value
+        self.previous_diff = None
+
+    def initialize(self) -> float:
+        return self.initial_value
+
+    def update(self, current_value: float, current_communities: int) -> float:
+        # Calculate the difference between the current number of communities and the target
+        diff = abs(self.target - current_communities)
+
+        # If this is the first update, initialize previous_diff
+        if self.previous_diff is None:
+            self.previous_diff = diff
+            return current_value
+
+        # Check if the number of communities is moving towards the target or not
+        if diff < self.previous_diff:
+            # We are getting closer to the target, increase the adjustment factor slightly
+            self.adjust_factor *= 1.1
+        else:
+            # We are moving away from the target, decrease the adjustment factor and change direction
+            self.adjust_factor *= -0.5
+
+        self.previous_diff = diff
+        self.value += self.adjust_factor
+        return self.value
+
+    def should_stop(self, num_communities: int, target: int) -> bool:
+        return num_communities == target
+
+
 def build_history(
     G: nx.Graph,
     num_languages: int,
     method: str = "greedy",
-    strategy: str = "fixed_increment",
+    strategy: str = "fixed",
     initial_value: float = 0.0,
     adjust_factor: float = 0.1,
 ) -> List[HistoryEntry]:
@@ -90,9 +131,14 @@ def build_history(
 
     # Obtain the search strategy based on the provided strategy string
     strategy = {
-        "fixed_increment": FixedIncrementStrategy(),
-        "dynamic_adjustment": DynamicAdjustmentStrategy(
+        "fixed": FixedIncrementStrategy(),
+        "dynamic": DynamicAdjustmentStrategy(
             initial_value=initial_value, adjust_factor=adjust_factor
+        ),
+        "adaptive": AdaptiveDynamicAdjustmentStrategy(
+            initial_value=initial_value,
+            adjust_factor=adjust_factor,
+            target=num_languages,
         ),
     }.get(strategy)
     if strategy is None:

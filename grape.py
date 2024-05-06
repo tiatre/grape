@@ -53,7 +53,7 @@ if __name__ == "__main__":
     args = {
         "graph_method": "adjusted_cognateset_graph",  # or "cognateset_graph"
         "input_file": "ie.tsv",
-        "community_method": "louvain",  # or "greedy"
-        "strategy": "fixed_increment",  # or "dynamic_adjustment" (which has additional parameters "initial_value" and "adjust_factor")
+        "community_method": "louvain",  # "greedy" or "louvain"
+        "strategy": "adaptive",  # "fixed", "dynamic" or "adaptive" (the latter two which has additional parameters "initial_value" and "adjust_factor")
     }
     main(args)
