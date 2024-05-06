@@ -2,7 +2,7 @@
 
 `GRAPE` (Graph Analysis and Phylogenetic Estimation) is a method for phylogenetic inference using community detection in graphs. 
 
-![GRAPE (Graph Analysis and Phylogenetic Estimation)](https://raw.githubusercontent.com/tresoldi/grape/main/docs/grape_logo.png)
+![GRAPE (Graph Analysis and Phylogenetic Estimation)](https://raw.githubusercontent.com/tresoldi/grape/main/docs/grape_logo_small.png)
 
 ## Installation
 
