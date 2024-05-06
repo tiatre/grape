@@ -120,6 +120,7 @@ def adjusted_cognateset_graph(
 
     return G
 
+
 def build_graph(method: str, **kwargs) -> nx.Graph:
     """
     Selects and executes a graph construction method based on the provided method string.
@@ -135,8 +136,8 @@ def build_graph(method: str, **kwargs) -> nx.Graph:
         ValueError: If an invalid method name is provided.
     """
     graph_methods = {
-        'cognateset_graph': cognateset_graph,
-        'adjusted_cognateset_graph': adjusted_cognateset_graph
+        "cognateset_graph": cognateset_graph,
+        "adjusted_cognateset_graph": adjusted_cognateset_graph,
     }
     if method in graph_methods:
         return graph_methods[method](**kwargs)

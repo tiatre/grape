@@ -1,58 +1,12 @@
 import networkx as nx
 
-from dataclasses import dataclass
+
 from typing import List, FrozenSet, Dict, Set, Tuple
-from functools import cached_property
+from common import HistoryEntry
 
 import phylodata
 import graph
-
-
-@dataclass
-class HistoryEntry:
-    """Class to store a history entry with resolution and communities.
-
-    Attributes:
-        resolution (float): The resolution value indicating the distance to the root.
-        communities (List[FrozenSet[str]]): A list of communities, each represented as a frozenset of strings.
-    """
-
-    resolution: float
-    communities: List[FrozenSet[str]]
-
-    @cached_property
-    def number_of_communities(self) -> int:
-        """Returns the number of communities in this history entry, caching the result."""
-        return len(self.communities)
-
-
-# TODO: Work on dynamic resolution adjustment
-
-
-def build_history(G, num_languages):
-    # Iterate with different resolutions
-    resolution = 0.0
-    history = []
-    while True:
-        resolution += 0.1
-
-        community_generator = nx.algorithms.community.greedy_modularity_communities(
-            G, weight="weight", resolution=resolution
-        )
-        communities = [frozenset(community) for community in community_generator]
-        num_communities = len(communities)
-
-        # If `history` is empty or the number of communities is different from the last entry
-        if not history or num_communities != history[-1].number_of_communities:
-            history_entry = HistoryEntry(resolution, communities)
-            history.append(history_entry)
-            print(f"Resolution: {resolution:.1f}, Communities: {num_communities}")
-            print(communities)
-
-        if num_communities == num_languages:
-            break
-
-    return history
+import history
 
 
 from ete3 import Tree, TreeNode
@@ -92,7 +46,7 @@ def build_tree_from_history(history: List[HistoryEntry]):
     # Iterate through the history, starting from the second entry to avoid redundancy with the root initialization.
     observed_clades = {}
     for entry in history[1:]:
-        resolution, clades = entry.resolution, entry.communities
+        resolution, clades = entry.parameter, entry.communities
         for clade in clades:
             # Create a label for the clade using sorted taxa names to ensure uniqueness and consistency.
             clade_label = ",".join(sorted(clade))
@@ -127,24 +81,6 @@ def build_tree_from_history(history: List[HistoryEntry]):
     return tree
 
 
-import matplotlib.pyplot as plt
-
-
-def draw_and_save_graph(G):
-    plt.figure(figsize=(8, 6))  # Set the size of the image
-    nx.draw(
-        G,
-        with_labels=True,
-        node_color="skyblue",
-        font_weight="bold",
-        node_size=700,
-        font_size=9,
-    )
-    plt.title("Language Graph")
-    plt.savefig("language_graph.png")  # Save the graph to a file
-    plt.close()  # Close the plot to free up memory
-
-
 def main(args):
     # Read the cognate data from a file
     cognates = phylodata.read_cognate_file("ie.tsv")
@@ -170,12 +106,14 @@ def main(args):
             sorted_languages=languages,
         )
 
-    print(G.edges(data=True))
+    # print(G.edges(data=True))
 
-    history = build_history(G, num_languages)
-    print(len(history))
+    family_history = history.build_history(
+        G, num_languages, method=args["community_method"]
+    )
+    print(len(family_history))
 
-    tree = build_tree_from_history(history)
+    tree = build_tree_from_history(family_history)
     print(tree)
 
     # Print the tree in Newick format, with internal node names and branch lengths
@@ -183,5 +121,9 @@ def main(args):
 
 
 if __name__ == "__main__":
-    args = {"graph_method": "adjusted_cognateset_graph", "input_file": "ie.tsv"}
+    args = {
+        "graph_method": "adjusted_cognateset_graph",  # or "cognateset_graph"
+        "input_file": "ie.tsv",
+        "community_method": "louvain_communities",  # or "greedy"
+    }
     main(args)
