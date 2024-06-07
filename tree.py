@@ -41,7 +41,7 @@ def build_tree_from_history(history: List[HistoryEntry]):
         resolution, clades = entry.parameter, entry.communities
         for clade in clades:
             # Create a label for the clade using sorted taxa names to ensure uniqueness and consistency.
-            clade_label = ",".join(sorted(clade))
+            clade_label = "/".join(sorted(clade))
 
             # Avoid processing the same clade label more than once.
             if clade_label in observed_clades:
