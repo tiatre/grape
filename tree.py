@@ -80,10 +80,6 @@ def build_tree_from_history(history: List[HistoryEntry]):
             clade_label = "/".join(sorted(clade))
             node = TreeNode(name=clade_label)
 
-            if "Whaki" in clade_label:
-                print(clade_label)
-                input()
-
             ancestor_nodes = {last_observed_ancestor[taxon] for taxon in clade}
             # assert len(ancestor_nodes) == 1, "Clade must have a single common ancestor"
 
