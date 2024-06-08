@@ -37,7 +37,7 @@ def main(args):
         )
 
     # Write a visualization of the graph to a file
-    nx.write_gexf(G, "graph.gexf")
+    # nx.write_gexf(G, "graph.gexf")
 
     family_history = history.build_history(G, num_languages, method=args["community"])
 
