@@ -151,7 +151,9 @@ def build_history(
         communities = community_method.find_communities(resolution=parameter)
         num_communities = len(communities)
 
-        if not history or num_communities != history[-1].number_of_communities:
+        # Store the history entry if the number of communities has increased (depending on the algorithm and the parameters,
+        # the number of communities may decrease in some iterations))
+        if not history or num_communities > history[-1].number_of_communities:
             history_entry = HistoryEntry(parameter, communities)
             history.append(history_entry)
             print(f"Parameter: {parameter:.2f}, Communities: {num_communities}")

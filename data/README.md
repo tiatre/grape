@@ -1,0 +1,1 @@
+This directory contains the data from the `corecog` set of the Arca Verborum project, used to generate the different cognate files in the format expected by GRAPE.

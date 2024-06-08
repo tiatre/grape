@@ -25,7 +25,7 @@ def read_cognate_file(input_file: str) -> Dict[Tuple[str, str], Set[int]]:
     cognates_dict = {}
 
     try:
-        with open(input_file, "r") as f_in:
+        with open(input_file, "r", encoding="utf-8") as f_in:
             # Skip the header line
             next(f_in)
 
@@ -69,6 +69,7 @@ def read_cognate_file(input_file: str) -> Dict[Tuple[str, str], Set[int]]:
     return cognates_dict
 
 
+# TODO: add strategy and missing data to command line parameters
 def compute_distance_matrix(
     cognates: Dict[Tuple[str, str], Set[int]],
     strategy: str = "average",

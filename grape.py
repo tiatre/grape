@@ -1,3 +1,5 @@
+import argparse
+
 import networkx as nx
 
 
@@ -12,7 +14,7 @@ import tree
 
 def main(args):
     # Read the cognate data from a file
-    cognates = phylodata.read_cognate_file("ie.tsv")
+    cognates = phylodata.read_cognate_file(args["source"])
 
     # Obtain a sorted list of languages and concepts, and then their counts
     languages = sorted({lang for lang, _ in cognates.keys()})
@@ -22,12 +24,11 @@ def main(args):
 
     # Compute the distance matrix
     distance_matrix = phylodata.compute_distance_matrix(cognates)
-    print(distance_matrix)
 
     # Build the graph
-    if args["graph_method"] == "cognateset_graph":
+    if args["graph"] == "cognateset_graph":
         G = graph.build_graph("cognateset_graph", data=cognates)
-    elif args["graph_method"] == "adjusted_cognateset_graph":
+    elif args["graph"] == "adjusted_cognateset_graph":
         G = graph.build_graph(
             "adjusted_cognateset_graph",
             data=cognates,
@@ -35,12 +36,10 @@ def main(args):
             sorted_languages=languages,
         )
 
-    # print(G.edges(data=True))
+    # Write a visualization of the graph to a file
+    nx.write_gexf(G, "graph.gexf")
 
-    family_history = history.build_history(
-        G, num_languages, method=args["community_method"]
-    )
-    print(len(family_history))
+    family_history = history.build_history(G, num_languages, method=args["community"])
 
     phylogeny = tree.build_tree_from_history(family_history)
     print(phylogeny)
@@ -50,10 +49,41 @@ def main(args):
 
 
 if __name__ == "__main__":
-    args = {
-        "graph_method": "adjusted_cognateset_graph",  # or "cognateset_graph"
-        "input_file": "ie.tsv",
-        "community_method": "louvain",  # "greedy" or "louvain"
-        "strategy": "adaptive",  # "fixed", "dynamic" or "adaptive" (the latter two which has additional parameters "initial_value" and "adjust_factor")
-    }
-    main(args)
+    parser = argparse.ArgumentParser(description="Process some parameters.")
+
+    # Define the arguments with argparse
+    parser.add_argument("source", help="Source file name")
+    parser.add_argument(
+        "--graph",
+        default="cognateset_graph",
+        choices=["adjusted_cognateset_graph", "cognateset_graph"],
+        help="Method to create the graph",
+    )
+    parser.add_argument(
+        "--community",
+        default="louvain",
+        choices=["greedy", "louvain"],
+        help="Method to detect communities",
+    )
+    parser.add_argument(
+        "--strategy",
+        default="adaptive",
+        choices=["fixed", "dynamic", "adaptive"],
+        help="Strategy to use",
+    )
+    parser.add_argument(
+        "--initial_value",
+        type=float,
+        help="Initial value if strategy is dynamic or adaptive",
+    )
+    parser.add_argument(
+        "--adjust_factor",
+        type=float,
+        help="Adjust factor if strategy is dynamic or adaptive",
+    )
+
+    # Parse arguments
+    args = parser.parse_args()
+
+    # Pass the parsed arguments to the main function
+    main(vars(args))

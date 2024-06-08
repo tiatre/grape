@@ -1,3 +1,6 @@
+# Don't include big data dumps
+data/arcaverborum*.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
