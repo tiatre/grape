@@ -5,46 +5,6 @@ from common import HistoryEntry
 from typing import List
 
 
-def split_sets(list1: List[set], list2: List[set]) -> List[set]:
-    """
-    Split the sets in list2 into smaller sets that match the sets in list1.
-
-    Each set in list2 is broken down into subsets such that each subset can be completely
-    found within at least one set in list1. This helps in ensuring that elements of each
-    split set from list2 align with elements from a complete set in list1.
-
-    Parameters:
-    list1 (List[Set[Any]]): A list of sets representing the main groups of elements.
-    list2 (List[Set[Any]]): A list of sets which need to be split according to the groups in list1.
-
-    Returns:
-    List[Set[Any]]: A list of sets where each set from list2 is split into subsets that match the sets in list1.
-
-    Example:
-    list1 = [{0, 1, 2, 3},   {4, 5}, {6, 7, 8}]
-    list2 = [{1, 2}, {3}, {4, 5, 6}, {0, 7, 8}]
-
-    The result will be [{1, 2}, {3}, {4, 5}, {6}, {0}, {7, 8}], where each subset from list2 is found within a set from list1.
-    """
-
-    # Initialize the result
-    result = []
-
-    # Iterate over each set in list2 and split it into subsets that match the sets in list1
-    for set2 in list2:
-        sub_result = []
-        for set1 in list1:
-            intersection = set2 & set1
-            if intersection:
-                sub_result.append(intersection)
-        result.append(sub_result)
-
-    # Flatten the result before returning
-    result = [item for sublist in result for item in sublist]
-
-    return result
-
-
 class CommunityMethod:
     def __init__(self, graph: nx.Graph, weight: str):
         self.graph = graph
@@ -152,6 +112,46 @@ class AdaptiveDynamicAdjustmentStrategy(ParameterSearchStrategy):
 
     def should_stop(self, num_communities: int, target: int) -> bool:
         return num_communities == target
+
+
+def split_sets(list1: List[set], list2: List[set]) -> List[set]:
+    """
+    Split the sets in list2 into smaller sets that match the sets in list1.
+
+    Each set in list2 is broken down into subsets such that each subset can be completely
+    found within at least one set in list1. This helps in ensuring that elements of each
+    split set from list2 align with elements from a complete set in list1.
+
+    Parameters:
+    list1 (List[Set[Any]]): A list of sets representing the main groups of elements.
+    list2 (List[Set[Any]]): A list of sets which need to be split according to the groups in list1.
+
+    Returns:
+    List[Set[Any]]: A list of sets where each set from list2 is split into subsets that match the sets in list1.
+
+    Example:
+    list1 = [{0, 1, 2, 3},   {4, 5}, {6, 7, 8}]
+    list2 = [{1, 2}, {3}, {4, 5, 6}, {0, 7, 8}]
+
+    The result will be [{1, 2}, {3}, {4, 5}, {6}, {0}, {7, 8}], where each subset from list2 is found within a set from list1.
+    """
+
+    # Initialize the result
+    result = []
+
+    # Iterate over each set in list2 and split it into subsets that match the sets in list1
+    for set2 in list2:
+        sub_result = []
+        for set1 in list1:
+            intersection = set2 & set1
+            if intersection:
+                sub_result.append(intersection)
+        result.append(sub_result)
+
+    # Flatten the result before returning
+    result = [item for sublist in result for item in sublist]
+
+    return result
 
 
 def build_history(

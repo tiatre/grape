@@ -1,10 +1,29 @@
-from typing import List, FrozenSet, Dict, Set, Tuple
-import numpy as np
-import networkx as nx
+# Import standard libraries
 from collections import defaultdict
+from typing import Dict, List, Set, Tuple
+
+# Import third-party libraries
+import networkx as nx
+import numpy as np
 
 
-def cognateset_graph(data):
+def cognateset_graph(data: Dict[Tuple[str, str], Set[int]]) -> nx.Graph:
+    """
+    Builds a graph of languages with weighted edges based on shared cognate sets.
+
+    This basic graph construction method does not take into account linguistic distances
+    or the number of languages sharing the same cognate set. Each shared cognate set
+    contributes equally to the weight of the edge between two languages.
+
+    Args:
+        data (Dict[Tuple[str, str], Set[int]]): A dictionary where keys are (language, concept)
+            pairs and values are sets of cognate set identifiers.
+
+    Returns:
+        nx.Graph: A graph where nodes represent languages and edges are weighted by the number
+                  of shared cognate sets between languages.
+    """
+
     # Extract languages and concepts from keys
     languages = set()
     concepts = set()
@@ -64,20 +83,33 @@ def adjusted_cognateset_graph(
     sharing_factor: float = 0.5,
 ) -> nx.Graph:
     """
-    Builds a graph of languages with weighted edges based on shared cognate sets,
-    adjusted for the linguistic distance and the number of sharing languages.
+    Builds a graph of languages with weighted edges based on shared cognate sets, adjusted.
+
+    This graph construction method takes into account linguistic distances between languages
+    and the number of languages sharing the same cognate set. The weight of an edge between
+    two languages is adjusted based on the proximity of the languages in the distance matrix
+    and the number of shared cognate sets.
+
+    The proximity correction is calculated as 1 / (distance^proximity_weight), where distance
+    is the linguistic distance between two languages. The higher the proximity_weight, the more
+    the weight of the edge is adjusted based on the distance (languages that are closer in the
+    distance matrix will have higher weights).
+
+    The sharing correction is calculated as (number of shared cognate sets)^sharing_factor. The
+    higher the sharing_factor, the more the weight of the edge is adjusted based on the number of
+    shared cognate sets (languages that share more cognate sets will have higher weights).
 
     Args:
         data (Dict[Tuple[str, str], Set[int]]): A dictionary where keys are (language, concept)
-            pairs and values are sets of cognateset identifiers.
-        distance_matrix (np.ndarray): A 2D numpy array with pairwise linguistic distances between languages.
-        sorted_languages (List[str]): A list of language names corresponding to the indices in the distance_matrix.
-        proximity_weight (float): A factor to adjust the significance of cognate sharing based on linguistic proximity.
-        sharing_factor (float): A factor to increase weight if more languages share the same cognateset.
+            pairs and values are sets of cognate set identifiers.
+        distance_matrix (np.ndarray): A symmetric matrix of distances between languages.
+        sorted_languages (List[str]): A list of languages sorted in the same order as the distance matrix.
+        proximity_weight (float): A weight factor for the proximity correction (default: 0.5).
+        sharing_factor (float): A factor for the number of shared cognate sets correction (default: 0.5).
 
     Returns:
         nx.Graph: A graph where nodes represent languages and edges are weighted by the adjusted
-                  significance of shared cognatesets.
+                  number of shared cognate sets between languages.
     """
     language_index = {lang: idx for idx, lang in enumerate(sorted_languages)}
 
@@ -93,6 +125,7 @@ def adjusted_cognateset_graph(
 
     language_pairs = defaultdict(float)
 
+    # Calculate weights for edges by checking shared cognatesets
     for concept, langs in concept_lang_cognatesets.items():
         lang_list = list(langs.keys())
         num_langs = len(lang_list)
@@ -111,6 +144,7 @@ def adjusted_cognateset_graph(
                         language_pairs[(lang1, lang2)] += weight_adjustment
                         language_pairs[(lang2, lang1)] += weight_adjustment
 
+    # Create the graph
     G = nx.Graph()
     for language in languages:
         G.add_node(language)
