@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
-# Import standard libraries
-import argparse
+# Import libraries
 from typing import Dict, Set, Tuple
-
-# Import third-party libraries
+import argparse
 import numpy as np
 
 # Import local modules
@@ -21,17 +19,8 @@ def read_cognate_file(input_file: str) -> Dict[Tuple[str, str], Set[int]]:
     should contain three fields: language, concept, and cognate set identifier. The cognate set
     identifier is expected to be in the format "id.number", where "number" is parsed as an integer.
 
-    Args:
-        input_file (str): The path to the input file.
-
-    Returns:
-        Dict[Tuple[str, str], Set[int]]: A dictionary where keys are tuples of (language, concept)
-        and values are sets of integers representing cognate set identifiers.
-
-    Raises:
-        FileNotFoundError: If the input file does not exist.
-        ValueError: If any line in the file does not have exactly three tab-separated values or if the
-                    cognate set identifier format is incorrect.
+    @param input_file: The path to the cognateset file.
+    @return: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
     """
     cognates_dict = {}
 
@@ -89,14 +78,12 @@ def compute_distance_matrix(
     """
     Computes a pairwise distance matrix for languages based on their cognate sets.
 
-    Args:
-        cognates (Dict[Tuple[str, str], Set[int]]): The dictionary of cognate data.
-        strategy (str): The strategy for handling synonyms ("average", "min", "max").
-        missing_data (str): The strategy for handling missing data ("max_dist", "zero", "ignore").
-
-    Returns:
-        np.ndarray: A symmetric matrix of distances between each pair of languages.
+    @param cognates: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
+    @param strategy: The strategy for handling synonyms ("average", "min", "max").
+    @param missing_data: The strategy for handling missing data ("max_dist", "zero", "ignore").
+    @return: A symmetric matrix of distances between each pair of languages.
     """
+
     # Extract unique languages and concepts
     languages = sorted({lang for lang, _ in cognates.keys()})
     concepts = sorted({concept for _, concept in cognates.keys()})
@@ -179,9 +166,9 @@ def main(args):
     languages = sorted({lang for lang, _ in cognates.keys()})
     concepts = sorted({concept for _, concept in cognates.keys()})
     num_languages = len(languages)
-    num_concepts = len(concepts)
 
     # Build the graph
+    G = None
     if args["graph"] == "cognateset_graph":
         G = graph.build_graph("cognateset_graph", data=cognates)
     elif args["graph"] == "adjusted_cognateset_graph":
@@ -198,6 +185,8 @@ def main(args):
             proximity_weight=args["proximity_weight"],
             sharing_factor=args["sharing_factor"],
         )
+    if G is None:
+        raise ValueError("Graph could not be built. Please check the --graph argument.")
 
     # Write a visualization of the graph to a file
     # nx.write_gexf(G, "graph.gexf")

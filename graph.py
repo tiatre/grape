@@ -1,8 +1,6 @@
 # Import standard libraries
 from collections import defaultdict
 from typing import Dict, List, Set, Tuple
-
-# Import third-party libraries
 import networkx as nx
 import numpy as np
 
@@ -15,13 +13,9 @@ def cognateset_graph(data: Dict[Tuple[str, str], Set[int]]) -> nx.Graph:
     or the number of languages sharing the same cognate set. Each shared cognate set
     contributes equally to the weight of the edge between two languages.
 
-    Args:
-        data (Dict[Tuple[str, str], Set[int]]): A dictionary where keys are (language, concept)
-            pairs and values are sets of cognate set identifiers.
-
-    Returns:
-        nx.Graph: A graph where nodes represent languages and edges are weighted by the number
-                  of shared cognate sets between languages.
+    @param data: A dictionary where keys are (language, concept) pairs and values are sets of cognate set identifiers.
+    @return: A graph where nodes represent languages and edges are weighted by the number of shared cognate sets
+             between languages.
     """
 
     # Extract languages and concepts from keys
@@ -99,17 +93,13 @@ def adjusted_cognateset_graph(
     higher the sharing_factor, the more the weight of the edge is adjusted based on the number of
     shared cognate sets (languages that share more cognate sets will have higher weights).
 
-    Args:
-        data (Dict[Tuple[str, str], Set[int]]): A dictionary where keys are (language, concept)
-            pairs and values are sets of cognate set identifiers.
-        distance_matrix (np.ndarray): A symmetric matrix of distances between languages.
-        sorted_languages (List[str]): A list of languages sorted in the same order as the distance matrix.
-        proximity_weight (float): A weight factor for the proximity correction (default: 0.5).
-        sharing_factor (float): A factor for the number of shared cognate sets correction (default: 0.5).
-
-    Returns:
-        nx.Graph: A graph where nodes represent languages and edges are weighted by the adjusted
-                  number of shared cognate sets between languages.
+    @param data: A dictionary where keys are (language, concept) pairs and values are sets of cognate set identifiers.
+    @param distance_matrix: A 2D numpy array representing the linguistic distance between languages.
+    @param sorted_languages: A list of languages in the order they appear in the distance matrix.
+    @param proximity_weight: A float representing the weight of proximity in the adjustment calculation.
+    @param sharing_factor: A float representing the weight of sharing in the adjustment calculation.
+    @return: A graph where nodes represent languages and edges are weighted by the number of shared cognate sets
+             between languages, adjusted by linguistic distance and sharing factors.
     """
     language_index = {lang: idx for idx, lang in enumerate(sorted_languages)}
 
@@ -159,15 +149,9 @@ def build_graph(method: str, **kwargs) -> nx.Graph:
     """
     Selects and executes a graph construction method based on the provided method string.
 
-    Args:
-        method (str): Name of the method to execute. Can be 'cognateset_graph' or 'adjusted_cognateset_graph'.
-        kwargs: Arguments required by the selected graph construction method.
-
-    Returns:
-        nx.Graph: The resulting graph from the selected method.
-
-    Raises:
-        ValueError: If an invalid method name is provided.
+    @param method: A string indicating the graph construction method to use.
+    @param kwargs: Additional keyword arguments to pass to the selected graph construction method.
+    @return: A graph constructed using the selected method.
     """
     graph_methods = {
         "cognateset_graph": cognateset_graph,

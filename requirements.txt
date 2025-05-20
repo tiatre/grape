@@ -1,4 +1,5 @@
-networkx
-matplotlib
+biopython
 ete3
+matplotlib
+networkx
 unidecode

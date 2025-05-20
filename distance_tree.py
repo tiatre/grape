@@ -1,14 +1,17 @@
-import numpy as np
-from ete3 import Tree
-from Bio import Phylo
 from Bio.Phylo.TreeConstruction import DistanceMatrix
 from Bio.Phylo.TreeConstruction import DistanceTreeConstructor
+from ete3 import Tree
+import numpy as np
 
 
-def distance_tree(distance_matrix, taxa, method):
+def distance_tree(distance_matrix, taxa, method) -> Tree:
     """
     Performs the Neighbor-Joining algorithm on a distance matrix and a list of taxa names.
-    Returns an ETE3 tree object.
+
+    @param distance_matrix: A square numpy array representing the distance matrix.
+    @param taxa: A list of strings representing the names of the taxa.
+    @param method: The method to use for tree construction ('nj' for Neighbor-Joining, 'upgma' for UPGMA).
+    @return: An ETE3 tree object.
     """
     # method must be one of 'nj' or 'upgma'
     if method not in ["nj", "upgma"]:
@@ -36,18 +39,24 @@ def distance_tree(distance_matrix, taxa, method):
     return ete_tree
 
 
-def nj(distance_matrix, taxa):
+def nj(distance_matrix, taxa) -> Tree:
     """
     Performs the Neighbor-Joining algorithm on a distance matrix and a list of taxa names.
-    Returns an ETE3 tree object.
+
+    @param distance_matrix: A square numpy array representing the distance matrix.
+    @param taxa: A list of strings representing the names of the taxa.
+    @return: An ETE3 tree object.
     """
     return distance_tree(distance_matrix, taxa, "nj")
 
 
-def upgma(distance_matrix, taxa):
+def upgma(distance_matrix, taxa) -> Tree:
     """
     Performs the UPGMA algorithm on a distance matrix and a list of taxa names.
-    Returns an ETE3 tree object.
+
+    @param distance_matrix: A square numpy array representing the distance matrix.
+    @param taxa: A list of strings representing the names of the taxa.
+    @return: An ETE3 tree object.
     """
     return distance_tree(distance_matrix, taxa, "upgma")
 

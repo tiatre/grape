@@ -1,8 +1,6 @@
-import networkx as nx
-from typing import List, Callable, Dict, Any, Tuple, FrozenSet
 from common import HistoryEntry
-
-from typing import List
+from typing import List, FrozenSet
+import networkx as nx
 
 
 class CommunityMethod:
