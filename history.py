@@ -117,7 +117,7 @@ def build_history(
     G: nx.Graph,
     num_languages: int,
     method: str = "greedy",
-    strategy: str = "fixed",
+    strategy_name: str = "fixed",
     initial_value: float = 0.0,
     adjust_factor: float = 0.1,
 ) -> List[HistoryEntry]:
@@ -141,7 +141,7 @@ def build_history(
             adjust_factor=adjust_factor,
             target=num_languages,
         ),
-    }.get(strategy)
+    }.get(strategy_name)
     if strategy is None:
         raise ValueError("Unsupported parameter search strategy")
 

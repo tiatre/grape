@@ -60,7 +60,7 @@ def main(args):
         G,
         num_languages,
         method=args["community"],
-        strategy=args["strategy"],
+        strategy_name=args["strategy"],
         initial_value=args["initial_value"],
         adjust_factor=args["adjust_factor"],
     )
