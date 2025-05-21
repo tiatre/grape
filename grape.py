@@ -169,9 +169,9 @@ def main(args):
 
     # Build the graph
     G = None
-    if args["graph"] == "cognateset_graph":
+    if args["graph"] == "unadjusted":
         G = graph.build_graph("cognateset_graph", data=cognates)
-    elif args["graph"] == "adjusted_cognateset_graph":
+    elif args["graph"] == "adjusted":
         # Compute the distance matrix
         distance_matrix = compute_distance_matrix(
             cognates, missing_data=args["missing_data"]
@@ -219,11 +219,11 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--graph",
-        default="adjusted_cognateset_graph",
+        default="adjusted",
         choices=[
-            "adjusted_cognateset_graph",
-            "cognateset_graph",
-        ],  # TODO: remname to "adjusted" and "unadjusted"
+            "adjusted",
+            "unadjusted",
+        ],
         help="Method to create the graph",
     )
     parser.add_argument(
