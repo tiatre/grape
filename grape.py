@@ -40,6 +40,9 @@ def read_cognate_file(
     @return: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
     """
     cognates_dict = {}
+    cognateset_string_to_id_map: Dict[Tuple[str, str], int] = {}
+    next_cognateset_id: int = 1
+
     required_columns = [lang_col_name, concept_col_name, cognateset_col_name]
 
     try:
@@ -104,7 +107,7 @@ def read_cognate_file(
                 concept = row_dict.get(concept_col_name)
                 cognateset_str = row_dict.get(cognateset_col_name)
 
-                # Check for empty values in required columns
+                # Check for empty values in required columns (including cognateset_str)
                 if not lang or not concept or not cognateset_str:
                     print(
                         f"Warning: Line {row_number} in '{input_file}': Skipping row due to missing value(s) "
@@ -112,16 +115,16 @@ def read_cognate_file(
                     )
                     continue
 
-                try:
-                    cognateset_val = int(cognateset_str.split(".")[1])
-                except IndexError:
-                    raise ValueError(
-                        f"Line {row_number} in '{input_file}': Cognateset identifier '{cognateset_str}' in column '{cognateset_col_name}' must be in the format 'id.number'"
-                    )
-                except ValueError:
-                    raise ValueError(
-                        f"Line {row_number} in '{input_file}': The second part of the cognateset identifier '{cognateset_str}' in column '{cognateset_col_name}' must be an integer."
-                    )
+                # Get or create integer ID for the (concept, cognateset_string) pair
+                cognateset_map_key = (
+                    concept,
+                    cognateset_str,
+                )  # concept is definitely not None here
+                if cognateset_map_key not in cognateset_string_to_id_map:
+                    cognateset_string_to_id_map[cognateset_map_key] = next_cognateset_id
+                    next_cognateset_id += 1
+
+                cognateset_val = cognateset_string_to_id_map[cognateset_map_key]
 
                 key = (lang, concept)
                 if key not in cognates_dict:
