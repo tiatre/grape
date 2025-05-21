@@ -1,7 +1,9 @@
 from common import HistoryEntry
-from typing import List, FrozenSet
+from typing import List, FrozenSet, Union
 import networkx as nx
 import common
+
+# TODO: decide whether to cast resolution to int, because nx works with float (maybe for the steps?)
 
 
 class CommunityMethod:
@@ -9,24 +11,24 @@ class CommunityMethod:
         self.graph = graph
         self.weight = weight
 
-    def find_communities(self, resolution: float) -> List[FrozenSet]:
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         raise NotImplementedError("This method should be overridden by subclasses")
 
 
 class GreedyModularity(CommunityMethod):
-    def find_communities(self, resolution: float) -> List[FrozenSet]:
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         community_generator = nx.algorithms.community.greedy_modularity_communities(
             self.graph, weight=self.weight, resolution=resolution
         )
-        return [frozenset(community) for community in community_generator]
+        return [frozenset(community) for community in community_generator]  # type: ignore
 
 
 class LouvainCommunities(CommunityMethod):
-    def find_communities(self, resolution: float) -> List[FrozenSet]:
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         community_generator = nx.algorithms.community.louvain_communities(
             self.graph, weight=self.weight, resolution=resolution
         )
-        return [frozenset(community) for community in community_generator]
+        return [frozenset(community) for community in community_generator]  # type: ignore
 
 
 class ParameterSearchStrategy:
