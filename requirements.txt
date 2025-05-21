@@ -1,5 +1,4 @@
-biopython
 ete3
-matplotlib
 networkx
-unidecode
+numpy
+six # required for ete3
