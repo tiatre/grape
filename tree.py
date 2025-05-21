@@ -1,39 +1,59 @@
 from ete3 import Tree, TreeNode
-
-from typing import List, FrozenSet, Dict, Set, Tuple
+from typing import List
 from common import HistoryEntry
 
 
-def remove_single_descendant_nodes(tree):
-    # Function to recursively remove single descendant nodes
-    def prune_node(node):
-        # We'll use a stack to manage nodes to check
+def remove_single_descendant_nodes(tree: TreeNode) -> TreeNode:
+    """
+    Removes nodes with a single descendant from an ete3 TreeNode.
+
+    When a node with a single child is removed (a "unary" node), its child is
+    connected directly to the unary node's parent (grandparent). Branch lengths
+    (dist attribute) are adjusted: the child's new dist becomes the sum of its
+    original dist and the dist of the removed unary node.
+
+    If the root node itself has only one child after internal pruning, it is
+    also removed, and its child becomes the new root. The new root's 'dist'
+    attribute will be set to 0.
+
+    @param tree: The root TreeNode of the tree to be pruned.
+    @return: The root TreeNode of the pruned tree. This might be a different
+             node if the original root was pruned.
+    """
+
+    def prune_node(node: TreeNode):
+        # We use a stack to manage nodes to check (iterative depth-first)
         stack = [node]
         while stack:
             current_node = stack.pop()
             # Iterate over children list while modifying it (use a copy)
-            for child in current_node.get_children():
-                stack.append(child)
+            for child_node in current_node.get_children():
+                stack.append(child_node)
 
             # If the node has exactly one child and it's not the root
             if len(current_node.children) == 1 and current_node.up is not None:
                 child = current_node.children[0]
-                # Update the child's distance from its parent
+                # Update the child's distance from its new parent (the grandparent)
                 child.dist += current_node.dist
+
                 # Connect the child directly to the grandparent
                 current_node.up.add_child(child, dist=child.dist)
-                # Remove the current node from its parent
+
+                # Remove the current node (which also removes it from its parent's children list)
                 current_node.up.remove_child(current_node)
 
     # Start processing from the root
-    prune_node(tree)
-    # Check if the root itself needs pruning
-    if len(tree.children) == 1 and not tree.is_leaf():
-        child = tree.children[0]
-        child.dist += tree.dist
-        tree = child  # Make the single child the new root
+    current_root_node = tree
+    prune_node(current_root_node)
 
-    return tree
+    # Check if the root itself needs pruning
+    if len(current_root_node.children) == 1 and not current_root_node.is_leaf():
+        new_root = current_root_node.children[0]
+        new_root.detach()  # Detach new_root from old_root; new_root.up becomes None.
+        new_root.dist = 0.0
+        current_root_node = new_root
+
+    return current_root_node
 
 
 def build_tree_from_history(history: List[HistoryEntry]):
@@ -101,7 +121,7 @@ def build_tree_from_history(history: List[HistoryEntry]):
     tree = remove_single_descendant_nodes(tree)
 
     # Remove the name of all internal nodes to make the tree more readable.
-    for node in tree.traverse():
+    for node in tree.traverse():  # type: ignore
         if not node.is_leaf():
             node.name = ""
 
