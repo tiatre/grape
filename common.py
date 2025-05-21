@@ -293,3 +293,64 @@ def compute_distance_matrix(
             dist_matrix[i, j] = dist_matrix[j, i] = dist
 
     return dist_matrix
+
+
+def decompose_sets(list1: List[set], list2: List[set]) -> List[set]:
+    """
+    Decomposes sets from list2 into smaller subsets based on the sets in list1.
+
+    Each set in list2 is intersected with each set in list1. The non-empty
+    intersections form the resulting list of subsets. This means each
+    output subset is fully contained within at least one set from list1.
+
+    Elements in list2 sets that are not found in any set in list1 are
+    discarded (i.e., they will not appear in the output).
+
+    If sets in list1 overlap, an element from a set in list2 that falls
+    into such an overlapping region may appear in multiple outputted subsets,
+    once for each intersection with an overlapping set from list1.
+
+    @param list1: A list of reference sets.
+    @param list2: A list of sets to be split or filtered based on list1.
+    @return: A flat list of sets, where each set is an intersection of a set
+             from list2 with a set from list1.
+
+    Example 1 (Basic):
+    list1 = [{0, 1, 2, 3}, {4, 5}, {6, 7, 8}]
+    list2 = [{1, 2}, {3}, {4, 5, 6}, {0, 7, 8}]
+    Result: [{1, 2}, {3}, {4, 5}, {6}, {0}, {7, 8}]
+    (Note: {4,5,6} from list2 was split into {4,5} and {6}.
+     {0,7,8} from list2 was split into {0} and {7,8}.)
+
+    Example 2 (Elements discarded):
+    list1 = [{10, 20}]
+    list2 = [{20, 30}, {40}]
+    Result: [{20}]
+    (Element 30 from list2 was discarded as it's not in list1.
+     Set {40} from list2 was entirely discarded.)
+
+    Example 3 (Overlapping sets in list1):
+    list1 = [{1, 2, 10}, {2, 3, 20}]
+    list2 = [{1, 2, 3, 40}]
+    Result: [{1, 2}, {2, 3}]
+    (Element 2 from list2 appears in two output subsets because it's in
+     the overlap of list1 sets when intersected with the list2 set.
+     Element 40 is discarded.)
+    """
+
+    # Initialize the result
+    result = []
+
+    # Iterate over each set in list2 and split it into subsets that match the sets in list1
+    for set2 in list2:
+        sub_result = []
+        for set1 in list1:
+            intersection = set2 & set1
+            if intersection:
+                sub_result.append(intersection)
+        result.append(sub_result)
+
+    # Flatten the result before returning
+    result = [item for sublist in result for item in sublist]
+
+    return result
