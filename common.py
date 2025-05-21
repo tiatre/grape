@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from functools import cached_property
 from typing import List, FrozenSet, Dict, Set, Tuple
 import csv
-import logging  
+import logging
 import numpy as np
 
 
@@ -151,6 +151,7 @@ def read_cognate_file(
 
     return cognates_dict
 
+
 def compute_distance_matrix(
     cognates: Dict[Tuple[str, str], Set[int]],
     synonyms: str = "average",
@@ -159,9 +160,39 @@ def compute_distance_matrix(
     """
     Computes a pairwise distance matrix for languages based on their cognate sets.
 
-    @param cognates: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
-    @param synonyms: The strategy for handling synonyms ("average", "min", "max").
-    @param missing_data: The strategy for handling missing data ("max_dist", "zero", "ignore").
+    The distance between two languages is the average of the distances for each concept.
+    If no concepts can be compared (e.g., due to missing data and "ignore" strategy),
+    the overall distance is 1.
+
+    @param cognates: A dictionary where keys are tuples of (language, concept)
+                     and values are sets of cognateset IDs (integers).
+    @param synonyms: The strategy for handling synonyms (multiple cognates for the
+                     same concept in a language).
+                     - "average": The distance for a concept is the average of
+                       pairwise Jaccard distances between all cognates of lang1
+                       and all cognates of lang2 for that concept.
+                     - "min": The distance for a concept is the minimum of these
+                       pairwise Jaccard distances. Results in 0 if there's any
+                       shared cognate ID, 1 otherwise.
+                     - "max": The distance for a concept is the maximum of these
+                       pairwise Jaccard distances. Results in 1 if cognate sets
+                       are not identical (even if they are subsets or if multiple
+                       synonyms exist, e.g. L1={A,B}, L2={A,B} -> dist=1 for concept),
+                       0 only if both languages have the exact same single cognate ID.
+    @param missing_data: The strategy for handling missing data for a concept.
+                     - "max_dist": If both languages lack cognates for a concept,
+                       a distance of 1 is assigned for that concept.
+                     - "zero": If both languages lack cognates for a concept,
+                       a distance of 0 is assigned for that concept.
+                     - "ignore": If both languages lack cognates for a concept,
+                       that concept is ignored (does not contribute to the
+                       average distance).
+                     Note: If one language has cognates for a concept and the
+                     other does not, the concept contributes a distance of 1 to the
+                     language pair's list of concept distances, regardless of this
+                     `missing_data` strategy. This is because the synonym handling
+                     logic (min/max/average of pairwise cognate distances) will
+                     result in 1 when one cognate set is empty.
     @return: A symmetric matrix of distances between each pair of languages.
     """
 
@@ -174,7 +205,32 @@ def compute_distance_matrix(
 
     # Helper function to calculate distance between sets of cognates
     def _calculate_distance(set1: Set[int], set2: Set[int]) -> float:
-        if not set1 or not set2:
+        """
+        Calculates the Jaccard distance between two sets of cognate IDs.
+        Jaccard Distance = 1 - (Intersection / Union).
+
+        When used by synonym strategies, this function is typically called with
+        singleton sets (e.g., _calculate_distance({c1}, {c2})). In this case:
+        - Returns 0 if c1 == c2 (identical cognate IDs).
+        - Returns 1 if c1 != c2 (different cognate IDs).
+
+        The condition `if not set1 or not set2: return 0` means that if
+        either set is empty, the distance is 0. Standard Jaccard distance
+        between an empty set and a non-empty set is 1, and between two
+        empty sets is often 0 (or undefined). However, in the current
+        `compute_distance_matrix` logic, this specific line is not hit
+        when one set is empty and the other is not during synonym comparison,
+        as the list comprehension for `all_dists` (or `min_dist`/`max_dist`)
+        would be empty, leading to a default distance of 1 for the concept.
+        It would apply if, for example, `cognates.get()` returned `None`
+        instead of `set()`, and this function was called directly with it.
+        """
+        if not set1 or not set2:  # Handles two empty sets, or one empty and one not.
+            # If both are empty, union is 0, intersection is 0.
+            # If one is empty, union is len(other_set), intersection is 0.
+            # This specific return 0 deviates from standard Jaccard for one empty set.
+            # However, as noted above, the calling context in compute_distance_matrix
+            # handles the one-empty-set case differently before this would apply.
             return 0
         intersection = set1.intersection(set2)
         union = set1.union(set2)
