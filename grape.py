@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 
-# TODO: make sure it works with any cognateid type, ints, strings, etc.
-# TODO: use logging instead of print
-
 # Import libraries
 from typing import Dict, Set, Tuple
 import argparse
 import csv
 import numpy as np
+import logging  # Add logging import
 
 # Import local modules
 import common
@@ -15,8 +13,10 @@ import graph
 import history
 import tree
 
+# Configure logging
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-# TODO: add strategy and missing data to command line parameters
+
 def compute_distance_matrix(
     cognates: Dict[Tuple[str, str], Set[int]],
     strategy: str = "average",
@@ -128,7 +128,7 @@ def main(args):
     elif args["graph"] == "adjusted":
         # Compute the distance matrix
         distance_matrix = compute_distance_matrix(
-            cognates, missing_data=args["missing_data"]
+            cognates, strategy=args["synonyms"], missing_data=args["missing_data"]
         )
 
         G = graph.build_graph(
@@ -144,6 +144,7 @@ def main(args):
 
     # Write a visualization of the graph to a file
     # nx.write_gexf(G, "graph.gexf")
+    logging.info("Graph built successfully.")  # Replace print with logging
 
     family_history = history.build_history(
         G,
@@ -155,10 +156,11 @@ def main(args):
     )
 
     phylogeny = tree.build_tree_from_history(family_history)
-    print(phylogeny)
+    logging.info(f"Phylogeny: {phylogeny}")  # Replace print with logging
 
     # Print the tree in Newick format, with internal node names and branch lengths
-    print(phylogeny.write(format=1))
+    newick_tree = phylogeny.write(format=1)
+    logging.info(f"Newick format tree: {newick_tree}")  # Replace print with logging
 
 
 if __name__ == "__main__":

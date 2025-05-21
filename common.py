@@ -2,6 +2,11 @@ from dataclasses import dataclass
 from functools import cached_property
 from typing import List, FrozenSet, Dict, Set, Tuple
 import csv
+import logging  # Add logging import
+
+# Configure logging - This could be configured at the application entry point (grape.py)
+# However, if common.py is used as a library, it might be better to get a logger instance
+# logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -62,8 +67,8 @@ def read_cognate_file(
                 f_in.seek(0)
 
                 if not sample.strip():  # Check if sample is empty or whitespace only
-                    print(
-                        f"Warning: File '{input_file}' is empty or sample is insufficient for dialect sniffing. Falling back to 'excel-tab'."
+                    logging.warning(  # Replace print with logging
+                        f"File '{input_file}' is empty or sample is insufficient for dialect sniffing. Falling back to 'excel-tab'."
                     )
                     actual_dialect_for_reader = "excel-tab"
                 else:
@@ -72,12 +77,12 @@ def read_cognate_file(
                         dialect_from_sample = sniffer.sniff(sample)
                         # Ensure lineterminator is representable for printing
                         lineterminator_repr = repr(dialect_from_sample.lineterminator)
-                        print(
+                        logging.info(  # Replace print with logging
                             f"Detected CSV dialect: Delimiter='{dialect_from_sample.delimiter}', Quotechar='{dialect_from_sample.quotechar}', Lineterminator={lineterminator_repr}"
                         )
                         actual_dialect_for_reader = dialect_from_sample
                     except csv.Error as e:
-                        print(
+                        logging.warning(  # Replace print with logging
                             f"Could not automatically detect CSV dialect from sample: {e}. Falling back to 'excel-tab'."
                         )
                         actual_dialect_for_reader = "excel-tab"
@@ -116,8 +121,8 @@ def read_cognate_file(
 
                 # Check for empty values in required columns (including cognateset_str)
                 if not lang or not concept or not cognateset_str:
-                    print(
-                        f"Warning: Line {row_number} in '{input_file}': Skipping row due to missing value(s) "
+                    logging.warning(  # Replace print with logging
+                        f"Line {row_number} in '{input_file}': Skipping row due to missing value(s) "
                         f"for columns '{lang_col_name}', '{concept_col_name}', or '{cognateset_col_name}'. Data: {row_dict}"
                     )
                     continue
