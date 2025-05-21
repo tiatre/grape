@@ -19,14 +19,14 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 def compute_distance_matrix(
     cognates: Dict[Tuple[str, str], Set[int]],
-    strategy: str = "average",
+    synonyms: str = "average",
     missing_data: str = "max_dist",
 ) -> np.ndarray:
     """
     Computes a pairwise distance matrix for languages based on their cognate sets.
 
     @param cognates: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
-    @param strategy: The strategy for handling synonyms ("average", "min", "max").
+    @param synonyms: The strategy for handling synonyms ("average", "min", "max").
     @param missing_data: The strategy for handling missing data ("max_dist", "zero", "ignore").
     @return: A symmetric matrix of distances between each pair of languages.
     """
@@ -63,7 +63,7 @@ def compute_distance_matrix(
                     elif missing_data == "zero":
                         distances.append(0)
                 else:
-                    if strategy == "min":
+                    if synonyms == "min":
                         min_dist = min(
                             [
                                 _calculate_distance({c1}, {c2})
@@ -73,7 +73,7 @@ def compute_distance_matrix(
                             default=1,
                         )
                         distances.append(min_dist)
-                    elif strategy == "max":
+                    elif synonyms == "max":
                         max_dist = max(
                             [
                                 _calculate_distance({c1}, {c2})
@@ -83,7 +83,7 @@ def compute_distance_matrix(
                             default=1,
                         )
                         distances.append(max_dist)
-                    elif strategy == "average":
+                    elif synonyms == "average":
                         all_dists = [
                             _calculate_distance({c1}, {c2})
                             for c1 in cognates1
@@ -128,7 +128,7 @@ def main(args):
     elif args["graph"] == "adjusted":
         # Compute the distance matrix
         distance_matrix = compute_distance_matrix(
-            cognates, strategy=args["synonyms"], missing_data=args["missing_data"]
+            cognates, synonyms=args["synonyms"], missing_data=args["missing_data"]
         )
 
         G = graph.build_graph(
