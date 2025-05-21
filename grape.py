@@ -1,8 +1,12 @@
 #!/usr/bin/env python
 
+# TODO: make sure it works with any cognateid type, ints, strings, etc.
+# TODO: use logging instead of print
+
 # Import libraries
 from typing import Dict, Set, Tuple
 import argparse
+import csv
 import numpy as np
 
 # Import local modules
@@ -11,48 +15,97 @@ import history
 import tree
 
 
-def read_cognate_file(input_file: str) -> Dict[Tuple[str, str], Set[int]]:
+def read_cognate_file(
+    input_file: str, dialect_name: str, encoding: str
+) -> Dict[Tuple[str, str], Set[int]]:
     """
     Reads a cognateset file, returning a dictionary mapping (language, concept) pairs to sets of cognatesets.
 
-    The file is expected to have a tab-separated format with a header. Each line after the header
-    should contain three fields: language, concept, and cognate set identifier. The cognate set
-    identifier is expected to be in the format "id.number", where "number" is parsed as an integer.
+    The file is expected to contain three fields: language, concept, and cognate set identifier.
+    The cognate set identifier is expected to be in the format "id.number", where "number" is parsed as an integer.
 
     @param input_file: The path to the cognateset file.
+    @param dialect_name: The CSV dialect to use. If "auto", it will be sniffed.
+                         Examples: 'excel', 'excel-tab', 'unix'.
+    @param encoding: The encoding of the input file (e.g., 'utf-8', 'latin-1').
     @return: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
     """
     cognates_dict = {}
 
     try:
-        with open(input_file, "r", encoding="utf-8") as f_in:
-            # Skip the header line
-            next(f_in)
+        with open(input_file, "r", encoding=encoding, newline="") as f_in:
+            actual_dialect_for_reader = None
 
-            for line in f_in:
-                # Split the line by tabs and ensure it contains exactly three parts
-                parts = line.strip().split("\t")
+            if dialect_name == "auto":
+                # Read a sample for sniffing, then reset position
+                sample = f_in.read(2048)
+                f_in.seek(0)
+
+                if not sample.strip():  # Check if sample is empty or whitespace only
+                    print(
+                        f"Warning: File '{input_file}' is empty or sample is insufficient for dialect sniffing. Falling back to 'excel-tab'."
+                    )
+                    actual_dialect_for_reader = "excel-tab"
+                else:
+                    sniffer = csv.Sniffer()
+                    try:
+                        dialect_from_sample = sniffer.sniff(sample)
+                        # Ensure lineterminator is representable for printing
+                        lineterminator_repr = repr(dialect_from_sample.lineterminator)
+                        print(
+                            f"Detected CSV dialect: Delimiter='{dialect_from_sample.delimiter}', Quotechar='{dialect_from_sample.quotechar}', Lineterminator={lineterminator_repr}"
+                        )
+                        actual_dialect_for_reader = dialect_from_sample
+                    except csv.Error as e:
+                        print(
+                            f"Could not automatically detect CSV dialect from sample: {e}. Falling back to 'excel-tab'."
+                        )
+                        actual_dialect_for_reader = "excel-tab"
+            else:
+                if dialect_name not in csv.list_dialects():
+                    available_dialects = ", ".join(csv.list_dialects())
+                    raise ValueError(
+                        f"Unknown CSV dialect: '{dialect_name}'. "
+                        f"Available dialects: {available_dialects}. "
+                        "Or use 'auto' for detection."
+                    )
+                actual_dialect_for_reader = dialect_name
+
+            # Use the determined dialect with csv.reader
+            reader = csv.reader(f_in, actual_dialect_for_reader)
+
+            # Skip the header line
+            try:
+                next(reader)
+            except StopIteration:
+                # This means the file (after potential BOM and dialect sniffing) was empty or header-only
+                print(
+                    f"Warning: CSV file '{input_file}' is empty or contains only a header. No data to read."
+                )
+                return cognates_dict
+
+            # Read the data, starting from the second line (first line is header)
+            for row_number, parts in enumerate(reader, start=2):
                 if len(parts) != 3:
                     raise ValueError(
-                        f"Each line must contain exactly three tab-separated fields (line `{line}`)."
+                        f"Line {row_number} in '{input_file}': Expected 3 fields, but found {len(parts)}. Row content: {parts}"
                     )
 
-                lang, concept, cognateset = parts
+                lang, concept, cognateset_str = parts
 
                 # Skip if cognateset is empty
-                if not cognateset:
+                if not cognateset_str:
                     continue
 
                 try:
-                    # Extract the integer part of the cognateset identifier
-                    cognateset = int(cognateset.split(".")[1])
+                    cognateset_val = int(cognateset_str.split(".")[1])
                 except IndexError:
                     raise ValueError(
-                        "Cognateset identifier must be in the format 'id.number'"
+                        f"Line {row_number} in '{input_file}': Cognateset identifier '{cognateset_str}' must be in the format 'id.number'"
                     )
                 except ValueError:
                     raise ValueError(
-                        "The second part of the cognateset identifier must be an integer."
+                        f"Line {row_number} in '{input_file}': The second part of the cognateset identifier '{cognateset_str}' must be an integer."
                     )
 
                 # Create a key as a tuple of language and concept
@@ -61,10 +114,16 @@ def read_cognate_file(input_file: str) -> Dict[Tuple[str, str], Set[int]]:
                 # Add cognateset to the set for the corresponding language-concept pair
                 if key not in cognates_dict:
                     cognates_dict[key] = set()
-                cognates_dict[key].add(cognateset)
+                cognates_dict[key].add(cognateset_val)
 
     except FileNotFoundError:
-        raise FileNotFoundError(f"The file {input_file} does not exist")
+        raise FileNotFoundError(f"The file {input_file} does not exist.")
+    except UnicodeDecodeError as e:
+        raise ValueError(
+            f"Could not decode file {input_file} with encoding '{encoding}'. Please specify the correct encoding using --encoding. Original error: {e}"
+        ) from e
+    except csv.Error as e:
+        raise ValueError(f"CSV processing error in file '{input_file}': {e}") from e
 
     return cognates_dict
 
@@ -160,7 +219,7 @@ def compute_distance_matrix(
 
 def main(args):
     # Read the cognate data from a file
-    cognates = read_cognate_file(args["source"])
+    cognates = read_cognate_file(args["source"], args["dialect"], args["encoding"])
 
     # Obtain a sorted list of languages and concepts, and then their counts
     languages = sorted({lang for lang, _ in cognates.keys()})
@@ -216,6 +275,18 @@ if __name__ == "__main__":
     parser.add_argument(
         "source",
         help="Source file name (must be a cognateset file, three columns separated by tabs)",
+    )
+    parser.add_argument(
+        "--dialect",
+        default="auto",
+        help="CSV dialect to use. Examples: 'excel', 'excel-tab', 'unix'. "
+        "If 'auto', the script will try to detect it. "
+        f"All available system dialects: {csv.list_dialects()}",
+    )
+    parser.add_argument(
+        "--encoding",
+        default="utf-8",
+        help="Encoding of the input file (e.g., 'utf-8', 'latin-1'). Default: 'utf-8'.",
     )
     parser.add_argument(
         "--graph",
