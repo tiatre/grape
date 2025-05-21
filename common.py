@@ -2,11 +2,8 @@ from dataclasses import dataclass
 from functools import cached_property
 from typing import List, FrozenSet, Dict, Set, Tuple
 import csv
-import logging  # Add logging import
-
-# Configure logging - This could be configured at the application entry point (grape.py)
-# However, if common.py is used as a library, it might be better to get a logger instance
-# logger = logging.getLogger(__name__)
+import logging  
+import numpy as np
 
 
 @dataclass
@@ -153,3 +150,90 @@ def read_cognate_file(
         raise ValueError(f"CSV processing error in file '{input_file}': {e}") from e
 
     return cognates_dict
+
+def compute_distance_matrix(
+    cognates: Dict[Tuple[str, str], Set[int]],
+    synonyms: str = "average",
+    missing_data: str = "max_dist",
+) -> np.ndarray:
+    """
+    Computes a pairwise distance matrix for languages based on their cognate sets.
+
+    @param cognates: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
+    @param synonyms: The strategy for handling synonyms ("average", "min", "max").
+    @param missing_data: The strategy for handling missing data ("max_dist", "zero", "ignore").
+    @return: A symmetric matrix of distances between each pair of languages.
+    """
+
+    # Extract unique languages and concepts
+    languages = sorted({lang for lang, _ in cognates.keys()})
+    concepts = sorted({concept for _, concept in cognates.keys()})
+
+    # Initialize the distance matrix
+    dist_matrix = np.zeros((len(languages), len(languages)))
+
+    # Helper function to calculate distance between sets of cognates
+    def _calculate_distance(set1: Set[int], set2: Set[int]) -> float:
+        if not set1 or not set2:
+            return 0
+        intersection = set1.intersection(set2)
+        union = set1.union(set2)
+        return 1 - len(intersection) / len(union)
+
+    # Compute pairwise distances
+    for i, lang1 in enumerate(languages):
+        for j, lang2 in enumerate(languages):
+            if j <= i:
+                continue  # This matrix is symmetric, so skip redundant calculations
+
+            distances = []
+            for concept in concepts:
+                cognates1 = cognates.get((lang1, concept), set())
+                cognates2 = cognates.get((lang2, concept), set())
+
+                if not cognates1 and not cognates2:
+                    if missing_data == "max_dist":
+                        distances.append(1)
+                    elif missing_data == "zero":
+                        distances.append(0)
+                else:
+                    if synonyms == "min":
+                        min_dist = min(
+                            [
+                                _calculate_distance({c1}, {c2})
+                                for c1 in cognates1
+                                for c2 in cognates2
+                            ],
+                            default=1,
+                        )
+                        distances.append(min_dist)
+                    elif synonyms == "max":
+                        max_dist = max(
+                            [
+                                _calculate_distance({c1}, {c2})
+                                for c1 in cognates1
+                                for c2 in cognates2
+                            ],
+                            default=1,
+                        )
+                        distances.append(max_dist)
+                    elif synonyms == "average":
+                        all_dists = [
+                            _calculate_distance({c1}, {c2})
+                            for c1 in cognates1
+                            for c2 in cognates2
+                        ]
+                        if all_dists:
+                            avg_dist = sum(all_dists) / len(all_dists)
+                        else:
+                            avg_dist = 1
+                        distances.append(avg_dist)
+
+            # Compute and assign the average distance for this language pair
+            if distances:
+                dist = sum(distances) / len(distances)
+            else:
+                dist = 1
+            dist_matrix[i, j] = dist_matrix[j, i] = dist
+
+    return dist_matrix
