@@ -16,21 +16,31 @@ import tree
 
 
 def read_cognate_file(
-    input_file: str, dialect_name: str, encoding: str
+    input_file: str,
+    dialect_name: str,
+    encoding: str,
+    lang_col_name: str,
+    concept_col_name: str,
+    cognateset_col_name: str,
 ) -> Dict[Tuple[str, str], Set[int]]:
     """
     Reads a cognateset file, returning a dictionary mapping (language, concept) pairs to sets of cognatesets.
 
-    The file is expected to contain three fields: language, concept, and cognate set identifier.
-    The cognate set identifier is expected to be in the format "id.number", where "number" is parsed as an integer.
+    The file is expected to contain columns for language, concept/parameter, and cognateset identifiers.
+    The names of these columns can be specified. Defaults are "Language", "Parameter", and "Cognateset".
+    The cognate set identifier in the cognateset column is expected to be in the format "id.number",
+    where "number" is parsed as an integer.
 
     @param input_file: The path to the cognateset file.
     @param dialect_name: The CSV dialect to use. If "auto", it will be sniffed.
-                         Examples: 'excel', 'excel-tab', 'unix'.
-    @param encoding: The encoding of the input file (e.g., 'utf-8', 'latin-1').
+    @param encoding: The encoding of the input file.
+    @param lang_col_name: The name of the column containing language identifiers.
+    @param concept_col_name: The name of the column containing concept/parameter identifiers.
+    @param cognateset_col_name: The name of the column containing cognateset identifiers.
     @return: A dictionary where keys are tuples of (language, concept) and values are sets of cognatesets.
     """
     cognates_dict = {}
+    required_columns = [lang_col_name, concept_col_name, cognateset_col_name]
 
     try:
         with open(input_file, "r", encoding=encoding, newline="") as f_in:
@@ -71,47 +81,49 @@ def read_cognate_file(
                     )
                 actual_dialect_for_reader = dialect_name
 
-            # Use the determined dialect with csv.reader
-            reader = csv.reader(f_in, actual_dialect_for_reader)
+            reader = csv.DictReader(f_in, dialect=actual_dialect_for_reader)
 
-            # Skip the header line
-            try:
-                next(reader)
-            except StopIteration:
-                # This means the file (after potential BOM and dialect sniffing) was empty or header-only
-                print(
-                    f"Warning: CSV file '{input_file}' is empty or contains only a header. No data to read."
+            if reader.fieldnames is None:
+                raise ValueError(
+                    f"Could not read header from CSV file '{input_file}'. The file might be empty or improperly formatted."
                 )
-                return cognates_dict
 
-            # Read the data, starting from the second line (first line is header)
-            for row_number, parts in enumerate(reader, start=2):
-                if len(parts) != 3:
-                    raise ValueError(
-                        f"Line {row_number} in '{input_file}': Expected 3 fields, but found {len(parts)}. Row content: {parts}"
+            # Check for required column headers (case-sensitive)
+            missing_columns = [
+                col for col in required_columns if col not in reader.fieldnames
+            ]
+            if missing_columns:
+                raise ValueError(
+                    f"Missing required columns in '{input_file}': {missing_columns}. "
+                    f"Please check column names or use command-line options to specify them. "
+                    f"Found columns: {reader.fieldnames}"
+                )
+
+            for row_number, row_dict in enumerate(reader, start=2):
+                lang = row_dict.get(lang_col_name)
+                concept = row_dict.get(concept_col_name)
+                cognateset_str = row_dict.get(cognateset_col_name)
+
+                # Check for empty values in required columns
+                if not lang or not concept or not cognateset_str:
+                    print(
+                        f"Warning: Line {row_number} in '{input_file}': Skipping row due to missing value(s) "
+                        f"for columns '{lang_col_name}', '{concept_col_name}', or '{cognateset_col_name}'. Data: {row_dict}"
                     )
-
-                lang, concept, cognateset_str = parts
-
-                # Skip if cognateset is empty
-                if not cognateset_str:
                     continue
 
                 try:
                     cognateset_val = int(cognateset_str.split(".")[1])
                 except IndexError:
                     raise ValueError(
-                        f"Line {row_number} in '{input_file}': Cognateset identifier '{cognateset_str}' must be in the format 'id.number'"
+                        f"Line {row_number} in '{input_file}': Cognateset identifier '{cognateset_str}' in column '{cognateset_col_name}' must be in the format 'id.number'"
                     )
                 except ValueError:
                     raise ValueError(
-                        f"Line {row_number} in '{input_file}': The second part of the cognateset identifier '{cognateset_str}' must be an integer."
+                        f"Line {row_number} in '{input_file}': The second part of the cognateset identifier '{cognateset_str}' in column '{cognateset_col_name}' must be an integer."
                     )
 
-                # Create a key as a tuple of language and concept
                 key = (lang, concept)
-
-                # Add cognateset to the set for the corresponding language-concept pair
                 if key not in cognates_dict:
                     cognates_dict[key] = set()
                 cognates_dict[key].add(cognateset_val)
@@ -219,7 +231,14 @@ def compute_distance_matrix(
 
 def main(args):
     # Read the cognate data from a file
-    cognates = read_cognate_file(args["source"], args["dialect"], args["encoding"])
+    cognates = read_cognate_file(
+        args["source"],
+        args["dialect"],
+        args["encoding"],
+        args["language_column"],
+        args["concept_column"],
+        args["cognateset_column"],
+    )
 
     # Obtain a sorted list of languages and concepts, and then their counts
     languages = sorted({lang for lang, _ in cognates.keys()})
@@ -287,6 +306,21 @@ if __name__ == "__main__":
         "--encoding",
         default="utf-8",
         help="Encoding of the input file (e.g., 'utf-8', 'latin-1'). Default: 'utf-8'.",
+    )
+    parser.add_argument(
+        "--language-column",
+        default="Language",
+        help="Name of the column containing language identifiers. Default: 'Language'.",
+    )
+    parser.add_argument(
+        "--concept-column",
+        default="Parameter",
+        help="Name of the column containing concept/parameter identifiers. Default: 'Parameter'.",
+    )
+    parser.add_argument(
+        "--cognateset-column",
+        default="Cognateset",
+        help="Name of the column containing cognateset identifiers. Default: 'Cognateset'.",
     )
     parser.add_argument(
         "--graph",
