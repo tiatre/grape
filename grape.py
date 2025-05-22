@@ -2,20 +2,364 @@
 
 # Import libraries
 from collections import defaultdict
-from typing import Dict, List, Set, Tuple
+from typing import Dict, List, Set, Tuple, Union, FrozenSet
 import argparse
 import csv
-import logging  
+import logging
 import networkx as nx
 import numpy as np
+from ete3 import Tree, TreeNode
 
 # Import local modules
 import common
-import history
-import tree
+
+# TODO: decide whether to cast resolution to int in community methods, because nx works with float (maybe for the steps?)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
+
+
+class CommunityMethod:
+    def __init__(self, graph: nx.Graph, weight: str):
+        self.graph = graph
+        self.weight = weight
+
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
+        raise NotImplementedError("This method should be overridden by subclasses")
+
+
+class GreedyModularity(CommunityMethod):
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
+        community_generator = nx.algorithms.community.greedy_modularity_communities(
+            self.graph, weight=self.weight, resolution=int(resolution)
+        )
+        return [frozenset(community) for community in community_generator]  # type: ignore
+
+
+class LouvainCommunities(CommunityMethod):
+    def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
+        community_generator = nx.algorithms.community.louvain_communities(
+            self.graph, weight=self.weight, resolution=int(resolution)
+        )
+        return [frozenset(community) for community in community_generator]  # type: ignore
+
+
+class ParameterSearchStrategy:
+    def initialize(self) -> float:
+        raise NotImplementedError
+
+    def update(self, current_value: float) -> float:
+        raise NotImplementedError
+
+    def should_stop(self, num_communities: int, target: int) -> bool:
+        raise NotImplementedError
+
+
+class FixedIncrementStrategy(ParameterSearchStrategy):
+    def __init__(self, increment: float = 0.1):
+        self.increment = increment
+
+    def initialize(self) -> float:
+        return 0.0
+
+    def update(self, current_value: float) -> float:
+        return current_value + self.increment
+
+    def should_stop(self, num_communities: int, target: int) -> bool:
+        return num_communities == target
+
+
+class DynamicAdjustmentStrategy(ParameterSearchStrategy):
+    def __init__(self, initial_value: float = 0.0, adjust_factor: float = 0.1):
+        self.adjust_factor = adjust_factor
+        self.value = initial_value
+
+    def initialize(self) -> float:
+        return self.value
+
+    def update(self, current_value: float) -> float:
+        # Dynamic adjustment logic can be implemented here
+        # For simplicity, let's just increment by a variable factor
+        self.value += self.adjust_factor * self.value
+        return self.value
+
+    def should_stop(self, num_communities: int, target: int) -> bool:
+        return num_communities == target
+
+
+class AdaptiveDynamicAdjustmentStrategy(ParameterSearchStrategy):
+    def __init__(
+        self,
+        target: int,
+        initial_value: float = 0.1,
+        adjust_factor: float = 0.05,
+    ):
+        self.initial_value = initial_value
+        self.adjust_factor = adjust_factor
+        self.target = target
+        self.value = initial_value
+        self.previous_diff = None
+
+    def initialize(self) -> float:
+        return self.initial_value
+
+    def update(self, current_value: float, current_communities: int) -> float:
+        # Calculate the difference between the current number of communities and the target
+        diff = abs(self.target - current_communities)
+
+        # If this is the first update, initialize previous_diff
+        if self.previous_diff is None:
+            self.previous_diff = diff
+            return current_value
+
+        # Check if the number of communities is moving towards the target or not
+        if diff < self.previous_diff:
+            # We are getting closer to the target, increase the adjustment factor slightly
+            self.adjust_factor *= 1.1
+        else:
+            # We are moving away from the target, decrease the adjustment factor and change direction
+            self.adjust_factor *= -0.5
+
+        self.previous_diff = diff
+        self.value += self.adjust_factor
+        return self.value
+
+    def should_stop(self, num_communities: int, target: int) -> bool:
+        return num_communities == target
+
+
+def build_history(
+    G: nx.Graph,
+    num_languages: int,
+    method: str = "greedy",
+    strategy_name: str = "fixed",
+    initial_value: float = 0.0,
+    adjust_factor: float = 0.1,
+) -> List[common.HistoryEntry]:
+
+    # Obtain the community detection method based on the provided method string
+    community_method = {
+        "greedy": GreedyModularity(G, weight="weight"),
+        "louvain": LouvainCommunities(G, weight="weight"),
+    }.get(method)
+    if community_method is None:
+        raise ValueError("Unsupported community detection method")
+
+    # Obtain the search strategy based on the provided strategy string
+    strategy = {
+        "fixed": FixedIncrementStrategy(),
+        "dynamic": DynamicAdjustmentStrategy(
+            initial_value=initial_value, adjust_factor=adjust_factor
+        ),
+        "adaptive": AdaptiveDynamicAdjustmentStrategy(
+            target=num_languages,
+            initial_value=initial_value,
+            adjust_factor=adjust_factor,
+        ),
+    }.get(strategy_name)
+    if strategy is None:
+        raise ValueError("Unsupported parameter search strategy")
+
+    history = []
+    parameter = strategy.initialize()
+
+    while True:
+        identified_communities = community_method.find_communities(resolution=parameter)
+
+        # After obtaining the communities, we must make sure that the new communities do not contradict the
+        # previous ones, as the algorithm might group at this level taxa that were separated in the
+        # previous one (this is a common issue in some hierarchical clustering algorithms).
+        if not history:
+            # First level
+            communities = identified_communities
+        else:
+            communities = common.decompose_sets(
+                history[-1].communities, identified_communities
+            )
+
+        num_communities = len(communities)
+
+        # Store the history entry if the number of communities has increased (depending on the algorithm and the parameters,
+        # the number of communities may decrease in some iterations))
+        if not history or num_communities > history[-1].number_of_communities:
+            history_entry = common.HistoryEntry(parameter, communities)
+            history.append(history_entry)
+            print(f"Parameter: {parameter:.2f}, Communities: {num_communities}")
+
+        if strategy.should_stop(num_communities, num_languages):
+            break
+
+        parameter = strategy.update(parameter)
+
+    return history
+
+
+def remove_single_descendant_nodes(tree: TreeNode) -> TreeNode:
+    """
+    Removes nodes with a single descendant from an ete3 TreeNode.
+
+    When a node with a single child is removed (a "unary" node), its child is
+    connected directly to the unary node's parent (grandparent). Branch lengths
+    (dist attribute) are adjusted: the child's new dist becomes the sum of its
+    original dist and the dist of the removed unary node.
+
+    If the root node itself has only one child after internal pruning, it is
+    also removed, and its child becomes the new root. The new root's 'dist'
+    attribute will be set to 0.
+
+    @param tree: The root TreeNode of the tree to be pruned.
+    @return: The root TreeNode of the pruned tree. This might be a different
+             node if the original root was pruned.
+    """
+
+    def prune_node(node: TreeNode):
+        # We use a stack to manage nodes to check (iterative depth-first)
+        stack = [node]
+        while stack:
+            current_node = stack.pop()
+            # Iterate over children list while modifying it (use a copy)
+            for child_node in current_node.get_children():
+                stack.append(child_node)
+
+            # If the node has exactly one child and it's not the root
+            if len(current_node.children) == 1 and current_node.up is not None:
+                child = current_node.children[0]
+                # Update the child's distance from its new parent (the grandparent)
+                child.dist += current_node.dist
+
+                # Connect the child directly to the grandparent
+                current_node.up.add_child(child, dist=child.dist)
+
+                # Remove the current node (which also removes it from its parent's children list)
+                current_node.up.remove_child(current_node)
+
+    # Start processing from the root
+    current_root_node = tree
+    prune_node(current_root_node)
+
+    # Check if the root itself needs pruning
+    if len(current_root_node.children) == 1 and not current_root_node.is_leaf():
+        new_root = current_root_node.children[0]
+        new_root.detach()  # Detach new_root from old_root; new_root.up becomes None.
+        new_root.dist = 0.0
+        current_root_node = new_root
+
+    return current_root_node
+
+
+def build_tree_from_history(history: List[common.HistoryEntry]) -> TreeNode:
+    """
+    Constructs a phylogenetic tree from a provided historical sequence of taxonomic groupings.
+
+    Parameters:
+    history (List[HistoryEntry]): Each HistoryEntry contains a resolution (float) and a list of frozensets.
+        The resolution indicates the cumulative distance from the root of the tree,
+        while each frozenset contains names of taxa that form a clade at this resolution.
+        The history is expected to be sorted with resolution values increasing (from root to leaves),
+        with the most granular resolution (individual taxa) last.
+
+    Returns:
+    TreeNode: The root node of the constructed ete3 phylogenetic tree.
+
+    Notes:
+    - The function assumes that the resolutions in the history are strictly increasing.
+    - Polytomies (clades branching into more than two taxa) are handled naturally.
+    """
+
+    # Return an empty node if history is empty
+
+    if not history:
+        return TreeNode()
+
+    # Initialize the root TreeNode.
+    tree_root = Tree()
+    node_resolutions: Dict[TreeNode, float] = {tree_root: 0.0}
+
+    last_observed_ancestor: Dict[str, TreeNode] = {}
+
+    # Extract all unique taxa from the most granular level of the history.
+    if history[-1].communities:
+        taxa = sorted(
+            list(set(taxon for clade in history[-1].communities for taxon in clade))
+        )
+    else:
+        taxa = []  # Should not happen with valid history leading to taxa
+
+    for taxon in taxa:
+        last_observed_ancestor[taxon] = tree_root
+
+    observed_clades: List[FrozenSet[str]] = []
+
+    # Iterate through the entire history to build the tree structure.
+    for entry in history:  # Process all entries, including history[0]
+        current_entry_resolution = entry.parameter
+        clades_in_entry = entry.communities
+
+        for clade_members in clades_in_entry:
+            if not clade_members:  # Skip empty clades if they occur
+                continue
+            if clade_members in observed_clades:
+                continue
+
+            clade_label = "/".join(sorted(list(clade_members)))
+            new_node = TreeNode(name=clade_label)
+            node_resolutions[new_node] = current_entry_resolution
+
+            # Determine the parent node for this new_node.
+            # All members of the clade_members set should share the same last_observed_ancestor.
+            potential_parents = {
+                last_observed_ancestor[member]
+                for member in clade_members
+                if member in last_observed_ancestor
+            }
+
+            actual_parent_node: TreeNode
+            if not potential_parents:
+                # This implies taxa in clade_members were not in last_observed_ancestor map.
+                # This could happen if history is malformed or taxa are introduced mid-history without prior record.
+                # Defaulting to tree_root or raising error are options.
+                # For now, we assume valid history means this path is less likely for non-root clades.
+                # If current_entry_resolution is the first one, parent is tree_root.
+                if current_entry_resolution == history[0].parameter:
+                    actual_parent_node = tree_root
+                else:
+                    # This is an unexpected state for a non-root clade.
+                    raise ValueError(
+                        f"Clade '{clade_label}' at resolution {current_entry_resolution} has no identifiable parent. Taxa: {clade_members}"
+                    )
+            elif len(potential_parents) > 1:
+                parent_names = sorted([p.name for p in potential_parents])
+                raise ValueError(
+                    f"Clade '{clade_label}' at resolution {current_entry_resolution} has multiple potential parents: "
+                    f"{parent_names} ({len(potential_parents)}). This indicates inconsistent history."
+                )
+            else:
+                actual_parent_node = potential_parents.pop()
+
+            # Add the new node as a child of its parent. Default to 0 if parent not in map (e.g. root)
+            parent_resolution = node_resolutions.get(actual_parent_node, 0.0)
+            branch_length = max(1e-8, node_resolutions[new_node] - parent_resolution)
+            actual_parent_node.add_child(new_node, dist=branch_length)
+
+            observed_clades.append(clade_members)
+
+            # Update last_observed_ancestor for all members of this new clade.
+            for member in clade_members:
+                last_observed_ancestor[member] = new_node
+
+    # Post-processing: Prune unary nodes.
+    final_tree_root = remove_single_descendant_nodes(tree_root)
+
+    # Clean up internal node names and temporary features.
+    for node in final_tree_root.traverse("postorder"):  # type: ignore
+        if not node.is_leaf():
+            node.name = ""
+
+    final_tree_root.sort_descendants()
+    final_tree_root.ladderize()
+
+    return final_tree_root
+
 
 def cognateset_graph(data: Dict[Tuple[str, str], Set[int]]) -> nx.Graph:
     """
@@ -175,7 +519,6 @@ def build_graph(method: str, **kwargs) -> nx.Graph:
         raise ValueError(f"Invalid graph construction method: {method}")
 
 
-
 def main(args):
     # Read the cognate data from a file
     cognates = common.read_cognate_file(
@@ -215,9 +558,9 @@ def main(args):
 
     # Write a visualization of the graph to a file
     # nx.write_gexf(G, "graph.gexf")
-    logging.info("Graph built successfully.") 
+    logging.info("Graph built successfully.")
 
-    family_history = history.build_history(
+    family_history = build_history(
         G,
         num_languages,
         method=args["community"],
@@ -226,12 +569,12 @@ def main(args):
         adjust_factor=args["adjust_factor"],
     )
 
-    phylogeny = tree.build_tree_from_history(family_history)
-    logging.info(f"Phylogeny: {phylogeny}")  
+    phylogeny = build_tree_from_history(family_history)
+    logging.info(f"Phylogeny: {phylogeny}")
 
     # Print the tree in Newick format, with internal node names and branch lengths
     newick_tree = phylogeny.write(format=1)
-    logging.info(f"Newick format tree: {newick_tree}") 
+    logging.info(f"Newick format tree: {newick_tree}")
 
 
 if __name__ == "__main__":
