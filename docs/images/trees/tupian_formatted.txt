@@ -1,0 +1,104 @@
+Tupian Language Family Phylogenetic Tree
+==================================================
+
+TREE STATISTICS:
+  Languages: 29
+  Tree height: 2.000
+
+TREE STRUCTURE:
+--------------------
+
+      /-Arawete
+     |
+     |   /-Aweti
+     |--|
+   /-|   \-Mawe
+  |  |
+  |  |      /-Kamajura
+  |  |   /-|
+  |  |  |   \-Tapirape
+  |   \-|
+  |     |   /-Apiaka
+  |     |  |
+  |      \-|--Kayabi
+  |        |
+  |        |   /-Amondawa
+  |         \-|
+  |            \-Urueuwauwau
+  |
+  |      /-Zoe
+  |   /-|
+  |  |  |   /-Teko
+  |  |   \-|
+  |  |      \-Wayampi
+--|--|
+  |  |   /-Guaja
+  |  |  |
+  |  |  |   /-Guajajara
+  |   \-|--|
+  |     |   \-Tembe
+  |     |
+  |     |   /-Kaapor
+  |      \-|
+  |        |   /-Nheengatu
+  |         \-|
+  |            \-Tupinamba
+  |
+  |   /-Warazu
+  |  |
+  |  |   /-Xeta
+  |  |--|
+  |  |  |   /-Ache
+  |  |   \-|
+  |  |     |   /-Siriono
+   \-|      \-|
+     |         \-Yuki
+     |
+     |   /-Guarayo
+     |  |
+     |  |--Kaiowa
+     |  |
+      \-|   /-Chiriguano
+        |--|
+        |   \-Tapiete
+        |
+        |   /-Guarani
+         \-|
+            \-Mbya
+
+LINGUISTIC GROUPINGS FOUND:
+-------------------------
+Guaranic: Mbya, Guarani, Kaiowa
+Early Branching: Mawe, Aweti
+
+ALL LANGUAGES IN TREE:
+--------------------
+  • Ache
+  • Amondawa
+  • Apiaka
+  • Arawete
+  • Aweti
+  • Chiriguano
+  • Guaja
+  • Guajajara
+  • Guarani
+  • Guarayo
+  • Kaapor
+  • Kaiowa
+  • Kamajura
+  • Kayabi
+  • Mawe
+  • Mbya
+  • Nheengatu
+  • Siriono
+  • Tapiete
+  • Tapirape
+  • Teko
+  • Tembe
+  • Tupinamba
+  • Urueuwauwau
+  • Warazu
+  • Wayampi
+  • Xeta
+  • Yuki
+  • Zoe

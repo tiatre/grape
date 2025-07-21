@@ -2,3 +2,7 @@ ete3
 networkx
 numpy
 six # required for ete3
+matplotlib
+seaborn
+pandas
+jupyter

@@ -1,0 +1,41 @@
+Tupian Language Family Tree
+========================================
+
+Dataset: tuled.tsv
+Languages: 29
+Tree height: 2.000
+Parameters: {'strategy': 'fixed', 'initial_value': 0.5}
+
+Languages in tree:
+  - Ache
+  - Amondawa
+  - Apiaka
+  - Arawete
+  - Aweti
+  - Chiriguano
+  - Guaja
+  - Guajajara
+  - Guarani
+  - Guarayo
+  - Kaapor
+  - Kaiowa
+  - Kamajura
+  - Kayabi
+  - Mawe
+  - Mbya
+  - Nheengatu
+  - Siriono
+  - Tapiete
+  - Tapirape
+  - Teko
+  - Tembe
+  - Tupinamba
+  - Urueuwauwau
+  - Warazu
+  - Wayampi
+  - Xeta
+  - Yuki
+  - Zoe
+
+Newick format:
+((Arawete:0.1,(Aweti:0.5,Mawe:0.5):0.1,((Kamajura:0.1,Tapirape:0.1):0.1,(Apiaka:0.1,Kayabi:0.1,(Amondawa:0.6,Urueuwauwau:0.6):0.1):0.1):0.1):1,((Zoe:0.1,(Teko:0.2,Wayampi:0.2):0.1):0.1,(Guaja:0.1,(Guajajara:0.4,Tembe:0.4):0.1,(Kaapor:0.1,(Nheengatu:0.1,Tupinamba:0.1):0.1):0.1):0.1):1,(Warazu:0.1,(Xeta:0.3,(Ache:0.1,(Siriono:0.5,Yuki:0.5):0.1):0.3):0.1,(Guarayo:0.1,Kaiowa:0.1,(Chiriguano:0.2,Tapiete:0.2):0.1,(Guarani:0.1,Mbya:0.1):0.1):0.1):1);

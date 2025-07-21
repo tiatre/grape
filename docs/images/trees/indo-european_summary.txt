@@ -1,0 +1,15 @@
+Indo-European Language Family Tree
+========================================
+
+Dataset: iecor_small.tsv
+Languages: 3
+Tree height: 1.700
+Parameters: {'strategy': 'fixed', 'initial_value': 0.5}
+
+Languages in tree:
+  - Italian
+  - Ukrainian
+  - Urdu
+
+Newick format:
+(Urdu:1.4,(Italian:0.3,Ukrainian:0.3):1.4);

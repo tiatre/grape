@@ -225,6 +225,27 @@ done
 - **Medium resolution** (0.4-0.6): Balanced grouping, often optimal
 - **High resolution** (0.7-0.9): Many small groups, may over-split
 
+## Tree Visualization
+
+The complete phylogenetic tree with linguistic analysis is available here: [**Dravidian Tree Visualization**](../images/trees/dravidian_formatted.txt)
+
+This visualization includes:
+- **ASCII tree structure** showing relationships between all 20 Dravidian languages
+- **Tree statistics** (height: 4.600, languages: 20)
+- **Linguistic groupings** automatically detected and validated
+- **Complete language list** with all included varieties
+
+**Key findings from the visualization:**
+- South Dravidian languages cluster together as expected
+- Central Dravidian languages (Gondi, Kolami, etc.) form distinct groups  
+- North Dravidian languages show clear separation from southern varieties
+- Tree height indicates moderate linguistic diversity within the family
+
+You can also view:
+- [Raw tree file](../images/trees/dravidian.newick) (Newick format)
+- [ASCII-only version](../images/trees/dravidian_ascii.txt) (plain text tree)
+- [Analysis summary](../images/trees/dravidian_summary.txt) (basic statistics)
+
 ## Results Interpretation
 
 ### Analyzing Tree Topology

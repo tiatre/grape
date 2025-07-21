@@ -100,6 +100,27 @@ GRAPE has been tested and validated on:
 - [**Jupyter Notebook**](docs/examples/grape_analysis.ipynb) - Executable examples
 - [**Advanced Usage**](docs/examples/advanced_usage.md) - Complex scenarios
 
+## 🌳 Tree Visualizations
+
+GRAPE generates detailed phylogenetic tree visualizations for all language families:
+
+- **ASCII Trees**: Text-based tree representations for documentation and analysis
+- **Linguistic Analysis**: Automatic validation of established language groupings
+- **Multiple Formats**: Newick, formatted text, and summary statistics
+
+**Available visualizations:**
+- [Dravidian Tree](docs/images/trees/dravidian_formatted.txt) - 20 languages, 3 major branches
+- [Polynesian Tree](docs/images/trees/polynesian_formatted.txt) - 31 languages, Tongic vs. Nuclear
+- [Indo-European Tree](docs/images/trees/indo-european_formatted.txt) - Germanic subfamily
+- [Tupian Tree](docs/images/trees/tupian_formatted.txt) - 29 languages, Guaranic group
+- [Arawakan Tree](docs/images/trees/arawakan_formatted.txt) - 8 languages, Northern cluster
+
+All visualizations include:
+- Tree statistics (height, number of languages)
+- ASCII art representation
+- Linguistic grouping analysis
+- Complete language lists
+
 ## 🧪 Testing
 
 Run the comprehensive test suite:
