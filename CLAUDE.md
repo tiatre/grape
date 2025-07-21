@@ -170,6 +170,153 @@ python test_additional_families_extended.py -v
 - AdaptiveDynamicAdjustmentStrategy has a bug in the `update()` method signature
 - BioPython dependency needed for distance_tree.py but not in requirements.txt
 
+## Academic Paper Development (Future Work)
+
+### Paper Structure and Content Plan
+
+**Title**: "GRAPE: Graph-Based Community Detection for Phylogenetic Inference in Historical Linguistics"
+
+**Target Venues**:
+- Journal of Language Evolution
+- Computational Linguistics  
+- Digital Scholarship in the Humanities
+- PLoS ONE (interdisciplinary approach)
+
+**Abstract Outline**:
+- Problem: Traditional phylogenetic methods assume tree-like evolution, but languages exhibit network-like borrowing patterns
+- Solution: Graph-based community detection approach using modularity optimization
+- Methods: Louvain and Greedy modularity algorithms applied to cognate sharing networks
+- Validation: Testing on 7 language families (200+ languages) against established linguistic classifications
+- Results: Successfully recovers known language groupings while capturing horizontal relationships
+- Impact: Novel computational approach for historical linguistics with broader applicability
+
+**Main Sections**:
+
+1. **Introduction**
+   - Historical linguistics and phylogenetic reconstruction challenges
+   - Limitations of tree-based models for language evolution
+   - Community detection in networks as alternative approach
+   - Contribution and significance
+
+2. **Background and Related Work**
+   - Traditional phylogenetic methods in linguistics (NJ, ML, Bayesian)
+   - Network approaches in historical linguistics
+   - Community detection algorithms and applications
+   - Graph construction from linguistic data
+
+3. **Methodology**
+   - Graph construction from cognate data (adjusted vs. unadjusted methods)
+   - Community detection algorithms (Louvain, Greedy Modularity)  
+   - Parameter optimization strategies (fixed, dynamic, adaptive)
+   - Tree construction from hierarchical community structure
+   - Implementation details and computational complexity
+
+4. **Experimental Setup**
+   - Dataset description (7 language families, data sources)
+   - Validation criteria (linguistic consensus, established classifications)
+   - Comparison with traditional methods (NJ, UPGMA)
+   - Evaluation metrics (monophyly tests, tree topology comparison)
+
+5. **Results**
+   - Detailed results for each language family
+   - Comparison with traditional phylogenetic methods
+   - Parameter sensitivity analysis
+   - Performance evaluation (runtime, scalability)
+   - Novel insights and discoveries
+
+6. **Discussion**
+   - Methodological advantages and limitations
+   - Linguistic implications and interpretations
+   - Comparison with existing approaches
+   - Future directions and extensions
+
+7. **Conclusion**
+   - Summary of contributions
+   - Impact on historical linguistics methodology
+   - Broader applicability beyond linguistics
+
+**Key Figures and Tables**:
+- Figure 1: GRAPE workflow and methodology overview
+- Figure 2: Example phylogenetic trees for major language families
+- Figure 3: Comparison of GRAPE vs. traditional method results
+- Figure 4: Parameter sensitivity and performance analysis
+- Table 1: Language families and datasets used
+- Table 2: Validation results against linguistic consensus
+- Table 3: Performance comparison with existing methods
+
+**Supplementary Materials**:
+- Complete dataset descriptions and sources
+- Detailed parameter sensitivity analysis
+- All phylogenetic trees in machine-readable format
+- Source code and reproducibility instructions
+- Extended validation results for all language families
+
+### Validation Strategy for Academic Publication
+
+**Quantitative Validation**:
+- Monophyly tests for established language groups
+- Robinson-Foulds distance comparisons with reference trees
+- Bootstrap support analysis (adaptation for community detection)
+- Cross-validation across different parameter settings
+
+**Qualitative Validation**:
+- Expert linguistic review of controversial groupings
+- Comparison with recent phylogenetic studies
+- Analysis of novel insights and their plausibility
+- Discussion of discrepancies and their potential explanations
+
+**Statistical Analysis**:
+- Significance testing for tree topology differences
+- Confidence intervals for parameter estimates
+- Correlation analysis between different similarity measures
+- Power analysis for different dataset sizes
+
+### Technical Requirements for Paper
+
+**Reproducibility Standards**:
+- All analyses must use fixed random seeds (--seed 42)
+- Complete parameter specifications for all results
+- Version-controlled code with DOI assignment
+- Docker container for computational environment
+- Detailed step-by-step analysis protocols
+
+**Data Availability**:
+- All datasets with proper attribution and licensing
+- Processed intermediate results (graphs, community structures)
+- Complete result files in standard formats
+- Metadata describing data sources and preparation
+
+**Code Quality**:
+- Comprehensive test suite with >90% coverage
+- Documentation following academic software standards
+- Performance benchmarking and optimization
+- Code review by independent researchers
+
+### Collaboration and Review Process
+
+**Internal Review**:
+- Technical validation by independent implementers
+- Linguistic validation by domain experts
+- Statistical review by quantitative linguists
+- Methodological review by network science experts
+
+**External Validation**:
+- Replication studies using independent implementations
+- Application to additional language families
+- Comparison studies by other research groups
+- Integration with existing phylogenetic software ecosystems
+
+### Timeline for Paper Development
+
+1. **Phase 1** (Completed): Core methodology and implementation
+2. **Phase 2** (Completed): Comprehensive validation and testing  
+3. **Phase 3** (Next): Extended analysis and comparison studies
+4. **Phase 4**: Manuscript preparation and internal review
+5. **Phase 5**: External review and revision cycles
+6. **Phase 6**: Journal submission and peer review process
+
+**Estimated Timeline**: 6-12 months from Phase 3 to publication, depending on review cycles and revisions required.
+
 ### File Format
 
 Input files should be TSV format with columns:
