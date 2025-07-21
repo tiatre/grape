@@ -31,7 +31,7 @@ class CommunityMethod:
 class GreedyModularity(CommunityMethod):
     def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         community_generator = nx.algorithms.community.greedy_modularity_communities(
-            self.graph, weight=self.weight, resolution=int(resolution)
+            self.graph, weight=self.weight, resolution=resolution
         )
         return [frozenset(community) for community in community_generator]  # type: ignore
 
@@ -39,7 +39,7 @@ class GreedyModularity(CommunityMethod):
 class LouvainCommunities(CommunityMethod):
     def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         community_generator = nx.algorithms.community.louvain_communities(
-            self.graph, weight=self.weight, resolution=int(resolution)
+            self.graph, weight=self.weight, resolution=resolution
         )
         return [frozenset(community) for community in community_generator]  # type: ignore
 
