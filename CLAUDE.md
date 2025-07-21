@@ -85,20 +85,54 @@ GRAPE outputs phylogenetic trees in Newick format to standard output.
 Run the test suite with:
 
 ```bash
-# Basic tests
+# Basic tests for original datasets
 python test_grape.py -v
 
-# Extended tests with different parameter combinations  
+# Extended tests with different parameter combinations for original datasets  
 python test_grape_extended.py -v
+
+# Tests for additional language families
+python test_additional_families.py -v
+
+# Extended tests for additional families with different parameters
+python test_additional_families_extended.py -v
 ```
 
-Current tests validate:
+#### Core Test Coverage
+
+**Original datasets** (test_grape.py, test_grape_extended.py):
 - **Germanic grouping**: All 7 Germanic languages (Danish, Dutch, Elfdalian, English, Frisian, German, Swedish) form a monophyletic group in `harald_ie.tsv`
 - **Spanish positioning**: Spanish is closer to Germanic languages than to Hindi
 - **Branch length accuracy**: Swedish-Danish distance < Swedish-English distance
 - **Guaranic group**: Mbya, Guarani, and Kaiowa form a monophyletic group in `tuled.tsv`
 - **Early branching**: Mawe and Aweti branch early from the rest of the Tupian tree
 - **Parameter robustness**: Tests work across different community detection methods and graph types
+
+**Additional language families** (test_additional_families.py, test_additional_families_extended.py):
+
+*Dravidian languages* (`dravlex.tsv`):
+- **South Dravidian grouping**: Tamil, Malayalam, Kannada, Tulu, and related languages form monophyletic group
+- **Central Dravidian grouping**: Gondi, Koya, Kuwi, Kolami, Parji, Ollari_Gadba group together
+- **North Dravidian grouping**: Brahui, Kurukh, Malto form a monophyletic group
+- **Tamil-Malayalam relationship**: Closer to each other than to North Dravidian languages
+
+*Polynesian languages* (`walworthpolynesian.tsv`):
+- **Tongic grouping**: Tongan (Lea_Fakatonga) and Niuean (Vagahau_Niue) form a group
+- **Eastern Polynesian grouping**: Hawaiian, Tahitian, Maori, Rarotongan, Marquesan, Rapa Nui group together
+- **Nuclear Polynesian hypothesis**: Hawaiian closer to Samoan than to Tongan
+- **Triangular relationships**: Tahitian closer to Hawaiian than to Tongan
+
+*Arawakan languages* (`chaconarawakan.tsv`):
+- **Northern Arawakan grouping**: Baniwa, Tariana, Achagua, Piapoco group together
+- **Geographic clustering**: Baniwa and Tariana (both Vaupés region) are closely related
+- **Resigaro distinctness**: Maintains reasonable phylogenetic position
+
+*Indo-European full dataset* (`iecor_full.tsv`, 160 languages):
+- **Romance grouping**: French, Spanish, Italian, Portuguese, Catalan, Romanian, etc. form monophyletic group
+- **Germanic grouping**: English, German, Dutch, Swedish, Danish, Norwegian, Gothic, etc. group together
+- **Celtic grouping**: Irish, Welsh, Breton varieties, Scottish Gaelic, Cornish, Manx form a group
+- **Slavic grouping**: Russian, Czech, Polish, Bulgarian, Serbian, Ukrainian, etc. form monophyletic group
+- **Indo-Iranian grouping**: Sanskrit, Hindi, Persian, Bengali, Kurdish, Pashto, etc. group together
 
 ### Known Issues
 
