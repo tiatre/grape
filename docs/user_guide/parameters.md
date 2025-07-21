@@ -316,6 +316,21 @@ python grape.py data.tsv --max_iterations 50
 - Increase for complex datasets
 - Decrease for quick exploratory analysis
 
+### Reproducibility Control
+
+```bash
+# Set random seed for reproducible results
+python grape.py data.tsv --seed 42
+```
+
+**Default**: 42
+**Purpose**: Ensures identical results across runs when using Louvain community detection
+**When to use**:
+- Publication-quality analysis
+- Comparative studies
+- Debugging and validation
+- When reproducibility is required
+
 ### Logging and Output
 
 ```bash
@@ -336,7 +351,8 @@ python grape.py data.tsv \
     --graph unadjusted \
     --community greedy \
     --strategy fixed \
-    --initial_value 0.5
+    --initial_value 0.5 \
+    --seed 42
 ```
 
 #### Real-World, Messy Data
@@ -346,7 +362,8 @@ python grape.py data.tsv \
     --synonyms average \
     --missing_data max_dist \
     --community louvain \
-    --strategy dynamic
+    --strategy dynamic \
+    --seed 42
 ```
 
 #### Large Dataset (>100 languages)
@@ -355,7 +372,8 @@ python grape.py data.tsv \
     --graph adjusted \
     --community louvain \
     --strategy adaptive \
-    --initial_value 0.2
+    --initial_value 0.2 \
+    --seed 42
 ```
 
 #### Small Dataset (<20 languages)
@@ -364,7 +382,8 @@ python grape.py data.tsv \
     --graph adjusted \
     --community greedy \
     --strategy fixed \
-    --initial_value 0.6
+    --initial_value 0.6 \
+    --seed 42
 ```
 
 ### By Research Goals
@@ -373,7 +392,8 @@ python grape.py data.tsv \
 ```bash
 python grape.py data.tsv \
     --strategy dynamic \
-    --community louvain
+    --community louvain \
+    --seed 42
 ```
 
 #### Publication-Quality Results
@@ -384,7 +404,8 @@ python grape.py data.tsv \
     --missing_data max_dist \
     --community greedy \
     --strategy fixed \
-    --initial_value 0.5
+    --initial_value 0.5 \
+    --seed 42
 ```
 
 #### Comparison with Traditional Methods
@@ -392,7 +413,8 @@ python grape.py data.tsv \
 python grape.py data.tsv \
     --graph unadjusted \
     --strategy fixed \
-    --initial_value 0.5
+    --initial_value 0.5 \
+    --seed 42
 ```
 
 ## Troubleshooting with Parameters

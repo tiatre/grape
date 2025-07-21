@@ -20,9 +20,10 @@ logging.basicConfig(level=logging.INFO, format="[%(levelname)s] %(message)s")
 
 
 class CommunityMethod:
-    def __init__(self, graph: nx.Graph, weight: str):
+    def __init__(self, graph: nx.Graph, weight: str, seed: int = None):
         self.graph = graph
         self.weight = weight
+        self.seed = seed
 
     def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         raise NotImplementedError("This method should be overridden by subclasses")
@@ -39,7 +40,7 @@ class GreedyModularity(CommunityMethod):
 class LouvainCommunities(CommunityMethod):
     def find_communities(self, resolution: Union[float, int]) -> List[FrozenSet]:
         community_generator = nx.algorithms.community.louvain_communities(
-            self.graph, weight=self.weight, resolution=resolution
+            self.graph, weight=self.weight, resolution=resolution, seed=self.seed
         )
         return [frozenset(community) for community in community_generator]  # type: ignore
 
@@ -135,12 +136,13 @@ def build_history(
     strategy_name: str = "fixed",
     initial_value: float = 0.0,
     adjust_factor: float = 0.1,
+    seed: int = None,
 ) -> List[common.HistoryEntry]:
 
     # Obtain the community detection method based on the provided method string
     community_method = {
-        "greedy": GreedyModularity(G, weight="weight"),
-        "louvain": LouvainCommunities(G, weight="weight"),
+        "greedy": GreedyModularity(G, weight="weight", seed=seed),
+        "louvain": LouvainCommunities(G, weight="weight", seed=seed),
     }.get(method)
     if community_method is None:
         raise ValueError("Unsupported community detection method")
@@ -567,6 +569,7 @@ def main(args):
         strategy_name=args["strategy"],
         initial_value=args["initial_value"],
         adjust_factor=args["adjust_factor"],
+        seed=args["seed"],
     )
 
     phylogeny = build_tree_from_history(family_history)
@@ -659,6 +662,12 @@ if __name__ == "__main__":
         type=float,
         default=0.1,
         help="Adjust factor if strategy is dynamic or adaptive",
+    )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        default=42,
+        help="Random seed for reproducible results (default: 42)",
     )
     parser.add_argument(
         "--proximity_weight",

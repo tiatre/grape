@@ -35,8 +35,10 @@ You should see GRAPE's help message with all available options.
 Run GRAPE on the small Indo-European dataset:
 
 ```bash
-python grape.py data/iecor_small.tsv
+python grape.py data/iecor_small.tsv --seed 42
 ```
+
+**Note**: The `--seed 42` parameter ensures reproducible results. Without it, the Louvain community detection algorithm may produce slightly different trees on each run.
 
 **Expected Output:**
 ```
@@ -63,7 +65,7 @@ python grape.py data/iecor_small.tsv
 ### Save Results to File
 
 ```bash
-python grape.py data/iecor_small.tsv > my_first_tree.newick 2> analysis.log
+python grape.py data/iecor_small.tsv --seed 42 > my_first_tree.newick 2> analysis.log
 ```
 
 Now you have:
