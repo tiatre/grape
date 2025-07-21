@@ -6,6 +6,37 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 GRAPE (Graph Analysis and Phylogenetic Estimation) is a Python library for phylogenetic inference using community detection in graphs. The project focuses on analyzing linguistic cognate data to build phylogenetic trees using graph-based methods.
 
+## Documentation Structure
+
+The project includes comprehensive documentation in multiple formats:
+
+### Main Documentation Files
+- **README.md**: Main project overview and quick start guide
+- **CLAUDE.md**: This file - development guidance and internal documentation
+- **docs/**: Comprehensive documentation directory
+
+### Documentation Categories
+
+**For Users** (`docs/user_guide/`):
+- Quick start guides and tutorials
+- Parameter reference and usage examples
+- FAQ and troubleshooting
+
+**For Researchers** (`docs/technical/`):
+- Mathematical background and theory
+- Implementation details and algorithms
+- Performance analysis and benchmarks
+
+**Examples and Walkthroughs** (`docs/examples/`):
+- Complete language family analyses
+- Interactive Jupyter notebooks
+- Advanced usage scenarios
+
+**Academic Documentation** (`docs/academic/`):
+- Research paper foundations
+- Methodology descriptions
+- Comparative studies and validation
+
 ## Architecture
 
 ### Core Components
