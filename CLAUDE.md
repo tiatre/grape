@@ -90,10 +90,23 @@ python grape.py data/dataset.tsv --graph adjusted --community greedy --strategy 
 ### Testing with Sample Data
 
 The `data/` directory contains several cognate datasets:
-- `iecor_small.tsv`: Small Indo-European dataset (recommended for testing)
-- `iecor_full.tsv`: Full Indo-European dataset
+- `ielex_2022.tsv`: Comprehensive Indo-European dataset (85 languages, recommended for production use)
+- `iecor_small.tsv`: Small Indo-European dataset (3 languages, for testing only)  
 - `dravlex.tsv`: Dravidian languages
 - `tuled.tsv`: Tupian languages
+
+### Optimal Parameters for Language Families
+
+Based on systematic parameter testing for phylogenetic accuracy:
+
+**Indo-European** (ielex_2022.tsv):
+```bash
+python grape.py data/ielex_2022.tsv --community louvain --graph unadjusted --strategy fixed --initial_value 0.01 --seed 42
+```
+This configuration achieves linguistically accurate topology with:
+- Hittite and Tocharian as early outgroups (correctly positioned)
+- Proper Germanic, Romance, Celtic, and Slavic clades
+- Greek-Armenian-Albanian grouping preserved
 
 ## Development Notes
 
