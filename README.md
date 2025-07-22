@@ -7,11 +7,11 @@ GRAPE is a Python library for phylogenetic inference using community detection i
 ## 🚀 Quick Start
 
 ```bash
-# Basic analysis with reproducible results
-python grape.py resources/language_families/romance.tsv --seed 42
+# Basic analysis with Indo-European dataset
+python grape.py data/ielex_2022.tsv --seed 42
 
 # Advanced analysis with specific parameters  
-python grape.py resources/language_families/austroasiatic.tsv --graph adjusted --community louvain --strategy fixed --initial_value 0.3 --seed 42
+python grape.py data/ielex_2022.tsv --graph adjusted --community louvain --strategy fixed --initial_value 0.3 --seed 42
 ```
 
 ## ✨ Features
@@ -56,11 +56,11 @@ pip install biopython
 
 ## 🔥 Quick Examples
 
-### Romance Languages (Europe)
+### Indo-European Languages (Global)
 ```bash
-python grape.py resources/language_families/romance.tsv --strategy fixed --initial_value 0.4 --seed 42
+python grape.py data/ielex_2022.tsv --strategy fixed --initial_value 0.4 --seed 42
 ```
-Western European languages descended from Latin, showing dialectal differentiation across Italy, Spain, France, and Romania.
+Comprehensive Indo-European language family including Germanic, Romance, Slavic, Indo-Iranian, and other major branches with global distribution.
 
 ### Austroasiatic Languages (Southeast Asia)
 ```bash
@@ -86,6 +86,7 @@ GRAPE has been tested and validated on 7 major language families representing di
 
 | Family | Dataset | Languages | Geographic Distribution | Typology |
 |--------|---------|-----------|------------------------|----------|
+| **Indo-European** | `ielex_2022.tsv` | 200+ | Global (Europe, Asia, Americas) | Diverse: Germanic, Romance, Slavic, etc. |
 | **Romance** | `romance.tsv` | 43 | Western/Southern Europe | Fusional, rich morphology |
 | **Austroasiatic** | `austroasiatic.tsv` | 109 | Southeast Asia | Isolating/analytic |  
 | **Turkic** | `turkic.tsv` | 32 | Central Asia, Turkey | Agglutinative, vowel harmony |
@@ -96,6 +97,7 @@ GRAPE has been tested and validated on 7 major language families representing di
 
 ### Key Subgroupings Validated
 
+**Indo-European**: Germanic, Romance, Slavic, Indo-Iranian, Celtic, Albanian, Armenian branches  
 **Romance**: Italian, Iberian, Gallo-Romance, Eastern Romance branches  
 **Austroasiatic**: Mon-Khmer, Munda, Bahnaric, Katuic divisions  
 **Turkic**: Oghuz, Kipchak, Karluk, Siberian branches  
@@ -134,6 +136,7 @@ GRAPE generates publication-quality phylogenetic tree visualizations using consi
 
 | Family | Publication Image | Languages | Key Features |
 |--------|-------------------|-----------|--------------|
+| **Indo-European** | [PNG](docs/images/trees/publication_final/indo_european.png) \| [SVG](docs/images/trees/publication_final/indo_european.svg) | 200+ | Global major branches (Germanic, Romance, Slavic, Indo-Iranian) |
 | **Romance** | [PNG](docs/images/trees/publication_final/romance.png) \| [SVG](docs/images/trees/publication_final/romance.svg) | 43 | European dialectal branches |
 | **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic.png) \| [SVG](docs/images/trees/publication_final/austroasiatic.svg) | 109 | SE Asian linguistic diversity |
 | **Turkic** | [PNG](docs/images/trees/publication_final/turkic.png) \| [SVG](docs/images/trees/publication_final/turkic.svg) | 32 | Central Asian nomadic spread |
