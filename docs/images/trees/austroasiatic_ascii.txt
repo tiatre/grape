@@ -1,0 +1,218 @@
+
+               /-Kui
+            /-|
+           |   \-Neu
+           |
+         /-|      /-Bru
+        |  |   /-|
+        |  |  |   \-BruVK
+        |   \-|
+        |     |   /-So
+        |      \-|
+        |        |   /-Mak
+      /-|         \-|
+     |  |            \-Tri
+     |  |
+     |  |      /-Dakkang
+     |  |   /-|
+     |  |  |  |   /-Kantu
+     |  |  |   \-|
+     |   \-|      \-Katu
+     |     |
+     |     |   /-Lao-Katu
+     |     |  |
+     |      \-|      /-Pakoh
+     |        |   /-|
+     |        |  |   \-Taoih
+     |         \-|
+     |           |   /-Nge
+     |            \-|
+     |              |   /-Ong
+   /-|               \-|
+  |  |                  \-Taoi
+  |  |
+  |  |            /-KahoChil
+  |  |         /-|
+  |  |        |   \-Sre
+  |  |      /-|
+  |  |     |  |   /-Ma1
+  |  |     |   \-|
+  |  |   /-|      \-Ma2
+  |  |  |  |
+  |  |  |  |   /-Chrau
+  |  |  |   \-|
+  |  |  |     |   /-Stieng
+  |  |  |      \-|
+  |  |  |        |   /-M.Rolom
+  |  |  |         \-|
+  |  |  |           |   /-M.Bunong
+  |   \-|            \-|
+  |     |               \-M.Dip
+  |     |
+  |     |      /-Arak
+  |     |   /-|
+  |     |  |  |   /-Tariang
+  |     |  |   \-|
+  |     |  |     |   /-Oy
+  |     |  |      \-|
+  |     |  |        |   /-Jru
+  |      \-|         \-|
+  |        |            \-Nhaheun
+  |        |
+  |        |   /-Kor_Cua
+  |        |  |
+  |        |  |--Tempuan
+  |         \-|
+  |           |      /-Je
+  |           |   /-|
+  |           |  |   \-Veh
+  |            \-|
+  |              |   /-Bahnar
+  |               \-|
+  |                 |   /-Jeh
+  |                  \-|
+  |                    |   /-Halang
+  |                     \-|
+  |                       |   /-Panong
+--|                        \-|
+  |                          |   /-Hre
+  |                           \-|
+  |                             |   /-Rengao
+  |                              \-|
+  |                                |   /-Didra
+  |                                 \-|
+  |                                   |   /-Sedang
+  |                                    \-|
+  |                                      |   /-Hadang
+  |                                       \-|
+  |                                          \-Kadong
+  |
+  |         /-Arem
+  |      /-|
+  |     |   \-Ruc
+  |     |
+  |     |      /-KhaPhong
+  |     |   /-|
+  |     |  |   \-Malieng
+  |     |--|
+  |   /-|  |   /-Thavung
+  |  |  |   \-|
+  |  |  |      \-ThavungSo
+  |  |  |
+  |  |  |      /-Vietnamese
+  |  |  |   /-|
+  |  |  |  |  |   /-MuongKoi
+  |  |  |  |   \-|
+  |  |   \-|      \-Tho Mon
+  |  |     |
+  |  |     |   /-Cuoi
+  |  |      \-|
+  |  |        |   /-Liha
+  |  |         \-|
+  |  |           |   /-Phong_V_
+  |  |            \-|
+  |  |               \-Tuum
+  |  |
+  |  |      /-Bugan
+  |  |   /-|
+  |  |  |   \-Paliu
+  |  |  |
+  |  |  |      /-Korku
+  |  |  |   /-|
+  |  |  |  |  |   /-Mundari
+  |  |  |  |   \-|
+   \-|  |--|      \-Santali
+     |  |  |
+     |  |  |   /-Juang
+     |  |   \-|
+     |  |     |   /-Bonda
+     |  |      \-|
+     |  |        |   /-Kharia
+     |  |         \-|
+     |  |           |   /-Parengi
+     |  |            \-|
+     |  |               \-Sora
+     |  |
+     |  |      /-Mon
+     |  |   /-|
+     |  |  |   \-Nyakur
+     |  |  |
+     |  |  |      /-K.Surin
+     |  |  |   /-|
+     |  |  |  |   \-Khmer
+     |  |  |  |
+     |  |  |--|      /-Chong
+     |  |  |  |   /-|
+     |  |--|  |  |   \-Chong-H
+     |  |  |   \-|
+     |  |  |     |   /-Kasong
+     |  |  |      \-|
+     |  |  |         \-Samre
+      \-|  |
+        |  |      /-Car
+        |  |   /-|
+        |  |  |   \-Nancawri
+        |  |  |
+        |   \-|      /-Semelai
+        |     |   /-|
+        |     |  |   \-SemoqBeri
+        |      \-|
+        |        |   /-Jah-Hut
+        |        |  |
+        |         \-|      /-Jahai
+        |           |   /-|
+        |           |  |   \-Kensiw
+        |            \-|
+        |              |   /-Semai
+        |               \-|
+        |                  \-Temiar
+        |
+        |   /-Khasi
+        |  |
+        |  |--Mang
+        |  |
+        |  |      /-Iduh
+        |  |   /-|
+        |  |  |   \-Phong
+        |  |  |
+        |  |  |      /-Khmu
+        |  |--|   /-|
+        |  |  |  |  |   /-Mlabri
+        |  |  |  |   \-|
+        |  |  |  |      \-Pray
+        |  |   \-|
+        |  |     |      /-Bit
+        |  |     |   /-|
+         \-|     |  |   \-Khang
+           |      \-|
+           |        |   /-Ksinmul
+           |         \-|
+           |            \-KxinhMul
+           |
+           |         /-De'ang
+           |      /-|
+           |     |   \-Rumai
+           |     |
+           |   /-|      /-Man'e
+           |  |  |   /-|
+           |  |  |  |   \-Plang
+           |  |   \-|
+           |  |     |   /-Guanshuang
+           |  |      \-|
+            \-|         \-Wa
+              |
+              |      /-Hu
+              |   /-|
+              |  |  |   /-Khamet
+              |  |   \-|
+              |  |      \-Khme
+               \-|
+                 |      /-Gantang
+                 |   /-|
+                 |  |   \-Yongde
+                  \-|
+                    |   /-Pangpin
+                     \-|
+                       |   /-Mang'an
+                        \-|
+                           \-Shuangdiang

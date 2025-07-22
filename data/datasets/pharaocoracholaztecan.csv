@@ -1,0 +1,800 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+Cora-1-notno-1,1-notno,kah/ka-pú/ka-mo (Casad 1984)/,kah,k a h,1,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+Cora-1-notno-2,1-notno,kah/ka-pú/ka-mo (Casad 1984)/,ka-pú,k a + p u,,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,"Not, no",1240,NOT,,
+Cora-1-notno-3,1-notno,kah/ka-pú/ka-mo (Casad 1984)/,ka-mo_,k a + m o,,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,"Not, no",1240,NOT,,
+Huichol-1-notno-1,1-notno,tiʂaɨ,tiʂaɨ,t i ʂ a ɨ,2,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+ProtoNahua-1-notno-1,1-notno,*ahmo/*ka,ahmo,a h m o,1,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+ProtoNahua-1-notno-2,1-notno,*ahmo/*ka,ka,k a,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,"Not, no",1240,NOT,,
+Tepiman-1-notno-1,1-notno,*čo/*káaki,čo,tʃ o,1,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+Tepiman-1-notno-2,1-notno,*čo/*káaki,káaki,k aː k i,,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,"Not, no",1240,NOT,,
+Cahita-1-notno-1,1-notno,*ka,ka,k a,1,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+Tarahumaran-1-notno-1,1-notno,*kai,kai,k ai,1,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+ProtoCoracholNahua-1-notno-1,1-notno,**ka-mo,ka-mo,k a + m o,1,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+ProtoUtoAztecan-1-notno-1,1-notno,*ka,ka,k a,1,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,"Not, no",1240,NOT,false,expert
+Cora-2-many-1,2-many,mu’i’í,muí,m u i,3,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Many,1198,MANY,false,expert
+Huichol-2-many-1,2-many,mɨiré (Stubbs),mɨiré_,m ɨ i r e,4,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Many,1198,MANY,false,expert
+ProtoNahua-2-many-1,2-many,*mi:yak,mi:yak,m iː j a k,3,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Many,1198,MANY,false,expert
+Tepiman-2-many-1,2-many,*mui,mui,m u i,3,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Many,1198,MANY,false,expert
+Tarahumaran-2-many-1,2-many,*mu,mu,m u,3,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Many,1198,MANY,false,expert
+ProtoUtoAztecan-2-many-1,2-many,*mu’i:- PUA,mu,m u,3,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Many,1198,MANY,false,expert
+Cora-3-one-1,3-one,saɨ́,saɨ́,s a ɨ,5,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,One,1493,ONE,false,expert
+Huichol-3-one-1,3-one,ʂewi,ʂewi,ʂ e w i,5,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,One,1493,ONE,false,expert
+ProtoNahua-3-one-1,3-one,*se:,se:,s eː,5,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,One,1493,ONE,false,expert
+Tepiman-3-one-1,3-one,*hɨ,hɨ,h ɨ,5,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,One,1493,ONE,false,expert
+Cahita-3-one-1,3-one,*sen-,sen-,s e n,5,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,One,1493,ONE,false,expert
+Tarahumaran-3-one-1,3-one,*pire,pire,p i r e,6,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,One,1493,ONE,false,expert
+ProtoCoracholNahua-3-one-1,3-one,**samwi,samwi,s a mʷ i,5,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,One,1493,ONE,false,expert
+ProtoUtoAztecan-3-one-1,3-one,*heme tubar/*sei  opatan/,heme_tubar,h e m e,5,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,One,1493,ONE,false,expert
+ProtoUtoAztecan-3-one-2,3-one,*heme tubar/*sei  opatan/,sei__opatan,s e i,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,One,1493,ONE,,
+Cora-4-two-1,4-two,wá’apwa,wá,w a,7,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Two,1498,TWO,false,expert
+Huichol-4-two-1,4-two,huuta,huuta,h uː t a,7,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Two,1498,TWO,false,expert
+ProtoNahua-4-two-1,4-two,*o:me,o:me,oː m e,7,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Two,1498,TWO,false,expert
+Tepiman-4-two-1,4-two,*gok,gok,g o k,7,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Two,1498,TWO,false,expert
+Cahita-4-two-1,4-two,*woyi,woyi,w o j i,7,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Two,1498,TWO,false,expert
+Tarahumaran-4-two-1,4-two,*woka,woka,w o k a,7,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Two,1498,TWO,false,expert
+ProtoCoracholNahua-4-two-1,4-two,**wapu-,wapu-,w a p u,7,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Two,1498,TWO,false,expert
+ProtoUtoAztecan-4-two-1,4-two,*wo- SUA/(*wapulai ‘different/other’ cahita),wo-_SUA,w o,8,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Two,1498,TWO,false,expert
+Cora-5-big-1,5-big,bé’e,bé,b e,9,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Big,1202,BIG,false,expert
+Huichol-5-big-1,5-big,e-nena/(waiya ‘gordo’),e-nena,e + n e n a,10,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Big,1202,BIG,false,expert
+ProtoNahua-5-big-1,5-big,*we:yi,we:yi,w eː j i,9,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Big,1202,BIG,false,expert
+Tepiman-5-big-1,5-big,*gɨ,gɨ,g ɨ,9,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Big,1202,BIG,false,expert
+Cahita-5-big-1,5-big,*bweru,bweru,bʷ e r u,9,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Big,1202,BIG,false,expert
+Tarahumaran-5-big-1,5-big,*weru,weru,w e r u,9,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Big,1202,BIG,false,expert
+ProtoCoracholNahua-5-big-1,5-big,*we:-,we:-,w eː,9,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Big,1202,BIG,false,expert
+ProtoUtoAztecan-5-big-1,5-big,*wɨL- SUA,wɨL-_SUA,w ɨ ʟ,9,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Big,1202,BIG,false,expert
+Cora-6-old-1,6-old,?bástakɨra’i?,?bástakɨra,b a s t a k ɨ r a,11,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Old,1229,OLD,false,expert
+Huichol-6-old-1,6-old,ukira¢i,ukira¢i,u k i r a ts i,12,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Old,1229,OLD,false,expert
+ProtoNahua-6-old-1,6-old,*we:we:,we:we:,w eː w eː,13,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Old,1229,OLD,false,expert
+Cahita-6-old-1,6-old,*o’ora,o,o,14,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Old,1229,OLD,false,expert
+ProtoUtoAztecan-6-old-1,6-old,*yo’o,yo,j o,14,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Old,1229,OLD,false,expert
+Cora-7-small-1,7-small,kɨlen,kɨlen,k ɨ l e n,15,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Small,1246,SMALL,false,expert
+ProtoNahua-7-small-1,7-small,*tepi-/*¢iki,tepi-,t e p i,16,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Small,1246,SMALL,false,expert
+ProtoNahua-7-small-2,7-small,*tepi-/*¢iki,¢iki,ts i k i,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Small,1246,SMALL,,
+Cora-8-long-1,8-long,teé,teé,t eː,17,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Long,1203,LONG,false,expert
+Huichol-8-long-1,8-long,e-te:wi,e-te:wi,e + t eː w i,17,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Long,1203,LONG,false,expert
+ProtoNahua-8-long-1,8-long,*we:ya-k,we:ya-k,w eː j a + k,18,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Long,1203,LONG,false,expert
+Tepiman-8-long-1,8-long,*tɨvɨ,tɨvɨ,t ɨ v ɨ,17,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Long,1203,LONG,false,expert
+Cahita-8-long-1,8-long,*teve,teve,t e v e,17,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Long,1203,LONG,false,expert
+Tarahumaran-8-long-1,8-long,*tepih-,tepih-,t e p i h,17,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Long,1203,LONG,false,expert
+ProtoUtoAztecan-8-long-1,8-long,**tɨpɨ/**wɨpa,tɨpɨ,t ɨ p ɨ,17,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Long,1203,LONG,false,expert
+ProtoUtoAztecan-8-long-2,8-long,**tɨpɨ/**wɨpa,wɨpa,w ɨ p a,18,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Long,1203,LONG,false,expert
+Cora-9-new-1,9-new,héhkwa,héhkwa,h e h kʷ a,19,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,New,1231,NEW,false,expert
+Huichol-9-new-1,9-new,hekwa,hekwa,h e kʷ a,19,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,New,1231,NEW,false,expert
+ProtoNahua-9-new-1,9-new,*yankwi-k/*yenkwi-k,yankwi-k,j a n kʷ i + k,19,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,New,1231,NEW,false,expert
+ProtoNahua-9-new-2,9-new,*yankwi-k/*yenkwi-k,yenkwi-k,j e n kʷ i + k,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,New,1231,NEW,,
+Tepiman-9-new-1,9-new,*vetuda,vetuda,v e t u d a,20,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,New,1231,NEW,false,expert
+Cahita-9-new-1,9-new,*bemela,bemela,b e m e l a,21,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,New,1231,NEW,false,expert
+Tarahumaran-9-new-1,9-new,kaweruma,kaweruma,k a w e r u m a,22,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,New,1231,NEW,false,expert
+ProtoCoracholNahua-9-new-1,9-new,**hɨnkwa-ki/**pɨnkwa-k,hɨnkwa-ki,h ɨ n kʷ a + k i,19,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,New,1231,NEW,false,expert
+ProtoCoracholNahua-9-new-2,9-new,**hɨnkwa-ki/**pɨnkwa-k,pɨnkwa-k,p ɨ n kʷ a + k,,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,New,1231,NEW,,
+ProtoUtoAztecan-9-new-1,9-new,**hukwa SUA/**pɨtuwa PUA,hukwa_SUA,h u kʷ a,19,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,New,1231,NEW,false,expert
+ProtoUtoAztecan-9-new-2,9-new,**hukwa SUA/**pɨtuwa PUA,pɨtuwa_PUA,p ɨ t u w a,20,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,New,1231,NEW,false,expert
+Cora-10-good-1,10-good,naá,naá,n a,23,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Good,1035,GOOD,false,expert
+Huichol-10-good-1,10-good,aiȿɨa,aiȿɨa,ai ʂ ɨ a,24,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Good,1035,GOOD,false,expert
+ProtoNahua-10-good-1,10-good,*kwal-,kwal-,kʷ a l,25,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Good,1035,GOOD,false,expert
+Tepiman-10-good-1,10-good,*kɨga,kɨga,k ɨ g a,25,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Good,1035,GOOD,false,expert
+Cahita-10-good-1,10-good,kiwa,kiwa,k i w a,25,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Good,1035,GOOD,false,expert
+ProtoUtoAztecan-10-good-1,10-good,*kɨwa,kɨwa,k ɨ w a,25,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Good,1035,GOOD,false,expert
+Huichol-11-heavy-1,11-heavy,heeté,heeté,h eː t e,26,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+ProtoNahua-11-heavy-1,11-heavy,*yeti-k,yeti-k,j e t i + k,26,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+Tepiman-11-heavy-1,11-heavy,*vɨti,vɨti,v ɨ t i,26,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+Cahita-11-heavy-1,11-heavy,*vette,vette,v e t t e,26,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+Tarahumaran-11-heavy-1,11-heavy,*pehté,pehté,p e h t e,26,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+ProtoUtoAztecan-11-heavy-1,11-heavy,*pɨttɨ PUA,pɨttɨ_PUA,p ɨ t t ɨ,26,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Heavy,1210,HEAVY,false,expert
+Cora-12-dry-1,12-dry,-wa¢i-,wa¢i,w a ts i,27,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+Huichol-12-dry-1,12-dry,vasiɨȿa’a,vasiɨȿa,v a s i ɨ ʂ a,27,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Dry,1398,DRY,false,expert
+ProtoNahua-12-dry-1,12-dry,*wak-ki/*wa:¢-,wak-ki,w a k + k i,27,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+ProtoNahua-12-dry-2,12-dry,*wak-ki/*wa:¢-,wa:¢-,w aː ts,28,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+Tepiman-12-dry-1,12-dry,*gak-,gak-,g a k,28,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+Cahita-12-dry-1,12-dry,*wakia,wakia,w a k i a,28,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+Tarahumaran-12-dry-1,12-dry,*wakia,wakia,w a k i a,28,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+ProtoCoracholNahua-12-dry-1,12-dry,*wa-k/*wa-¢,wa-k,w a + k,27,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+ProtoCoracholNahua-12-dry-2,12-dry,*wa-k/*wa-¢,wa-¢,w a + ts,,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Dry,1398,DRY,,
+ProtoUtoAztecan-12-dry-1,12-dry,*waki PUA,waki_PUA,w a k i,28,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Dry,1398,DRY,false,expert
+Cora-13-colditscold-1,13-colditscold,kɨmwáhara/wa-see,kɨmwáhara,k ɨ mʷ a h a r a,29,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Cora-13-colditscold-2,13-colditscold,kɨmwáhara/wa-see,wa-see,w a + s eː,30,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Huichol-13-colditscold-1,13-colditscold,haɨtɨ,haɨtɨ,h a ɨ t ɨ,31,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+ProtoNahua-13-colditscold-1,13-colditscold,*i¢ti-k/*se:wa,i¢ti-k,i ts t i + k,32,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+ProtoNahua-13-colditscold-2,13-colditscold,*i¢ti-k/*se:wa,se:wa,s eː w a,30,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Tepiman-13-colditscold-1,13-colditscold,*hepi,hepi,h e p i,30,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Cahita-13-colditscold-1,13-colditscold,*sewe/,sewe,s e w e,30,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Tarahumaran-13-colditscold-1,13-colditscold,*sepi,sepi,s e p i,30,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+ProtoUtoAztecan-13-colditscold-1,13-colditscold,*sep- PUA,sep-_PUA,s e p,30,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Cold (it’s cold),2483,COLD (OF WEATHER),false,expert
+Cora-14-hot-1,14-hot,pɨstí/(sɨka ‘sun’),pɨstí,p ɨ s t i,33,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Huichol-14-hot-1,14-hot,ʂɨka,ʂɨka,ʂ ɨ k a,34,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Hot,1286,HOT,false,expert
+ProtoNahua-14-hot-1,14-hot,*toto:ni-k,toto:ni-k,t o t oː n i + k,35,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Tepiman-14-hot-1,14-hot,*toni,toni,t o n i,35,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Cahita-14-hot-1,14-hot,*sukka,sukka,s u k k a,34,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Tarahumaran-14-hot-1,14-hot,*tono/*sukáre,tono,t o n o,35,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Tarahumaran-14-hot-2,14-hot,*tono/*sukáre,sukáre,s u k a r e,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hot,1286,HOT,,
+ProtoUtoAztecan-14-hot-1,14-hot,*toNa/*suka,toNa,t o ŋ a,34,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+ProtoUtoAztecan-14-hot-2,14-hot,*toNa/*suka,suka,s u k a,35,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hot,1286,HOT,false,expert
+Cora-15-woman-1,15-woman,ɨíta’a/úka,ɨíta,ɨ i t a,36,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Huichol-15-woman-1,15-woman,‘uka/,‘uka,ʔ u k a,36,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+ProtoNahua-15-woman-1,15-woman,*siwa:-,siwa:-,s i w aː,37,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Tepiman-15-woman-1,15-woman,*okisi/*honiga,okisi,o k i s i,37,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Tepiman-15-woman-2,15-woman,*okisi/*honiga,honiga,h o n i g a,38,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Cahita-15-woman-1,15-woman,*huubi,huubi,h uː b i,39,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Tarahumaran-15-woman-1,15-woman,*upí,upí,u p i,39,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+ProtoUtoAztecan-15-woman-1,15-woman,**sinwa PUA/**uka- PUA,sinwa_PUA,s i n w a,36,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+ProtoUtoAztecan-15-woman-2,15-woman,**sinwa PUA/**uka- PUA,uka-_PUA,u k a,37,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Woman,962,WOMAN,false,expert
+Cora-16-man-1,16-man,taáta/téteka/ukira¢i ‘old man’,taáta,t a t a,40,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Man,1554,MAN,false,expert
+Cora-16-man-2,16-man,taáta/téteka/ukira¢i ‘old man’,téteka,t e t e k a,,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Man,1554,MAN,,
+Cora-16-man-3,16-man,taáta/téteka/ukira¢i ‘old man’,ukira¢i_‘old_man,u k i r a ts i,,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Man,1554,MAN,,
+Huichol-16-man-1,16-man,uki’,uki,u k i,40,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Man,1554,MAN,false,expert
+ProtoNahua-16-man-1,16-man,*okič- **/*ƛa:ka-*,okič-_,o k i tʃ,40,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Man,1554,MAN,false,expert
+ProtoNahua-16-man-2,16-man,*okič- **/*ƛa:ka-*,ƛa:ka-,tɬ aː k a,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Man,1554,MAN,,
+Tepiman-16-man-1,16-man,*tihoyi,tihoyi,t i h o j i,41,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Man,1554,MAN,false,expert
+Cahita-16-man-1,16-man,?/taká  ‘cuerpo’,taká__‘cuerpo,t a k a,42,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Man,1554,MAN,false,expert
+Tarahumaran-16-man-1,16-man,*tihoe/*owi,tihoe,t i h o e,41,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Man,1554,MAN,false,expert
+Tarahumaran-16-man-2,16-man,*tihoe/*owi,owi,o w i,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Man,1554,MAN,,
+ProtoCoracholNahua-16-man-1,16-man,**oki¢i,oki¢i,o k i ts i,40,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Man,1554,MAN,false,expert
+ProtoUtoAztecan-16-man-1,16-man,**oki¢i ‘girl’ SUA/*oka¢i ‘woman’ PUA,oki¢i_‘girl_PUA,o k i ts i,40,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Man,1554,MAN,false,expert
+Cora-17-person-1,17-person,tyevi (Stubbs),tyevi_,t j e v i,43,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Person,683,PERSON,false,expert
+Huichol-17-person-1,17-person,tewi,tewi,t e w i,43,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Person,683,PERSON,false,expert
+ProtoNahua-17-person-1,17-person,-te:-(ka),-te:-,t eː,43,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Person,683,PERSON,false,expert
+Cahita-17-person-1,17-person,*yore/,yore,j o r e,44,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Person,683,PERSON,false,expert
+ProtoUtoAztecan-17-person-1,17-person,**ta:wi/*tɨwi PUA,ta:wi,t aː w i,45,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Person,683,PERSON,false,expert
+ProtoUtoAztecan-17-person-2,17-person,**ta:wi/*tɨwi PUA,tɨwi_PUA,t ɨ w i,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Person,683,PERSON,,
+Cora-18-fish-1,18-fish,wá’i/,wá,w a,46,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Fish,227,FISH,false,expert
+Huichol-18-fish-1,18-fish,ke¢ɨ,ke¢ɨ,k e ts ɨ,47,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Fish,227,FISH,false,expert
+ProtoNahua-18-fish-1,18-fish,*miči-/*toopoh?,miči-,m i tʃ i,48,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Fish,227,FISH,false,expert
+ProtoNahua-18-fish-2,18-fish,*miči-/*toopoh?,toopoh?,t oː p o h,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Fish,227,FISH,,
+Tepiman-18-fish-1,18-fish,*vatopa,vatopa,v a t o p a,49,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Fish,227,FISH,false,expert
+Cahita-18-fish-1,18-fish,*kuču,kuču,k u tʃ u,47,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Fish,227,FISH,false,expert
+Tarahumaran-18-fish-1,18-fish,kočú/*musi,kočú,k o tʃ u,47,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Fish,227,FISH,false,expert
+Tarahumaran-18-fish-2,18-fish,kočú/*musi,musi,m u s i,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Fish,227,FISH,,
+ProtoUtoAztecan-18-fish-1,18-fish,**musi SUA/**ki¢u PUA,musi_SUA,m u s i,47,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Fish,227,FISH,false,expert
+ProtoUtoAztecan-18-fish-2,18-fish,**musi SUA/**ki¢u PUA,ki¢u_PUA,k i ts u,48,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Fish,227,FISH,false,expert
+Cora-19-bird-1,19-bird,pína’a,pína,p i n a,50,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Bird,937,BIRD,false,expert
+Huichol-19-bird-1,19-bird,wi:ki,wi:ki,w iː k i,51,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Bird,937,BIRD,false,expert
+ProtoNahua-19-bird-1,19-bird,"*toto-/(*wi¢i-ki ‘colibrí’, awiwi¢kaƛ ‘swallow’)",toto-,t o t o,52,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Bird,937,BIRD,false,expert
+Tepiman-19-bird-1,19-bird,*uuhigi,uuhigi,uː h i g i,51,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Bird,937,BIRD,false,expert
+Cahita-19-bird-1,19-bird,*wiikit,wiikit,w iː k i t,51,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Bird,937,BIRD,false,expert
+ProtoUtoAztecan-19-bird-1,19-bird,*wi¢iki PUA,wi¢iki_PUA,w i ts i k i,51,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Bird,937,BIRD,false,expert
+Cora-20-dog-1,20-dog,¢ɨ’ɨ,¢ɨ,ts ɨ,53,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+Huichol-20-dog-1,20-dog,¢ɨkɨ,¢ɨkɨ,ts ɨ k ɨ,53,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Dog,2009,DOG,false,expert
+ProtoNahua-20-dog-1,20-dog,*i¢kwin/*čiči,i¢kwin,i ts kʷ i n,53,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+ProtoNahua-20-dog-2,20-dog,*i¢kwin/*čiči,čiči,tʃ i tʃ i,54,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+Tepiman-20-dog-1,20-dog,*gosi,gosi,g o s i,55,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+Cahita-20-dog-1,20-dog,ču’u,ču,tʃ u,54,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+Tarahumaran-20-dog-1,20-dog,*koči,koči,k o tʃ i,55,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+ProtoCoracholNahua-20-dog-1,20-dog,**¢ukui,¢ukui,ts u k u i,53,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+ProtoUtoAztecan-20-dog-1,20-dog,**¢u SUA,¢u_SUA,ts u,53,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Dog,2009,DOG,false,expert
+Cora-21-louse-1,21-louse,até,até,a t e,56,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+Huichol-21-louse-1,21-louse,ate,ate,a t e,56,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+ProtoNahua-21-louse-1,21-louse,*atemi,atemi,a t e m i,56,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+Tepiman-21-louse-1,21-louse,*aatɨ,aatɨ,aː t ɨ,56,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+Cahita-21-louse-1,21-louse,étte,étte,e t t e,56,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+Tarahumaran-21-louse-1,21-louse,ehté,ehté,e h t e,56,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+ProtoCoracholNahua-21-louse-1,21-louse,**ate,ate,a t e,56,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+ProtoUtoAztecan-21-louse-1,21-louse,**atɨ PUA,atɨ_PUA,a t ɨ,56,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Louse,1392,LOUSE,false,expert
+Cora-22-snake-1,22-snake,kú’uku’u,kúu,k uː,57,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+Huichol-22-snake-1,22-snake,kuu,kuu,k uː,57,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+ProtoNahua-22-snake-1,22-snake,*ko:wa-,ko:wa-,k oː w a,57,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+Tepiman-22-snake-1,22-snake,*ko’o,ko,k o,57,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+Cahita-22-snake-1,22-snake,baakot,baakot,b aː k o t,57,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+Tarahumaran-22-snake-1,22-snake,sinoi/(kuhuá ‘snake sp.’),sinoi,s i n o i,58,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+ProtoCoracholNahua-22-snake-1,22-snake,**ku,ku,k u,59,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+ProtoUtoAztecan-22-snake-1,22-snake,**kowa PUA,kowa_PUA,k o w a,57,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Snake,730,SNAKE,false,expert
+Cora-23-tree-1,23-tree,kɨyé,kɨyé,k ɨ,60,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Tree,906,TREE,false,expert
+Huichol-23-tree-1,23-tree,kɨye,kɨye,k ɨ j e,60,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Tree,906,TREE,false,expert
+ProtoNahua-23-tree-1,23-tree,*kwaw-,kwaw-,kʷ a w,60,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Tree,906,TREE,false,expert
+Tepiman-23-tree-1,23-tree,*ku’agi,ku,k u,60,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Tree,906,TREE,false,expert
+Cahita-23-tree-1,23-tree,*kútta,kútta,k u t t a,60,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Tree,906,TREE,false,expert
+Tarahumaran-23-tree-1,23-tree,kuu,kuu,k uː,60,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Tree,906,TREE,false,expert
+ProtoUtoAztecan-23-tree-1,23-tree,**kua-wi SUA,kua-wi_SUA,k u a + w i,60,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Tree,906,TREE,false,expert
+Cora-24-bark-1,24-bark,ku¢apé,ku¢apé,k u ts a p e,61,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Bark,1204,BARK,false,expert
+Huichol-24-bark-1,24-bark,kunieri,kunieri,k u n i e r i,62,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Bark,1204,BARK,false,expert
+ProtoNahua-24-bark-1,24-bark,*e:wa-yo,e:wa-yo,eː w a + j o,63,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Bark,1204,BARK,false,expert
+Tepiman-24-bark-1,24-bark,*komi,komi,k o m i,64,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Bark,1204,BARK,false,expert
+ProtoUtoAztecan-24-bark-1,24-bark,*po’owa PUA,po,p o,63,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Bark,1204,BARK,false,expert
+Cora-25-leef-1,25-leef,samwá,samwá,s a mʷ a,65,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+Huichol-25-leef-1,25-leef,ʂama/(sawa - Grimes),ʂama,ʂ a m a,65,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Leef,628,LEAF,false,expert
+ProtoNahua-25-leef-1,25-leef,*iswa-/*šiwi-,iswa-,i s w a,65,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+ProtoNahua-25-leef-2,25-leef,*iswa-/*šiwi-,šiwi-,ʃ i w i,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Leef,628,LEAF,,
+Tepiman-25-leef-1,25-leef,*haga,haga,h a g a,65,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+Cahita-25-leef-1,25-leef,sáwa,sáwa,s a w a,65,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+Tarahumaran-25-leef-1,25-leef,sawá,sawá,s a w a,65,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+ProtoUtoAztecan-25-leef-1,25-leef,**sàmwá SUA,sàmwá_SUA,s a mʷ a,65,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Leef,628,LEAF,false,expert
+Cora-26-root-1,26-root,iínee,iínee,iː n eː,66,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Root,670,ROOT,false,expert
+Huichol-26-root-1,26-root,nana/inieeri (Stubbs),nana,n a n a,66,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Root,670,ROOT,false,expert
+Huichol-26-root-2,26-root,nana/inieeri (Stubbs),inieeri_,i n i e e r i,,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Root,670,ROOT,,
+ProtoNahua-26-root-1,26-root,*nelwa-,nelwa-,n e l w a,66,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Root,670,ROOT,false,expert
+Tepiman-26-root-1,26-root,*tatka/,tatka,t a t k a,67,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Root,670,ROOT,false,expert
+Cahita-26-root-1,26-root,náwa,náwa,n a w a,66,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Root,670,ROOT,false,expert
+Tarahumaran-26-root-1,26-root,nawá,nawá,n a w a,66,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Root,670,ROOT,false,expert
+ProtoCoracholNahua-26-root-1,26-root,*(i)neri-wa,neri-wa,n e r i + w a,66,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Root,670,ROOT,false,expert
+ProtoUtoAztecan-26-root-1,26-root,**nawa SUA,nawa_SUA,n a w a,66,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Root,670,ROOT,false,expert
+Cora-27-seed-1,27-seed,ha¢i,ha¢i,h a ts i,68,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Seed,714,SEED,false,expert
+Huichol-27-seed-1,27-seed,ha¢i,ha¢i,h a ts i,68,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Seed,714,SEED,false,expert
+ProtoNahua-27-seed-1,27-seed,*ač-,ač-,a tʃ,68,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Seed,714,SEED,false,expert
+Tepiman-27-seed-1,27-seed,*ɨ¢itukai,ɨ¢itukai,ɨ ts i t u k ai,69,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Seed,714,SEED,false,expert
+Cahita-27-seed-1,27-seed,ba¢ia,ba¢ia,b a ts i a,68,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Seed,714,SEED,false,expert
+Tarahumaran-27-seed-1,27-seed,pah¢i/tarí,pah¢i,p a h ts i,68,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Seed,714,SEED,false,expert
+Tarahumaran-27-seed-2,27-seed,pah¢i/tarí,tarí,t a r i,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Seed,714,SEED,,
+ProtoCoracholNahua-27-seed-1,27-seed,**ha¢i,ha¢i,h a ts i,68,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Seed,714,SEED,false,expert
+ProtoUtoAztecan-27-seed-1,27-seed,**pa¢i PUA/**wa¢I SUA,pa¢i_PUA,p a ts i,68,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Seed,714,SEED,false,expert
+ProtoUtoAztecan-27-seed-2,27-seed,**pa¢i PUA/**wa¢I SUA,wa¢I_SUA,w a ts i,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Seed,714,SEED,,
+Cora-28-blood-1,28-blood,su’úre’e,sue,s u e,70,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+Huichol-28-blood-1,28-blood,ʂuriya,ʂuriya,ʂ u r i j a,70,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+ProtoNahua-28-blood-1,28-blood,*yes <**pauso,yes_<pauso,j e s,70,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+Tepiman-28-blood-1,28-blood,ɨra,ɨra,ɨ r a,71,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+Cahita-28-blood-1,28-blood,ohbo,ohbo,o h b o,72,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+Tarahumaran-28-blood-1,28-blood,elá,elá,e l a,71,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+ProtoCoracholNahua-28-blood-1,28-blood,**so,so,s o,70,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+ProtoUtoAztecan-28-blood-1,28-blood,**pau PUA/,pau_PUA,p a u,73,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Blood,946,BLOOD,false,expert
+Cora-29-meat-1,29-meat,wa’í-raa,wa,w a,74,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Meat,634,MEAT,false,expert
+Huichol-29-meat-1,29-meat,wai,wai,w ai,74,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Meat,634,MEAT,false,expert
+ProtoNahua-29-meat-1,29-meat,*naka-,naka-,n a k a,75,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Meat,634,MEAT,false,expert
+Tepiman-29-meat-1,29-meat,*tukuwa,tukuwa,t u k u w a,76,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Meat,634,MEAT,false,expert
+Cahita-29-meat-1,29-meat,tekua,tekua,t e k u a,76,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Meat,634,MEAT,false,expert
+Tarahumaran-29-meat-1,29-meat,sa’apa,sa,s a,77,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Meat,634,MEAT,false,expert
+Cora-30-skin-1,30-skin,nabíh,nabíh,n a b i h,78,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+Huichol-30-skin-1,30-skin,nawi,nawi,n a w i,78,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Skin,763,SKIN,false,expert
+ProtoNahua-30-skin-1,30-skin,*ye:wayo-,ye:wayo-,j eː w a j o,79,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+Tepiman-30-skin-1,30-skin,*ɨLida,ɨLida,ɨ ʟ i d a,80,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+Cahita-30-skin-1,30-skin,*beewa,beewa,b eː w a,79,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+Tarahumaran-30-skin-1,30-skin,wi’¢i,wi,w i,81,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+ProtoUtoAztecan-30-skin-1,30-skin,**po’owa PUA/**sikwa/,po,p o,79,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Skin,763,SKIN,false,expert
+Cora-31-bone-1,31-bone,karíh,karíh,k a r i h,82,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+Huichol-31-bone-1,31-bone,u:me,u:me,uː m e,83,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Bone,1394,BONE,false,expert
+ProtoNahua-31-bone-1,31-bone,*omi-,omi-,o m i,83,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+Tepiman-31-bone-1,31-bone,*o’oyi,o,o,83,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+Cahita-31-bone-1,31-bone,*ota,ota,o t a,83,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+Tarahumaran-31-bone-1,31-bone,*o’,o,o,83,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+ProtoUtoAztecan-31-bone-1,31-bone,**ohomɨ PUA,ohomɨ_PUA,o h o m ɨ,83,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Bone,1394,BONE,false,expert
+Cora-32-grease-1,32-grease,neéčira’a,neéčira,n eː tʃ i r a,84,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+Huichol-32-grease-1,32-grease,wi:ya,wi:ya,w iː j a,85,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+ProtoNahua-32-grease-1,32-grease,*čiyawa-,čiyawa-,tʃ i j a w a,84,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+Tepiman-32-grease-1,32-grease,*gii,gii,g iː,85,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+Cahita-32-grease-1,32-grease,áwira,áwira,a w i r a,85,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+Tarahumaran-32-grease-1,32-grease,wi’í,wi,w i,85,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+ProtoCoracholNahua-32-grease-1,32-grease,**¢iya-,¢iya-,ts i j a,84,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+ProtoUtoAztecan-32-grease-1,32-grease,**wip PUA,wip_PUA,w i p,85,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Grease,1282,FAT (FROM ANIMALS),false,expert
+Cora-33-egg-1,33-egg,ta’ú,ta,t a,86,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Egg,744,EGG,false,expert
+Huichol-33-egg-1,33-egg,tawari,tawari,t a w a r i,86,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Egg,744,EGG,false,expert
+ProtoNahua-33-egg-1,33-egg,*toto:lte-/*toto:lin ’turkey hen’,toto:lte-,t o t oː l t e,86,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Egg,744,EGG,false,expert
+ProtoNahua-33-egg-2,33-egg,*toto:lte-/*toto:lin ’turkey hen’,toto:lin_,t o t oː l i n,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Egg,744,EGG,,
+Tepiman-33-egg-1,33-egg,*no’,no,n o,87,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Egg,744,EGG,false,expert
+Cahita-33-egg-1,33-egg,káwá,káwá,k a w a,88,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Egg,744,EGG,false,expert
+Tarahumaran-33-egg-1,33-egg,kawá,kawá,k a w a,88,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Egg,744,EGG,false,expert
+ProtoCoracholNahua-33-egg-1,33-egg,**tawari ’egg/turkey hen’,tawari_,t a w a r i,86,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Egg,744,EGG,false,expert
+ProtoUtoAztecan-33-egg-1,33-egg,"**tapari ’turkey hen’/*topa ’turkey hen’ Tepiman, SUA",tapari,t a p a r i,86,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Egg,744,EGG,false,expert
+Cora-34-horn-1,34-horn,e’ewá,e,e,89,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+Huichol-34-horn-1,34-horn,awa,awa,a w a,89,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+ProtoNahua-34-horn-1,34-horn,*kwa:kwaw-,kwa:kwaw-,kʷ aː kʷ a w,90,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+Tepiman-34-horn-1,34-horn,*a’aga,a,a,89,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+Cahita-34-horn-1,34-horn,*awá,awá,a w a,89,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+Tarahumaran-34-horn-1,34-horn,*awá,awá,a w a,89,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+ProtoUtoAztecan-34-horn-1,34-horn,**awa,awa,a w a,89,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Horn,1393,HORN (ANATOMY),false,expert
+Cora-35-tail-1,35-tail,kwasí,kwasí,kʷ a s i,91,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+Huichol-35-tail-1,35-tail,kwaʂi,kwaʂi,kʷ a ʂ i,91,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+ProtoNahua-35-tail-1,35-tail,*kwitlapil-/(*kwaš-/kweš ‘skirt/taparrabo*),kwitlapil-,kʷ i t l a p i l,92,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+Tepiman-35-tail-1,35-tail,bahi,bahi,b a h i,91,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+Cahita-35-tail-1,35-tail,bwasia,bwasia,bʷ a s i a,91,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+Tarahumaran-35-tail-1,35-tail,wahsi,wahsi,w a h s i,91,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+ProtoUtoAztecan-35-tail-1,35-tail,**kwasi PUA,kwasi_PUA,kʷ a s i,91,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Tail,1220,TAIL,false,expert
+Cora-36-feather-1,36-feather,aná,aná,a n a,93,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+Huichol-36-feather-1,36-feather,ana,ana,a n a,93,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+ProtoNahua-36-feather-1,36-feather,*ihwi-/*ke¢al-,ihwi-,i h w i,94,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+ProtoNahua-36-feather-2,36-feather,*ihwi-/*ke¢al-,ke¢al-,k e ts a l,95,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+Tepiman-36-feather-1,36-feather,á’ana,á,a,93,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+Cahita-36-feather-1,36-feather,mássa,mássa,m a s s a,96,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+Tarahumaran-36-feather-1,36-feather,masá,masá,m a s a,96,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+ProtoUtoAztecan-36-feather-1,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,ana_PUA,a n a,93,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+ProtoUtoAztecan-36-feather-2,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,piwi_PUA,p i w i,94,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+ProtoUtoAztecan-36-feather-3,36-feather,**ana PUA/**piwi PUA/**kɨ¢a PUA,kɨ¢a_PUA,k ɨ ts a,95,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Feather,1201,FEATHER,false,expert
+Cora-37-hair-1,37-hair,kɨpwá,kɨpwá,k ɨ pʷ a,97,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+Huichol-37-hair-1,37-hair,kɨpa,kɨpa,k ɨ p a,97,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+ProtoNahua-37-hair-1,37-hair,*¢on-/(*ikpa hilo),¢on-,ts o n,98,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+Cahita-37-hair-1,37-hair,cóoni,cóoni,ts o o n i,98,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+Tarahumaran-37-hair-1,37-hair,kupá,kupá,k u p a,97,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+ProtoCoracholNahua-37-hair-1,37-hair,**kɨpá,kɨpá,k ɨ p a,97,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+ProtoUtoAztecan-37-hair-1,37-hair,**¢omi PUA/**kuppa PUA,¢omi_PUA,ts o m i,97,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+ProtoUtoAztecan-37-hair-2,37-hair,**¢omi PUA/**kuppa PUA,kuppa_PUA,k u pp a,98,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hair,2648,HAIR (HEAD),false,expert
+Cora-38-head-1,38-head,mu’ú,mu,m u,99,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+Huichol-38-head-1,38-head,mu’u,mu,m u,99,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Head,1256,HEAD,false,expert
+ProtoNahua-38-head-1,38-head,*¢on-tekoma-/*kwa:- < **kuha **kupa,¢on-tekoma-,ts o n + t e k o m a,100,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+ProtoNahua-38-head-2,38-head,*¢on-tekoma-/*kwa:- < **kuha **kupa,kwa:-,kʷ aː,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Head,1256,HEAD,,
+Tepiman-38-head-1,38-head,*mo’o,mo,m o,99,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+Cahita-38-head-1,38-head,kova,kova,k o v a,100,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+Tarahumaran-38-head-1,38-head,mo’o,mo,m o,99,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+ProtoUtoAztecan-38-head-1,38-head,**muu PUA/*kuppa,muu_PUA,m uː,99,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Head,1256,HEAD,false,expert
+ProtoUtoAztecan-38-head-2,38-head,**muu PUA/*kuppa,kuppa,k u pp a,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Head,1256,HEAD,,
+Cora-39-ear-1,39-ear,nasáih,nasáih,n a s a i h,101,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+Huichol-39-ear-1,39-ear,naka,naka,n a k a,101,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Ear,1247,EAR,false,expert
+ProtoNahua-39-ear-1,39-ear,*nakas <*nakasV,nakas_<nakasV,n a k a s,101,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+Tepiman-39-ear-1,39-ear,naaka,naaka,n aː k a,101,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+Cahita-39-ear-1,39-ear,náka,náka,n a k a,101,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+Tarahumaran-39-ear-1,39-ear,naká,naká,n a k a,101,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+ProtoCoracholNahua-39-ear-1,39-ear,**nákàsa,nákàsa,n a k a s a,101,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+ProtoUtoAztecan-39-ear-1,39-ear,**nakka PUA,nakka_PUA,n a k k a,101,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Ear,1247,EAR,false,expert
+Cora-40-eye-1,40-eye,hɨ’ɨsí,hɨ,h ɨ,102,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+Huichol-40-eye-1,40-eye,hɨʂi,hɨʂi,h ɨ ʂ i,102,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Eye,1248,EYE,false,expert
+ProtoNahua-40-eye-1,40-eye,*i:š,i:š,iː ʃ,102,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+Tepiman-40-eye-1,40-eye,*vuhi,vuhi,v u h i,102,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+Cahita-40-eye-1,40-eye,púsi,púsi,p u s i,102,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+Tarahumaran-40-eye-1,40-eye,pusí,pusí,p u s i,102,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+ProtoCoracholNahua-40-eye-1,40-eye,**huusi,huusi,h uː s i,102,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+ProtoUtoAztecan-40-eye-1,40-eye,**pusi,pusi,p u s i,102,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Eye,1248,EYE,false,expert
+Cora-41-nose-1,41-nose,¢u’uri,¢u,ts u,103,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+Huichol-41-nose-1,41-nose,¢uri,¢uri,ts u r i,103,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+ProtoNahua-41-nose-1,41-nose,*yeka-¢ol-/*yaka,yeka-¢ol-,j e k a + ts o l,103,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+ProtoNahua-41-nose-2,41-nose,*yeka-¢ol-/*yaka,yaka,j a k a,104,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+Tepiman-41-nose-1,41-nose,daak,daak,d aː k,104,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+Cahita-41-nose-1,41-nose,yéka,yéka,j e k a,104,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+Tarahumaran-41-nose-1,41-nose,yaká,yaká,j a k a,104,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+ProtoCoracholNahua-41-nose-1,41-nose,**¢ori-,¢ori-,ts o r i,103,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+ProtoUtoAztecan-41-nose-1,41-nose,**yeka SUA/**¢o ‘snout’ SUA,yeka_SUA,j e k a,103,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+ProtoUtoAztecan-41-nose-2,41-nose,**yeka SUA/**¢o ‘snout’ SUA,¢o_‘snout,ts o,104,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Nose,1221,NOSE,false,expert
+Cora-42-mouth-1,42-mouth,teni,teni,t e n i,105,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+Huichol-42-mouth-1,42-mouth,teta,teta,t e t a,105,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+ProtoNahua-42-mouth-1,42-mouth,*kama/(*te:n- labio),kama,k a m a,106,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+Tepiman-42-mouth-1,42-mouth,tɨɨn,tɨɨn,t ɨː n,105,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+Cahita-42-mouth-1,42-mouth,téni,téni,t e n i,105,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+Tarahumaran-42-mouth-1,42-mouth,¢u’a,¢u,ts u,107,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+ProtoCoracholNahua-42-mouth-1,42-mouth,*te:n,te:n,t eː n,105,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+ProtoUtoAztecan-42-mouth-1,42-mouth,*tɨna,tɨna,t ɨ n a,105,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Mouth,674,MOUTH,false,expert
+Cora-43-tooth-1,43-tooth,tamé,tamé,t a m e,108,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+Huichol-43-tooth-1,43-tooth,tame,tame,t a m e,108,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+ProtoNahua-43-tooth-1,43-tooth,*ƛa:n-,ƛa:n-,tɬ aː n,108,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+Tepiman-43-tooth-1,43-tooth,tama,tama,t a m a,108,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+Cahita-43-tooth-1,43-tooth,támi,támi,t a m i,108,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+Tarahumaran-43-tooth-1,43-tooth,tamé,tamé,t a m e,108,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+ProtoUtoAztecan-43-tooth-1,43-tooth,**tame SUA,tame_SUA,t a m e,108,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Tooth,1380,TOOTH,false,expert
+Cora-44-tongue-1,44-tongue,nanuri,nanuri,n a n u r i,109,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+Huichol-44-tongue-1,44-tongue,neni,neni,n e n i,109,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+ProtoNahua-44-tongue-1,44-tongue,*nenepil,nenepil,n e n e p i l,109,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+Tepiman-44-tongue-1,44-tongue,nɨɨni,nɨɨni,n ɨː n i,109,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+Cahita-44-tongue-1,44-tongue,níni,níni,n i n i,109,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+ProtoUtoAztecan-44-tongue-1,44-tongue,*nenɨ SUA,nenɨ_SUA,n e n ɨ,109,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Tongue,1205,TONGUE,false,expert
+Cora-45-fingernailtoenail-1,45-fingernailtoenail,kú¢ape’e,kú¢ape,k u ts a p e,110,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+Huichol-45-fingernailtoenail-1,45-fingernailtoenail,ʂɨte,ʂɨte,ʂ ɨ t e,111,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+ProtoNahua-45-fingernailtoenail-1,45-fingernailtoenail,*iste,iste,i s t e,111,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+Tepiman-45-fingernailtoenail-1,45-fingernailtoenail,huutu,huutu,h uː t u,111,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+Cahita-45-fingernailtoenail-1,45-fingernailtoenail,sútu,sútu,s u t u,111,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+Tarahumaran-45-fingernailtoenail-1,45-fingernailtoenail,suhtú,suhtú,s u h t u,111,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+ProtoCoracholNahua-45-fingernailtoenail-1,45-fingernailtoenail,**sɨté,sɨté,s ɨ t e,111,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+ProtoUtoAztecan-45-fingernailtoenail-1,45-fingernailtoenail,*sutu,sutu,s u t u,111,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,"Fingernail, toenail",1896,FINGERNAIL OR TOENAIL,false,expert
+Cora-46-foot-1,46-foot,čepa,čepa,tʃ e p a,112,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+Huichol-46-foot-1,46-foot,ɨka,ɨka,ɨ k a,112,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+ProtoNahua-46-foot-1,46-foot,*ikši <**kèsi/kàsi,ikši_<kèsi,i k ʃ i,112,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+ProtoNahua-46-foot-2,46-foot,*ikši <**kèsi/kàsi,kàsi,k a s i,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Foot,1301,FOOT,,
+Tepiman-46-foot-1,46-foot,kɨsa/tára,kɨsa,k ɨ s a,112,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+Tepiman-46-foot-2,46-foot,kɨsa/tára,tára,t a r a,,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Foot,1301,FOOT,,
+Cahita-46-foot-1,46-foot,wókim,wókim,w o k i m,113,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+Tarahumaran-46-foot-1,46-foot,kasí/talá,kasí,k a s i,112,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+Tarahumaran-46-foot-2,46-foot,kasí/talá,talá,t a l a,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Foot,1301,FOOT,,
+ProtoUtoAztecan-46-foot-1,46-foot,*ke-/ka,ke-,k e,112,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Foot,1301,FOOT,false,expert
+ProtoUtoAztecan-46-foot-2,46-foot,*ke-/ka,ka,k a,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Foot,1301,FOOT,,
+Cora-47-knee-1,47-knee,tunú,tunú,t u n u,114,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+Huichol-47-knee-1,47-knee,ʂatɨ,ʂatɨ,ʂ a t ɨ,115,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+ProtoNahua-47-knee-1,47-knee,*ƛankwa:-,ƛankwa:-,tɬ a n kʷ aː,114,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+Tepiman-47-knee-1,47-knee,tóono,tóono,t o o n o,114,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+Cahita-47-knee-1,47-knee,tóno,tóno,t o n o,114,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+Tarahumaran-47-knee-1,47-knee,¢opokori,¢opokori,ts o p o k o r i,116,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+ProtoUtoAztecan-47-knee-1,47-knee,**taŋa PUA/**toŋa PUA,taŋa_PUA,t a ŋ a,114,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+ProtoUtoAztecan-47-knee-2,47-knee,**taŋa PUA/**toŋa PUA,toŋa_PUA,t o ŋ a,116,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Knee,1371,KNEE,false,expert
+Cora-48-hand-1,48-hand,mwahka’a,mwahka,mʷ a h k a,117,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Huichol-48-hand-1,48-hand,mama,mama,m a m a,117,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Hand,1277,HAND,false,expert
+ProtoNahua-48-hand-1,48-hand,*ma:-,ma:-,m aː,117,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Tepiman-48-hand-1,48-hand,novi,novi,n o v i,118,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Cahita-48-hand-1,48-hand,mam,mam,m a m,117,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Tarahumaran-48-hand-1,48-hand,ma/seká,ma,m a,117,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Tarahumaran-48-hand-2,48-hand,ma/seká,seká,s e k a,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hand,1277,HAND,,
+ProtoCoracholNahua-48-hand-1,48-hand,*ma:,ma:,m aː,119,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+ProtoUtoAztecan-48-hand-1,48-hand,*ma PUA,ma_PUA,m a,117,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hand,1277,HAND,false,expert
+Cora-49-belly-1,49-belly,huká/huti?(Ortega 1973)/,ɨhti,ɨ h t i,120,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+Huichol-49-belly-1,49-belly,huka/(huriepa Grimes),huka,h u k a,120,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+ProtoNahua-49-belly-1,49-belly,*ihte- < *hòté,ihte-,i h t e,121,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+Tepiman-49-belly-1,49-belly,vóoka,vóoka,v o o k a,120,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+Cahita-49-belly-1,49-belly,tópa,tópa,t o p a,122,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+Tarahumaran-49-belly-1,49-belly,topá,topá,t o p a,122,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+ProtoCoracholNahua-49-belly-1,49-belly,**hotie-,hotie-,h o t i e,120,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+ProtoUtoAztecan-49-belly-1,49-belly,**poka PUA/,poka_PUA,p o k a,120,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Belly,1251,BELLY,false,expert
+Cora-50-bellybutton-1,50-bellybutton,sipu¢i,sipu¢i,s i p u ts i,123,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+Huichol-50-bellybutton-1,50-bellybutton,ʂɨtemu¢i,ʂɨtemu¢i,ʂ ɨ t e m u ts i,123,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+ProtoNahua-50-bellybutton-1,50-bellybutton,*šik-/*tempo¢ ‘pursed lips’,šik-,ʃ i k,123,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+ProtoNahua-50-bellybutton-2,50-bellybutton,*šik-/*tempo¢ ‘pursed lips’,tempo¢_‘pursed_lips,t e m p o ts,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Belly button,1838,NAVEL,,
+Tepiman-50-bellybutton-1,50-bellybutton,hiko,hiko,h i k o,123,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+Cahita-50-bellybutton-1,50-bellybutton,síiku,síiku,s i i k u,123,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+Tarahumaran-50-bellybutton-1,50-bellybutton,sikú,sikú,s i k u,123,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+ProtoCoracholNahua-50-bellybutton-1,50-bellybutton,**siku-**tempo¢i,siku-tempo¢i,s i k u + t e m p o ts i,123,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+ProtoUtoAztecan-50-bellybutton-1,50-bellybutton,**siku SUA,siku_SUA,s i k u,123,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Belly button,1838,NAVEL,false,expert
+Cora-51-neck-1,51-neck,kɨhpí,kɨhpí,k ɨ h p i,124,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+Huichol-51-neck-1,51-neck,kɨipi,kɨipi,k ɨ i p i,124,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Neck,1333,NECK,false,expert
+ProtoNahua-51-neck-1,51-neck,*ke:č-pa-,ke:č-pa-,k eː tʃ + p a,124,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+Tepiman-51-neck-1,51-neck,kusivo,kusivo,k u s i v o,124,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+Cahita-51-neck-1,51-neck,kútana//bi’am,kútana,k u t a n a,125,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+Cahita-51-neck-2,51-neck,kútana//bi’am,bi,b i,,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Neck,1333,NECK,,
+Tarahumaran-51-neck-1,51-neck,kuhtamó,kuhtamó,k u h t a m o,125,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+ProtoUtoAztecan-51-neck-1,51-neck,*kusi-pa PUA,kusi-pa_PUA,k u s i + p a,124,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Neck,1333,NECK,false,expert
+Cora-52-breasts-1,52-breasts,?tabí?,?tabí?,t a b i,126,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+Huichol-52-breasts-1,52-breasts,¢i¢I (Grimes),¢i¢I_,ts i ts i,127,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+ProtoNahua-52-breasts-1,52-breasts,*čičiwal,čičiwal,tʃ i tʃ i w a l,127,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+Tepiman-52-breasts-1,52-breasts,vipi,vipi,v i p i,128,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+Cahita-52-breasts-1,52-breasts,pípim,pípim,p i p i m,128,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+Tarahumaran-52-breasts-1,52-breasts,piwa/čiwara,piwa,p i w a,127,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+Tarahumaran-52-breasts-2,52-breasts,piwa/čiwara,čiwara,tʃ i w a r a,128,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+ProtoUtoAztecan-52-breasts-1,52-breasts,*pipi/**¢i¢i,pipi,p i p i,127,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Breasts,1402,BREAST,false,expert
+ProtoUtoAztecan-52-breasts-2,52-breasts,*pipi/**¢i¢i,¢i¢i,ts i ts i,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Breasts,1402,BREAST,,
+Cora-53-heart-1,53-heart,sɨéheniu’ukari/(ruurikame ‘animal’),sɨéheniu,s ɨ h e n i u,129,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+Huichol-53-heart-1,53-heart,iyari,iyari,i j a r i,130,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Heart,1223,HEART,false,expert
+ProtoNahua-53-heart-1,53-heart,*yo:lyoh,yo:lyoh,j l j o h,130,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+Tepiman-53-heart-1,53-heart,hura,hura,h u r a,131,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+Cahita-53-heart-1,53-heart,hiapsi//súla/(yorem ‘person’),hiapsi,h i a p s i,131,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+Cahita-53-heart-2,53-heart,hiapsi//súla/(yorem ‘person’),súla,s u l a,,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Heart,1223,HEART,,
+Tarahumaran-53-heart-1,53-heart,surá,surá,s u r a,131,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+ProtoCoracholNahua-53-heart-1,53-heart,*yauri,yauri,j au r i,130,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+ProtoUtoAztecan-53-heart-1,53-heart,**sura/,sura,s u r a,131,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Heart,1223,HEART,false,expert
+Cora-54-liver-1,54-liver,neemwa/,neemwa,n eː mʷ a,132,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+Huichol-54-liver-1,54-liver,nema,nema,n e m a,132,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+ProtoNahua-54-liver-1,54-liver,*yel-,yel-,j e l,133,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+Tepiman-54-liver-1,54-liver,nɨma,nɨma,n ɨ m a,132,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+Cahita-54-liver-1,54-liver,hémam,hémam,h e m a m,132,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+Tarahumaran-54-liver-1,54-liver,ema,ema,e m a,132,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+ProtoUtoAztecan-54-liver-1,54-liver,*nɨma PUA,nɨma_PUA,n ɨ m a,132,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Liver,1224,LIVER,false,expert
+Cora-55-drink-1,55-drink,-í’i-,-í,i,134,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+Huichol-55-drink-1,55-drink,iya,iya,i j a,134,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+ProtoNahua-55-drink-1,55-drink,*i:,i:,iː,134,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+Tepiman-55-drink-1,55-drink,ii,ii,iː,134,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+Cahita-55-drink-1,55-drink,hee,hee,h eː,134,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+Tarahumaran-55-drink-1,55-drink,hi,hi,h i,134,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+ProtoCoracholNahua-55-drink-1,55-drink,**i:,i:,iː,134,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+ProtoUtoAztecan-55-drink-1,55-drink,*hipi PUA,hipi_PUA,h i p i,134,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Drink,1401,DRINK,false,expert
+Cora-56-eat-1,56-eat,kwá,kwá,kʷ a,135,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+Huichol-56-eat-1,56-eat,kwai-ya,kwai-ya,kʷ ai + j a,135,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Eat,1336,EAT,false,expert
+ProtoNahua-56-eat-1,56-eat,*kwa:,kwa:,kʷ aː,135,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+Tepiman-56-eat-1,56-eat,ko’a,ko,k o,135,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+Cahita-56-eat-1,56-eat,bwa,bwa,bʷ a,135,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+Tarahumaran-56-eat-1,56-eat,ko’a,ko,k o,135,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+ProtoCoracholNahua-56-eat-1,56-eat,**kwa,kwa,kʷ a,135,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+ProtoUtoAztecan-56-eat-1,56-eat,*kwa PUA,kwa_PUA,kʷ a,135,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Eat,1336,EAT,false,expert
+Cora-57-bite-1,57-bite,čé,čé,tʃ e,136,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+Huichol-57-bite-1,57-bite,kee,kee,k eː,136,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Bite,1403,BITE,false,expert
+ProtoNahua-57-bite-1,57-bite,*ke¢oma,ke¢oma,k e ts o m a,136,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+Tepiman-57-bite-1,57-bite,kɨyi,kɨyi,k ɨ j i,136,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+Cahita-57-bite-1,57-bite,keye,keye,k e j e,136,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+Tarahumaran-57-bite-1,57-bite,ki¢u,ki¢u,k i ts u,136,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+ProtoCoracholNahua-57-bite-1,57-bite,*ke,ke,k e,137,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+ProtoUtoAztecan-57-bite-1,57-bite,**kɨ¢a PUA,kɨ¢a_PUA,k ɨ ts a,136,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Bite,1403,BITE,false,expert
+Cora-58-vomit-1,58-vomit,hara’a,hara,h a r a,138,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+ProtoNahua-58-vomit-1,58-vomit,*yesoƛa,yesoƛa,j e s o tɬ a,139,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+Tepiman-58-vomit-1,58-vomit,wihot,wihot,w i h o t,139,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+Cahita-58-vomit-1,58-vomit,bísata,bísata,b i s a t a,139,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+Tarahumaran-58-vomit-1,58-vomit,kopéso,kopéso,k o p e s o,139,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+ProtoUtoAztecan-58-vomit-1,58-vomit,**piso PUA/*hara SUA,piso_PUA,p i s o,138,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+ProtoUtoAztecan-58-vomit-2,58-vomit,**piso PUA/*hara SUA,hara_SUA,h a r a,139,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Vomit,1278,VOMIT,false,expert
+Cora-59-see-1,59-see,séihra,séihra,s e i h r a,140,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,See,1409,SEE,false,expert
+Huichol-59-see-1,59-see,ʂeiya,ʂeiya,ʂ ei j a,140,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,See,1409,SEE,false,expert
+ProtoNahua-59-see-1,59-see,*či:ya/*itta/*temoa,či:ya,tʃ iː j a,140,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,See,1409,SEE,false,expert
+ProtoNahua-59-see-2,59-see,*či:ya/*itta/*temoa,itta,i t t a,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,See,1409,SEE,,
+ProtoNahua-59-see-3,59-see,*či:ya/*itta/*temoa,temoa,t e m o a,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,See,1409,SEE,,
+Tepiman-59-see-1,59-see,tɨɨga,tɨɨga,t ɨː g a,140,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,See,1409,SEE,false,expert
+Cahita-59-see-1,59-see,téwa,téwa,t e w a,141,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,See,1409,SEE,false,expert
+Tarahumaran-59-see-1,59-see,tewa,tewa,t e w a,141,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,See,1409,SEE,false,expert
+ProtoCoracholNahua-59-see-1,59-see,*¢eiya,¢eiya,ts ei j a,140,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,See,1409,SEE,false,expert
+ProtoUtoAztecan-59-see-1,59-see,**tɨwa,tɨwa,t ɨ w a,141,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,See,1409,SEE,false,expert
+Cora-60-hear-1,60-hear,namwá,namwá,n a mʷ a,142,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+Huichol-60-hear-1,60-hear,enarika,enarika,e n a r i k a,142,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+ProtoNahua-60-hear-1,60-hear,*kaki,kaki,k a k i,143,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+Tepiman-60-hear-1,60-hear,kahɨ,kahɨ,k a h ɨ,143,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+Cahita-60-hear-1,60-hear,hikkaha,hikkaha,h i k k a h a,143,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+Tarahumaran-60-hear-1,60-hear,ake,ake,a k e,143,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+ProtoUtoAztecan-60-hear-1,60-hear,**kahi PUA/**nakka ’ear’ PUA,kahi,k a h i,143,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Hear,1408,HEAR,false,expert
+Cora-61-know-1,61-know,mware’e/(mwa¢ira),mware,mʷ a r e,144,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+Huichol-61-know-1,61-know,maiya,maiya,m ai j a,144,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+ProtoNahua-61-know-1,61-know,*mati/*mači,mati,m a t i,144,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+ProtoNahua-61-know-2,61-know,*mati/*mači,mači,m a tʃ i,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),,
+Tepiman-61-know-1,61-know,matɨ,matɨ,m a t ɨ,144,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+Cahita-61-know-1,61-know,ma¢i,ma¢i,m a ts i,144,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+Tarahumaran-61-know-1,61-know,pené,pené,p e n e,145,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+ProtoUtoAztecan-61-know-1,61-know,**mati,mati,m a t i,144,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Know,1410,KNOW (SOMETHING),false,expert
+Cora-62-sleep-1,62-sleep,ku¢i,ku¢i,k u ts i,146,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+Huichol-62-sleep-1,62-sleep,ku¢i,ku¢i,k u ts i,146,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+ProtoNahua-62-sleep-1,62-sleep,*koči,koči,k o tʃ i,146,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+Tepiman-62-sleep-1,62-sleep,koosig,koosig,k oː s i g,146,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+Cahita-62-sleep-1,62-sleep,kotče,kotče,k o t tʃ e,146,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+Tarahumaran-62-sleep-1,62-sleep,ko¢i-,ko¢i-,k o ts i,146,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+ProtoUtoAztecan-62-sleep-1,62-sleep,**ko¢i SUA,ko¢i_SUA,k o ts i,146,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Sleep,1585,SLEEP,false,expert
+Cora-63-die-1,63-die,mɨ’ɨ,mɨ,m ɨ,147,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Die,1494,DIE,false,expert
+Huichol-63-die-1,63-die,mɨiya,mɨiya,m ɨ i j a,147,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Die,1494,DIE,false,expert
+ProtoNahua-63-die-1,63-die,*miki,miki,m i k i,147,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Die,1494,DIE,false,expert
+Tepiman-63-die-1,63-die,muki,muki,m u k i,147,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Die,1494,DIE,false,expert
+Cahita-63-die-1,63-die,múuke,múuke,m uː k e,147,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Die,1494,DIE,false,expert
+Tarahumaran-63-die-1,63-die,mukú,mukú,m u k u,147,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Die,1494,DIE,false,expert
+ProtoUtoAztecan-63-die-1,63-die,**muki PUA,muki_PUA,m u k i,147,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Die,1494,DIE,false,expert
+Cora-64-kill-1,64-kill,*he’ika,he,h e,148,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+Huichol-64-kill-1,64-kill,mieriya,mieriya,m i e r i j a,149,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Kill,1417,KILL,false,expert
+ProtoNahua-64-kill-1,64-kill,*miktia,miktia,m i k t i a,150,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+Tepiman-64-kill-1,64-kill,mɨ’a,mɨ,m ɨ,149,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+Cahita-64-kill-1,64-kill,mé’a,mé,m e,149,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+Tarahumaran-64-kill-1,64-kill,me’á,me,m e,149,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+ProtoUtoAztecan-64-kill-1,64-kill,**mɨkka/mɨ’a,mɨkka,m ɨ k k a,149,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Kill,1417,KILL,false,expert
+ProtoUtoAztecan-64-kill-2,64-kill,**mɨkka/mɨ’a,mɨ,m ɨ,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Kill,1417,KILL,,
+Cora-65-flyv-1,65-flyv,wará’ara’isiin,waráisiin,w a r a i s iː n,151,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+Huichol-65-flyv-1,65-flyv,wiya,wiya,w i j a,152,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+ProtoNahua-65-flyv-1,65-flyv,*paƛani,paƛani,p a tɬ a n i,153,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+Tepiman-65-flyv-1,65-flyv,nɨ’i,nɨ,n ɨ,154,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+Cahita-65-flyv-1,65-flyv,né’e,né,n e,154,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+Tarahumaran-65-flyv-1,65-flyv,i’ni,i,i,154,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+ProtoUtoAztecan-65-flyv-1,65-flyv,**nɨ’i/**pata PUA,nɨ,n ɨ,153,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Fly (v),1441,FLY (MOVE THROUGH AIR),false,expert
+Cora-66-walkv-1,66-walkv,-yeiwe,-yeiwe,j w e,155,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+Huichol-66-walkv-1,66-walkv,yeiya,yeiya,j e i j a,155,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+ProtoNahua-66-walkv-1,66-walkv,*yawi/*nehnemi,yawi,j a w i,155,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+ProtoNahua-66-walkv-2,66-walkv,*yawi/*nehnemi,nehnemi,n e h n e m i,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Walk (v),1443,WALK,,
+Tepiman-66-walkv-1,66-walkv,sime,sime,s i m e,156,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+Cahita-66-walkv-1,66-walkv,siime,siime,s iː m e,156,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+Tarahumaran-66-walkv-1,66-walkv,simí,simí,s i m i,156,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+ProtoCoracholNahua-66-walkv-1,66-walkv,**yai-wi,yai-wi,j ai + w i,155,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+ProtoUtoAztecan-66-walkv-1,66-walkv,**yapi/**ya’i PUA,yapi,j a p i,155,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Walk (v),1443,WALK,false,expert
+ProtoUtoAztecan-66-walkv-2,66-walkv,**yapi/**ya’i PUA,ya,j a,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Walk (v),1443,WALK,,
+Cora-67-come-1,67-come,-bé’ene,-bé,b e,157,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Come,1446,COME,false,expert
+Huichol-67-come-1,67-come,ha-mie,ha-mie,h a + m i e,158,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Come,1446,COME,false,expert
+ProtoNahua-67-come-1,67-come,*wa:l-yawi/,wa:l-yawi,w aː l + j a w i,159,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Come,1446,COME,false,expert
+Tepiman-67-come-1,67-come,*yɨwa,yɨwa,j ɨ w a,160,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Come,1446,COME,false,expert
+Cahita-67-come-1,67-come,yépsa,yépsa,j e p s a,160,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Come,1446,COME,false,expert
+Tarahumaran-67-come-1,67-come,noite,noite,n o i t e,161,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Come,1446,COME,false,expert
+ProtoUtoAztecan-67-come-1,67-come,**yiwa SUA,yiwa_SUA,j i w a,158,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Come,1446,COME,false,expert
+Cora-68-liev-1,68-liev,waka’a,waka,w a k a,162,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+Huichol-68-liev-1,68-liev,ka,ka,k a,163,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+ProtoNahua-68-liev-1,68-liev,*ok < hó-kà/(*ka ‘estar’)/,ok,o k,162,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+Tepiman-68-liev-1,68-liev,*vo(po),vo,v o,162,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+Cahita-68-liev-1,68-liev,bó’oka,bó,b o,162,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+Tarahumaran-68-liev-1,68-liev,po’i,po,p o,162,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+ProtoCoracholNahua-68-liev-1,68-liev,**wáukà,wáukà,w au k a,162,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+ProtoUtoAztecan-68-liev-1,68-liev,**wo SUA,wo_SUA,w o,162,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Lie (v),1411,LIE (REST),false,expert
+Cora-69-sit-1,69-sit,auhká < wauhká/(yeih sentar),auhká,au h k a,164,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+Huichol-69-sit-1,69-sit,ka/(yáa),ka,k a,165,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sit,1416,SIT,false,expert
+ProtoNahua-69-sit-1,69-sit,*yetok,yetok,j e t o k,166,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+Tepiman-69-sit-1,69-sit,dahi,dahi,d a h i,166,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+Cahita-69-sit-1,69-sit,yésasa,yésasa,j e s a s a,166,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+Tarahumaran-69-sit-1,69-sit,yasipá,yasipá,j a s i p a,166,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+ProtoCoracholNahua-69-sit-1,69-sit,**yeih,yeih,j ei h,166,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+ProtoUtoAztecan-69-sit-1,69-sit,**yasi SUA,yasi_SUA,j a s i,166,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Sit,1416,SIT,false,expert
+Cora-70-stand-1,70-stand,-téhebee,-téhebee,t e h e b eː,167,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+Huichol-70-stand-1,70-stand,téwi,téwi,t e w i,167,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Stand,1442,STAND,false,expert
+ProtoNahua-70-stand-1,70-stand,*ihkak < kèká,ihkak,i h k a k,168,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+Tepiman-70-stand-1,70-stand,kɨka/*wɨka,kɨka,k ɨ k a,168,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+Tepiman-70-stand-2,70-stand,kɨka/*wɨka,wɨka,w ɨ k a,,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Stand,1442,STAND,,
+Cahita-70-stand-1,70-stand,wéyek,wéyek,w e j e k,169,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+Tarahumaran-70-stand-1,70-stand,weri,weri,w e r i,169,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+ProtoUtoAztecan-70-stand-1,70-stand,*keka,keka,k e k a,168,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Stand,1442,STAND,false,expert
+ProtoNahua-71-give-1,71-give,*maka,maka,m a k a,170,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Give,1447,GIVE,false,expert
+Tepiman-71-give-1,71-give,maaka,maaka,m aː k a,170,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Give,1447,GIVE,false,expert
+Cahita-71-give-1,71-give,máka/míka,máka,m a k a,170,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Give,1447,GIVE,false,expert
+Cahita-71-give-2,71-give,máka/míka,míka,m i k a,,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Give,1447,GIVE,,
+Tarahumaran-71-give-1,71-give,ki’ya,ki,k i,171,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Give,1447,GIVE,false,expert
+ProtoUtoAztecan-71-give-1,71-give,*maka PUA,maka_PUA,m a k a,170,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Give,1447,GIVE,false,expert
+Cora-72-sing-1,72-sing,čwíka,čwíka,tʃʷ i k a,172,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sing,1261,SING,false,expert
+Huichol-72-sing-1,72-sing,kwikariya,kwikariya,kʷ i k a r i j a,172,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sing,1261,SING,false,expert
+ProtoNahua-72-sing-1,72-sing,*kwika,kwika,kʷ i k a,172,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sing,1261,SING,false,expert
+Tepiman-72-sing-1,72-sing,nɨ’i,nɨ,n ɨ,173,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sing,1261,SING,false,expert
+Cahita-72-sing-1,72-sing,bwíka,bwíka,bʷ i k a,172,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sing,1261,SING,false,expert
+Tarahumaran-72-sing-1,72-sing,wikatá,wikatá,w i k a t a,172,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sing,1261,SING,false,expert
+ProtoUtoAztecan-72-sing-1,72-sing,**kwika PUA,kwika_PUA,kʷ i k a,172,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Sing,1261,SING,false,expert
+Cora-73-sun-1,73-sun,sɨkah,sɨkah,s ɨ k a h,174,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+Huichol-73-sun-1,73-sun,tau,tau,t au,175,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sun,1343,SUN,false,expert
+ProtoNahua-73-sun-1,73-sun,*to:nal-,to:nal-,t oː n a l,175,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+Tepiman-73-sun-1,73-sun,tása,tása,t a s a,176,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+Cahita-73-sun-1,73-sun,tá’a,tá,t a,176,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+Tarahumaran-73-sun-1,73-sun,táhenari,táhenari,t a h e n a r i,176,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+ProtoCoracholNahua-73-sun-1,73-sun,**tau,tau,t au,175,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+ProtoUtoAztecan-73-sun-1,73-sun,*tawa PUA,tawa_PUA,t a w a,175,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Sun,1343,SUN,false,expert
+Cora-74-moon-1,74-moon,maskɨrai,maskɨrai,m a s k ɨ r ai,177,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+Huichol-74-moon-1,74-moon,me¢a,me¢a,m e ts a,177,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Moon,1313,MOON,false,expert
+ProtoNahua-74-moon-1,74-moon,*me¢-,me¢-,m e ts,177,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+Tepiman-74-moon-1,74-moon,masaada,masaada,m a s aː d a,177,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+Cahita-74-moon-1,74-moon,mé¢a,mé¢a,m e ts a,177,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+Tarahumaran-74-moon-1,74-moon,me¢á,me¢á,m e ts a,177,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+ProtoUtoAztecan-74-moon-1,74-moon,**mé¢a SUA,mé¢a_SUA,m e ts a,177,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Moon,1313,MOON,false,expert
+Cora-75-star-1,75-star,sú’ura’abe,súabe,s u a b e,178,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Star,1430,STAR,false,expert
+Huichol-75-star-1,75-star,ʂurawe,ʂurawe,ʂ u r a w e,178,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Star,1430,STAR,false,expert
+ProtoNahua-75-star-1,75-star,*sital-,sital-,s i t a l,178,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Star,1430,STAR,false,expert
+Tepiman-75-star-1,75-star,sipo/suu,sipo,s i p o,179,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Star,1430,STAR,false,expert
+Tepiman-75-star-2,75-star,sipo/suu,suu,s uː,,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Star,1430,STAR,,
+Cahita-75-star-1,75-star,čóki,čóki,tʃ o k i,180,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Star,1430,STAR,false,expert
+Tarahumaran-75-star-1,75-star,so’póri,so,s o,179,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Star,1430,STAR,false,expert
+ProtoCoracholNahua-75-star-1,75-star,**su:ta-,su:ta-,s uː t a,178,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Star,1430,STAR,false,expert
+ProtoUtoAztecan-75-star-1,75-star,**suu PUA,suu_PUA,s uː,178,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Star,1430,STAR,false,expert
+Cora-76-sky-1,76-sky,tahapwá,tahapwá,t a h a pʷ a,181,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+Huichol-76-sky-1,76-sky,muyuawi¢ie,muyuawi¢ie,m u j u a w i ts i e,182,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sky,1732,SKY,false,expert
+ProtoNahua-76-sky-1,76-sky,*ilwika- < ƛèwíka,ilwika,i l w i k a,183,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+Tepiman-76-sky-1,76-sky,tɨvagi,tɨvagi,t ɨ v a g i,183,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+Cahita-76-sky-1,76-sky,téeka,téeka,t eː k a,183,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+Tarahumaran-76-sky-1,76-sky,teweká,teweká,t e w e k a,183,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+ProtoUtoAztecan-76-sky-1,76-sky,**tawika SUA,tawika_SUA,t a w i k a,183,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Sky,1732,SKY,false,expert
+Cora-77-water-1,77-water,hah,hah,h a h,184,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Water,948,WATER,false,expert
+Huichol-77-water-1,77-water,ha,ha,h a,184,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Water,948,WATER,false,expert
+ProtoNahua-77-water-1,77-water,*a:-,a:-,aː,184,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Water,948,WATER,false,expert
+Tepiman-77-water-1,77-water,sudagi < sbuyawi,sudagi,s u d a g i,185,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Water,948,WATER,false,expert
+Cahita-77-water-1,77-water,báa,báa,b aː,184,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Water,948,WATER,false,expert
+Tarahumaran-77-water-1,77-water,pawí,pawí,p a w i,184,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Water,948,WATER,false,expert
+ProtoCoracholNahua-77-water-1,77-water,**ha:,ha:,h aː,184,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Water,948,WATER,false,expert
+ProtoUtoAztecan-77-water-1,77-water,*pa: PUA/*wa SUA,pa:_PUA,p aː,184,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Water,948,WATER,false,expert
+ProtoUtoAztecan-77-water-2,77-water,*pa: PUA/*wa SUA,wa_SUA,w a,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Water,948,WATER,,
+Cora-78-wind-1,78-wind,eeka,eeka,eː k a,186,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Wind,960,WIND,false,expert
+Huichol-78-wind-1,78-wind,eeka,eeka,eː k a,186,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Wind,960,WIND,false,expert
+ProtoNahua-78-wind-1,78-wind,*yehyeka-/eheka,yehyeka-,j e h j e k a,186,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Wind,960,WIND,false,expert
+ProtoNahua-78-wind-2,78-wind,*yehyeka-/eheka,eheka,e h e k a,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Wind,960,WIND,,
+Tepiman-78-wind-1,78-wind,hɨvɨri,hɨvɨri,h ɨ v ɨ r i,187,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Wind,960,WIND,false,expert
+Cahita-78-wind-1,78-wind,héeka,héeka,h eː k a,186,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Wind,960,WIND,false,expert
+Tarahumaran-78-wind-1,78-wind,eká,eká,e k a,186,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Wind,960,WIND,false,expert
+ProtoUtoAztecan-78-wind-1,78-wind,/**heka SUA/,heka_SUA,h e k a,186,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Wind,960,WIND,false,expert
+Cora-79-rainn-1,79-rainn,biite,biite,b iː t e,188,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+Huichol-79-rainn-1,79-rainn,wiyeri,wiyeri,w i j e r i,188,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+ProtoNahua-79-rainn-1,79-rainn,*kiyawi-,kiyawi-,k i j a w i,188,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+Tepiman-79-rainn-1,79-rainn,duku,duku,d u k u,189,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+Cahita-79-rainn-1,79-rainn,yúke,yúke,j u k e,189,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+Tarahumaran-79-rainn-1,79-rainn,yu’kí,yu,j u,189,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+ProtoCoracholNahua-79-rainn-1,79-rainn,**wi,wi,w i,188,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+ProtoUtoAztecan-79-rainn-1,79-rainn,*yuku SUA/**wi PUA,yuku_SUA,j u k u,188,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),false,expert
+ProtoUtoAztecan-79-rainn-2,79-rainn,*yuku SUA/**wi PUA,wi_PUA,w i,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Rain (n),658,RAIN (PRECIPITATION),,
+Cora-80-snown-1,80-snown,seeri,seeri,s eː r i,190,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+Huichol-80-snown-1,80-snown,ɨɨví,ɨɨví,ɨː v i,191,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+ProtoNahua-80-snown-1,80-snown,*se,se,s e,190,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+Tepiman-80-snown-1,80-snown,kɨvai,kɨvai,k ɨ v ai,192,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+Cahita-80-snown-1,80-snown,sápam,sápam,s a p a m,193,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+Tarahumaran-80-snown-1,80-snown,kepá,kepá,k e p a,192,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+ProtoCoracholNahua-80-snown-1,80-snown,**se,se,s e,190,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+ProtoUtoAztecan-80-snown-1,80-snown,*kɨpa,kɨpa,k ɨ p a,194,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Snow (n),784,SNOW,false,expert
+Cora-81-stone-1,81-stone,teté,teté,t e t e,195,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Stone,857,STONE,false,expert
+Huichol-81-stone-1,81-stone,tete,tete,t e t e,195,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Stone,857,STONE,false,expert
+ProtoNahua-81-stone-1,81-stone,*te-,te-,t e,195,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Stone,857,STONE,false,expert
+Tepiman-81-stone-1,81-stone,*hoda < soya?,hoda,h o d a,196,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Stone,857,STONE,false,expert
+Cahita-81-stone-1,81-stone,téta,téta,t e t a,195,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Stone,857,STONE,false,expert
+Tarahumaran-81-stone-1,81-stone,teté,teté,t e t e,195,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Stone,857,STONE,false,expert
+ProtoCoracholNahua-81-stone-1,81-stone,**te,te,t e,195,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Stone,857,STONE,false,expert
+ProtoUtoAztecan-81-stone-1,81-stone,**te SUA/**tɨ- PUA,te_SUA,t e,195,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Stone,857,STONE,false,expert
+ProtoUtoAztecan-81-stone-2,81-stone,**te SUA/**tɨ- PUA,tɨ-_PUA,t ɨ,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Stone,857,STONE,,
+Cora-82-sand-1,82-sand,seh,seh,s e h,197,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Sand,671,SAND,false,expert
+Huichol-82-sand-1,82-sand,ʂiekari,ʂiekari,ʂ i e k a r i,197,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Sand,671,SAND,false,expert
+ProtoNahua-82-sand-1,82-sand,*ša:l-,ša:l-,ʃ aː l,197,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Sand,671,SAND,false,expert
+Tepiman-82-sand-1,82-sand,orai,orai,o r ai,198,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Sand,671,SAND,false,expert
+Cahita-82-sand-1,82-sand,sée’e,sée,s eː,197,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Sand,671,SAND,false,expert
+Tarahumaran-82-sand-1,82-sand,saté/seté,saté,s a t e,197,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sand,671,SAND,false,expert
+Tarahumaran-82-sand-2,82-sand,saté/seté,seté,s e t e,,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Sand,671,SAND,,
+ProtoCoracholNahua-82-sand-1,82-sand,**sihar-,sihar-,s i h a r,197,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Sand,671,SAND,false,expert
+ProtoUtoAztecan-82-sand-1,82-sand,*siCa SUA/sihat tubar,siCa_SUA,s i ts a,197,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Sand,671,SAND,false,expert
+ProtoUtoAztecan-82-sand-2,82-sand,*siCa SUA/sihat tubar,sihat_tubar,s i h a t,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Sand,671,SAND,,
+Cora-83-earth-1,83-earth,kweh,kweh,kʷ e h,199,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+Huichol-83-earth-1,83-earth,kwie,kwie,kʷ i e,199,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+ProtoNahua-83-earth-1,83-earth,*ƛa:l < ƛɨhal/(*kwe:-miƛ ‘zurco’),ƛa:l,tɬ aː l,200,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+Tepiman-83-earth-1,83-earth,dɨvirai,dɨvirai,d ɨ v i r ai,200,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+Cahita-83-earth-1,83-earth,bwiya,bwiya,bʷ i j a,199,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+Tarahumaran-83-earth-1,83-earth,we’é,we,w e,199,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+ProtoUtoAztecan-83-earth-1,83-earth,**kwi PUA/**tɨpal PUA,kwi_PUA,kʷ i,199,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+ProtoUtoAztecan-83-earth-2,83-earth,**kwi PUA/**tɨpal PUA,tɨpal_PUA,t ɨ p a l,200,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Earth,1228,EARTH (SOIL),false,expert
+Cora-84-salt-1,84-salt,unáh,unáh,u n a h,201,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+Huichol-84-salt-1,84-salt,una,una,u n a,201,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Salt,1274,SALT,false,expert
+ProtoNahua-84-salt-1,84-salt,*ista- < *tòsá,ista,i s t a,202,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+Tepiman-84-salt-1,84-salt,ona,ona,o n a,201,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+Cahita-84-salt-1,84-salt,óna,óna,o n a,201,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+Tarahumaran-84-salt-1,84-salt,oná,oná,o n a,201,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+ProtoUtoAztecan-84-salt-1,84-salt,**oŋa PUA/**tusa ‘white earth’ PUA,oŋa_PUA,o ŋ a,201,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Salt,1274,SALT,false,expert
+ProtoUtoAztecan-84-salt-2,84-salt,**oŋa PUA/**tusa ‘white earth’ PUA,tusa_‘white_earth,t u s a,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Salt,1274,SALT,,
+Cora-85-cloud-1,85-cloud,haítɨri,haítɨri,h a i t ɨ r i,203,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+Huichol-85-cloud-1,85-cloud,hai,hai,h ai,203,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+ProtoNahua-85-cloud-1,85-cloud,*mex- /mix-,mex-,m e ʃ,204,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+ProtoNahua-85-cloud-2,85-cloud,*mex- /mix-,mix-,m i ʃ,,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Cloud,1489,CLOUD,,
+Cahita-85-cloud-1,85-cloud,naámu,naámu,n a m u,205,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+Tarahumaran-85-cloud-1,85-cloud,tomóa,tomóa,t o m o a,206,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+ProtoUtoAztecan-85-cloud-1,85-cloud,**tommo/**haki PUA/**musi PUA,tommo,t o m m o,203,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+ProtoUtoAztecan-85-cloud-2,85-cloud,**tommo/**haki PUA/**musi PUA,haki_PUA,h a k i,204,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+ProtoUtoAztecan-85-cloud-3,85-cloud,**tommo/**haki PUA/**musi PUA,musi_PUA,m u s i,206,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Cloud,1489,CLOUD,false,expert
+Cora-86-smoken-1,86-smoken,kɨɨ¢í,kɨɨ¢í,k ɨː ts i,207,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+Huichol-86-smoken-1,86-smoken,kɨ¢i,kɨ¢i,k ɨ ts i,207,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+ProtoNahua-86-smoken-1,86-smoken,*po:k-/(*kwič- ‘hollín’),po:k-,p oː k,207,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+Tepiman-86-smoken-1,86-smoken,kubusi,kubusi,k u b u s i,207,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+Cahita-86-smoken-1,86-smoken,bwíiči,bwíiči,bʷ i i tʃ i,207,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+Tarahumaran-86-smoken-1,86-smoken,moré-,moré-,m o r e,208,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+ProtoUtoAztecan-86-smoken-1,86-smoken,*kwi¢i,kwi¢i,kʷ i ts i,207,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Smoke (n),778,SMOKE (EXHAUST),false,expert
+Cora-87-fire-1,87-fire,taih,taih,t ai h,209,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Huichol-87-fire-1,87-fire,tai,tai,t ai,209,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Fire,221,FIRE,false,expert
+ProtoNahua-87-fire-1,87-fire,*ƛe,ƛe,tɬ e,209,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Tepiman-87-fire-1,87-fire,tai,tai,t ai,209,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Cahita-87-fire-1,87-fire,táhi/náy,táhi,t a h i,209,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Cahita-87-fire-2,87-fire,táhi/náy,náy,n a j,210,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Tarahumaran-87-fire-1,87-fire,na’í,na,n a,210,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+ProtoUtoAztecan-87-fire-1,87-fire,**ƛahi PUA,ƛahi_PUA,tɬ a h i,209,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Fire,221,FIRE,false,expert
+Cora-88-ash-1,88-ash,nasí,nasí,n a s i,211,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Ash,646,ASH,false,expert
+Huichol-88-ash-1,88-ash,naʂi,naʂi,n a ʂ i,211,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Ash,646,ASH,false,expert
+ProtoNahua-88-ash-1,88-ash,*neš,neš,n e ʃ,211,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Ash,646,ASH,false,expert
+Tepiman-88-ash-1,88-ash,mátai,mátai,m a t ai,212,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Ash,646,ASH,false,expert
+Cahita-88-ash-1,88-ash,náposa,náposa,n a p o s a,213,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Ash,646,ASH,false,expert
+Tarahumaran-88-ash-1,88-ash,napisó,napisó,n a p i s o,213,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Ash,646,ASH,false,expert
+ProtoCoracholNahua-88-ash-1,88-ash,**nasi (+tubar),nasi_,n a s i,211,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Ash,646,ASH,false,expert
+Huichol-89-burn-1,89-burn,tai-riya,tai-riya,t ai + r i j a,214,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Burn,2102,BURN,false,expert
+ProtoNahua-89-burn-1,89-burn,*ƛatia/*ƛaƛa,ƛatia,tɬ a t i a,214,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+ProtoNahua-89-burn-2,89-burn,*ƛatia/*ƛaƛa,ƛaƛa,tɬ a tɬ a,214,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+Tepiman-89-burn-1,89-burn,náda,náda,n a d a,215,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+Cahita-89-burn-1,89-burn,táha,táha,t a h a,214,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+Tarahumaran-89-burn-1,89-burn,tahá,tahá,t a h a,214,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+ProtoCoracholNahua-89-burn-1,89-burn,**taitia,taitia,t ai t i a,214,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Burn,2102,BURN,false,expert
+Cora-90-path-1,90-path,huye,huye,h u j e,216,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Path,2252,PATH,false,expert
+Huichol-90-path-1,90-path,huye,huye,h u j e,216,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Path,2252,PATH,false,expert
+ProtoNahua-90-path-1,90-path,*oh-,oh-,o h,216,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Path,2252,PATH,false,expert
+Tepiman-90-path-1,90-path,voi,voi,v o i,216,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Path,2252,PATH,false,expert
+Cahita-90-path-1,90-path,vó’o,vó,v o,216,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Path,2252,PATH,false,expert
+Tarahumaran-90-path-1,90-path,powé,powé,p o w e,216,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Path,2252,PATH,false,expert
+ProtoCoracholNahua-90-path-1,90-path,**ho-ye,ho-ye,h o + j e,216,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Path,2252,PATH,false,expert
+ProtoUtoAztecan-90-path-1,90-path,**po PUA//**wo SUA,po_PUA,p o,216,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Path,2252,PATH,false,expert
+ProtoUtoAztecan-90-path-2,90-path,**po PUA//**wo SUA,wo_SUA,w o,,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Path,2252,PATH,,
+Cora-91-mountain-1,91-mountain,hɨri,hɨri,h ɨ r i,217,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+Huichol-91-mountain-1,91-mountain,yemuri,yemuri,j e m u r i,218,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+ProtoNahua-91-mountain-1,91-mountain,*tepe:-,tepe:-,t e p eː,219,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+Tepiman-91-mountain-1,91-mountain,‘oidaga <*huya,oidaga,o i d a g a,217,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+Cahita-91-mountain-1,91-mountain,káwi,káwi,k a w i,220,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+Tarahumaran-91-mountain-1,91-mountain,kawí,kawí,k a w i,220,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+ProtoCoracholNahua-91-mountain-1,91-mountain,**te-pɨ:ti,te-pɨ:ti,t e + p ɨː t i,221,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+ProtoUtoAztecan-91-mountain-1,91-mountain,**hu-ya SUA,hu-ya_SUA,h u + j a,217,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Mountain,639,MOUNTAIN,false,expert
+Cora-92-red-1,92-red,tapa’u,tapa,t a p a,222,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Red,156,RED,false,expert
+Huichol-92-red-1,92-red,ʂeta,ʂeta,ʂ e t a,223,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Red,156,RED,false,expert
+ProtoNahua-92-red-1,92-red,*čičil-tik/*pa ‘pintar’,čičil-tik,tʃ i tʃ i l + t i k,222,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Red,156,RED,false,expert
+ProtoNahua-92-red-2,92-red,*čičil-tik/*pa ‘pintar’,pa_‘pintar,p a,224,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Red,156,RED,false,expert
+Tepiman-92-red-1,92-red,vɨgi/<*pɨwi,vɨgi,v ɨ g i,225,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Red,156,RED,false,expert
+Cahita-92-red-1,92-red,síkili,síkili,s i k i l i,226,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Red,156,RED,false,expert
+Tarahumaran-92-red-1,92-red,setá,setá,s e t a,223,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Red,156,RED,false,expert
+ProtoUtoAztecan-92-red-1,92-red,**sɨta,sɨta,s ɨ t a,223,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Red,156,RED,false,expert
+Cora-93-green-1,93-green,hamwámwa,hamwámwa,h a mʷ a mʷ a,227,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+Huichol-93-green-1,93-green,¢iɨraye,¢iɨraye,ts i ɨ r a j e,228,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Green,1425,GREEN,false,expert
+ProtoNahua-93-green-1,93-green,*šošow-,šošow-,ʃ o ʃ o w,228,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+Tepiman-93-green-1,93-green,tɨdogi/<*tɨyowi,tɨdogi,t ɨ d o g i,228,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+Cahita-93-green-1,93-green,síali,síali,s i a l i,228,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+Tarahumaran-93-green-1,93-green,siyó-,siyó-,s i j o,228,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+ProtoCoracholNahua-93-green-1,93-green,**síwì,síwì,s i w i,228,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+ProtoUtoAztecan-93-green-1,93-green,*¢íyòwí,¢íyòwí,ts i j o w i,228,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Green,1425,GREEN,false,expert
+Cora-94-yellow-1,94-yellow,taúmwa,taúmwa,t a u mʷ a,229,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+Huichol-94-yellow-1,94-yellow,taʂaiye,taʂaiye,t a ʂ ai j e,230,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+ProtoNahua-94-yellow-1,94-yellow,*kos-tik,kos-tik,k o s + t i k,231,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+Tepiman-94-yellow-1,94-yellow,oam,oam,o a m,232,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+Cahita-94-yellow-1,94-yellow,sawá,sawá,s a w a,233,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+Tarahumaran-94-yellow-1,94-yellow,sawa-,sawa-,s a w a,233,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+ProtoUtoAztecan-94-yellow-1,94-yellow,*kosawa SUA?,kosawa_SUA?,k o s a w a,231,,,ProtoSouthernUtoAztecan,SUA,sout3136,Southern Uto-Aztecan,,Uto-Aztecan,,Yellow,1424,YELLOW,false,expert
+Cora-95-white-1,95-white,kwaina,kwaina,kʷ ai n a,234,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,White,1335,WHITE,false,expert
+Huichol-95-white-1,95-white,tuʂa,tuʂa,t u ʂ a,235,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,White,1335,WHITE,false,expert
+ProtoNahua-95-white-1,95-white,*ista-k <tòsá-kì,ista-k,i s t a + k,235,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,White,1335,WHITE,false,expert
+Tepiman-95-white-1,95-white,toha,toha,t o h a,235,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,White,1335,WHITE,false,expert
+Cahita-95-white-1,95-white,tósa,tósa,t o s a,235,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,White,1335,WHITE,false,expert
+Tarahumaran-95-white-1,95-white,tosá-,tosá-,t o s a,235,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,White,1335,WHITE,false,expert
+ProtoUtoAztecan-95-white-1,95-white,**tòsá PUA/**kwaya PUA,tòsá_PUA,t o s a,234,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,White,1335,WHITE,false,expert
+ProtoUtoAztecan-95-white-2,95-white,**tòsá PUA/**kwaya PUA,kwaya_PUA,kʷ a j a,235,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,White,1335,WHITE,false,expert
+Cora-96-black-1,96-black,sú’umwara’a,súa,s u a,236,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Black,163,BLACK,false,expert
+Huichol-96-black-1,96-black,yɨwi,yɨwi,j ɨ w i,237,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Black,163,BLACK,false,expert
+ProtoNahua-96-black-1,96-black,*ƛil-tik <tɨri/(yowak ‘noche’),ƛil-tik,tɬ i l + t i k,238,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Black,163,BLACK,false,expert
+Tepiman-96-black-1,96-black,tuku,tuku,t u k u,239,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Black,163,BLACK,false,expert
+Cahita-96-black-1,96-black,čukuli,čukuli,tʃ u k u l i,239,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Black,163,BLACK,false,expert
+ProtoUtoAztecan-96-black-1,96-black,**tuku/**tuL PUA,tuku,t u k u,238,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Black,163,BLACK,false,expert
+ProtoUtoAztecan-96-black-2,96-black,**tuku/**tuL PUA,tuL_PUA,t u ʟ,237,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Black,163,BLACK,false,expert
+Cora-97-night-1,97-night,tɨ́ka’a,tɨ́ka,t ɨ k a,240,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+Huichol-97-night-1,97-night,tɨkari,tɨkari,t ɨ k a r i,240,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+ProtoNahua-97-night-1,97-night,*yo:wa-,yo:wa-,j w a,241,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+Tepiman-97-night-1,97-night,tukaa,tukaa,t u k aː,240,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+Cahita-97-night-1,97-night,tukaria,tukaria,t u k a r i a,240,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+Tarahumaran-97-night-1,97-night,tugaó,tugaó,t u g a o,240,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+ProtoUtoAztecan-97-night-1,97-night,*yuppa PUA/*tuka,yuppa_PUA,j u pp a,240,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+ProtoUtoAztecan-97-night-2,97-night,*yuppa PUA/*tuka,tuka,t u k a,241,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Night,1233,NIGHT,false,expert
+Cora-98-name-1,98-name,tamwa,tamwa,t a mʷ a,242,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Name,1405,NAME,false,expert
+Huichol-98-name-1,98-name,tewa,tewa,t e w a,242,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Name,1405,NAME,false,expert
+ProtoNahua-98-name-1,98-name,*to:ka-,to:ka-,t oː k a,242,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Name,1405,NAME,false,expert
+Tepiman-98-name-1,98-name,tɨɨg,tɨɨg,t ɨː g,242,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Name,1405,NAME,false,expert
+Cahita-98-name-1,98-name,téwa,téwa,t e w a,242,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Name,1405,NAME,false,expert
+Tarahumaran-98-name-1,98-name,tewá,tewá,t e w a,242,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Name,1405,NAME,false,expert
+ProtoCoracholNahua-98-name-1,98-name,**tewa-ka,tewa-ka,t e w a + k a,242,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Name,1405,NAME,false,expert
+ProtoUtoAztecan-98-name-1,98-name,**tɨ(n)wa PUA,tɨwa_PUA,t ɨ w a,242,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Name,1405,NAME,false,expert
+Cora-99-year-1,99-year,ruu-sí,ruu-sí,r uː + s i,243,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+Huichol-99-year-1,99-year,wi-yari,wi-yari,w i + j a r i,244,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Year,1226,YEAR,false,expert
+ProtoNahua-99-year-1,99-year,*šiwi-,šiwi-,ʃ i w i,243,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+Tepiman-99-year-1,99-year,oidha <wiya,oidha,o i dʰ a,244,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+Cahita-99-year-1,99-year,wasuk-,wasuk-,w a s u k,245,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+Tarahumaran-99-year-1,99-year,pamí,pamí,p a m i,246,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+ProtoCoracholNahua-99-year-1,99-year,**si-wi,si-wi,s i + w i,243,,,ProtoCoracholNahua,Proto-Corachol-Nahua,cora1261,Corachol-Aztecan,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+ProtoUtoAztecan-99-year-1,99-year,**wiya/,wiya,w i j a,244,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Year,1226,YEAR,false,expert
+Cora-100-rope-1,100-rope,káhunari,káhunari,k a h u n a r i,247,,,Cora,Cora,cora1259,Corachol,,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+Huichol-100-rope-1,100-rope,witari,witari,w i t a r i,248,,,Huichol,Huichol,huic1243,Huichol,hch,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+ProtoNahua-100-rope-1,100-rope,*meka-,meka-,m e k a,249,,,ProtoNahua,Proto-Nahua,azte1234,Aztec,,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+Tepiman-100-rope-1,100-rope,tɨrovini,tɨrovini,t ɨ r o v i n i,250,,,Tepiman,Tepiman,tepi1240,Tepiman,,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+Cahita-100-rope-1,100-rope,witeri,witeri,w i t e r i,248,,,Cahita,Cahita,cahi1243,Cahitan,,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+Tarahumaran-100-rope-1,100-rope,witári,witári,w i t a r i,248,,,Tarahumaran,Tarahumaran,tara1321,Tarahumaran,,Uto-Aztecan,,Rope,1218,ROPE,false,expert
+ProtoUtoAztecan-100-rope-1,100-rope,**wika,wika,w i k a,248,,,ProtoUtoAztecan,PUA,utoa1244,Uto-Aztecan,,Uto-Aztecan,,Rope,1218,ROPE,false,expert

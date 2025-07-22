@@ -7,11 +7,11 @@ GRAPE is a Python library for phylogenetic inference using community detection i
 ## 🚀 Quick Start
 
 ```bash
-# Basic analysis
-python grape.py data/iecor_small.tsv
+# Basic analysis with reproducible results
+python grape.py resources/language_families/romance.tsv --seed 42
 
-# With specific parameters  
-python grape.py data/dravlex.tsv --graph adjusted --community louvain --strategy fixed --initial_value 0.5
+# Advanced analysis with specific parameters  
+python grape.py resources/language_families/austroasiatic.tsv --graph adjusted --community louvain --strategy fixed --initial_value 0.3 --seed 42
 ```
 
 ## ✨ Features
@@ -48,41 +48,53 @@ pip install biopython
 
 ## 🔥 Quick Examples
 
-### Dravidian Language Family
-```bash  
-python grape.py data/dravlex.tsv --graph adjusted --community louvain
-```
-Demonstrates South, Central, and North Dravidian groupings.
-
-### Germanic Languages
+### Romance Languages (Europe)
 ```bash
-python grape.py data/harald_ie.tsv --concept-column Concept
+python grape.py resources/language_families/romance.tsv --strategy fixed --initial_value 0.4 --seed 42
 ```
-Reconstructs Indo-European phylogeny showing Germanic monophyly.
+Western European languages descended from Latin, showing dialectal differentiation across Italy, Spain, France, and Romania.
 
-### Polynesian Languages
+### Austroasiatic Languages (Southeast Asia)
 ```bash
-python grape.py data/walworthpolynesian.tsv --strategy dynamic --initial_value 0.6
+python grape.py resources/language_families/austroasiatic.tsv --strategy fixed --initial_value 0.3 --seed 42
 ```
-Shows Tongic vs. Nuclear Polynesian classification.
+Southeast Asian family including Vietnamese, Khmer, and many smaller languages across the Mekong region.
 
-### Large-Scale Analysis (160 Indo-European Languages)
+### Turkic Languages (Central Asia)
 ```bash
-python grape.py data/iecor_full.tsv --strategy adaptive --initial_value 0.2
+python grape.py resources/language_families/turkic.tsv --community greedy --strategy fixed --initial_value 0.5 --seed 42
 ```
-Full Indo-European family with all major branches.
+Agglutinative languages with vowel harmony, spread from Turkey to Siberia through nomadic migrations.
 
-## 🌍 Supported Language Families
+### Dravidian Languages (South India)
+```bash
+python grape.py resources/language_families/dravidian.tsv --strategy fixed --initial_value 0.5 --seed 42
+```
+South Indian language family demonstrating clear South, Central, and North Dravidian subgroupings.
 
-GRAPE has been tested and validated on:
+## 🌍 Comprehensive Language Family Coverage
 
-| Family | Dataset | Languages | Key Groupings Validated |
-|--------|---------|-----------|------------------------|
-| **Indo-European** | `harald_ie.tsv`, `iecor_full.tsv` | 160 | Germanic, Romance, Celtic, Slavic, Indo-Iranian |
-| **Dravidian** | `dravlex.tsv` | 19 | South, Central, North Dravidian |
-| **Polynesian** | `walworthpolynesian.tsv` | 30 | Tongic, Nuclear Polynesian, Eastern Polynesian |
-| **Tupian** | `tuled.tsv` | 30+ | Guaranic group, early branching patterns |
-| **Arawakan** | `chaconarawakan.tsv` | 8 | Northern Arawakan geographic clustering |
+GRAPE has been tested and validated on 7 major language families representing diverse geographic regions and typological characteristics:
+
+| Family | Dataset | Languages | Geographic Distribution | Typology |
+|--------|---------|-----------|------------------------|----------|
+| **Romance** | `romance.tsv` | 43 | Western/Southern Europe | Fusional, rich morphology |
+| **Austroasiatic** | `austroasiatic.tsv` | 109 | Southeast Asia | Isolating/analytic |  
+| **Turkic** | `turkic.tsv` | 32 | Central Asia, Turkey | Agglutinative, vowel harmony |
+| **Bantu** | `bantu.tsv` | 424 | Sub-Saharan Africa | Agglutinative, noun classes |
+| **Dravidian** | `dravidian.tsv` | 20 | South India | Agglutinative |
+| **Polynesian** | `polynesian.tsv` | 31 | Pacific Islands | Mixed morphology |
+| **Tupian** | `tupian.tsv` | 91 | Amazon Basin | Mixed strategies |
+
+### Key Subgroupings Validated
+
+**Romance**: Italian, Iberian, Gallo-Romance, Eastern Romance branches  
+**Austroasiatic**: Mon-Khmer, Munda, Bahnaric, Katuic divisions  
+**Turkic**: Oghuz, Kipchak, Karluk, Siberian branches  
+**Bantu**: Eastern, Southern, Western, Central geographic clusters  
+**Dravidian**: South, Central, North Dravidian classification  
+**Polynesian**: Tongic vs Nuclear Polynesian split  
+**Tupian**: Guaranic group, early branching patterns
 
 ## 📖 Documentation
 
@@ -109,11 +121,12 @@ GRAPE generates detailed phylogenetic tree visualizations for all language famil
 - **Multiple Formats**: Newick, formatted text, and summary statistics
 
 **Available visualizations:**
-- [Dravidian Tree](docs/images/trees/dravidian_formatted.txt) - 20 languages, 3 major branches
-- [Polynesian Tree](docs/images/trees/polynesian_formatted.txt) - 31 languages, Tongic vs. Nuclear
-- [Indo-European Tree](docs/images/trees/indo-european_formatted.txt) - Germanic subfamily
-- [Tupian Tree](docs/images/trees/tupian_formatted.txt) - 29 languages, Guaranic group
-- [Arawakan Tree](docs/images/trees/arawakan_formatted.txt) - 8 languages, Northern cluster
+- [Romance Tree](docs/images/trees/romance_formatted.txt) - 43 languages, European branches
+- [Austroasiatic Tree](docs/images/trees/austroasiatic_formatted.txt) - 109 languages, SE Asian diversity
+- [Turkic Tree](docs/images/trees/turkic_formatted.txt) - 32 languages, Central Asian spread
+- [Dravidian Tree](docs/images/trees/dravidian_formatted.txt) - 20 languages, South Indian branches
+- [Polynesian Tree](docs/images/trees/polynesian_formatted.txt) - 31 languages, Pacific migration
+- [Tupian Tree](docs/images/trees/tupian_formatted.txt) - 91 languages, Amazonian diversity
 
 All visualizations include:
 - Tree statistics (height, number of languages)

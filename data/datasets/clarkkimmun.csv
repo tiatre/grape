@@ -1,0 +1,923 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+KimMunLaocai-418_1-1,418_1,ɑ¹¹,ɑ¹¹,ɑ ¹¹,943,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,1,1493,ONE,false,expert
+KimMunLaos-407_1person-1,407_1person,a³³la:n³¹,a³³la:n³¹,a ³³ + l aː n ³¹,427,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,1 (person),,,false,expert
+KimMunLaos-426_1000persons-1,426_1000persons,a³³tin³⁵la:n³¹,a³³tin³⁵la:n³¹,a ³³ + t i n ³⁵ + l aː n ³¹,446,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"1,000 (persons)",,,false,expert
+KimMunLaos-429_1000000persons-1,429_1000000persons,a³³lan³¹la:n³¹,a³³lan³¹la:n³¹,a ³³ + l a n ³¹ + l aː n ³¹,449,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"1,000,000 (persons)",,,false,expert
+KimMunLaocai-427_10-1,427_10,sap¹¹,sap¹¹,s a p ¹¹,952,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,10,1515,TEN,false,expert
+KimMunLaos-416_10persons-1,416_10persons,sap³¹la:n³¹,sap³¹la:n³¹,s a p ³¹ + l aː n ³¹,436,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,10 (persons),,,false,expert
+KimMunLaos-427_10000persons-1,427_10000persons,sap³¹tin³⁵la:n³¹,sap³¹tin³⁵la:n³¹,s a p ³¹ + t i n ³⁵ + l aː n ³¹,447,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"10,000 (persons)",,,false,expert
+KimMunLaocai-439_100-1,439_100,ap¹¹pɛ²¹⁴,ap¹¹pɛ²¹⁴,a p ¹¹ + p ɛ ²¹⁴,964,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,100,1634,HUNDRED,false,expert
+KimMunLaos-425_100persons-1,425_100persons,a³³pe⁵³la:n³¹,a³³pe⁵³la:n³¹,a ³³ + p e ⁵³ + l aː n ³¹,445,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,100 (persons),,,false,expert
+KimMunLaos-428_100000persons-1,428_100000persons,a³³θe³³la:n³¹,a³³θe³³la:n³¹,a ³³ + θ e ³³ + l aː n ³¹,448,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"100,000 (persons)",,,false,expert
+KimMunLaocai-440_1000-1,440_1000,a¹¹tin⁵²,a¹¹tin⁵²,a ¹¹ + t i n ⁵²,965,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,1000,1843,THOUSAND,false,expert
+KimMunLaocai-428_11-1,428_11,sap¹¹bjɛt³³,sap¹¹bjɛt³³,s a p ¹¹ + b j ɛ t ³³,953,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,11,1706,ELEVEN,false,expert
+KimMunLaocai-429_12-1,429_12,sap¹¹ȵe¹¹,sap¹¹ȵe¹¹,s a p ¹¹ + ȵ e ¹¹,954,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,12,1707,TWELVE,false,expert
+KimMunLaocai-430_13-1,430_13,sap¹¹sam²¹⁴,sap¹¹sam²¹⁴,s a p ¹¹ + s a m ²¹⁴,955,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,13,1708,THIRTEEN,false,expert
+KimMunLaocai-431_14-1,431_14,sap¹¹θe³⁵,sap¹¹θe³⁵,s a p ¹¹ + θ e ³⁵,956,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,14,2451,FOURTEEN,false,expert
+KimMunLaocai-432_15-1,432_15,sap¹¹ŋo³⁴¹,sap¹¹ŋo³⁴¹,s a p ¹¹ + ŋ o ³⁴¹,957,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,15,1709,FIFTEEN,false,expert
+KimMunLaocai-433_16-1,433_16,sap¹¹gu³³,sap¹¹gu³³,s a p ¹¹ + g u ³³,958,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,16,2454,SIXTEEN,false,expert
+KimMunLaocai-434_17-1,434_17,sap¹¹kjɛt⁵²,sap¹¹kjɛt⁵²,s a p ¹¹ + k j ɛ t ⁵²,959,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,17,2453,SEVENTEEN,false,expert
+KimMunLaocai-435_18-1,435_18,sap¹¹pit³¹,sap¹¹pit³¹,s a p ¹¹ + p i t ³¹,960,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,18,1713,EIGHTEEN,false,expert
+KimMunLaocai-436_19-1,436_19,sap¹¹ȶu⁴⁴,sap¹¹ȶu⁴⁴,s a p ¹¹ + ȶ u ⁴⁴,961,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,19,1714,NINETEEN,false,expert
+KimMunLaocai-419_2-1,419_2,i³⁵,i³⁵,i ³⁵,944,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,2,1498,TWO,false,expert
+KimMunLaos-408_2persons-1,408_2persons,i³³la:n³¹,i³³la:n³¹,i ³³ + l aː n ³¹,428,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,2 (persons),,,false,expert
+KimMunLaocai-437_20-1,437_20,ni³³sap¹¹,ni³³sap¹¹,n i ³³ + s a p ¹¹,962,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,20,1710,TWENTY,false,expert
+KimMunLaos-417_20persons-1,417_20persons,ȵi³¹sap³¹la:n³¹,ȵi³¹sap³¹la:n³¹,ȵ i ³¹ + s a p ³¹ + l aː n ³¹,437,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,20 (persons),,,false,expert
+KimMunLaocai-438_21-1,438_21,ni³³sap¹¹ȵe¹¹,ni³³sap¹¹ȵe¹¹,n i ³³ + s a p ¹¹ + ȵ e ¹¹,963,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,21,1734,TWENTY ONE,false,expert
+KimMunLaocai-420_3-1,420_3,po²¹⁴,po²¹⁴,p o ²¹⁴,945,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,3,492,THREE,false,expert
+KimMunLaos-409_3persons-1,409_3persons,pu⁵³la:n³¹,pu⁵³la:n³¹,p u ⁵³ + l aː n ³¹,429,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,3 (persons),,,false,expert
+KimMunLaos-418_30persons-1,418_30persons,θam³³sap³¹la:n³¹,θam³³sap³¹la:n³¹,θ a m ³³ + s a p ³¹ + l aː n ³¹,438,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,30 (persons),,,false,expert
+KimMunLaocai-421_4-1,421_4,pje²¹⁴,pje²¹⁴,p j e ²¹⁴,946,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,4,1500,FOUR,false,expert
+KimMunLaos-410_4persons-1,410_4persons,pi⁵³la:n³¹,pi⁵³la:n³¹,p i ⁵³ + l aː n ³¹,430,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,4 (persons),,,false,expert
+KimMunLaos-419_40persons-1,419_40persons,θe³³sap³¹la:n³¹,θe³³sap³¹la:n³¹,θ e ³³ + s a p ³¹ + l aː n ³¹,439,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,40 (persons),,,false,expert
+KimMunLaocai-422_5-1,422_5,pja²¹⁴,pja²¹⁴,p j a ²¹⁴,947,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,5,493,FIVE,false,expert
+KimMunLaos-411_5persons-1,411_5persons,pja⁵³la:n³¹,pja⁵³la:n³¹,p j a ⁵³ + l aː n ³¹,431,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,5 (persons),,,false,expert
+KimMunLaos-420_50persons-1,420_50persons,ŋo³⁴¹sap³¹la:n³¹,ŋo³⁴¹sap³¹la:n³¹,ŋ o ³⁴¹ + s a p ³¹ + l aː n ³¹,440,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,50 (persons),,,false,expert
+KimMunLaocai-423_6-1,423_6,kjɔ²¹⁴,kjɔ²¹⁴,k j ɔ ²¹⁴,948,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,6,1703,SIX,false,expert
+KimMunLaos-412_6persons-1,412_6persons,kjo⁵³la:n³¹,kjo⁵³la:n³¹,k j o ⁵³ + l aː n ³¹,432,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,6 (persons),,,false,expert
+KimMunLaos-421_60persons-1,421_60persons,gu³¹sap³¹la:n³¹,gu³¹sap³¹la:n³¹,g u ³¹ + s a p ³¹ + l aː n ³¹,441,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,60 (persons),,,false,expert
+KimMunLaocai-424_7-1,424_7,ȵi³³,ȵi³³,ȵ i ³³,949,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,7,1704,SEVEN,false,expert
+KimMunLaos-413_7persons-1,413_7persons,ȵi³¹la:n³¹,ȵi³¹la:n³¹,ȵ i ³¹ + l aː n ³¹,433,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,7 (persons),,,false,expert
+KimMunLaos-422_70persons-1,422_70persons,ȶɛt³⁵sap³¹la:n³¹,ȶɛt³⁵sap³¹la:n³¹,ȶ ɛ t ³⁵ + s a p ³¹ + l aː n ³¹,442,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,70 (persons),,,false,expert
+KimMunLaocai-425_8-1,425_8,jɐt³³,jɐt³³,j ɐ t ³³,950,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,8,1705,EIGHT,false,expert
+KimMunLaos-414_8persons-1,414_8persons,jɛt³¹la:n³¹,jɛt³¹la:n³¹,j ɛ t ³¹ + l aː n ³¹,434,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,8 (persons),,,false,expert
+KimMunLaos-423_80persons-1,423_80persons,pit⁵³sap³¹la:n³¹,pit⁵³sap³¹la:n³¹,p i t ⁵³ + s a p ³¹ + l aː n ³¹,443,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,80 (persons),,,false,expert
+KimMunLaocai-426_9-1,426_9,du¹¹,du¹¹,d u ¹¹,951,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,9,1483,NINE,false,expert
+KimMunLaos-415_9persons-1,415_9persons,du³³la:n³¹,du³³la:n³¹,d u ³³ + l aː n ³¹,435,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,9 (persons),,,false,expert
+KimMunLaos-424_90persons-1,424_90persons,ȶu³³sap³¹la:n³¹,ȶu³³sap³¹la:n³¹,ȶ u ³³ + s a p ³¹ + l aː n ³¹,444,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,90 (persons),,,false,expert
+KimMunLaocai-415_i-1,415_i,ja²¹⁴,ja²¹⁴,j a ²¹⁴,940,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,I,1209,I,false,expert
+KimMunLaos-255_i1s-1,255_i1s,ja⁵³,ja⁵³,j a ⁵³,268,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,I (1s),1209,I,false,expert
+KimMunLaocai-331_above-1,331_above,ȶɐj³³,ȶɐj³³,ȶ ɐ j ³³,856,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,above,1741,ABOVE,false,expert
+KimMunLaocai-185_afternoon-1,185_afternoon,kaj³³ȡam³⁵,kaj³³ȡam³⁵,k a j ³³ + ȡ a m ³⁵,710,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,afternoon,1807,AFTERNOON,false,expert
+KimMunLaocai-330_alive-1,330_alive,saŋ³¹,saŋ³¹,s a ŋ ³¹,855,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,alive,1422,BE ALIVE,false,expert
+KimMunLaos-431_all-1,431_all,θɔŋ³³ȡu³⁴¹,θɔŋ³³ȡu³⁴¹,θ ɔ ŋ ³³ + ȡ u ³⁴¹,451,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,all,98,ALL,false,expert
+KimMunLaocai-194_ancestor-1,194_ancestor,θɐm¹¹sɐw⁴⁴,θɐm¹¹sɐw⁴⁴,θ ɐ m ¹¹ + s ɐ w ⁴⁴,719,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ancestor,1669,ANCESTORS,false,expert
+KimMunLaos-162_animal-1,162_animal,θuŋ³⁵haw³³,θuŋ³⁵haw³³,θ u ŋ ³⁵ + h a w ³³,171,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,animal,619,ANIMAL,false,expert
+KimMunLaocai-1_ant-1,1_ant,θɐw³³,θɐw³³,θ ɐ w ³³,526,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ant,587,ANT,false,expert
+KimMunLaos-91_apple-1,91_apple,mak²¹pom³¹pjo³³,mak²¹pom³¹pjo³³,m a k ²¹ + p o m ³¹ + p j o ³³,99,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,apple,1320,APPLE,false,expert
+KimMunLaocai-56_arm-1,56_arm,pu.θe⁵²,pu.θe⁵²,p u ⁰ + θ e ⁵²,581,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,arm,1673,ARM,false,expert
+KimMunLaos-233_armpit-1,233_armpit,kə.ȡap³¹di³³,kə.ȡap³¹di³³,k ə ⁰ + ȡ a p ³¹ + d i ³³,246,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,armpit,1886,ARMPIT,false,expert
+KimMunLaos-262_ashes-1,262_ashes,to³⁴¹sa:j¹¹,to³⁴¹sa:j¹¹,t o ³⁴¹ + s aː j ¹¹,318,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ashes,646,ASH,false,expert
+KimMunLaocai-262_ashes-1,262_ashes,sɑj³³,sɑj³³,s ɑ j ³³,787,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ashes,646,ASH,false,expert
+KimMunLaocai-237_awl-1,237_awl,θun²¹⁴,θun²¹⁴,θ u n ²¹⁴,762,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,awl,278,AWL,false,expert
+KimMunLaos-238_axe-1,238_axe,po³³,po³³,p o ³³,330,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,axe,677,AXE,false,expert
+KimMunLaocai-238_axe-1,238_axe,pɐw⁴⁴,pɐw⁴⁴,p ɐ w ⁴⁴,763,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,axe,677,AXE,false,expert
+KimMunLaos-57_back-1,57_back,tan³³ka:n⁵³,tan³³ka:n⁵³,t a n ³³ + k aː n ⁵³,238,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,back,1291,BACK,false,expert
+KimMunLaocai-57_back-1,57_back,kɐ.tan⁴⁴kaŋ²¹⁴,kɐ.tan⁴⁴kaŋ²¹⁴,k ɐ ⁰ + t a n ⁴⁴ + k a ŋ ²¹⁴,582,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,back,1291,BACK,false,expert
+KimMunLaocai-329_bad-1,329_bad,ho³³,ho³³,h o ³³,854,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bad,1292,BAD,false,expert
+KimMunLaocai-239_bag-1,239_bag,ti³³,ti³³,t i ³³,764,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bag,2468,BAG,false,expert
+KimMunLaos-488_bald-1,488_bald,pje³³ȡa:n³³,pje³³ȡa:n³³,p j e ³³ + ȡ aː n ³³,510,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bald,1125,BALD,false,expert
+KimMunLaos-78_bamboo-1,78_bamboo,la:w¹¹,la:w¹¹,l aː w ¹¹,86,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bamboo,1927,BAMBOO,false,expert
+KimMunLaos-80_bamboopole-1,80_bamboopole,law¹¹ȶe⁵³,law¹¹ȶe⁵³,l a w ¹¹ + ȶ e ⁵³,88,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bamboo pole,,,false,expert
+KimMunLaos-79_bambooshoot-1,79_bambooshoot,law¹¹bjaj²¹,law¹¹bjaj²¹,l a w ¹¹ + b j a j ²¹,87,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bamboo shoot,2494,BAMBOO SHOOT,false,expert
+KimMunLaos-141_banana-1,141_banana,kum³¹ȶaw³⁴¹,kum³¹ȶaw³⁴¹,k u m ³¹ + ȶ a w ³⁴¹,93,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,banana,868,BANANA,false,expert
+KimMunLaocai-141_banana-1,141_banana,kum¹¹ȶaw³⁴¹,kum¹¹ȶaw³⁴¹,k u m ¹¹ + ȶ a w ³⁴¹,666,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,banana,868,BANANA,false,expert
+KimMunLaocai-142_bananaflower-1,142_bananaflower,kɐ.ȡu²¹⁴,kɐ.ȡu²¹⁴,k ɐ ⁰ + ȡ u ²¹⁴,667,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,banana flower,,,false,expert
+KimMunLaocai-143_bananaleaf-1,143_bananaleaf,θiw¹¹nɔm³¹,θiw¹¹nɔm³¹,θ i w ¹¹ + n ɔ m ³¹,668,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,banana leaf,,,false,expert
+KimMunLaocai-113_bankriver-1,113_bankriver,wɐm²¹⁴sin³¹,wɐm²¹⁴sin³¹,w ɐ m ²¹⁴ + s i n ³¹,638,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bank river,3463,RIVERBANK,false,expert
+KimMunLaocai-17_barkingdeer-1,17_barkingdeer,ȶuŋ²¹⁴,ȶuŋ²¹⁴,ȶ u ŋ ²¹⁴,542,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,barking deer,3152,MUNTJACS,false,expert
+KimMunLaos-317_basket-1,317_basket,da:n⁵³,da:n⁵³,d aː n ⁵³,333,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,basket,1539,BASKET,false,expert
+KimMunLaocai-240_basketi-1,240_basketi,gjɑŋ¹¹mɑw³¹,gjɑŋ¹¹mɑw³¹,g j ɑ ŋ ¹¹ + m ɑ w ³¹,765,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,basket i,1539,BASKET,false,expert
+KimMunLaocai-241_basketri-1,241_basketri,gjɐm³⁴¹,gjɐm³⁴¹,g j ɐ m ³⁴¹,766,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,basket ri,,,false,expert
+KimMunLaocai-242_basketwi-1,242_basketwi,sɑŋ⁵²,sɑŋ⁵²,s ɑ ŋ ⁵²,767,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,basket wi,,,false,expert
+KimMunLaocai-2_bat-1,2_bat,klɐ.buj⁵²,klɐ.buj⁵²,k l ɐ ⁰ + b u j ⁵²,527,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bat,1793,BAT,false,expert
+KimMunLaos-144_bean-1,144_bean,tɔp³¹,tɔp³¹,t ɔ p ³¹,168,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bean,2574,BEAN OR PEA,false,expert
+KimMunLaocai-144_bean-1,144_bean,tɔp³³,tɔp³³,t ɔ p ³³,669,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bean,2574,BEAN OR PEA,false,expert
+KimMunLaos-3_bear-1,3_bear,kjap²¹,kjap²¹,k j a p ²¹,173,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bear,1820,BEAR,false,expert
+KimMunLaocai-3_bear-1,3_bear,kjɐp³³,kjɐp³³,k j ɐ p ³³,528,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bear,1820,BEAR,false,expert
+KimMunLaos-58_beard-1,58_beard,ȡɛt²¹θɔm³⁵,ȡɛt²¹θɔm³⁵,ȡ ɛ t ²¹ + θ ɔ m ³⁵,237,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,beard,678,BEARD,false,expert
+KimMunLaocai-58_beard-1,58_beard,θɔm⁵²,θɔm⁵²,θ ɔ m ⁵²,583,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,beard,678,BEARD,false,expert
+KimMunLaocai-263_bed-1,263_bed,ȶo⁵²,ȶo⁵²,ȶ o ⁵²,788,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bed,1663,BED,false,expert
+KimMunLaos-4_bee-1,4_bee,məj³⁴¹,məj³⁴¹,m ə j ³⁴¹,214,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bee,665,BEE,false,expert
+KimMunLaocai-4_bee-1,4_bee,mɐj³⁴¹muŋ⁴⁴,mɐj³⁴¹muŋ⁴⁴,m ɐ j ³⁴¹ + m u ŋ ⁴⁴,529,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bee,665,BEE,false,expert
+KimMunLaocai-59_belly-1,59_belly,ȵo³³,ȵo³³,ȵ o ³³,584,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,belly,1251,BELLY,false,expert
+KimMunLaocai-328_below-1,328_below,di⁴⁴,di⁴⁴,d i ⁴⁴,853,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,below,1485,BELOW OR UNDER,false,expert
+KimMunLaos-84_betelnut-1,84_betelnut,θɛn⁵³,θɛn⁵³,θ ɛ n ⁵³,92,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,betelnut,217,BETELNUT,false,expert
+KimMunLaos-5_bird-1,5_bird,nɔ²¹,nɔ²¹,n ɔ ²¹,190,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bird,937,BIRD,false,expert
+KimMunLaocai-5_bird-1,5_bird,nɔ³³,nɔ³³,n ɔ ³³,530,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bird,937,BIRD,false,expert
+KimMunLaos-181_birdsnest-1,181_birdsnest,nɔ²¹gjaw³⁴¹,nɔ²¹gjaw³⁴¹,n ɔ ²¹ + g j a w ³⁴¹,191,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bird's nest,3549,BIRD NEST,false,expert
+KimMunLaocai-327_bitter-1,327_bitter,im²¹⁴,im²¹⁴,i m ²¹⁴,852,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bitter,887,BITTER,false,expert
+KimMunLaos-326_black-1,326_black,kja⁵³,kja⁵³,k j a ⁵³,478,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,black,163,BLACK,false,expert
+KimMunLaocai-326_black-1,326_black,gja:²¹⁴,gja:²¹⁴,g j aː ²¹⁴,851,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,black,163,BLACK,false,expert
+KimMunLaos-115_blackpepper-1,115_blackpepper,haw³¹θiw⁵³pjo³³,haw³¹θiw⁵³pjo³³,h a w ³¹ + θ i w ⁵³ + p j o ³³,124,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,black pepper,,,false,expert
+KimMunLaos-264_blanket-1,264_blanket,θɔŋ³⁵,θɔŋ³⁵,θ ɔ ŋ ³⁵,304,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,blanket,806,BLANKET,false,expert
+KimMunLaocai-264_blanket-1,264_blanket,θɔŋ⁵²,θɔŋ⁵²,θ ɔ ŋ ⁵²,789,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,blanket,806,BLANKET,false,expert
+KimMunLaocai-325_blind-1,325_blind,mɐj³³bu³³,mɐj³³bu³³,m ɐ j ³³ + b u ³³,850,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,blind,1653,BLIND,false,expert
+KimMunLaos-60_blood-1,60_blood,sa:m¹¹,sa:m¹¹,s aː m ¹¹,263,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,blood,946,BLOOD,false,expert
+KimMunLaocai-60_blood-1,60_blood,θa:m³³,θa:m³³,θ aː m ³³,585,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,blood,946,BLOOD,false,expert
+KimMunLaocai-225_blouse-1,225_blouse,gjɐm⁴⁴,gjɐm⁴⁴,g j ɐ m ⁴⁴,750,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,blouse,,,false,expert
+KimMunLaos-265_boat-1,265_boat,da:ŋ¹¹,da:ŋ¹¹,d aː ŋ ¹¹,297,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,boat,1844,BOAT,false,expert
+KimMunLaocai-265_boat-1,265_boat,dɑŋ³³,dɑŋ³³,d ɑ ŋ ³³,790,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,boat,1844,BOAT,false,expert
+KimMunLaocai-61_body-1,61_body,θin⁵²,θin⁵²,θ i n ⁵²,586,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,body,1480,BODY,false,expert
+KimMunLaocai-107_boilulcer-1,107_boilulcer,bew³⁴¹,bew³⁴¹,b e w ³⁴¹,632,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,boil/ulcer,,,false,expert
+KimMunLaos-116_boilingwater-1,116_boilingwater,wɔm⁵³vəj¹³,wɔm⁵³vəj¹³,w ɔ m ⁵³ + v ə j ¹³,125,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,boiling water,3362,BOILED WATER,false,expert
+KimMunLaos-62_bone-1,62_bone,θuŋ³³,θuŋ³³,θ u ŋ ³³,258,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bone,1394,BONE,false,expert
+KimMunLaocai-62_bone-1,62_bone,θuŋ⁴⁴,θuŋ⁴⁴,θ u ŋ ⁴⁴,587,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bone,1394,BONE,false,expert
+KimMunLaocai-40_bore-1,40_bore,tuŋ³¹kɐw⁴⁴,tuŋ³¹kɐw⁴⁴,t u ŋ ³¹ + k ɐ w ⁴⁴,565,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bore,1501,BORE,false,expert
+KimMunLaos-150_bottle-1,150_bottle,ȵɛw²¹,ȵɛw²¹,ȵ ɛ w ²¹,159,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bottle,1321,BOTTLE,false,expert
+KimMunLaos-243_bowl-1,243_bowl,wan³³,wan³³,w a n ³³,155,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bowl,1530,BOWL,false,expert
+KimMunLaocai-243_bowl-1,243_bowl,wɐn⁴⁴,wɐn⁴⁴,w ɐ n ⁴⁴,768,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bowl,1530,BOWL,false,expert
+KimMunLaocai-226_bracelet-1,226_bracelet,sɑm¹¹,sɑm¹¹,s ɑ m ¹¹,751,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bracelet,1754,BRACELET,false,expert
+KimMunLaos-63_brain-1,63_brain,pje³³le²¹,pje³³le²¹,p j e ³³ + l e ²¹,221,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,brain,1583,BRAIN,false,expert
+KimMunLaocai-63_brain-1,63_brain,pi⁴⁴le⁴⁴,pi⁴⁴le⁴⁴,p i ⁴⁴ + l e ⁴⁴,588,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,brain,1583,BRAIN,false,expert
+KimMunLaos-69_branch-1,69_branch,gjaŋ³³gwa:³¹,gjaŋ³³gwa:³¹,g j a ŋ ³³ + gʷ aː ³¹,76,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,branch,1531,BRANCH,false,expert
+KimMunLaocai-195_bride-1,195_bride,ȵɑm²¹⁴,ȵɑm²¹⁴,ȵ ɑ m ²¹⁴,720,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bride,1266,BRIDE,false,expert
+KimMunLaocai-266_bridge-1,266_bridge,ȶo¹¹,ȶo¹¹,ȶ o ¹¹,791,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,bridge,1011,BRIDGE,false,expert
+KimMunLaos-10_bright-1,10_bright,gwaŋ⁵³daŋ³⁵,gwaŋ⁵³daŋ³⁵,gʷ a ŋ ⁵³ + d a ŋ ³⁵,12,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,bright,679,BRIGHT,false,expert
+KimMunLaos-269_brotherelderoff-1,269_brotherelderoff,pɛ⁵³,pɛ⁵³,p ɛ ⁵³,284,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,brother (elder of f),2415,OLDER BROTHER (OF WOMAN),false,expert
+KimMunLaos-270_brotherelderofm-1,270_brotherelderofm,ȵaːm³³,ȵaːm³³,ȵ aː m ³³,285,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,brother (elder of m),2414,OLDER BROTHER (OF MAN),false,expert
+KimMunLaos-273_brotheryoungeroff-1,273_brotheryoungeroff,jo³⁴¹,jo³⁴¹,j o ³⁴¹,288,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,brother(younger of f),2417,YOUNGER BROTHER (OF WOMAN),false,expert
+KimMunLaos-274_brotheryoungerofm-1,274_brotheryoungerofm,naw³⁴¹,naw³⁴¹,n a w ³⁴¹,289,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,brother(younger of m),2416,YOUNGER BROTHER (OF MAN),false,expert
+KimMunLaos-6_buffalo-1,6_buffalo,ŋɔŋ³³bu¹¹,ŋɔŋ³³bu¹¹,ŋ ɔ ŋ ³³ + b u ¹¹,186,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,buffalo,934,BUFFALO,false,expert
+KimMunLaocai-6_buffalo-1,6_buffalo,ŋɔŋ¹¹,ŋɔŋ¹¹,ŋ ɔ ŋ ¹¹,531,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,buffalo,934,BUFFALO,false,expert
+KimMunLaocai-64_butt-1,64_butt,kɐ.tlaj⁴⁴kɐ⁵²,kɐ.tlaj⁴⁴kɐ⁵²,k ɐ ⁰ + t l a j ⁴⁴ + k ɐ ⁵²,589,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,butt,834,BUTTOCKS,false,expert
+KimMunLaos-204_butterfly-1,204_butterfly,pluŋ³¹blo³⁴¹,pluŋ³¹blo³⁴¹,p l u ŋ ³¹ + b l o ³⁴¹,216,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,butterfly,1791,BUTTERFLY,false,expert
+KimMunLaos-237_buttocks-1,237_buttocks,kə.da:j³³,kə.da:j³³,k ə ⁰ + d aː j ³³,250,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,buttocks,834,BUTTOCKS,false,expert
+KimMunLaocai-145_cabbage-1,145_cabbage,ȵe¹¹gjaj³⁵,ȵe¹¹gjaj³⁵,ȵ e ¹¹ + g j a j ³⁵,670,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cabbage,774,CABBAGE,false,expert
+KimMunLaos-241_calf-1,241_calf,θaw³³ȡiŋ³³,θaw³³ȡiŋ³³,θ a w ³³ + ȡ i ŋ ³³,254,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,calf,498,CALF OF LEG,false,expert
+KimMunLaos-304_candle-1,304_candle,ȶo⁵³,ȶo⁵³,ȶ o ⁵³,320,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,candle,1273,CANDLE,false,expert
+KimMunLaos-102_carrot-1,102_carrot,tə.bak²¹pjo³³,tə.bak²¹pjo³³,t ə ⁰ + b a k ²¹ + p j o ³³,110,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,carrot,3085,CARROT,false,expert
+KimMunLaocai-255_carryingpole-1,255_carryingpole,nɐ.muŋ⁵²,nɐ.muŋ⁵²,n ɐ ⁰ + m u ŋ ⁵²,780,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,carrying pole,3432,SHOULDER POLE,false,expert
+KimMunLaos-7_cat-1,7_cat,ma:w³¹,ma:w³¹,m aː w ³¹,181,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cat,1208,CAT,false,expert
+KimMunLaocai-7_cat-1,7_cat,ma:w¹¹,ma:w¹¹,m aː w ¹¹,532,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cat,1208,CAT,false,expert
+KimMunLaocai-8_caterpillar-1,8_caterpillar,buŋ³³blɐw³⁴¹,buŋ³³blɐw³⁴¹,b u ŋ ³³ + b l ɐ w ³⁴¹,533,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,caterpillar,2247,CATERPILLAR,false,expert
+KimMunLaos-114_cave-1,114_cave,ȶɔ.bɛŋ³¹kɔt³⁵,ȶɔ.bɛŋ³¹kɔt³⁵,ȶ ɔ ⁰ + b ɛ ŋ ³¹ + k ɔ t ³⁵,60,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cave,1155,CAVE,false,expert
+KimMunLaocai-114_cave-1,114_cave,ȶɔ.bɛŋ³¹kɔt³⁵,ȶɔ.bɛŋ³¹kɔt³⁵,ȶ ɔ ⁰ + b ɛ ŋ ³¹ + k ɔ t ³⁵,639,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cave,1155,CAVE,false,expert
+KimMunLaocai-9_centipede-1,9_centipede,θap⁵²,θap⁵²,θ a p ⁵²,534,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,centipede,1974,CENTIPEDE,false,expert
+KimMunLaocai-267_charcoal-1,267_charcoal,tɐw³¹tɑn⁵²,tɐw³¹tɑn⁵²,t ɐ w ³¹ + t ɑ n ⁵²,792,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,charcoal,1188,CHARCOAL,false,expert
+KimMunLaos-216_cheek-1,216_cheek,min³⁵uj⁵³,min³⁵uj⁵³,m i n ³⁵ + u j ⁵³,228,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cheek,1730,CHEEK,false,expert
+KimMunLaocai-65_chest-1,65_chest,kɐ.lap³¹,kɐ.lap³¹,k ɐ ⁰ + l a p ³¹,590,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chest,1592,CHEST,false,expert
+KimMunLaos-12_chicken-1,12_chicken,ȶɐ⁵³,ȶɐ⁵³,ȶ ɐ ⁵³,197,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,chicken,1318,CHICKEN,false,expert
+KimMunLaocai-12_chicken-1,12_chicken,ȶɐj²¹⁴,ȶɐj²¹⁴,ȶ ɐ j ²¹⁴,537,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chicken,1318,CHICKEN,false,expert
+KimMunLaocai-10_chickencock-1,10_chickencock,ȶɐj²¹⁴kɔŋ³¹,ȶɐj²¹⁴kɔŋ³¹,ȶ ɐ j ²¹⁴ + k ɔ ŋ ³¹,535,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chicken cock,1511,ROOSTER,false,expert
+KimMunLaocai-11_chickenhen-1,11_chickenhen,⁣ȶɐj²¹⁴ȵɐj³⁴¹,⁣ȶɐj²¹⁴ȵɐj³⁴¹,ȶ ɐ j ²¹⁴ + ȵ ɐ j ³⁴¹,536,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chicken hen,1514,HEN,false,expert
+KimMunLaos-198_child-1,198_child,səj³³,səj³³,s ə j ³³,280,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,child,2099,CHILD,false,expert
+KimMunLaocai-198_child-1,198_child,mun¹¹sɐj⁴⁴,mun¹¹sɐj⁴⁴,m u n ¹¹ + s ɐ j ⁴⁴,723,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,child,2099,CHILD,false,expert
+KimMunLaocai-146_chilipepper-1,146_chilipepper,duŋ³³ma:t³³,duŋ³³ma:t³³,d u ŋ ³³ + m aː t ³³,671,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chili pepper,919,CHILI PEPPER,false,expert
+KimMunLaos-110_chin-1,110_chin,klaŋ⁵³ŋam³⁴¹,klaŋ⁵³ŋam³⁴¹,k l a ŋ ⁵³ + ŋ a m ³⁴¹,236,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,chin,1510,CHIN,false,expert
+KimMunLaos-244_chopsticks-1,244_chopsticks,ȶo²¹,ȶo²¹,ȶ o ²¹,157,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,chopsticks,1987,CHOPSTICKS,false,expert
+KimMunLaocai-244_chopsticks-1,244_chopsticks,ȶɐw³³,ȶɐw³³,ȶ ɐ w ³³,769,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,chopsticks,1987,CHOPSTICKS,false,expert
+KimMunLaos-119_cigarette-1,119_cigarette,jin³⁵bja:t³¹,jin³⁵bja:t³¹,j i n ³⁵ + b j aː t ³¹,128,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cigarette,969,CIGARETTE,false,expert
+KimMunLaos-115_cliff-1,115_cliff,gjaw⁵³bɛŋ¹³,gjaw⁵³bɛŋ¹³,g j a w ⁵³ + b ɛ ŋ ¹³,63,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cliff,992,CLIFF,false,expert
+KimMunLaocai-115_cliff-1,115_cliff,gjaw²¹⁴pje³¹,gjaw²¹⁴pje³¹,g j a w ²¹⁴ + p j e ³¹,640,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cliff,992,CLIFF,false,expert
+KimMunLaocai-227_cloth-1,227_cloth,buj³⁵,buj³⁵,b u j ³⁵,752,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cloth,1616,CLOTH,false,expert
+KimMunLaos-228_clothing-1,228_clothing,guj⁵³,guj⁵³,g u j ⁵³,306,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,clothing,1895,CLOTHES,false,expert
+KimMunLaocai-228_clothing-1,228_clothing,ŋuj²¹⁴kwɑ⁵²,ŋuj²¹⁴kwɑ⁵²,ŋ u j ²¹⁴ + kʷ ɑ ⁵²,753,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,clothing,1895,CLOTHES,false,expert
+KimMunLaos-116_cloud-1,116_cloud,van¹³,van¹³,v a n ¹³,14,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cloud,1489,CLOUD,false,expert
+KimMunLaocai-116_cloud-1,116_cloud,vɐn¹³,vɐn¹³,v ɐ n ¹³,641,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cloud,1489,CLOUD,false,expert
+KimMunLaos-24_cloudyday-1,24_cloudyday,guŋ³¹naj³¹van¹³,guŋ³¹naj³¹van¹³,g u ŋ ³¹ + n a j ³¹ + v a n ¹³,26,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cloudy day,2743,CLOUDY DAY,false,expert
+KimMunLaocai-66_cockcmbi-1,66_cockcmbi,gɐn²¹⁴,gɐn²¹⁴,g ɐ n ²¹⁴,591,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cockcmbi,,,false,expert
+KimMunLaos-199_cockroach-1,199_cockroach,bjan³⁴¹,bjan³⁴¹,b j a n ³⁴¹,211,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cockroach,1575,COCKROACH,false,expert
+KimMunLaos-88_coconut-1,88_coconut,mak²¹paw³³pjo³³,mak²¹paw³³pjo³³,m a k ²¹ + p a w ³³ + p j o ³³,96,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,coconut,970,COCONUT,false,expert
+KimMunLaos-81_coconuttree-1,81_coconuttree,mak²¹paw³¹gjaŋ¹³,mak²¹paw³¹gjaŋ¹³,m a k ²¹ + p a w ³¹ + g j a ŋ ¹³,89,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,coconut tree,147,COCONUT TREE,false,expert
+KimMunLaos-306_coffin-1,306_coffin,bin³³,bin³³,b i n ³³,322,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,coffin,2011,COFFIN,false,expert
+KimMunLaocai-147_cogongrass-1,147_cogongrass,ga:n²¹⁴,ga:n²¹⁴,g aː n ²¹⁴,672,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cogongrass,,,false,expert
+KimMunLaocai-324_cold-1,324_cold,sɔŋ⁴⁴,sɔŋ⁴⁴,s ɔ ŋ ⁴⁴,849,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cold,1287,COLD,false,expert
+KimMunLaos-229_comb-1,229_comb,ȶa⁵³,ȶa⁵³,ȶ a ⁵³,312,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,comb,1475,COMB,false,expert
+KimMunLaocai-229_comb-1,229_comb,ȶɑ²¹⁴,ȶɑ²¹⁴,ȶ ɑ ²¹⁴,754,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,comb,1475,COMB,false,expert
+KimMunLaos-323_cool-1,323_cool,θiŋ¹³,θiŋ¹³,θ i ŋ ¹³,517,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cool,2483,COLD (OF WEATHER),false,expert
+KimMunLaocai-323_cool-1,323_cool,θiŋ³⁵,θiŋ³⁵,θ i ŋ ³⁵,848,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cool,2483,COLD (OF WEATHER),false,expert
+KimMunLaocai-268_coop-1,268_coop,ȶe²¹⁴ko⁵²,ȶe²¹⁴ko⁵²,ȶ e ²¹⁴ + k o ⁵²,793,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,coop,,,false,expert
+KimMunLaocai-117_copper-1,117_copper,tɔŋ¹¹,tɔŋ¹¹,t ɔ ŋ ¹¹,642,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,copper,1825,COPPER,false,expert
+KimMunLaocai-148_corn-1,148_corn,buŋ³³mɐj³⁴¹,buŋ³³mɐj³⁴¹,b u ŋ ³³ + m ɐ j ³⁴¹,673,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,corn,506,MAIZE,false,expert
+KimMunLaocai-67_corpse-1,67_corpse,mun¹¹tɐj³³,mun¹¹tɐj³³,m u n ¹¹ + t ɐ j ³³,592,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,corpse,767,CORPSE,false,expert
+KimMunLaocai-149_cotton-1,149_cotton,buj³³min³¹,buj³³min³¹,b u j ³³ + m i n ³¹,674,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cotton,1850,COTTON,false,expert
+KimMunLaos-144_cover-1,144_cover,gaj¹³,gaj¹³,g a j ¹³,153,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cover,2319,"LID (COVER, CAP)",false,expert
+KimMunLaos-174_cow-1,174_cow,ŋɔŋ³³wa:ŋ³¹,ŋɔŋ³³wa:ŋ³¹,ŋ ɔ ŋ ³³ + w aː ŋ ³¹,184,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cow,1007,COW,false,expert
+KimMunLaocai-13_cowox-1,13_cowox,ŋɔ¹¹wa:ŋ¹¹,ŋɔ¹¹wa:ŋ¹¹,ŋ ɔ ¹¹ + w aː ŋ ¹¹,538,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cow/ox,1153,CATTLE,false,expert
+KimMunLaocai-14_crab-1,14_crab,kjɐm³⁵ȵaj²¹⁴,kjɐm³⁵ȵaj²¹⁴,k j ɐ m ³⁵ + ȵ a j ²¹⁴,539,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,crab,2348,CRAB,false,expert
+KimMunLaocai-15_cricket-1,15_cricket,kjɛŋ²¹⁴kjo³¹,kjɛŋ²¹⁴kjo³¹,k j ɛ ŋ ²¹⁴ + k j o ³¹,540,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cricket,2354,CRICKET,false,expert
+KimMunLaos-192_crocodile-1,192_crocodile,tu³³ȵe³⁴¹tu³³da:n³¹,tu³³ȵe³⁴¹tu³³da:n³¹,t u ³³ + ȵ e ³⁴¹ + t u ³³ + d aː n ³¹,203,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,crocodile,1857,CROCODILE,false,expert
+KimMunLaocai-16_crow-1,16_crow,ku.a:³¹,ku.a:³¹,k u ⁰ + aː ³¹,541,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,crow,913,CROW,false,expert
+KimMunLaos-150_cucumber-1,150_cucumber,kwa⁵³,kwa⁵³,kʷ a ⁵³,109,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cucumber,496,CUCUMBER,false,expert
+KimMunLaocai-150_cucumber-1,150_cucumber,kwa²¹⁴kjo³¹,kwa²¹⁴kjo³¹,kʷ a ²¹⁴ + k j o ³¹,675,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,cucumber,496,CUCUMBER,false,expert
+KimMunLaos-151_cup-1,151_cup,ȶɔk²¹,ȶɔk²¹,ȶ ɔ k ²¹,160,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cup,476,CUP,false,expert
+KimMunLaos-126_cuttingboard-1,126_cuttingboard,ȶum³¹ȡɛŋ³¹,ȶum³¹ȡɛŋ³¹,ȶ u m ³¹ + ȡ ɛ ŋ ³¹,135,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,cutting board,,,false,expert
+KimMunLaos-11_dark-1,11_dark,ȡam²¹,ȡam²¹,ȡ a m ²¹,13,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,dark,706,DARK,false,expert
+KimMunLaocai-199_daughter-1,199_daughter,mun¹¹sɑ⁵²,mun¹¹sɑ⁵²,m u n ¹¹ + s ɑ ⁵²,724,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,daughter,1357,DAUGHTER,false,expert
+KimMunLaos-186_day-1,186_day,mə.nɔj³⁵ȶa:¹³,mə.nɔj³⁵ȶa:¹³,m ə ⁰ + n ɔ j ³⁵ + ȶ aː ¹³,29,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,day,1260,DAY (24 HOURS),false,expert
+KimMunLaocai-186_day-1,186_day,mɐ.nɔj⁵²ȶa:³⁵,mɐ.nɔj⁵²ȶa:³⁵,m ɐ ⁰ + n ɔ j ⁵² + ȶ aː ³⁵,711,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,day,1260,DAY (24 HOURS),false,expert
+KimMunLaocai-322_dead-1,322_dead,daj³³,daj³³,d a j ³³,847,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dead,1625,DEAD,false,expert
+KimMunLaos-165_deer-1,165_deer,ȶim³³ȡa:j³¹,ȶim³³ȡa:j³¹,ȶ i m ³³ + ȡ aː j ³¹,174,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,deer,1936,DEER,false,expert
+KimMunLaocai-200_descendant-1,200_descendant,se⁴⁴θun²¹⁴,se⁴⁴θun²¹⁴,s e ⁴⁴ + θ u n ²¹⁴,725,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,descendant,490,DESCENDANTS,false,expert
+KimMunLaos-496_difficult-1,496_difficult,ȶo²¹,ȶo²¹,ȶ o ²¹,518,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,difficult,584,DIFFICULT,false,expert
+KimMunLaos-147_dish-1,147_dish,ba:n³¹,ba:n³¹,b aː n ³¹,156,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,dish,481,DISH,false,expert
+KimMunLaocai-118_ditch-1,118_ditch,θin³⁵wɐm²¹⁴,θin³⁵wɐm²¹⁴,θ i n ³⁵ + w ɐ m ²¹⁴,643,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ditch,2002,DITCH,false,expert
+KimMunLaocai-269_dockboat-1,269_dockboat,bɐj¹¹,bɐj¹¹,b ɐ j ¹¹,794,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,"dock, boat",,,false,expert
+KimMunLaos-19_dog-1,19_dog,klu³³,klu³³,k l u ³³,178,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,dog,2009,DOG,false,expert
+KimMunLaocai-19_dog-1,19_dog,klu⁴⁴,klu⁴⁴,k l u ⁴⁴,544,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dog,2009,DOG,false,expert
+KimMunLaos-270_door-1,270_door,kjɛŋ³¹,kjɛŋ³¹,k j ɛ ŋ ³¹,299,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,door,1567,DOOR,false,expert
+KimMunLaocai-270_door-1,270_door,kjɛŋ¹¹,kjɛŋ¹¹,k j ɛ ŋ ¹¹,795,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,door,1567,DOOR,false,expert
+KimMunLaocai-20_dragon-1,20_dragon,kuŋ²¹⁴,kuŋ²¹⁴,k u ŋ ²¹⁴,545,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dragon,2038,DRAGON,false,expert
+KimMunLaocai-21_dragonfly-1,21_dragonfly,kjɛŋ²¹⁴nuŋ⁴⁴,kjɛŋ²¹⁴nuŋ⁴⁴,k j ɛ ŋ ²¹⁴ + n u ŋ ⁴⁴,546,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dragon fly,2352,DRAGONFLY,false,expert
+KimMunLaocai-182_dream-1,182_dream,be³⁵,be³⁵,b e ³⁵,707,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dream,2374,DREAM,false,expert
+KimMunLaos-25_drought-1,25_drought,guŋ⁵³ha:n³⁵,guŋ⁵³ha:n³⁵,g u ŋ ⁵³ + h aː n ³⁵,27,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,drought,,,false,expert
+KimMunLaocai-321_dry-1,321_dry,gaj⁵²,gaj⁵²,g a j ⁵²,846,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,dry,1398,DRY,false,expert
+KimMunLaos-187_duck-1,187_duck,a:p⁵³,a:p⁵³,aː p ⁵³,198,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,duck,1360,DUCK,false,expert
+KimMunLaocai-22_duck1-1,22_duck1,a:p¹¹,a:p¹¹,aː p ¹¹,547,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,duck1,1360,DUCK,false,expert
+KimMunLaos-44_dust-1,44_dust,ni³⁵buŋ³⁵,ni³⁵buŋ³⁵,n i ³⁵ + b u ŋ ³⁵,50,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,dust,2,DUST,false,expert
+KimMunLaocai-24_eagle-1,24_eagle,kla:ŋ⁴⁴,kla:ŋ⁴⁴,k l aː ŋ ⁴⁴,549,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,eagle,1905,EAGLE,false,expert
+KimMunLaos-217_ear-1,217_ear,mə.nɔm³¹,mə.nɔm³¹,m ə ⁰ + n ɔ m ³¹,229,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ear,1247,EAR,false,expert
+KimMunLaocai-320_early-1,320_early,gjo⁴⁴,gjo⁴⁴,g j o ⁴⁴,845,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,early,672,EARLY,false,expert
+KimMunLaocai-230_earring-1,230_earring,bin⁵²,bin⁵²,b i n ⁵²,755,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,earring,770,EARRING,false,expert
+KimMunLaocai-68_ears-1,68_ears,mɐ.nɔm¹¹,mɐ.nɔm¹¹,m ɐ ⁰ + n ɔ m ¹¹,593,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ears,1247,EAR,false,expert
+KimMunLaocai-119_earth-1,119_earth,ni⁵²,ni⁵²,n i ⁵²,644,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,earth,1228,EARTH (SOIL),false,expert
+KimMunLaos-42_earthsoil-1,42_earthsoil,ni³⁵,ni³⁵,n i ³⁵,48,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"earth, soil",1228,EARTH (SOIL),false,expert
+KimMunLaos-53_earthworm-1,53_earthworm,duŋ³¹na:ŋ⁵³,duŋ³¹na:ŋ⁵³,d u ŋ ³¹ + n aː ŋ ⁵³,218,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,earthworm,2350,EARTHWORM,false,expert
+KimMunLaocai-53_earthworm-1,53_earthworm,nuŋ¹¹naŋ²¹⁴,nuŋ¹¹naŋ²¹⁴,n u ŋ ¹¹ + n a ŋ ²¹⁴,578,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,earthworm,2350,EARTHWORM,false,expert
+KimMunLaos-33_east-1,33_east,tɔŋ⁵³fa:n¹³,tɔŋ⁵³fa:n¹³,t ɔ ŋ ⁵³ + f aː n ¹³,35,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,east,1877,EAST,false,expert
+KimMunLaos-33_east-2,33_east,mə.nɔj³⁵sɛt³¹fa:n¹³,mə.nɔj³⁵sɛt³¹fa:n¹³,m ə ⁰ + n ɔ j ³⁵ + s ɛ t ³¹ + f aː n ¹³,36,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,east,1877,EAST,false,expert
+KimMunLaos-497_easy-1,497_easy,həj¹¹,həj¹¹,h ə j ¹¹,519,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,easy,686,EASY,false,expert
+KimMunLaos-69_egg-1,69_egg,kjaw¹³,kjaw¹³,k j a w ¹³,196,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,egg,744,EGG,false,expert
+KimMunLaocai-69_egg-1,69_egg,kjaw³⁵,kjaw³⁵,k j a w ³⁵,594,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,egg,744,EGG,false,expert
+KimMunLaos-151_eggplant-1,151_eggplant,kə.daŋ³³,kə.daŋ³³,k ə ⁰ + d a ŋ ³³,100,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,eggplant,1146,AUBERGINE,false,expert
+KimMunLaocai-151_eggplant-1,151_eggplant,kɐ.taŋ⁴⁴,kɐ.taŋ⁴⁴,k ɐ ⁰ + t a ŋ ⁴⁴,676,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,eggplant,1146,AUBERGINE,false,expert
+KimMunLaos-232_elbow-1,232_elbow,θe³¹ȡɔŋ⁵³,θe³¹ȡɔŋ⁵³,θ e ³¹ + ȡ ɔ ŋ ⁵³,245,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,elbow,981,ELBOW,false,expert
+KimMunLaos-179_elephant-1,179_elephant,kjaŋ³⁴¹,kjaŋ³⁴¹,k j a ŋ ³⁴¹,189,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,elephant,1290,ELEPHANT,false,expert
+KimMunLaocai-187_evening-1,187_evening,ȡa:m³³,ȡa:m³³,ȡ aː m ³³,712,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,evening,1629,EVENING,false,expert
+KimMunLaos-73_excrement-1,73_excrement,da:j³³,da:j³³,d aː j ³³,266,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,excrement,675,FAECES (EXCREMENT),false,expert
+KimMunLaocai-73_excrement-1,73_excrement,dɐj⁴⁴,dɐj⁴⁴,d ɐ j ⁴⁴,598,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,excrement,675,FAECES (EXCREMENT),false,expert
+KimMunLaos-70_eye-1,70_eye,məj²¹,məj²¹,m ə j ²¹,225,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,eye,1248,EYE,false,expert
+KimMunLaocai-70_eye-1,70_eye,mɐj³³,mɐj³³,m ɐ j ³³,595,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,eye,1248,EYE,false,expert
+KimMunLaos-212_eyebrow-1,212_eyebrow,məj²¹jap³⁵pje⁵³,məj²¹jap³⁵pje⁵³,m ə j ²¹ + j a p ³⁵ + p j e ⁵³,224,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,eyebrow,1173,EYEBROW,false,expert
+KimMunLaocai-71_eyebrows-1,71_eyebrows,mɐj³³ma:j³¹,mɐj³³ma:j³¹,m ɐ j ³³ + m aː j ³¹,596,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,eyebrows,1173,EYEBROW,false,expert
+KimMunLaos-214_eyelid-1,214_eyelid,məj²¹dup²¹,məj²¹dup²¹,m ə j ²¹ + d u p ²¹,226,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,eyelid,17,EYELID,false,expert
+KimMunLaos-72_face-1,72_face,min³⁵,min³⁵,m i n ³⁵,220,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,face,1560,FACE,false,expert
+KimMunLaocai-72_face-1,72_face,min⁵²,min⁵²,m i n ⁵²,597,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,face,1560,FACE,false,expert
+KimMunLaocai-319_far-1,319_far,gɔ²¹⁴,gɔ²¹⁴,g ɔ ²¹⁴,844,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,far,1406,FAR,false,expert
+KimMunLaos-152_fat-1,152_fat,məj³⁵pi³¹,məj³⁵pi³¹,m ə j ³⁵ + p i ³¹,261,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fat,2449,FAT (OF MEAT AND FOOD),false,expert
+KimMunLaocai-152_fat-1,152_fat,mɐj⁵²,mɐj⁵²,m ɐ j ⁵²,677,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fat,2449,FAT (OF MEAT AND FOOD),false,expert
+KimMunLaos-263_father-1,263_father,fa:³³,fa:³³,f aː ³³,278,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,father,1217,FATHER,false,expert
+KimMunLaocai-201_fathersolderbrother-1,201_fathersolderbrother,pɛ²¹⁴,pɛ²¹⁴,p ɛ ²¹⁴,726,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,father’s older brother,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),false,expert
+KimMunLaocai-202_fathersyoungerbrother-1,202_fathersyoungerbrother,jo³⁴¹,jo³⁴¹,j o ³⁴¹,727,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,father’s younger brother,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),false,expert
+KimMunLaos-183_feather-1,183_feather,nɔ²¹pje⁵³,nɔ²¹pje⁵³,n ɔ ²¹ + p j e ⁵³,193,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,feather,1201,FEATHER,false,expert
+KimMunLaos-74_finger-1,74_finger,pu³⁴¹dɔ⁵³,pu³⁴¹dɔ⁵³,p u ³⁴¹ + d ɔ ⁵³,248,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,finger,1303,FINGER,false,expert
+KimMunLaocai-74_finger-1,74_finger,pu.dɔ³¹,pu.dɔ³¹,p u ⁰ + d ɔ ³¹,599,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,finger,1303,FINGER,false,expert
+KimMunLaos-75_fingernail-1,75_fingernail,pu³⁴¹dɔ⁵³waj¹³,pu³⁴¹dɔ⁵³waj¹³,p u ³⁴¹ + d ɔ ⁵³ + w a j ¹³,249,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fingernail,1258,FINGERNAIL,false,expert
+KimMunLaocai-75_fingernail-1,75_fingernail,pu.dɔ³¹waj³⁵,pu.dɔ³¹waj³⁵,p u ⁰ + d ɔ ³¹ + w a j ³⁵,600,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fingernail,1258,FINGERNAIL,false,expert
+KimMunLaos-245_fire-1,245_fire,to³⁴¹,to³⁴¹,t o ³⁴¹,317,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fire,221,FIRE,false,expert
+KimMunLaocai-245_fire-1,245_fire,tɐw³¹,tɐw³¹,t ɐ w ³¹,770,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fire,221,FIRE,false,expert
+KimMunLaocai-246_firetongs-1,246_firetongs,pja⁴⁴,pja⁴⁴,p j a ⁴⁴,771,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fire tongs,272,TONGS,false,expert
+KimMunLaocai-271_firewood-1,271_firewood,θɑŋ¹¹,θɑŋ¹¹,θ ɑ ŋ ¹¹,796,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,firewood,10,FIREWOOD,false,expert
+KimMunLaos-25_fish-1,25_fish,bjaw³⁴¹,bjaw³⁴¹,b j a w ³⁴¹,199,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fish,227,FISH,false,expert
+KimMunLaocai-25_fish-1,25_fish,bjaw³⁴¹,bjaw³⁴¹,b j a w ³⁴¹,550,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fish,227,FISH,false,expert
+KimMunLaocai-247_fishnet-1,247_fishnet,lɛ³³,lɛ³³,l ɛ ³³,772,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fishnet,388,FISHNET,false,expert
+KimMunLaocai-318_fishy-1,318_fishy,θe³³diŋ⁵²,θe³³diŋ⁵²,θ e ³³ + d i ŋ ⁵²,843,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fishy,,,false,expert
+KimMunLaocai-26_flea-1,26_flea,klɐ.muŋ⁵²,klɐ.muŋ⁵²,k l ɐ ⁰ + m u ŋ ⁵²,551,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,flea,232,FLEA,false,expert
+KimMunLaos-247_flesh-1,247_flesh,a³³ȡa:j⁵³,a³³ȡa:j⁵³,a ³³ + ȡ aː j ⁵³,260,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,flesh,2259,FLESH,false,expert
+KimMunLaos-61_flood-1,61_flood,wɔm⁵³ja:m¹³,wɔm⁵³ja:m¹³,w ɔ m ⁵³ + j aː m ¹³,68,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,flood,613,HIGH TIDE,false,expert
+KimMunLaos-153_flower-1,153_flower,gjaŋ³³fa:ŋ³¹,gjaŋ³³fa:ŋ³¹,g j a ŋ ³³ + f aː ŋ ³¹,81,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,flower,239,FLOWER,false,expert
+KimMunLaocai-153_flower-1,153_flower,faŋ¹¹,faŋ¹¹,f a ŋ ¹¹,678,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,flower,239,FLOWER,false,expert
+KimMunLaos-27_fly-1,27_fly,kjiŋ⁵³gjəm³⁵,kjiŋ⁵³gjəm³⁵,k j i ŋ ⁵³ + g j ə m ³⁵,215,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fly,1504,FLY (INSECT),false,expert
+KimMunLaocai-27_fly-1,27_fly,kjɛŋ²¹⁴gjɐm⁵²,kjɛŋ²¹⁴gjɐm⁵²,k j ɛ ŋ ²¹⁴ + g j ɐ m ⁵²,552,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fly,1504,FLY (INSECT),false,expert
+KimMunLaocai-120_fog-1,120_fog,kja:³⁵,kja:³⁵,k j aː ³⁵,645,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fog,249,FOG,false,expert
+KimMunLaos-243_foot-1,243_foot,θaw¹³,θaw¹³,θ a w ¹³,256,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,foot,1301,FOOT,false,expert
+KimMunLaocai-76_footsurface-1,76_footsurface,θaw³⁵pen⁴⁴,θaw³⁵pen⁴⁴,θ a w ³⁵ + p e n ⁴⁴,601,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,foot (surface),,,false,expert
+KimMunLaos-211_forehead-1,211_forehead,min³⁵dup²¹,min³⁵dup²¹,m i n ³⁵ + d u p ²¹,223,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,forehead,123,FOREHEAD,false,expert
+KimMunLaos-121_forest-1,121_forest,kim³¹,kim³¹,k i m ³¹,74,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,forest,420,FOREST,false,expert
+KimMunLaocai-121_forest-1,121_forest,kim¹¹,kim¹¹,k i m ¹¹,646,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,forest,420,FOREST,false,expert
+KimMunLaocai-317_fragrant-1,317_fragrant,daŋ²¹⁴,daŋ²¹⁴,d a ŋ ²¹⁴,842,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fragrant,376,FRAGRANT,false,expert
+KimMunLaos-277_friend-1,277_friend,pɛw³⁵,pɛw³⁵,p ɛ w ³⁵,292,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,friend,1325,FRIEND,false,expert
+KimMunLaos-277_friend-2,277_friend,lo³³toj²¹,lo³³toj²¹,l o ³³ + t o j ²¹,293,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,friend,1325,FRIEND,false,expert
+KimMunLaos-28_frog-1,28_frog,ȶɛŋ³³,ȶɛŋ³³,ȶ ɛ ŋ ³³,204,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,frog,503,FROG,false,expert
+KimMunLaocai-28_frog-1,28_frog,ȶɛŋ⁴⁴,ȶɛŋ⁴⁴,ȶ ɛ ŋ ⁴⁴,553,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,frog,503,FROG,false,expert
+KimMunLaos-154_fruit-1,154_fruit,gjaŋ³³pjo³³,gjaŋ³³pjo³³,g j a ŋ ³³ + p j o ³³,82,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,fruit,1507,FRUIT,false,expert
+KimMunLaocai-154_fruit-1,154_fruit,pjo⁴⁴,pjo⁴⁴,p j o ⁴⁴,679,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,fruit,1507,FRUIT,false,expert
+KimMunLaos-128_fryingpan-1,128_fryingpan,ȶɛŋ³⁵,ȶɛŋ³⁵,ȶ ɛ ŋ ³⁵,137,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,frying pan,31,PAN,false,expert
+KimMunLaocai-316_full-1,316_full,bɔŋ⁵²,bɔŋ⁵²,b ɔ ŋ ⁵²,841,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,full,1429,FULL,false,expert
+KimMunLaocai-272_garden-1,272_garden,ȡin⁵²,ȡin⁵²,ȡ i n ⁵²,797,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,garden,586,GARDEN,false,expert
+KimMunLaos-155_garlic-1,155_garlic,tun³⁵pje³³,tun³⁵pje³³,t u n ³⁵ + p j e ³³,103,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,garlic,2368,GARLIC,false,expert
+KimMunLaocai-155_garlic-1,155_garlic,tun⁵²,tun⁵²,t u n ⁵²,680,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,garlic,2368,GARLIC,false,expert
+KimMunLaos-366_ghost-1,366_ghost,ma:n¹¹,ma:n¹¹,m aː n ¹¹,384,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ghost,1175,GHOST,false,expert
+KimMunLaos-94_ginger-1,94_ginger,θuŋ³⁵,θuŋ³⁵,θ u ŋ ³⁵,102,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ginger,2500,GINGER,false,expert
+KimMunLaocai-29_goat-1,29_goat,juŋ¹¹,juŋ¹¹,j u ŋ ¹¹,554,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,goat,1502,GOAT,false,expert
+KimMunLaos-122_gold-1,122_gold,səm⁵³,səm⁵³,s ə m ⁵³,54,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,gold,1369,GOLD,false,expert
+KimMunLaocai-122_gold-1,122_gold,sɐm²¹⁴,sɐm²¹⁴,s ɐ m ²¹⁴,647,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,gold,1369,GOLD,false,expert
+KimMunLaocai-315_good-1,315_good,gɔŋ³³ve³⁴¹,gɔŋ³³ve³⁴¹,g ɔ ŋ ³³ + v e ³⁴¹,840,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,good,1035,GOOD,false,expert
+KimMunLaocai-203_grandfather-1,203_grandfather,klɑw³⁴¹,klɑw³⁴¹,k l ɑ w ³⁴¹,728,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,grandfather,1383,GRANDFATHER,false,expert
+KimMunLaocai-204_grandmother-1,204_grandmother,bo³⁴¹,bo³⁴¹,b o ³⁴¹,729,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,grandmother,1496,GRANDMOTHER,false,expert
+KimMunLaos-156_grass-1,156_grass,ma:¹¹,ma:¹¹,m aː ¹¹,85,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,grass,606,GRASS,false,expert
+KimMunLaocai-156_grass-1,156_grass,ma:³³,ma:³³,m aː ³³,681,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,grass,606,GRASS,false,expert
+KimMunLaocai-30_grasshopper-1,30_grasshopper,kjɛŋ²¹⁴bo³¹,kjɛŋ²¹⁴bo³¹,k j ɛ ŋ ²¹⁴ + b o ³¹,555,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,grasshopper,607,GRASSHOPPER,false,expert
+KimMunLaocai-273_grave-1,273_grave,θo⁴⁴,θo⁴⁴,θ o ⁴⁴,798,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,grave,1773,GRAVE,false,expert
+KimMunLaos-314_green-1,314_green,mɛŋ⁵³,mɛŋ⁵³,m ɛ ŋ ⁵³,481,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,green,1425,GREEN,false,expert
+KimMunLaocai-314_green-1,314_green,mɛŋ²¹⁴,mɛŋ²¹⁴,m ɛ ŋ ²¹⁴,839,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,green,1425,GREEN,false,expert
+KimMunLaos-104_greenbean-1,104_greenbean,tə.bwe³³miŋ⁵³,tə.bwe³³miŋ⁵³,t ə ⁰ + b w e ³³ + m i ŋ ⁵³,112,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,green bean,,,false,expert
+KimMunLaocai-205_groom-1,205_groom,lɑŋ¹¹,lɑŋ¹¹,l ɑ ŋ ¹¹,730,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,groom,3282,GROOM,false,expert
+KimMunLaocai-206_guest-1,206_guest,ȶɛ⁵²,ȶɛ⁵²,ȶ ɛ ⁵²,731,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,guest,1782,GUEST,false,expert
+KimMunLaos-222_gums-1,222_gums,ȵa³¹lɔŋ³⁵,ȵa³¹lɔŋ³⁵,ȵ a ³¹ + l ɔ ŋ ³⁵,235,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,gums,139,GUMS,false,expert
+KimMunLaos-21_hail-1,21_hail,pjɔ²¹,pjɔ²¹,p j ɔ ²¹,23,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,hail,609,HAIL,false,expert
+KimMunLaos-210_hair-1,210_hair,pje³³doŋ⁵³,pje³³doŋ⁵³,p j e ³³ + d o ŋ ⁵³,222,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,hair,1040,HAIR,false,expert
+KimMunLaocai-77_hairofbody-1,77_hairofbody,pje²¹⁴,pje²¹⁴,p j e ²¹⁴,602,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hair of body,189,HAIR (BODY),false,expert
+KimMunLaocai-79_hairofhead-1,79_hairofhead,pi³³dɔŋ²¹⁴,pi³³dɔŋ²¹⁴,p i ³³ + d ɔ ŋ ²¹⁴,604,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hair of head,2648,HAIR (HEAD),false,expert
+KimMunLaos-434_halfaunit-1,434_halfaunit,a³³fa:n¹³,a³³fa:n¹³,a ³³ + f aː n ¹³,454,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,half a unit,816,HALF,false,expert
+KimMunLaos-248_hammer-1,248_hammer,ban³³ȡe⁵³,ban³³ȡe⁵³,b a n ³³ + ȡ e ⁵³,328,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,hammer,1481,HAMMER,false,expert
+KimMunLaocai-248_hammer-1,248_hammer,pɐw⁴⁴,pɐw⁴⁴,p ɐ w ⁴⁴,773,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hammer,1481,HAMMER,false,expert
+KimMunLaos-80_hand-1,80_hand,pu³⁴¹,pu³⁴¹,p u ³⁴¹,244,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,hand,1277,HAND,false,expert
+KimMunLaocai-80_hand-1,80_hand,pu.pen⁴⁴,pu.pen⁴⁴,p u ⁰ + p e n ⁴⁴,605,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hand,1277,HAND,false,expert
+KimMunLaocai-313_hard-1,313_hard,ȵɛŋ³³,ȵɛŋ³³,ȵ ɛ ŋ ³³,838,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hard,1884,HARD,false,expert
+KimMunLaocai-249_harrow-1,249_harrow,tuŋ¹¹pa¹¹,tuŋ¹¹pa¹¹,t u ŋ ¹¹ + p a ¹¹,774,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,harrow,2545,HARROW (TOOL),false,expert
+KimMunLaocai-416_he-1,416_he,nɐn¹¹,nɐn¹¹,n ɐ n ¹¹,941,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,he,1211,HE,false,expert
+KimMunLaos-257_hesheit-1,257_hesheit,θi⁵³,θi⁵³,θ i ⁵³,270,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,he/she/it,262,HE OR SHE OR IT,false,expert
+KimMunLaos-257_hesheit-2,257_hesheit,mun³¹,mun³¹,m u n ³¹,271,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,he/she/it,262,HE OR SHE OR IT,false,expert
+KimMunLaos-81_head-1,81_head,pje³³,pje³³,p j e ³³,219,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,head,1256,HEAD,false,expert
+KimMunLaocai-81_head-1,81_head,pje⁴⁴,pje⁴⁴,p j e ⁴⁴,606,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,head,1256,HEAD,false,expert
+KimMunLaos-82_heart-1,82_heart,θim⁵³ta:w³¹,θim⁵³ta:w³¹,θ i m ⁵³ + t aː w ³¹,240,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,heart,1223,HEART,false,expert
+KimMunLaocai-82_heart-1,82_heart,θin²¹⁴taw³¹,θin²¹⁴taw³¹,θ i n ²¹⁴ + t a w ³¹,607,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,heart,1223,HEART,false,expert
+KimMunLaocai-312_heavy-1,312_heavy,ni³³,ni³³,n i ³³,837,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,heavy,1210,HEAVY,false,expert
+KimMunLaos-111_heel-1,111_heel,θaw³³ȡɛŋ⁵³,θaw³³ȡɛŋ⁵³,θ a w ³³ + ȡ ɛ ŋ ⁵³,257,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,heel,980,HEEL,false,expert
+KimMunLaocai-311_high-1,311_high,gjaŋ⁵²,gjaŋ⁵²,g j a ŋ ⁵²,836,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,high,1265,HIGH,false,expert
+KimMunLaocai-83_hip-1,83_hip,kɐ.tlaj⁴⁴tuj⁴⁴,kɐ.tlaj⁴⁴tuj⁴⁴,k ɐ ⁰ + t l a j ⁴⁴ + t u j ⁴⁴,608,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hip,1745,HIP,false,expert
+KimMunLaocai-250_hoe-1,250_hoe,ȵɛw²¹⁴,ȵɛw²¹⁴,ȵ ɛ w ²¹⁴,775,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hoe,284,HOE,false,expert
+KimMunLaos-58_hole-1,58_hole,kɔt³⁵,kɔt³⁵,k ɔ t ³⁵,65,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,hole,1667,HOLE,false,expert
+KimMunLaocai-84_hoof-1,84_hoof,θaw³⁵dɔ³¹waj³⁵,θaw³⁵dɔ³¹waj³⁵,θ a w ³⁵ + d ɔ ³¹ + w a j ³⁵,609,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hoof,152,HOOF,false,expert
+KimMunLaos-37_horizon-1,37_horizon,guŋ³¹sin³¹,guŋ³¹sin³¹,g u ŋ ³¹ + s i n ³¹,43,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,horizon,2287,HORIZON,false,expert
+KimMunLaos-85_horn-1,85_horn,kjoŋ⁵³,kjoŋ⁵³,k j o ŋ ⁵³,187,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,horn,1393,HORN (ANATOMY),false,expert
+KimMunLaocai-85_horn-1,85_horn,kjɔŋ²¹⁴,kjɔŋ²¹⁴,k j ɔ ŋ ²¹⁴,610,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,horn,1393,HORN (ANATOMY),false,expert
+KimMunLaocai-31_horse-1,31_horse,ma³⁴¹,ma³⁴¹,m a ³⁴¹,556,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,horse,615,HORSE,false,expert
+KimMunLaocai-207_hostowner-1,207_hostowner,pjɑw³¹mun³¹,pjɑw³¹mun³¹,p j ɑ w ³¹ + m u n ³¹,732,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,"host, owner",1545,HOST,false,expert
+KimMunLaocai-310_hot-1,310_hot,kjɔm²¹⁴,kjɔm²¹⁴,k j ɔ m ²¹⁴,835,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,hot,1286,HOT,false,expert
+KimMunLaos-274_house-1,274_house,pjaw³³,pjaw³³,p j a w ³³,298,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,house,1252,HOUSE,false,expert
+KimMunLaocai-274_house-1,274_house,pjɑw⁴⁴,pjɑw⁴⁴,p j ɑ w ⁴⁴,799,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,house,1252,HOUSE,false,expert
+KimMunLaos-190_houselizard-1,190_houselizard,kə.dun³¹,kə.dun³¹,k ə ⁰ + d u n ³¹,201,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,house lizard,632,LIZARD,false,expert
+KimMunLaos-503_howmany-1,503_howmany,bu³¹la:j³⁵,bu³¹la:j³⁵,b u ³¹ + l aː j ³⁵,525,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,how many,822,HOW MANY,false,expert
+KimMunLaos-208_husband-1,208_husband,la:ŋ³¹,la:ŋ³¹,l aː ŋ ³¹,281,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,husband,1200,HUSBAND,false,expert
+KimMunLaocai-208_husband-1,208_husband,fɑ⁴⁴,fɑ⁴⁴,f ɑ ⁴⁴,733,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,husband,1200,HUSBAND,false,expert
+KimMunLaos-59_ice-1,59_ice,wɔm⁵³kat³¹,wɔm⁵³kat³¹,w ɔ m ⁵³ + k a t ³¹,66,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ice,617,ICE,false,expert
+KimMunLaocai-157_indigo-1,157_indigo,gam¹¹,gam¹¹,g a m ¹¹,682,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,indigo,,,false,expert
+KimMunLaos-108_ingredients-1,108_ingredients,aj³³jin³⁵ȶə.daj³³,aj³³jin³⁵ȶə.daj³³,a j ³³ + j i n ³⁵ + ȶ ə ⁰ + d a j ³³,117,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ingredients,,,false,expert
+KimMunLaocai-32_insect-1,32_insect,kjɛŋ²¹⁴,kjɛŋ²¹⁴,k j ɛ ŋ ²¹⁴,557,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,insect,620,INSECT,false,expert
+KimMunLaocai-309_inside-1,309_inside,gja³⁴¹,gja³⁴¹,g j a ³⁴¹,834,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,inside,1606,INSIDE,false,expert
+KimMunLaocai-86_intestine-1,86_intestine,kla:ŋ¹¹,kla:ŋ¹¹,k l aː ŋ ¹¹,611,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,intestine,1991,INTESTINES,false,expert
+KimMunLaos-230_intestines-1,230_intestines,kla:ŋ³¹,kla:ŋ³¹,k l aː ŋ ³¹,243,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,intestines,1991,INTESTINES,false,expert
+KimMunLaos-123_iron-1,123_iron,gja:³⁵,gja:³⁵,g j aː ³⁵,57,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,iron,621,IRON,false,expert
+KimMunLaocai-123_iron-1,123_iron,gja:⁵²,gja:⁵²,g j aː ⁵²,648,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,iron,621,IRON,false,expert
+KimMunLaos-65_island-1,65_island,wɔm⁵³gjɛŋ⁵³,wɔm⁵³gjɛŋ⁵³,w ɔ m ⁵³ + g j ɛ ŋ ⁵³,72,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,island,622,ISLAND,false,expert
+KimMunLaos-240_knee-1,240_knee,ni³⁵ȶoŋ⁵³,ni³⁵ȶoŋ⁵³,n i ³⁵ + ȶ o ŋ ⁵³,253,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,knee,1371,KNEE,false,expert
+KimMunLaos-251_knife-1,251_knife,ȡu²¹ðɛm³¹,ȡu²¹ðɛm³¹,ȡ u ²¹ + ð ɛ m ³¹,325,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,knife,1352,KNIFE,false,expert
+KimMunLaocai-251_knife-1,251_knife,ȡu³³,ȡu³³,ȡ u ³³,776,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,knife,1352,KNIFE,false,expert
+KimMunLaos-66_lake-1,66_lake,wɔm⁵³gap²¹,wɔm⁵³gap²¹,w ɔ m ⁵³ + g a p ²¹,73,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,lake,624,LAKE,false,expert
+KimMunLaocai-308_late-1,308_late,an³⁵,an³⁵,a n ³⁵,833,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,late,477,LATE,false,expert
+KimMunLaos-158_leaf-1,158_leaf,nɔm³¹,nɔm³¹,n ɔ m ³¹,80,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,leaf,628,LEAF,false,expert
+KimMunLaocai-158_leaf-1,158_leaf,nɔm¹¹,nɔm¹¹,n ɔ m ¹¹,683,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,leaf,628,LEAF,false,expert
+KimMunLaocai-33_leechdry-1,33_leechdry,kjɐm²¹⁴,kjɐm²¹⁴,k j ɐ m ²¹⁴,558,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,"leech, dry",2273,LEECH,false,expert
+KimMunLaocai-34_leechwet-1,34_leechwet,ma¹¹wa:ŋ¹¹,ma¹¹wa:ŋ¹¹,m a ¹¹ + w aː ŋ ¹¹,559,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,"leech, wet",949,WATER LEECH,false,expert
+KimMunLaocai-307_left-1,307_left,θaj³³bu³⁴¹,θaj³³bu³⁴¹,θ a j ³³ + b u ³⁴¹,832,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,left,244,LEFT,false,expert
+KimMunLaos-451_leftside-1,451_leftside,θaj³³fa:n¹³,θaj³³fa:n¹³,θ a j ³³ + f aː n ¹³,471,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,left side,244,LEFT,false,expert
+KimMunLaos-87_leg-1,87_leg,θaw³³kla:ŋ⁵³,θaw³³kla:ŋ⁵³,θ a w ³³ + k l aː ŋ ⁵³,251,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,leg,1297,LEG,false,expert
+KimMunLaocai-87_leg-1,87_leg,θaw³⁵,θaw³⁵,θ a w ³⁵,612,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,leg,1297,LEG,false,expert
+KimMunLaos-7_light-1,7_light,gwaŋ⁵³,gwaŋ⁵³,gʷ a ŋ ⁵³,9,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,light,630,LIGHT (RADIATION),false,expert
+KimMunLaocai-306_lightweight-1,306_lightweight,so⁵²,so⁵²,s o ⁵²,831,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,light weight,1052,LIGHT (WEIGHT),false,expert
+KimMunLaocai-124_lightening-1,124_lightening,buŋ³³bit³¹to⁵²,buŋ³³bit³¹to⁵²,b u ŋ ³³ + b i t ³¹ + t o ⁵²,649,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,lightening,1654,LIGHTNING,false,expert
+KimMunLaos-15_lightning-1,15_lightning,buŋ²¹bit³¹to³⁴¹,buŋ²¹bit³¹to³⁴¹,b u ŋ ²¹ + b i t ³¹ + t o ³⁴¹,17,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,lightning,1654,LIGHTNING,false,expert
+KimMunLaos-88_liver-1,88_liver,gjan³⁵,gjan³⁵,g j a n ³⁵,242,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,liver,1224,LIVER,false,expert
+KimMunLaocai-88_liver-1,88_liver,gjɐn⁵²,gjɐn⁵²,g j ɐ n ⁵²,613,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,liver,1224,LIVER,false,expert
+KimMunLaocai-35_lizard-1,35_lizard,bɐ.koŋ¹¹sa:⁵²,bɐ.koŋ¹¹sa:⁵²,b ɐ ⁰ + k o ŋ ¹¹ + s aː ⁵²,560,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,lizard,632,LIZARD,false,expert
+KimMunLaos-498_loose-1,498_loose,lɔm¹¹,lɔm¹¹,l ɔ m ¹¹,520,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,loose,2506,LOOSE,false,expert
+KimMunLaos-197_lousehead-1,197_lousehead,θe¹¹,θe¹¹,θ e ¹¹,209,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,louse (head),310,HEAD LOUSE,false,expert
+KimMunLaocai-36_lousehead-1,36_lousehead,θɐj³³,θɐj³³,θ ɐ j ³³,561,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,"louse, head",310,HEAD LOUSE,false,expert
+KimMunLaocai-209_lover-1,209_lover,mun¹¹ɔj³⁵,mun¹¹ɔj³⁵,m u n ¹¹ + ɔ j ³⁵,734,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,lover,,,false,expert
+KimMunLaocai-305_low-1,305_low,ha⁵²,ha⁵²,h a ⁵²,830,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,low,3348,LOW (POSITION OR HEIGHT),false,expert
+KimMunLaos-89_lungs-1,89_lungs,klum³⁵,klum³⁵,k l u m ³⁵,241,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,lungs,688,LUNG,false,expert
+KimMunLaocai-89_lungs-1,89_lungs,klum⁵²,klum⁵²,k l u m ⁵²,614,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,lungs,688,LUNG,false,expert
+KimMunLaos-210_man-1,210_man,mun³¹tɔn⁵³,mun³¹tɔn⁵³,m u n ³¹ + t ɔ n ⁵³,276,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,man,1554,MAN,false,expert
+KimMunLaocai-210_man-1,210_man,mun¹¹fɑ⁴⁴,mun¹¹fɑ⁴⁴,m u n ¹¹ + f ɑ ⁴⁴,735,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,man,1554,MAN,false,expert
+KimMunLaos-87_mango-1,87_mango,θin³¹dɔ³⁴¹pjo³³,θin³¹dɔ³⁴¹pjo³³,θ i n ³¹ + d ɔ ³⁴¹ + p j o ³³,95,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mango,2398,MANGO,false,expert
+KimMunLaocai-414_many-1,414_many,duŋ³⁵,duŋ³⁵,d u ŋ ³⁵,939,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,many,1198,MANY,false,expert
+KimMunLaocai-252_masher-1,252_masher,kum³³so⁵²,kum³³so⁵²,k u m ³³ + s o ⁵²,777,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,masher,,,false,expert
+KimMunLaos-275_mat-1,275_mat,tuŋ³¹tim²¹,tuŋ³¹tim²¹,t u ŋ ³¹ + t i m ²¹,305,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mat,195,MAT,false,expert
+KimMunLaocai-275_mat-1,275_mat,si³³,si³³,s i ³³,800,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mat,195,MAT,false,expert
+KimMunLaos-319_matches-1,319_matches,jaŋ⁵³hɔ³³,jaŋ⁵³hɔ³³,j a ŋ ⁵³ + h ɔ ³³,335,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,matches,1133,MATCH,false,expert
+KimMunLaos-159_medicine-1,159_medicine,maː¹¹,maː¹¹,m aː ¹¹,379,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,medicine,1372,MEDICINE,false,expert
+KimMunLaocai-159_medicine-1,159_medicine,ma:³³,ma:³³,m aː ³³,684,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,medicine,1372,MEDICINE,false,expert
+KimMunLaocai-160_melon-1,160_melon,kwa²¹⁴,kwa²¹⁴,kʷ a ²¹⁴,685,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,melon,507,MELON,false,expert
+KimMunLaocai-188_midday-1,188_midday,mɐ.nɔj⁵²ȶa:³⁵,mɐ.nɔj⁵²ȶa:³⁵,m ɐ ⁰ + n ɔ j ⁵² + ȶ aː ³⁵,713,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,midday,12,MIDDAY,false,expert
+KimMunLaos-90_milk-1,90_milk,nu³³,nu³³,n u ³³,185,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,milk,635,MILK,false,expert
+KimMunLaocai-90_milk-1,90_milk,nu⁴⁴,nu⁴⁴,n u ⁴⁴,615,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,milk,635,MILK,false,expert
+KimMunLaos-37_monkey-1,37_monkey,du⁵³kuk³⁵,du⁵³kuk³⁵,d u ⁵³ + k u k ³⁵,175,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,monkey,1350,MONKEY,false,expert
+KimMunLaocai-37_monkey-1,37_monkey,biŋ²¹⁴,biŋ²¹⁴,b i ŋ ²¹⁴,562,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,monkey,1350,MONKEY,false,expert
+KimMunLaos-189_moon-1,189_moon,la:³⁵,la:³⁵,l aː ³⁵,7,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,moon,1313,MOON,false,expert
+KimMunLaocai-189_moon-1,189_moon,la:⁴⁴,la:⁴⁴,l aː ⁴⁴,714,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,moon,1313,MOON,false,expert
+KimMunLaos-190_morning-1,190_morning,bu.dom⁵³tɔn¹³,bu.dom⁵³tɔn¹³,b u ⁰ + d o m ⁵³ + t ɔ n ¹³,30,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,morning,1339,MORNING,false,expert
+KimMunLaocai-190_morning-1,190_morning,bɐ.tɔm²¹⁴gjo³¹,bɐ.tɔm²¹⁴gjo³¹,b ɐ ⁰ + t ɔ m ²¹⁴ + g j o ³¹,715,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,morning,1339,MORNING,false,expert
+KimMunLaos-38_mosquito-1,38_mosquito,ȶim⁵³ȶa:j⁵³,ȶim⁵³ȶa:j⁵³,ȶ i m ⁵³ + ȶ aː j ⁵³,213,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mosquito,1509,MOSQUITO,false,expert
+KimMunLaocai-38_mosquito-1,38_mosquito,kjɛŋ²¹⁴,kjɛŋ²¹⁴,k j ɛ ŋ ²¹⁴,563,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mosquito,1509,MOSQUITO,false,expert
+KimMunLaos-213_mother-1,213_mother,ȡi³⁴¹,ȡi³⁴¹,ȡ i ³⁴¹,279,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mother,1216,MOTHER,false,expert
+KimMunLaocai-213_mother-1,213_mother,ȡi³⁴¹,ȡi³⁴¹,ȡ i ³⁴¹,738,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mother,1216,MOTHER,false,expert
+KimMunLaocai-211_mothersbrother-1,211_mothersbrother,nɑw³⁴¹,nɑw³⁴¹,n ɑ w ³⁴¹,736,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mother’s brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER),false,expert
+KimMunLaocai-212_mothersmother-1,212_mothersmother,di⁴⁴,di⁴⁴,d i ⁴⁴,737,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mother’s mother,2177,MATERNAL GRANDMOTHER,false,expert
+KimMunLaocai-214_motherssister-1,214_motherssister,ȶu¹¹,ȶu¹¹,ȶ u ¹¹,739,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mother’s sister,2693,MATERNAL AUNT (MOTHER'S SISTER),false,expert
+KimMunLaos-125_mountain-1,125_mountain,ȶɔŋ⁵³,ȶɔŋ⁵³,ȶ ɔ ŋ ⁵³,59,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mountain,639,MOUNTAIN,false,expert
+KimMunLaocai-125_mountain-1,125_mountain,ȶɔŋ²¹⁴,ȶɔŋ²¹⁴,ȶ ɔ ŋ ²¹⁴,650,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mountain,639,MOUNTAIN,false,expert
+KimMunLaos-91_mouth-1,91_mouth,ȡɛt²¹,ȡɛt²¹,ȡ ɛ t ²¹,230,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mouth,674,MOUTH,false,expert
+KimMunLaocai-91_mouth-1,91_mouth,ȡɐt³³,ȡɐt³³,ȡ ɐ t ³³,616,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mouth,674,MOUTH,false,expert
+KimMunLaocai-92_mucus-1,92_mucus,blut³³,blut³³,b l u t ³³,617,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mucus,208,NASAL MUCUS (SNOT),false,expert
+KimMunLaos-126_mud-1,126_mud,ni³⁵pam²¹,ni³⁵pam²¹,n i ³⁵ + p a m ²¹,49,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mud,640,MUD,false,expert
+KimMunLaocai-126_mud-1,126_mud,pa:m³³,pa:m³³,p aː m ³³,651,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mud,640,MUD,false,expert
+KimMunLaos-161_mushroom-1,161_mushroom,so⁵³,so⁵³,s o ⁵³,90,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,mushroom,641,MUSHROOM,false,expert
+KimMunLaocai-161_mushroom-1,161_mushroom,so²¹⁴,so²¹⁴,s o ²¹⁴,686,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,mushroom,641,MUSHROOM,false,expert
+KimMunLaos-489_naked-1,489_naked,ȶe³³blan⁵³,ȶe³³blan⁵³,ȶ e ³³ + b l a n ⁵³,511,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,naked,590,NAKED,false,expert
+KimMunLaos-183_name-1,183_name,bu¹³,bu¹³,b u ¹³,294,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,name,1405,NAME,false,expert
+KimMunLaocai-183_name-1,183_name,bu³⁵,bu³⁵,b u ³⁵,708,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,name,1405,NAME,false,expert
+KimMunLaocai-304_narrow-1,304_narrow,it³³,it³³,i t ³³,829,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,narrow,1267,NARROW,false,expert
+KimMunLaos-112_navel-1,112_navel,ȵo¹¹dut⁵³kla:ŋ⁵³,ȵo¹¹dut⁵³kla:ŋ⁵³,ȵ o ¹¹ + d u t ⁵³ + k l aː ŋ ⁵³,239,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,navel,1838,NAVEL,false,expert
+KimMunLaocai-303_near-1,303_near,θat³³,θat³³,θ a t ³³,828,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,near,1942,NEAR,false,expert
+KimMunLaocai-93_neck-1,93_neck,kla:ŋ²¹⁴,kla:ŋ²¹⁴,k l aː ŋ ²¹⁴,618,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,neck,1333,NECK,false,expert
+KimMunLaos-231_needle-1,231_needle,θim³⁵,θim³⁵,θ i m ³⁵,311,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,needle,1382,NEEDLE (FOR SEWING),false,expert
+KimMunLaocai-231_needle-1,231_needle,θim⁵²,θim⁵²,θ i m ⁵²,756,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,needle,1382,NEEDLE (FOR SEWING),false,expert
+KimMunLaocai-94_nest-1,94_nest,gjaw³⁴¹,gjaw³⁴¹,g j a w ³⁴¹,619,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,nest,539,NEST,false,expert
+KimMunLaocai-302_new-1,302_new,saŋ³³ȵaŋ³¹,saŋ³³ȵaŋ³¹,s a ŋ ³³ + ȵ a ŋ ³¹,827,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,new,1231,NEW,false,expert
+KimMunLaos-23_nicedayfineday-1,23_nicedayfineday,si³⁵gɔŋ¹³,si³⁵gɔŋ¹³,s i ³⁵ + g ɔ ŋ ¹³,25,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"nice day, fine day",,,false,expert
+KimMunLaos-191_night-1,191_night,bə.ȡam²¹,bə.ȡam²¹,b ə ⁰ + ȡ a m ²¹,28,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,night,1233,NIGHT,false,expert
+KimMunLaocai-191_night-1,191_night,ȡa:m³³,ȡa:m³³,ȡ aː m ³³,716,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,night,1233,NIGHT,false,expert
+KimMunLaos-29_noon-1,29_noon,dum³¹nɔj³⁵,dum³¹nɔj³⁵,d u m ³¹ + n ɔ j ³⁵,31,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,noon,12,MIDDAY,false,expert
+KimMunLaos-35_north-1,35_north,pu³³fa:n¹³,pu³³fa:n¹³,p u ³³ + f aː n ¹³,39,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,north,1598,NORTH,false,expert
+KimMunLaos-35_north-2,35_north,ȶa³¹le³⁵fa:n¹³,ȶa³¹le³⁵fa:n¹³,ȶ a ³¹ + l e ³⁵ + f aː n ¹³,40,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,north,1598,NORTH,false,expert
+KimMunLaos-95_nose-1,95_nose,bu.ȶɔŋ⁵³,bu.ȶɔŋ⁵³,b u ⁰ + ȶ ɔ ŋ ⁵³,227,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,nose,1221,NOSE,false,expert
+KimMunLaocai-95_nose-1,95_nose,pu.ȶɔŋ²¹⁴,pu.ȶɔŋ²¹⁴,p u ⁰ + ȶ ɔ ŋ ²¹⁴,620,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,nose,1221,NOSE,false,expert
+KimMunLaocai-196_obrother-1,196_obrother,tɑ¹¹,tɑ¹¹,t ɑ ¹¹,721,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,o. brother,1759,OLDER BROTHER,false,expert
+KimMunLaocai-215_osister-1,215_osister,o³⁴¹,o³⁴¹,o ³⁴¹,740,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,o. sister,1758,OLDER SISTER,false,expert
+KimMunLaos-110_oil-1,110_oil,məj³⁵,məj³⁵,m ə j ³⁵,119,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,oil,2556,OIL (HYDROPHOBIC LIQUID),false,expert
+KimMunLaocai-301_old-1,301_old,lo³⁵ȵaŋ³¹,lo³⁵ȵaŋ³¹,l o ³⁵ + ȵ a ŋ ³¹,826,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,old,2113,OLD (USED),false,expert
+KimMunLaos-180_onion-1,180_onion,tɔŋ³³pɔŋ³³,tɔŋ³³pɔŋ³³,t ɔ ŋ ³³ + p ɔ ŋ ³³,115,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,onion,2366,ONION,false,expert
+KimMunLaocai-276_paddy-1,276_paddy,giŋ³³lɔ⁵²,giŋ³³lɔ⁵²,g i ŋ ³³ + l ɔ ⁵²,801,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,paddy,140,PADDY FIELD,false,expert
+KimMunLaos-234_palm-1,234_palm,pu³⁴¹pin³³,pu³⁴¹pin³³,p u ³⁴¹ + p i n ³³,247,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,palm,1183,PALM OF HAND,false,expert
+KimMunLaos-298_papercord-1,298_papercord,ȶe³³,ȶe³³,ȶ e ³³,314,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"paper, cord",648,PAPER,false,expert
+KimMunLaos-93_peanut-1,93_peanut,tə.bwe³³ni³⁵,tə.bwe³³ni³⁵,t ə ⁰ + b w e ³³ + n i ³⁵,101,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,peanut,595,GROUNDNUT (PEANUT),false,expert
+KimMunLaos-46_pebble-1,46_pebble,gjaw⁵³θaj⁵³ȵɔt³⁵,gjaw⁵³θaj⁵³ȵɔt³⁵,g j a w ⁵³ + θ a j ⁵³ + ȵ ɔ t ³⁵,52,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pebble,961,PEBBLES,false,expert
+KimMunLaos-158_peel-1,158_peel,lut³⁵,lut³⁵,l u t ³⁵,167,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,peel,275,PEEL,false,expert
+KimMunLaos-156_petalsofaflower-1,156_petalsofaflower,ȵɛp⁵³,ȵɛp⁵³,ȵ ɛ p ⁵³,165,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,petals of a flower,,,false,expert
+KimMunLaos-39_pig-1,39_pig,tuŋ³⁴¹,tuŋ³⁴¹,t u ŋ ³⁴¹,183,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pig,1337,PIG,false,expert
+KimMunLaocai-39_pig-1,39_pig,tuŋ³¹,tuŋ³¹,t u ŋ ³¹,564,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pig,1337,PIG,false,expert
+KimMunLaocai-42_pigsow-1,42_pigsow,tuŋ³¹kjan³⁵,tuŋ³¹kjan³⁵,t u ŋ ³¹ + k j a n ³⁵,567,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pig sow,1351,SOW (FEMALE PIG),false,expert
+KimMunLaocai-41_piglet-1,41_piglet,tuŋ³¹kjɐn²¹⁴,tuŋ³¹kjɐn²¹⁴,t u ŋ ³¹ + k j ɐ n ²¹⁴,566,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,piglet,2564,PIGLET,false,expert
+KimMunLaos-277_pillow-1,277_pillow,tuŋ³¹ȡɔm¹³,tuŋ³¹ȡɔm¹³,t u ŋ ³¹ + ȡ ɔ m ¹³,303,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pillow,1044,PILLOW,false,expert
+KimMunLaocai-277_pillow-1,277_pillow,toŋ¹¹ȡɑm³⁵,toŋ¹¹ȡɑm³⁵,t o ŋ ¹¹ + ȡ ɑ m ³⁵,802,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pillow,1044,PILLOW,false,expert
+KimMunLaos-89_pineapple-1,89_pineapple,dum³¹daw³⁴¹pjo³³,dum³¹daw³⁴¹pjo³³,d u m ³¹ + d a w ³⁴¹ + p j o ³³,97,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pineapple,2440,PINEAPPLE,false,expert
+KimMunLaocai-253_plane-1,253_plane,tuŋ¹¹pɑw³³,tuŋ¹¹pɑw³³,t u ŋ ¹¹ + p ɑ w ³³,778,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,plane,3408,PLANE (TOOL),false,expert
+KimMunLaocai-278_plotdry-1,278_plotdry,gjɑŋ³⁵,gjɑŋ³⁵,g j ɑ ŋ ³⁵,803,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,plot dry,,,false,expert
+KimMunLaocai-254_plow-1,254_plow,tuŋ¹¹kjɑj¹¹,tuŋ¹¹kjɑj¹¹,t u ŋ ¹¹ + k j ɑ j ¹¹,779,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,plow,2154,PLOUGH (INSTRUMENT),false,expert
+KimMunLaocai-127_pond-1,127_pond,bjaw³⁴¹kla:ŋ¹¹,bjaw³⁴¹kla:ŋ¹¹,b j a w ³⁴¹ + k l aː ŋ ¹¹,652,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pond,2035,POND,false,expert
+KimMunLaos-168_porcupine-1,168_porcupine,dəj²¹,dəj²¹,d ə j ²¹,177,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,porcupine,2510,PORCUPINE,false,expert
+KimMunLaocai-166_porridge-1,166_porridge,naŋ³¹su³⁵,naŋ³¹su³⁵,n a ŋ ³¹ + s u ³⁵,691,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,porridge,2049,CONGEE,false,expert
+KimMunLaos-299_potcooking-1,299_potcooking,mɔ³³,mɔ³³,m ɔ ³³,315,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pot (cooking-),3653,COOKING POT,false,expert
+KimMunLaos-98_potato-1,98_potato,fə.laŋ⁵³doj³¹,fə.laŋ⁵³doj³¹,f ə ⁰ + l a ŋ ⁵³ + d o j ³¹,106,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,potato,593,POTATO,false,expert
+KimMunLaocai-184_price-1,184_price,pɐ.laj⁵²,pɐ.laj⁵²,p ɐ ⁰ + l a j ⁵²,709,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,price,657,PRICE,false,expert
+KimMunLaos-162_pumpkin-1,162_pumpkin,gjaŋ³³kwa:³³,gjaŋ³³kwa:³³,g j a ŋ ³³ + kʷ aː ³³,108,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pumpkin,864,PUMPKIN,false,expert
+KimMunLaocai-162_pumpkin-1,162_pumpkin,kjɛŋ¹¹kwa²¹⁴waŋ³¹,kjɛŋ¹¹kwa²¹⁴waŋ³¹,k j ɛ ŋ ¹¹ + kʷ a ²¹⁴ + w a ŋ ³¹,687,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pumpkin,864,PUMPKIN,false,expert
+KimMunLaos-96_pus-1,96_pus,saŋ³¹nuŋ²¹,saŋ³¹nuŋ²¹,s a ŋ ³¹ + n u ŋ ²¹,265,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,pus,1808,PUS,false,expert
+KimMunLaocai-96_pus-1,96_pus,nuŋ³³,nuŋ³³,n u ŋ ³³,621,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,pus,1808,PUS,false,expert
+KimMunLaos-167_rabbit-1,167_rabbit,tu³⁵,tu³⁵,t u ³⁵,176,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,rabbit,1136,RABBIT,false,expert
+KimMunLaos-128_rain-1,128_rain,buŋ²¹,buŋ²¹,b u ŋ ²¹,15,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,rain,658,RAIN (PRECIPITATION),false,expert
+KimMunLaocai-128_rain-1,128_rain,buŋ³³lu⁵²,buŋ³³lu⁵²,b u ŋ ³³ + l u ⁵²,653,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rain,658,RAIN (PRECIPITATION),false,expert
+KimMunLaos-14_rainbow-1,14_rainbow,guŋ³¹ga:ŋ¹³,guŋ³¹ga:ŋ¹³,g u ŋ ³¹ + g aː ŋ ¹³,16,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,rainbow,1733,RAINBOW,false,expert
+KimMunLaocai-43_rat-1,43_rat,du²¹⁴,du²¹⁴,d u ²¹⁴,568,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rat,,,false,expert
+KimMunLaocai-300_raw-1,300_raw,a⁴⁴ŋim³⁴¹,a⁴⁴ŋim³⁴¹,a ⁴⁴ + ŋ i m ³⁴¹,825,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,raw,1959,RAW,false,expert
+KimMunLaos-299_red-1,299_red,θi³⁵,θi³⁵,θ i ³⁵,480,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,red,156,RED,false,expert
+KimMunLaocai-299_red-1,299_red,θi⁵²,θi⁵²,θ i ⁵²,824,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,red,156,RED,false,expert
+KimMunLaocai-97_ribs-1,97_ribs,ȵɔ¹¹tam⁴⁴θuŋ⁴⁴,ȵɔ¹¹tam⁴⁴θuŋ⁴⁴,ȵ ɔ ¹¹ + t a m ⁴⁴ + θ u ŋ ⁴⁴,622,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ribs,801,RIB,false,expert
+KimMunLaocai-163_rice-1,163_rice,blaw¹¹,blaw¹¹,b l a w ¹¹,688,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rice,926,RICE,false,expert
+KimMunLaocai-164_riceglutinous-1,164_riceglutinous,me³³blɐt³³,me³³blɐt³³,m e ³³ + b l ɐ t ³³,689,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rice glutinous,2750,GLUTINOUS RICE,false,expert
+KimMunLaocai-165_ricegrilled-1,165_ricegrilled,me³³ȶaw³³,me³³ȶaw³³,m e ³³ + ȶ a w ³³,690,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rice grilled,,,false,expert
+KimMunLaos-96_ricehusk-1,96_ricehusk,buj³⁵,buj³⁵,b u j ³⁵,104,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,rice husk,2501,RICE HUSK,false,expert
+KimMunLaocai-168_ricespike-1,168_ricespike,nin⁴⁴bla:w³¹,nin⁴⁴bla:w³¹,n i n ⁴⁴ + b l aː w ³¹,693,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rice spike,1249,SPIKE,false,expert
+KimMunLaocai-167_ricedgiwav-1,167_ricedgiwav,sɔŋ³⁵,sɔŋ³⁵,s ɔ ŋ ³⁵,692,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ricedgi.wav,,,false,expert
+KimMunLaos-298_rightside-1,298_rightside,bjaw³¹fa:n¹³,bjaw³¹fa:n¹³,b j a w ³¹ + f aː n ¹³,470,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,right side,1019,RIGHT,false,expert
+KimMunLaocai-298_rightside-1,298_rightside,bjaw³³pu³¹,bjaw³³pu³¹,b j a w ³³ + p u ³¹,823,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,right side,1019,RIGHT,false,expert
+KimMunLaocai-232_ring-1,232_ring,pu.dɔ¹¹kwin⁵²,pu.dɔ¹¹kwin⁵²,p u ⁰ + d ɔ ¹¹ + kʷ i n ⁵²,757,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ring,1374,RING,false,expert
+KimMunLaos-297_ringfinger-1,297_ringfinger,mun³³se³³gɛŋ¹³,mun³³se³³gɛŋ¹³,m u n ³³ + s e ³³ + g ɛ ŋ ¹³,313,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ring (finger),1374,RING,false,expert
+KimMunLaocai-297_ripe-1,297_ripe,a³³su³⁵,a³³su³⁵,a ³³ + s u ³⁵,822,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,ripe,178,RIPE,false,expert
+KimMunLaos-129_river-1,129_river,wɔm⁵³lu³⁵,wɔm⁵³lu³⁵,w ɔ m ⁵³ + l u ³⁵,45,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,river,666,RIVER,false,expert
+KimMunLaocai-129_river-1,129_river,kɔj³³,kɔj³³,k ɔ j ³³,654,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,river,666,RIVER,false,expert
+KimMunLaocai-280_road-1,280_road,kjaw⁴⁴,kjaw⁴⁴,k j a w ⁴⁴,805,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,road,2457,PATH OR ROAD,false,expert
+KimMunLaos-280_roadpath-1,280_roadpath,kjaw³³,kjaw³³,k j a w ³³,296,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"road, path",2457,PATH OR ROAD,false,expert
+KimMunLaos-285_roof-1,285_roof,pjaw³³tuŋ¹³,pjaw³³tuŋ¹³,p j a w ³³ + t u ŋ ¹³,301,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,roof,769,ROOF,false,expert
+KimMunLaos-72_root-1,72_root,gjaŋ³³duŋ³¹,gjaŋ³³duŋ³¹,g j a ŋ ³³ + d u ŋ ³¹,79,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,root,670,ROOT,false,expert
+KimMunLaocai-256_rope-1,256_rope,lɑŋ³⁵vin⁵²,lɑŋ³⁵vin⁵²,l ɑ ŋ ³⁵ + v i n ⁵²,781,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rope,1218,ROPE,false,expert
+KimMunLaos-316_ropes-1,316_ropes,la:ŋ³⁵,la:ŋ³⁵,l aː ŋ ³⁵,332,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,ropes,1218,ROPE,false,expert
+KimMunLaocai-296_rotten-1,296_rotten,jɔt¹¹,jɔt¹¹,j ɔ t ¹¹,821,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,rotten,1728,ROTTEN,false,expert
+KimMunLaos-98_saliva-1,98_saliva,ȡan³¹wɔm⁵³,ȡan³¹wɔm⁵³,ȡ a n ³¹ + w ɔ m ⁵³,232,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,saliva,1503,SALIVA,false,expert
+KimMunLaocai-98_saliva-1,98_saliva,ȡaːn¹¹,ȡaːn¹¹,ȡ aː n ¹¹,623,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,saliva,1503,SALIVA,false,expert
+KimMunLaos-130_salt-1,130_salt,daw³³,daw³³,d a w ³³,118,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,salt,1274,SALT,false,expert
+KimMunLaocai-130_salt-1,130_salt,da:w³³,da:w³³,d aː w ³³,655,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,salt,1274,SALT,false,expert
+KimMunLaocai-295_salty-1,295_salty,daj¹¹,daj¹¹,d a j ¹¹,820,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,salty,1091,SALTY,false,expert
+KimMunLaocai-18_sambardeer-1,18_sambardeer,ki¹¹juŋ¹¹,ki¹¹juŋ¹¹,k i ¹¹ + j u ŋ ¹¹,543,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sambar deer,,,false,expert
+KimMunLaos-131_sand-1,131_sand,gjaw⁵³θaj⁵³min³¹,gjaw⁵³θaj⁵³min³¹,g j a w ⁵³ + θ a j ⁵³ + m i n ³¹,53,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sand,671,SAND,false,expert
+KimMunLaocai-131_sand-1,131_sand,gjaw²¹⁴θa:j²¹⁴,gjaw²¹⁴θa:j²¹⁴,g j a w ²¹⁴ + θ aː j ²¹⁴,656,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sand,671,SAND,false,expert
+KimMunLaos-308_scissors-1,308_scissors,ȡu²¹,ȡu²¹,ȡ u ²¹,324,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,scissors,356,SHEARS,false,expert
+KimMunLaos-205_scorpion-1,205_scorpion,θap³¹kɔŋ⁵³,θap³¹kɔŋ⁵³,θ a p ³¹ + k ɔ ŋ ⁵³,217,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,scorpion,1538,SCORPION,false,expert
+KimMunLaos-41_sea-1,41_sea,koj¹¹lu³⁵,koj¹¹lu³⁵,k o j ¹¹ + l u ³⁵,47,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sea,1474,SEA,false,expert
+KimMunLaos-76_seed-1,76_seed,nɔm⁵³,nɔm⁵³,n ɔ m ⁵³,84,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,seed,714,SEED,false,expert
+KimMunLaos-8_shadow-1,8_shadow,bə.gloj⁵³,bə.gloj⁵³,b ə ⁰ + g l o j ⁵³,10,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,shadow,1388,SHADE,false,expert
+KimMunLaos-242_shin-1,242_shin,θaw³³min³⁵,θaw³³min³⁵,θ a w ³³ + m i n ³⁵,255,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,shin,186,SHIN,false,expert
+KimMunLaocai-233_shirttunic-1,233_shirttunic,guj²¹⁴,guj²¹⁴,g u j ²¹⁴,758,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,shirt/tunic,1622,SHIRT,false,expert
+KimMunLaocai-294_short-1,294_short,ham⁵²,ham⁵²,h a m ⁵²,819,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,short,1645,SHORT,false,expert
+KimMunLaocai-99_shoulder-1,99_shoulder,pɐ.taw¹¹,pɐ.taw¹¹,p ɐ ⁰ + t a w ¹¹,624,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,shoulder,1482,SHOULDER,false,expert
+KimMunLaocai-44_shrimp-1,44_shrimp,ȶa³¹kɔŋ²¹⁴,ȶa³¹kɔŋ²¹⁴,ȶ a ³¹ + k ɔ ŋ ²¹⁴,569,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,shrimp,2349,SHRIMP,false,expert
+KimMunLaocai-257_sickle-1,257_sickle,ȴu³¹to²¹⁴,ȴu³¹to²¹⁴,ȴ u ³¹ + t o ²¹⁴,782,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sickle,341,SICKLE,false,expert
+KimMunLaos-132_silver-1,132_silver,ȵan³¹pɛ²¹,ȵan³¹pɛ²¹,ȵ a n ³¹ + p ɛ ²¹,55,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,silver,759,SILVER,false,expert
+KimMunLaocai-132_silver-1,132_silver,ȵa:n¹¹,ȵa:n¹¹,ȵ aː n ¹¹,657,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,silver,759,SILVER,false,expert
+KimMunLaos-271_sisterelderoff-1,271_sisterelderoff,ȵaːm⁵³,ȵaːm⁵³,ȵ aː m ⁵³,286,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sister (elder of f),2419,OLDER SISTER (OF WOMAN),false,expert
+KimMunLaos-272_sisterelderofm-1,272_sisterelderofm,həj³¹,həj³¹,h ə j ³¹,287,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sister (elder of m),2418,OLDER SISTER (OF MAN),false,expert
+KimMunLaos-275_sisteryoungeroff-1,275_sisteryoungeroff,mu²¹,mu²¹,m u ²¹,290,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sister (younger of f),2421,YOUNGER SISTER (OF WOMAN),false,expert
+KimMunLaos-276_sisteryoungerofm-1,276_sisteryoungerofm,θa:j¹³,θa:j¹³,θ aː j ¹³,291,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sister (younger of m),2420,YOUNGER SISTER (OF MAN),false,expert
+KimMunLaos-100_skin-1,100_skin,dup²¹,dup²¹,d u p ²¹,262,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,skin,763,SKIN,false,expert
+KimMunLaocai-100_skin-1,100_skin,tɐ.dup³¹,tɐ.dup³¹,t ɐ ⁰ + d u p ³¹,625,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,skin,763,SKIN,false,expert
+KimMunLaocai-234_skirt-1,234_skirt,ȶun¹¹,ȶun¹¹,ȶ u n ¹¹,759,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,skirt,1600,SKIRT,false,expert
+KimMunLaos-133_sky-1,133_sky,guŋ³¹,guŋ³¹,g u ŋ ³¹,1,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sky,1732,SKY,false,expert
+KimMunLaocai-133_sky-1,133_sky,guŋ¹¹,guŋ¹¹,g u ŋ ¹¹,658,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sky,1732,SKY,false,expert
+KimMunLaocai-293_slick-1,293_slick,blaŋ³³,blaŋ³³,b l a ŋ ³³,818,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,slick,,,false,expert
+KimMunLaos-321_smell-1,321_smell,si³³da:ŋ⁵³,si³³da:ŋ⁵³,s i ³³ + d aː ŋ ⁵³,337,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,smell,1586,SMELL (PERCEIVE),false,expert
+KimMunLaocai-292_smelly-1,292_smelly,θɐj³⁵,θɐj³⁵,θ ɐ j ³⁵,817,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,smelly,42,STINKING,false,expert
+KimMunLaos-303_smoke-1,303_smoke,to³⁴¹so³⁵,to³⁴¹so³⁵,t o ³⁴¹ + s o ³⁵,319,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,smoke,778,SMOKE (EXHAUST),false,expert
+KimMunLaos-45_snail-1,45_snail,kwe⁵³,kwe⁵³,kʷ e ⁵³,212,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,snail,1543,SNAIL,false,expert
+KimMunLaocai-45_snail-1,45_snail,kwɐj²¹⁴,kwɐj²¹⁴,kʷ ɐ j ²¹⁴,570,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,snail,1543,SNAIL,false,expert
+KimMunLaos-46_snake-1,46_snake,na:ŋ⁵³,na:ŋ⁵³,n aː ŋ ⁵³,200,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,snake,730,SNAKE,false,expert
+KimMunLaocai-46_snake-1,46_snake,na:ŋ²¹⁴,na:ŋ²¹⁴,n aː ŋ ²¹⁴,571,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,snake,730,SNAKE,false,expert
+KimMunLaocai-291_soft-1,291_soft,sɔt³³,sɔt³³,s ɔ t ³³,816,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,soft,1856,SOFT,false,expert
+KimMunLaos-432_some-1,432_some,ki⁵³kla:n³¹,ki⁵³kla:n³¹,k i ⁵³ + k l aː n ³¹,452,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,some,1241,SOME,false,expert
+KimMunLaocai-217_son-1,217_son,mun¹¹tɔn²¹⁴,mun¹¹tɔn²¹⁴,m u n ¹¹ + t ɔ n ²¹⁴,742,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,son,1620,SON,false,expert
+KimMunLaocai-169_soup-1,169_soup,je³³wɐm²¹⁴,je³³wɐm²¹⁴,j e ³³ + w ɐ m ²¹⁴,694,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,soup,1547,SOUP,false,expert
+KimMunLaocai-290_sour-1,290_sour,θuj⁵²,θuj⁵²,θ u j ⁵²,815,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sour,1906,SOUR,false,expert
+KimMunLaos-36_south-1,36_south,na:m³¹fa:n¹³,na:m³¹fa:n¹³,n aː m ³¹ + f aː n ¹³,41,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,south,1595,SOUTH,false,expert
+KimMunLaos-36_south-2,36_south,ku³³le³⁵fa:n¹³,ku³³le³⁵fa:n¹³,k u ³³ + l e ³⁵ + f aː n ¹³,42,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,south,1595,SOUTH,false,expert
+KimMunLaos-111_soysauce-1,111_soysauce,ȶə.koŋ⁵³kja:ŋ⁵³,ȶə.koŋ⁵³kja:ŋ⁵³,ȶ ə ⁰ + k o ŋ ⁵³ + k j aː ŋ ⁵³,120,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,soy sauce,1968,SOYA SAUCE,false,expert
+KimMunLaos-107_soybeansprout-1,107_soybeansprout,tə.bwe³³ȵa:³¹,tə.bwe³³ȵa:³¹,t ə ⁰ + b w e ³³ + ȵ aː ³¹,116,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,soybean sprout,,,false,expert
+KimMunLaocai-47_sparrow-1,47_sparrow,nɔ³³kɐj³³,nɔ³³kɐj³³,n ɔ ³³ + k ɐ j ³³,572,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sparrow,1854,SPARROW,false,expert
+KimMunLaocai-289_spicy-1,289_spicy,bjat³³,bjat³³,b j a t ³³,814,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,spicy,544,SPICY,false,expert
+KimMunLaos-48_spider-1,48_spider,kjiŋ⁵³ȵa:³³,kjiŋ⁵³ȵa:³³,k j i ŋ ⁵³ + ȵ aː ³³,206,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,spider,843,SPIDER,false,expert
+KimMunLaocai-48_spider-1,48_spider,kjɛŋ²¹⁴ȵa:⁴⁴,kjɛŋ²¹⁴ȵa:⁴⁴,k j ɛ ŋ ²¹⁴ + ȵ aː ⁴⁴,573,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,spider,843,SPIDER,false,expert
+KimMunLaos-196_spiderweb-1,196_spiderweb,kjiŋ⁵³ȵa³³θa:ŋ⁵³,kjiŋ⁵³ȵa³³θa:ŋ⁵³,k j i ŋ ⁵³ + ȵ a ³³ + θ aː ŋ ⁵³,207,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,spider web,1065,SPIDER WEB,false,expert
+KimMunLaos-300_spoon-1,300_spoon,ȶə.kun⁵³,ȶə.kun⁵³,ȶ ə ⁰ + k u n ⁵³,158,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,spoon,1378,SPOON,false,expert
+KimMunLaos-300_spoon-2,300_spoon,ȶə̌³¹kun⁵³,ȶə̌³¹kun⁵³,ȶ ə̌ ³¹ + k u n ⁵³,316,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,spoon,1378,SPOON,false,expert
+KimMunLaos-153_sprout-1,153_sprout,blaw³¹ja:ŋ⁵³,blaw³¹ja:ŋ⁵³,b l a w ³¹ + j aː ŋ ⁵³,162,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sprout,3358,SPROUT (SHOOT),false,expert
+KimMunLaocai-281_stairsladder-1,281_stairsladder,kjɑw⁴⁴kɑ³⁵,kjɑw⁴⁴kɑ³⁵,k j ɑ w ⁴⁴ + k ɑ ³⁵,806,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,stairs/ladder,2689,LADDER OR STAIRS,false,expert
+KimMunLaos-6_star-1,6_star,θin⁵³taw¹³,θin⁵³taw¹³,θ i n ⁵³ + t a w ¹³,8,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,star,1430,STAR,false,expert
+KimMunLaos-51_steel-1,51_steel,θe⁵³ȶuŋ³⁴¹,θe⁵³ȶuŋ³⁴¹,θ e ⁵³ + ȶ u ŋ ³⁴¹,58,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,steel,2343,STEEL,false,expert
+KimMunLaocai-288_sticky-1,288_sticky,bla²¹⁴,bla²¹⁴,b l a ²¹⁴,813,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sticky,3703,STICKY,false,expert
+KimMunLaos-134_stone-1,134_stone,gja:w⁵³,gja:w⁵³,g j aː w ⁵³,51,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,stone,857,STONE,false,expert
+KimMunLaocai-134_stone-1,134_stone,gjaw²¹⁴,gjaw²¹⁴,g j a w ²¹⁴,659,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,stone,857,STONE,false,expert
+KimMunLaos-18_storm-1,18_storm,ȡaw¹³kja⁵³,ȡaw¹³kja⁵³,ȡ a w ¹³ + k j a ⁵³,20,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,storm,858,STORM,false,expert
+KimMunLaos-40_stream-1,40_stream,wɔm⁵³nɔ³⁴¹,wɔm⁵³nɔ³⁴¹,w ɔ m ⁵³ + n ɔ ³⁴¹,46,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,stream,947,STREAM,false,expert
+KimMunLaos-112_sugar-1,112_sugar,toŋ³¹van¹³,toŋ³¹van¹³,t o ŋ ³¹ + v a n ¹³,121,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sugar,862,SUGAR,false,expert
+KimMunLaos-170_sugarcane-1,170_sugarcane,kum³¹sa:¹³,kum³¹sa:¹³,k u m ³¹ + s aː ¹³,91,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sugarcane,146,SUGAR CANE,false,expert
+KimMunLaocai-170_sugarcane-1,170_sugarcane,ku¹¹sa:³⁵,ku¹¹sa:³⁵,k u ¹¹ + s aː ³⁵,695,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sugarcane,146,SUGAR CANE,false,expert
+KimMunLaos-135_sun-1,135_sun,mə.nɔj³⁵,mə.nɔj³⁵,m ə ⁰ + n ɔ j ³⁵,2,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sun,1343,SUN,false,expert
+KimMunLaocai-135_sun-1,135_sun,mɐ.nɔj⁵²,mɐ.nɔj⁵²,m ɐ ⁰ + n ɔ j ⁵²,660,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sun,1343,SUN,false,expert
+KimMunLaocai-136_sunshine-1,136_sunshine,guŋ¹¹kjɔm²¹⁴,guŋ¹¹kjɔm²¹⁴,g u ŋ ¹¹ + k j ɔ m ²¹⁴,661,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sunshine,3276,SUNSHINE,false,expert
+KimMunLaos-55_swamp-1,55_swamp,gla:ŋ³¹,gla:ŋ³¹,g l aː ŋ ³¹,62,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,swamp,1145,SWAMP,false,expert
+KimMunLaos-251_sweat-1,251_sweat,ha:n¹¹,ha:n¹¹,h aː n ¹¹,264,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sweat,125,SWEAT (SUBSTANCE),false,expert
+KimMunLaocai-287_sweet-1,287_sweet,gam²¹⁴,gam²¹⁴,g a m ²¹⁴,812,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,sweet,717,SWEET,false,expert
+KimMunLaos-97_sweetpotato-1,97_sweetpotato,doj³¹dun⁵³,doj³¹dun⁵³,d o j ³¹ + d u n ⁵³,105,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,sweet potato,159,SWEET POTATO,false,expert
+KimMunLaos-194_tadpole-1,194_tadpole,ȶɛŋ³³plɔŋ¹³,ȶɛŋ³³plɔŋ¹³,ȶ ɛ ŋ ³³ + p l ɔ ŋ ¹³,205,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tadpole,3979,TADPOLE,false,expert
+KimMunLaos-101_tail-1,101_tail,təj³³,təj³³,t ə j ³³,188,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tail,1220,TAIL,false,expert
+KimMunLaocai-101_tail-1,101_tail,tɐj⁴⁴,tɐj⁴⁴,t ɐ j ⁴⁴,626,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tail,1220,TAIL,false,expert
+KimMunLaos-171_taro-1,171_taro,hoʔ¹¹,hoʔ¹¹,h o ʔ ¹¹,107,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,taro,351,TARO,false,expert
+KimMunLaocai-171_taro-1,171_taro,ho³³bu³³,ho³³bu³³,h o ³³ + b u ³³,696,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,taro,351,TARO,false,expert
+KimMunLaos-117_tea-1,117_tea,ȶa:³¹,ȶa:³¹,ȶ aː ³¹,126,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tea,1373,TEA,false,expert
+KimMunLaocai-102_tears-1,102_tears,mɐj³³wɐm²¹⁴,mɐj³³wɐm²¹⁴,m ɐ j ³³ + w ɐ m ²¹⁴,627,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tears,1651,TEAR (OF EYE),false,expert
+KimMunLaos-198_termite-1,198_termite,sə.bla:w³¹,sə.bla:w³¹,s ə ⁰ + b l aː w ³¹,210,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,termite,883,TERMITE,false,expert
+KimMunLaos-456_that-1,456_that,wa:³³,wa:³³,w aː ³³,477,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,that,78,THAT,false,expert
+KimMunLaos-3_thesunrises-1,3_thesunrises,mə.nɔj³⁵saːw¹³,mə.nɔj³⁵saːw¹³,m ə ⁰ + n ɔ j ³⁵ + s aː w ¹³,3,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,the sun rises,2296,SUNRISE,false,expert
+KimMunLaos-3_thesunrises-2,3_thesunrises,mə.nɔj³⁵sɛt³¹,mə.nɔj³⁵sɛt³¹,m ə ⁰ + n ɔ j ³⁵ + s ɛ t ³¹,4,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,the sun rises,2296,SUNRISE,false,expert
+KimMunLaos-4_thesunsets-1,4_thesunsets,mə.nɔj³⁵mot²¹ȶəj²¹,mə.nɔj³⁵mot²¹ȶəj²¹,m ə ⁰ + n ɔ j ³⁵ + m o t ²¹ + ȶ ə j ²¹,5,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,the sun sets,2295,SUNSET,false,expert
+KimMunLaos-4_thesunsets-2,4_thesunsets,mə.nɔj³⁵tuj³¹,mə.nɔj³⁵tuj³¹,m ə ⁰ + n ɔ j ³⁵ + t u j ³¹,6,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,the sun sets,2295,SUNSET,false,expert
+KimMunLaos-413_they-1,413_they,θi³¹tin³¹doj³¹,θi³¹tin³¹doj³¹,θ i ³¹ + t i n ³¹ + d o j ³¹,274,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,they,817,THEY,false,expert
+KimMunLaocai-413_they-1,413_they,si²¹⁴,si²¹⁴,s i ²¹⁴,938,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,they,817,THEY,false,expert
+KimMunLaos-103_thigh-1,103_thigh,θaw³³bɔŋ³³,θaw³³bɔŋ³³,θ a w ³³ + b ɔ ŋ ³³,252,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,thigh,471,UPPER LEG (THIGH),false,expert
+KimMunLaocai-103_thigh-1,103_thigh,θaw³⁵bɔŋ³⁵,θaw³⁵bɔŋ³⁵,θ a w ³⁵ + b ɔ ŋ ³⁵,628,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,thigh,471,UPPER LEG (THIGH),false,expert
+KimMunLaos-455_this-1,455_this,ne³³,ne³³,n e ³³,476,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,this,1214,THIS,false,expert
+KimMunLaos-172_thorn-1,172_thorn,ȡim³³,ȡim³³,ȡ i m ³³,78,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,thorn,124,THORN,false,expert
+KimMunLaocai-172_thorn-1,172_thorn,ȡim⁴⁴,ȡim⁴⁴,ȡ i m ⁴⁴,697,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,thorn,124,THORN,false,expert
+KimMunLaos-256_thou2s-1,256_thou2s,məj³¹,məj³¹,m ə j ³¹,269,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,thou (2s),1215,THOU,false,expert
+KimMunLaocai-235_thread-1,235_thread,θuj⁵²,θuj⁵²,θ u j ⁵²,760,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,thread,1161,THREAD,false,expert
+KimMunLaos-137_thunder-1,137_thunder,bu.gɔŋ⁵³haːw³¹,bu.gɔŋ⁵³haːw³¹,b u ⁰ + g ɔ ŋ ⁵³ + h aː w ³¹,18,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,thunder,1150,THUNDER,false,expert
+KimMunLaocai-137_thunder-1,137_thunder,bu.kɔŋ²¹⁴,bu.kɔŋ²¹⁴,b u ⁰ + k ɔ ŋ ²¹⁴,662,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,thunder,1150,THUNDER,false,expert
+KimMunLaos-49_tiger-1,49_tiger,gja:n³¹,gja:n³¹,g j aː n ³¹,172,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tiger,846,TIGER,false,expert
+KimMunLaocai-49_tiger-1,49_tiger,gja:n¹¹,gja:n¹¹,g j aː n ¹¹,574,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tiger,846,TIGER,false,expert
+KimMunLaocai-410_toaccept-1,410_toaccept,nɔŋ³³,nɔŋ³³,n ɔ ŋ ³³,935,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to accept,,,false,expert
+KimMunLaos-409_toanswer-1,409_toanswer,ta:w⁵³,ta:w⁵³,t aː w ⁵³,363,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to answer,1275,ANSWER,false,expert
+KimMunLaocai-409_toanswer-1,409_toanswer,kɔŋ⁴⁴,kɔŋ⁴⁴,k ɔ ŋ ⁴⁴,934,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to answer,1275,ANSWER,false,expert
+KimMunLaocai-408_toarise-1,408_toarise,θe¹¹kwɛ³⁴¹,θe¹¹kwɛ³⁴¹,θ e ¹¹ + kʷ ɛ ³⁴¹,933,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to arise,,,false,expert
+KimMunLaocai-407_toarrive-1,407_toarrive,da:j¹¹,da:j¹¹,d aː j ¹¹,932,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to arrive,1387,ARRIVE,false,expert
+KimMunLaos-141_tobake-1,141_tobake,up³¹,up³¹,u p ³¹,150,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to bake,183,BAKE,false,expert
+KimMunLaos-170_tobark-1,170_tobark,ȶuŋ¹³,ȶuŋ¹³,ȶ u ŋ ¹³,179,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to bark,1206,BARKING,false,expert
+KimMunLaocai-405_tobathe-1,405_tobathe,dam³¹wɐm²¹⁴,dam³¹wɐm²¹⁴,d a m ³¹ + w ɐ m ²¹⁴,930,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to bathe,138,BATHE,false,expert
+KimMunLaocai-404_tobeable-1,404_tobeable,du²¹⁴,du²¹⁴,d u ²¹⁴,929,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to be able,972,BE ABLE,false,expert
+KimMunLaos-356_tobeafraid-1,356_tobeafraid,kum³¹ȡa:³³,kum³¹ȡa:³³,k u m ³¹ + ȡ aː ³³,374,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be afraid,1419,FEAR (BE AFRAID),false,expert
+KimMunLaos-357_tobeangry-1,357_tobeangry,si²¹,si²¹,s i ²¹,375,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be angry,2223,BE ANGRY,false,expert
+KimMunLaos-491_tobebad-1,491_tobebad,ma³¹gɔŋ¹³,ma³¹gɔŋ¹³,m a ³¹ + g ɔ ŋ ¹³,513,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be bad,1292,BAD,false,expert
+KimMunLaos-435_tobebig-1,435_tobebig,lu³⁵,lu³⁵,l u ³⁵,455,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be big,1202,BIG,false,expert
+KimMunLaos-469_tobebitter-1,469_tobebitter,im⁵³,im⁵³,i m ⁵³,490,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be bitter,887,BITTER,false,expert
+KimMunLaos-486_tobeblind-1,486_tobeblind,məj²¹bu¹¹,məj²¹bu¹¹,m ə j ²¹ + b u ¹¹,508,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be blind,1653,BLIND,false,expert
+KimMunLaos-478_tobeblunt-1,478_tobeblunt,plun¹³,plun¹³,p l u n ¹³,499,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be blunt,379,BLUNT,false,expert
+KimMunLaos-466_tobebright-1,466_tobebright,gwaŋ⁵³daŋ³⁵,gwaŋ⁵³daŋ³⁵,gʷ a ŋ ⁵³ + d a ŋ ³⁵,487,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be bright,679,BRIGHT,false,expert
+KimMunLaos-476_tobecold-1,476_tobecold,nam¹³,nam¹³,n a m ¹³,497,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be cold,1287,COLD,false,expert
+KimMunLaos-492_tobecorrect-1,492_tobecorrect,hɔ³³ȡo²¹,hɔ³³ȡo²¹,h ɔ ³³ + ȡ o ²¹,514,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be correct,1725,CORRECT (RIGHT),false,expert
+KimMunLaos-465_tobedark-1,465_tobedark,ȡam²¹,ȡam²¹,ȡ a m ²¹,486,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be dark,706,DARK,false,expert
+KimMunLaos-487_tobedeaf-1,487_tobedeaf,mə.nɔm³¹duŋ⁵³,mə.nɔm³¹duŋ⁵³,m ə ⁰ + n ɔ m ³¹ + d u ŋ ⁵³,509,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be deaf,996,DEAF,false,expert
+KimMunLaos-446_tobedeep-1,446_tobedeep,du⁵³,du⁵³,d u ⁵³,466,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be deep,1593,DEEP,false,expert
+KimMunLaos-462_tobedirty-1,462_tobedirty,klu³¹,klu³¹,k l u ³¹,483,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be dirty,1230,DIRTY,false,expert
+KimMunLaos-331_tobedrunk-1,331_tobedrunk,bin⁵³,bin⁵³,b i n ⁵³,347,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be drunk,1463,DRUNK,false,expert
+KimMunLaos-473_tobedry-1,473_tobedry,ga:j³⁵,ga:j³⁵,g aː j ³⁵,494,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be dry,1398,DRY,false,expert
+KimMunLaos-453_tobefar-1,453_tobefar,ku⁵³,ku⁵³,k u ⁵³,474,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be far,1406,FAR,false,expert
+KimMunLaos-482_tobefast-1,482_tobefast,kan³³,kan³³,k a n ³³,503,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be fast,1631,FAST,false,expert
+KimMunLaos-443_tobefat-1,443_tobefat,kun²¹,kun²¹,k u n ²¹,463,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be fat,1279,FAT (OBESE),false,expert
+KimMunLaos-433_tobefew-1,433_tobefew,θɔ²¹,θɔ²¹,θ ɔ ²¹,453,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be few,1242,FEW,false,expert
+KimMunLaos-449_tobefull-1,449_tobefull,piw³³,piw³³,p i w ³³,344,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be full,1429,FULL,false,expert
+KimMunLaos-449_tobefull-2,449_tobefull,pɔŋ³³,pɔŋ³³,p ɔ ŋ ³³,469,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be full,1429,FULL,false,expert
+KimMunLaos-490_tobegood-1,490_tobegood,gɔŋ¹³,gɔŋ¹³,g ɔ ŋ ¹³,512,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be good,1035,GOOD,false,expert
+KimMunLaos-480_tobehard-1,480_tobehard,ȵɛŋ³¹,ȵɛŋ³¹,ȵ ɛ ŋ ³¹,501,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be hard,1884,HARD,false,expert
+KimMunLaos-479_tobeheavy-1,479_tobeheavy,ni¹¹,ni¹¹,n i ¹¹,500,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be heavy,1210,HEAVY,false,expert
+KimMunLaos-475_tobehot-1,475_tobehot,kjom⁵³,kjom⁵³,k j o m ⁵³,496,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be hot,1286,HOT,false,expert
+KimMunLaos-327_tobehungry-1,327_tobehungry,ȵo³¹sa:¹³,ȵo³¹sa:¹³,ȵ o ³¹ + s aː ¹³,343,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be hungry,1533,BE HUNGRY,false,expert
+KimMunLaos-437_tobelong-1,437_tobelong,da:w³³,da:w³³,d aː w ³³,457,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be long,1203,LONG,false,expert
+KimMunLaos-430_tobemany-1,430_tobemany,du³³la:n³¹,du³³la:n³¹,d u ³³ + l aː n ³¹,450,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be many,1198,MANY,false,expert
+KimMunLaos-445_tobenarrow-1,445_tobenarrow,ȡɛp³¹,ȡɛp³¹,ȡ ɛ p ³¹,465,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be narrow,1267,NARROW,false,expert
+KimMunLaos-454_tobenear-1,454_tobenear,θat²¹,θat²¹,θ a t ²¹,475,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be near,1942,NEAR,false,expert
+KimMunLaos-463_tobenew-1,463_tobenew,saŋ³⁵,saŋ³⁵,s a ŋ ³⁵,484,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be new,1231,NEW,false,expert
+KimMunLaos-464_tobeold-1,464_tobeold,lu³³ȵaŋ⁵³,lu³³ȵaŋ⁵³,l u ³³ + ȵ a ŋ ⁵³,485,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be old,1229,OLD,false,expert
+KimMunLaos-448_toberound-1,448_toberound,klun³¹,klun³¹,k l u n ³¹,468,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be round,1395,ROUND,false,expert
+KimMunLaos-447_tobeshallow-1,447_tobeshallow,gjaŋ³³,gjaŋ³³,g j a ŋ ³³,467,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be shallow,193,SHALLOW,false,expert
+KimMunLaos-477_tobesharp-1,477_tobesharp,gjaj²¹,gjaj²¹,g j a j ²¹,498,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be sharp,1396,SHARP,false,expert
+KimMunLaos-440_tobeshortheight-1,440_tobeshortheight,ha:³⁵,ha:³⁵,h aː ³⁵,460,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be short (height),2191,LOW (HEIGHT),false,expert
+KimMunLaos-438_tobeshortlength-1,438_tobeshortlength,niŋ³³,niŋ³³,n i ŋ ³³,458,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be short (length),1645,SHORT,false,expert
+KimMunLaos-483_tobeslow-1,483_tobeslow,man¹¹,man¹¹,m a n ¹¹,504,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be slow,701,SLOW,false,expert
+KimMunLaos-436_tobesmall-1,436_tobesmall,kja:n⁵³,kja:n⁵³,k j aː n ⁵³,456,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be small,1246,SMALL,false,expert
+KimMunLaos-481_tobesmooth-1,481_tobesmooth,ðɛŋ³³ðo²¹,ðɛŋ³³ðo²¹,ð ɛ ŋ ³³ + ð o ²¹,502,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be smooth,1234,SMOOTH,false,expert
+KimMunLaos-468_tobesour-1,468_tobesour,θuj³⁵,θuj³⁵,θ u j ³⁵,489,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be sour,1906,SOUR,false,expert
+KimMunLaos-470_tobespicyhot-1,470_tobespicyhot,bja:t³¹,bja:t³¹,b j aː t ³¹,491,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"to be spicy, hot",544,SPICY,false,expert
+KimMunLaos-452_tobestraight-1,452_tobestraight,dɛŋ³¹,dɛŋ³¹,d ɛ ŋ ³¹,472,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be straight,1404,STRAIGHT,false,expert
+KimMunLaos-452_tobestraight-2,452_tobestraight,saŋ¹³,saŋ¹³,s a ŋ ¹³,473,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be straight,1404,STRAIGHT,false,expert
+KimMunLaos-484_tobestrong-1,484_tobestrong,ȵɛŋ³³ga:ŋ³¹,ȵɛŋ³³ga:ŋ³¹,ȵ ɛ ŋ ³³ + g aː ŋ ³¹,505,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be strong,785,STRONG,false,expert
+KimMunLaos-484_tobestrong-2,484_tobestrong,kjoŋ³³paŋ³⁵,kjoŋ³³paŋ³⁵,k j o ŋ ³³ + p a ŋ ³⁵,506,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be strong,785,STRONG,false,expert
+KimMunLaos-467_tobesweet-1,467_tobesweet,ka:m⁵³,ka:m⁵³,k aː m ⁵³,488,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be sweet,717,SWEET,false,expert
+KimMunLaos-439_tobetall-1,439_tobetall,gjaŋ³⁵,gjaŋ³⁵,g j a ŋ ³⁵,459,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be tall,711,TALL,false,expert
+KimMunLaos-441_tobethick-1,441_tobethick,hu³⁵,hu³⁵,h u ³⁵,461,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be thick,1244,THICK,false,expert
+KimMunLaos-442_tobethin-1,442_tobethin,fa²¹,fa²¹,f a ²¹,462,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be thin,2308,THIN,false,expert
+KimMunLaos-329_tobethirsty-1,329_tobethirsty,ȵo³¹ga:t³¹,ȵo³¹ga:t³¹,ȵ o ³¹ + g aː t ³¹,345,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be thirsty,3474,BE THIRSTY,false,expert
+KimMunLaos-485_tobeweak-1,485_tobeweak,də.maj³³nup³⁵,də.maj³³nup³⁵,d ə ⁰ + m a j ³³ + n u p ³⁵,507,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be weak,1601,WEAK,false,expert
+KimMunLaos-474_tobewet-1,474_tobewet,dɔn⁵³,dɔn⁵³,d ɔ n ⁵³,495,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be wet,1726,WET,false,expert
+KimMunLaos-444_tobewidebroad-1,444_tobewidebroad,gwaŋ³³,gwaŋ³³,gʷ a ŋ ³³,464,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"to be wide, broad",1243,WIDE,false,expert
+KimMunLaos-493_tobewrong-1,493_tobewrong,pɛw³³,pɛw³³,p ɛ w ³³,515,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to be wrong,1390,WRONG,false,expert
+KimMunLaos-403_tobite-1,403_tobite,tap³¹,tap³¹,t a p ³¹,180,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to bite,1403,BITE,false,expert
+KimMunLaocai-403_tobite-1,403_tobite,tap³³,tap³³,t a p ³³,928,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to bite,1403,BITE,false,expert
+KimMunLaos-402_toblow-1,402_toblow,pjɔm³³,pjɔm³³,p j ɔ m ³³,354,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to blow,176,BLOW (WITH MOUTH),false,expert
+KimMunLaocai-402_toblow-1,402_toblow,pjɔm⁴⁴,pjɔm⁴⁴,p j ɔ m ⁴⁴,927,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to blow,176,BLOW (WITH MOUTH),false,expert
+KimMunLaos-136_toboil-1,136_toboil,ȶo³³,ȶo³³,ȶ o ³³,145,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to boil,2492,BOIL (SOMETHING),false,expert
+KimMunLaos-337_tobreathe-1,337_tobreathe,tɔŋ³³si³⁵,tɔŋ³³si³⁵,t ɔ ŋ ³³ + s i ³⁵,353,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to breathe,1407,BREATHE,false,expert
+KimMunLaos-395_toburn-1,395_toburn,pu³³,pu³³,p u ³³,414,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to burn,2102,BURN,false,expert
+KimMunLaos-391_toburyacorpse-1,391_toburyacorpse,θo³³,θo³³,θ o ³³,410,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to bury (a corpse),1719,BURY,false,expert
+KimMunLaos-401_tobuy-1,401_tobuy,maj³⁴¹,maj³⁴¹,m a j ³⁴¹,422,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to buy,1869,BUY,false,expert
+KimMunLaocai-401_tobuy-1,401_tobuy,maj³⁴¹,maj³⁴¹,m a j ³⁴¹,926,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to buy,1869,BUY,false,expert
+KimMunLaocai-400_tocarry-1,400_tocarry,dam²¹⁴,dam²¹⁴,d a m ²¹⁴,925,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to carry,700,CARRY,false,expert
+KimMunLaocai-399_tochase-1,399_tochase,luj³³,luj³³,l u j ³³,924,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to chase,1047,PURSUE,false,expert
+KimMunLaocai-398_tochew-1,398_tochew,ȵaj⁵²,ȵaj⁵²,ȵ a j ⁵²,923,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to chew,321,CHEW,false,expert
+KimMunLaos-125_tochopmince-1,125_tochopmince,dəj³⁵,dəj³⁵,d ə j ³⁵,134,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to chop/mince,155,CHOP,false,expert
+KimMunLaos-397_tocome-1,397_tocome,ta:j⁵³,ta:j⁵³,t aː j ⁵³,390,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to come,1446,COME,false,expert
+KimMunLaocai-397_tocome-1,397_tocome,taw⁵²,taw⁵²,t a w ⁵²,922,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to come,1446,COME,false,expert
+KimMunLaocai-396_tocook-1,396_tocook,ȶo⁴⁴,ȶo⁴⁴,ȶ o ⁴⁴,921,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to cook,1100,COOK (SOMETHING),false,expert
+KimMunLaos-121_tocookrice-1,121_tocookrice,ȶo³³naŋ³⁵,ȶo³³naŋ³⁵,ȶ o ³³ + n a ŋ ³⁵,130,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to cook (rice),1100,COOK (SOMETHING),false,expert
+KimMunLaos-334_tocough-1,334_tocough,saŋ³¹ha:³⁵,saŋ³¹ha:³⁵,s a ŋ ³¹ + h aː ³⁵,350,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to cough,879,COUGH,false,expert
+KimMunLaos-355_tocount-1,355_tocount,θa:w¹¹,θa:w¹¹,θ aː w ¹¹,373,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to count,1420,COUNT,false,expert
+KimMunLaos-135_tocrackanegg-1,135_tocrackanegg,bɔ⁵³kjaw¹³,bɔ⁵³kjaw¹³,b ɔ ⁵³ + k j a w ¹³,144,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to crack an egg,,,false,expert
+KimMunLaos-371_tocrawl-1,371_tocrawl,ȵoŋ⁵³,ȵoŋ⁵³,ȵ o ŋ ⁵³,389,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to crawl,96,CRAWL,false,expert
+KimMunLaocai-395_tocrow-1,395_tocrow,aj³³gaj³⁵,aj³³gaj³⁵,a j ³³ + g a j ³⁵,920,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to crow,2074,CROW (VERB),false,expert
+KimMunLaos-386_tocuthair-1,386_tocuthair,te³⁵pje³³,te³⁵pje³³,t e ³⁵ + p j e ³³,405,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to cut (hair),2155,CUT (WITH SCISSORS),false,expert
+KimMunLaos-123_tocutintopieces-1,123_tocutintopieces,ȶap³¹,ȶap³¹,ȶ a p ³¹,132,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to cut into pieces,2149,CHOP (INTO PIECES),false,expert
+KimMunLaos-124_tocutintoslices-1,124_tocutintoslices,pi¹¹,pi¹¹,p i ¹¹,133,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to cut into slices,,,false,expert
+KimMunLaocai-394_tocutwknife-1,394_tocutwknife,gat³¹,gat³¹,g a t ³¹,919,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to cut w/ knife,2156,CUT (WITH KNIFE),false,expert
+KimMunLaocai-393_tocutwscissors-1,393_tocutwscissors,gjap³³,gjap³³,g j a p ³³,918,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to cut w/ scissors,2155,CUT (WITH SCISSORS),false,expert
+KimMunLaos-398_todance-1,398_todance,tiw³¹ȵa:¹¹,tiw³¹ȵa:¹¹,t i w ³¹ + ȵ aː ¹¹,418,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dance,1879,DANCE,false,expert
+KimMunLaocai-406_todark-1,406_todark,ȶuŋ³⁵,ȶuŋ³⁵,ȶ u ŋ ³⁵,931,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to dark,706,DARK,false,expert
+KimMunLaos-161_todecay-1,161_todecay,jɔt⁵³,jɔt⁵³,j ɔ t ⁵³,170,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to decay,2907,ROT,false,expert
+KimMunLaos-392_todie-1,392_todie,taj²¹,taj²¹,t a j ²¹,383,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to die,1494,DIE,false,expert
+KimMunLaocai-392_todie-1,392_todie,daj³³,daj³³,d a j ³³,917,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to die,1494,DIE,false,expert
+KimMunLaos-390_todig-1,390_todig,wit⁵³,wit⁵³,w i t ⁵³,409,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dig,1418,DIG,false,expert
+KimMunLaos-391_todip-1,391_todip,nam³⁴¹,nam³⁴¹,n a m ³⁴¹,154,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dip,3697,DIP,false,expert
+KimMunLaocai-391_todip-1,391_todip,gwa⁵²,gwa⁵²,gʷ a ⁵²,916,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to dip,3697,DIP,false,expert
+KimMunLaos-406_todisappear-1,406_todisappear,ma³³sɛt³¹fa:n¹³,ma³³sɛt³¹fa:n¹³,m a ³³ + s ɛ t ³¹ + f aː n ¹³,426,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to disappear,485,DISAPPEAR,false,expert
+KimMunLaocai-390_todrain-1,390_todrain,goj⁵²wɐm²¹⁴,goj⁵²wɐm²¹⁴,g o j ⁵² + w ɐ m ²¹⁴,915,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to drain,,,false,expert
+KimMunLaocai-389_todrawwater-1,389_todrawwater,dan³⁵,dan³⁵,d a n ³⁵,914,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to draw water,1911,DRAW (WATER),false,expert
+KimMunLaos-360_todream-1,360_todream,bwe¹³,bwe¹³,b w e ¹³,378,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dream,1920,DREAM (SOMETHING),false,expert
+KimMunLaos-388_todrink-1,388_todrink,hɔp³⁵wɔm⁵³,hɔp³⁵wɔm⁵³,h ɔ p ³⁵ + w ɔ m ⁵³,346,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to drink,1401,DRINK,false,expert
+KimMunLaocai-388_todrink-1,388_todrink,hɔp⁵²,hɔp⁵²,h ɔ p ⁵²,913,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to drink,1401,DRINK,false,expert
+KimMunLaos-392_todrysth-1,392_todrysth,fa:j³⁵,fa:j³⁵,f aː j ³⁵,411,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dry (sth.),2015,MAKE DRY,false,expert
+KimMunLaos-292_todyecloth-1,292_todyecloth,ȵum³³puj¹³,ȵum³³puj¹³,ȵ u m ³³ + p u j ¹³,308,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to dye ( cloth ),157,DYE,false,expert
+KimMunLaos-386_toeat-1,386_toeat,ȵin³³,ȵin³³,ȵ i n ³³,341,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to eat,1336,EAT,false,expert
+KimMunLaocai-386_toeat-1,386_toeat,ȵin³³,ȵin³³,ȵ i n ³³,911,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to eat,1336,EAT,false,expert
+KimMunLaos-373_toenter-1,373_toenter,ȡa²¹,ȡa²¹,ȡ a ²¹,391,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to enter,749,ENTER,false,expert
+KimMunLaos-404_toexchange-1,404_toexchange,tiŋ³¹wan²¹,tiŋ³¹wan²¹,t i ŋ ³¹ + w a n ²¹,424,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to exchange,2509,EXCHANGE,false,expert
+KimMunLaocai-385_toexplode-1,385_toexplode,tɔ³³,tɔ³³,t ɔ ³³,910,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to explode,3976,EXPLODE,false,expert
+KimMunLaos-379_tofall-1,379_tofall,tuj⁵³,tuj⁵³,t u j ⁵³,398,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to fall,1280,FALL,false,expert
+KimMunLaocai-384_tofalldown-1,384_tofalldown,kliŋ³⁴¹,kliŋ³⁴¹,k l i ŋ ³⁴¹,909,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to fall down,1280,FALL,false,expert
+KimMunLaocai-383_tofear-1,383_tofear,kuŋ¹¹ja⁵²,kuŋ¹¹ja⁵²,k u ŋ ¹¹ + j a ⁵²,908,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to fear,1419,FEAR (BE AFRAID),false,expert
+KimMunLaos-401_tofight-1,401_tofight,ȶɛŋ⁵³,ȶɛŋ⁵³,ȶ ɛ ŋ ⁵³,421,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to fight,1423,FIGHT,false,expert
+KimMunLaos-62_tofloat-1,62_tofloat,bjo³¹,bjo³¹,b j o ³¹,69,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to float,1574,FLOAT,false,expert
+KimMunLaos-60_toflow-1,60_toflow,tuj³⁵,tuj³⁵,t u j ³⁵,67,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to flow,2003,FLOW,false,expert
+KimMunLaos-382_tofly-1,382_tofly,da:j³⁵,da:j³⁵,d aː j ³⁵,194,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to fly,1441,FLY (MOVE THROUGH AIR),false,expert
+KimMunLaocai-382_tofly-1,382_tofly,dɐj⁵²,dɐj⁵²,d ɐ j ⁵²,907,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to fly,1441,FLY (MOVE THROUGH AIR),false,expert
+KimMunLaos-381_toforget-1,381_toforget,ȵo¹¹kɔ³³,ȵo¹¹kɔ³³,ȵ o ¹¹ + k ɔ ³³,369,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to forget,1523,FORGET,false,expert
+KimMunLaocai-381_toforget-1,381_toforget,ȵo³³gɔ⁵²,ȵo³³gɔ⁵²,ȵ o ³³ + g ɔ ⁵²,906,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to forget,1523,FORGET,false,expert
+KimMunLaocai-380_tofry-1,380_tofry,ȶa:w³³,ȶa:w³³,ȶ aː w ³³,905,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to fry,991,FRY,false,expert
+KimMunLaos-138_tofryinfatoil-1,138_tofryinfatoil,θin¹³,θin¹³,θ i n ¹³,147,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to fry in fat/oil,991,FRY,false,expert
+KimMunLaos-378_togive-1,378_togive,fun⁵³,fun⁵³,f u n ⁵³,400,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to give,1447,GIVE,false,expert
+KimMunLaocai-378_togive-1,378_togive,fɐn²¹⁴,fɐn²¹⁴,f ɐ n ²¹⁴,903,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to give,1447,GIVE,false,expert
+KimMunLaocai-379_togivebirth-1,379_togivebirth,juŋ³⁴¹,juŋ³⁴¹,j u ŋ ³⁴¹,904,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to give birth,1195,GIVE BIRTH,false,expert
+KimMunLaocai-377_togo-1,377_togo,niŋ¹¹,niŋ¹¹,n i ŋ ¹¹,902,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to go,695,GO,false,expert
+KimMunLaos-388_togrind-1,388_togrind,ma:³¹,ma:³¹,m aː ³¹,407,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to grind,1033,GRIND,false,expert
+KimMunLaos-152_togrow-1,152_togrow,sɔŋ¹³,sɔŋ¹³,s ɔ ŋ ¹³,161,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to grow,479,GROW,false,expert
+KimMunLaos-313_tohammer-1,313_tohammer,kəj³⁵,kəj³⁵,k ə j ³⁵,329,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to hammer,3115,HAMMER (SOMETHING),false,expert
+KimMunLaos-353_tohate-1,353_tohate,han¹¹,han¹¹,h a n ¹¹,371,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to hate,1607,HATE,false,expert
+KimMunLaos-376_tohear-1,376_tohear,tu⁵³nuŋ³⁵,tu⁵³nuŋ³⁵,t u ⁵³ + n u ŋ ³⁵,336,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to hear,1408,HEAR,false,expert
+KimMunLaocai-376_tohear-1,376_tohear,muŋ⁵²,muŋ⁵²,m u ŋ ⁵²,901,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to hear,1408,HEAR,false,expert
+KimMunLaocai-375_tohide-1,375_tohide,mɛm⁴⁴,mɛm⁴⁴,m ɛ m ⁴⁴,900,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to hide,2486,HIDE,false,expert
+KimMunLaos-384_tohit-1,384_tohit,pa:n¹³,pa:n¹³,p aː n ¹³,403,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to hit,1433,HIT,false,expert
+KimMunLaocai-374_tohonekn-1,374_tohonekn,ȶo⁵²ȶu³³,ȶo⁵²ȶu³³,ȶ o ⁵² + ȶ u ³³,899,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to hone kn,,,false,expert
+KimMunLaos-400_tohunt-1,400_tohunt,niŋ³³kim³¹,niŋ³³kim³¹,n i ŋ ³³ + k i m ³¹,420,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to hunt,1435,HUNT,false,expert
+KimMunLaos-362_toitch-1,362_toitch,sɛt³⁵,sɛt³⁵,s ɛ t ³⁵,380,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to itch,3855,ITCH (CAUSE ITCHING OR FEEL ITCHY),false,expert
+KimMunLaos-377_tokick-1,377_tokick,ti³³,ti³³,t i ³³,395,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to kick,1135,KICK,false,expert
+KimMunLaocai-373_tokill-1,373_tokill,dɐj³⁵,dɐj³⁵,d ɐ j ³⁵,898,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to kill,1417,KILL,false,expert
+KimMunLaos-130_tokneadadough-1,130_tokneadadough,ȵuj³¹,ȵuj³¹,ȵ u j ³¹,139,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to knead (a dough),274,KNEAD,false,expert
+KimMunLaos-369_tokneel-1,369_tokneel,kwe²¹,kwe²¹,kʷ e ²¹,387,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to kneel,66,KNEEL,false,expert
+KimMunLaos-372_toknow-1,372_toknow,pəj⁵³,pəj⁵³,p ə j ⁵³,368,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to know,3626,KNOW,false,expert
+KimMunLaocai-372_toknow-1,372_toknow,pe²¹⁴,pe²¹⁴,p e ²¹⁴,897,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to know,3626,KNOW,false,expert
+KimMunLaos-342_tolaugh-1,342_tolaugh,kjət²¹,kjət²¹,k j ə t ²¹,359,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to laugh,1355,LAUGH,false,expert
+KimMunLaos-340_tolick-1,340_tolick,klim³⁴¹,klim³⁴¹,k l i m ³⁴¹,357,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to lick,319,LICK,false,expert
+KimMunLaos-347_toliefib-1,347_toliefib,puŋ³³ma:w³¹,puŋ³³ma:w³¹,p u ŋ ³³ + m aː w ³¹,364,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"to lie, fib",601,LIE (MISLEAD),false,expert
+KimMunLaocai-371_tolike-1,371_tolike,oj³⁵,oj³⁵,o j ³⁵,896,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to like,1117,LIKE,false,expert
+KimMunLaos-352_tolove-1,352_tolove,oj¹³,oj¹³,o j ¹³,370,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to love,923,LOVE,false,expert
+KimMunLaocai-370_tomarryd-1,370_tomarryd,naj³⁵la:ŋ¹¹,naj³⁵la:ŋ¹¹,n a j ³⁵ + l aː ŋ ¹¹,895,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to marry d,,,false,expert
+KimMunLaocai-369_tomarryw-1,369_tomarryw,ȶo¹¹aw⁴⁴,ȶo¹¹aw⁴⁴,ȶ o ¹¹ + a w ⁴⁴,894,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to marry w,2163,MARRY (AS WOMAN),false,expert
+KimMunLaos-20_tomelt-1,20_tomelt,ju:¹¹,ju:¹¹,j uː ¹¹,22,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to melt,2334,MELT,false,expert
+KimMunLaos-305_tomove-1,305_tomove,θuj¹¹,θuj¹¹,θ u j ¹¹,321,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to move,765,MOVE,false,expert
+KimMunLaocai-368_tomow-1,368_tomow,gwan⁵²,gwan⁵²,gʷ a n ⁵²,893,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to mow,190,MOW,false,expert
+KimMunLaocai-367_toopenmr-1,367_toopenmr,gɔj⁵²,gɔj⁵²,g ɔ j ⁵²,892,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to open mr,,,false,expert
+KimMunLaocai-366_topat-1,366_topat,bɛ⁵²,bɛ⁵²,b ɛ ⁵²,891,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to pat,,,false,expert
+KimMunLaos-311_topierce-1,311_topierce,lɔm³⁵,lɔm³⁵,l ɔ m ³⁵,327,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to pierce,398,PIERCE,false,expert
+KimMunLaos-397_toplay-1,397_toplay,blan³³,blan³³,b l a n ³³,417,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to play,1413,PLAY,false,expert
+KimMunLaos-131_topoundgarlic-1,131_topoundgarlic,ȶup³⁵,ȶup³⁵,ȶ u p ³⁵,140,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to pound (garlic),,,false,expert
+KimMunLaos-393_topoundrice-1,393_topoundrice,ȶup³⁵məj¹¹,ȶup³⁵məj¹¹,ȶ u p ³⁵ + m ə j ¹¹,412,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to pound (rice),354,POUND,false,expert
+KimMunLaos-133_topourover-1,133_topourover,kuŋ³³naŋ³³,kuŋ³³naŋ³³,k u ŋ ³³ + n a ŋ ³³,142,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to pour over,1487,POUR,false,expert
+KimMunLaos-365_topull-1,365_topull,dan¹³,dan¹³,d a n ¹³,394,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to pull,1455,PULL,false,expert
+KimMunLaocai-365_topull-1,365_topull,da:n³⁵,da:n³⁵,d aː n ³⁵,890,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to pull,1455,PULL,false,expert
+KimMunLaocai-364_topullgr-1,364_topullgr,bɛŋ¹¹ma³⁵,bɛŋ¹¹ma³⁵,b ɛ ŋ ¹¹ + m a ³⁵,889,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to pull gr,,,false,expert
+KimMunLaos-375_topush-1,375_topush,ȵɔŋ¹¹,ȵɔŋ¹¹,ȵ ɔ ŋ ¹¹,393,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to push,1452,PUSH,false,expert
+KimMunLaos-132_toputiningredients-1,132_toputiningredients,θuŋ³³liw²¹,θuŋ³³liw²¹,θ u ŋ ³³ + l i w ²¹,141,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to put in (ingredients),,,false,expert
+KimMunLaocai-363_toremember-1,363_toremember,saŋ³⁵,saŋ³⁵,s a ŋ ³⁵,888,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to remember,707,REMEMBER,false,expert
+KimMunLaocai-362_torest-1,362_torest,ni³¹gan⁵²,ni³¹gan⁵²,n i ³¹ + g a n ⁵²,887,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to rest,168,REST,false,expert
+KimMunLaos-361_toreturn-1,361_toreturn,fun³³da:ŋ⁵³,fun³³da:ŋ⁵³,f u n ³³ + d aː ŋ ⁵³,392,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to return,581,COME BACK,false,expert
+KimMunLaocai-361_toreturn-1,361_toreturn,law³⁴¹,law³⁴¹,l a w ³⁴¹,886,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to return,581,COME BACK,false,expert
+KimMunLaocai-360_toridehorse-1,360_toridehorse,ȶe¹¹ma³⁴¹,ȶe¹¹ma³⁴¹,ȶ e ¹¹ + m a ³⁴¹,885,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to ride horse,367,RIDE,false,expert
+KimMunLaos-157_toripen-1,157_toripen,su¹¹,su¹¹,s u ¹¹,166,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to ripen,179,RIPEN,false,expert
+KimMunLaocai-359_toroar-1,359_toroar,haw¹¹,haw¹¹,h a w ¹¹,884,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to roar,3896,ROAR,false,expert
+KimMunLaos-358_toroast-1,358_toroast,si⁵³,si⁵³,s i ⁵³,149,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to roast,1962,ROAST (SOMETHING),false,expert
+KimMunLaocai-358_toroast-1,358_toroast,si²¹⁴,si²¹⁴,s i ²¹⁴,883,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to roast,1962,ROAST (SOMETHING),false,expert
+KimMunLaos-315_toroll-1,315_toroll,pluj⁵³,pluj⁵³,p l u j ⁵³,331,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to roll,827,ROLL,false,expert
+KimMunLaocai-357_torun-1,357_torun,tju⁵²,tju⁵²,t j u ⁵²,882,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to run,1519,RUN,false,expert
+KimMunLaocai-356_toscold-1,356_toscold,ma³³,ma³³,m a ³³,881,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to scold,299,SCOLD,false,expert
+KimMunLaocai-355_toscrape-1,355_toscrape,gwit⁵²,gwit⁵²,gʷ i t ⁵²,880,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to scrape,1767,SCRAPE,false,expert
+KimMunLaos-363_toscratch-1,363_toscratch,ȵa:j³³,ȵa:j³³,ȵ aː j ³³,381,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to scratch,1436,SCRATCH,false,expert
+KimMunLaos-354_tosee-1,354_tosee,fat²¹,fat²¹,f a t ²¹,338,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to see,1409,SEE,false,expert
+KimMunLaocai-354_tosee-1,354_tosee,mɐŋ³³,mɐŋ³³,m ɐ ŋ ³³,879,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to see,1409,SEE,false,expert
+KimMunLaos-353_tosell-1,353_tosell,ma:j²¹,ma:j²¹,m aː j ²¹,423,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sell,1571,SELL,false,expert
+KimMunLaocai-353_tosell-1,353_tosell,ma:j³³,ma:j³³,m aː j ³³,878,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to sell,1571,SELL,false,expert
+KimMunLaos-143_tosetthetable-1,143_tosetthetable,bin³³ȶoŋ³⁴¹,bin³³ȶoŋ³⁴¹,b i n ³³ + ȶ o ŋ ³⁴¹,152,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to set the table,,,false,expert
+KimMunLaocai-352_tosettrap-1,352_tosettrap,niŋ¹¹θi⁵²,niŋ¹¹θi⁵²,n i ŋ ¹¹ + θ i ⁵²,877,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to set trap,,,false,expert
+KimMunLaos-294_tosew-1,294_tosew,gɔn³¹,gɔn³¹,g ɔ n ³¹,310,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sew,1457,SEW,false,expert
+KimMunLaos-310_tosharpenaknife-1,310_tosharpenaknife,ȡo³⁵ȡu²¹,ȡo³⁵ȡu²¹,ȡ o ³⁵ + ȡ u ²¹,326,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sharpen a knife,251,SHARPEN (SOMETHING),false,expert
+KimMunLaos-364_toshiver-1,364_toshiver,sin¹³,sin¹³,s i n ¹³,382,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to shiver,52,SHIVER,false,expert
+KimMunLaos-399_toshoot-1,399_toshoot,fan³³,fan³³,f a n ³³,419,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to shoot,1172,SHOOT,false,expert
+KimMunLaos-345_toshout-1,345_toshout,ha:m³⁵,ha:m³⁵,h aː m ³⁵,362,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to shout,715,SHOUT,false,expert
+KimMunLaos-348_tosing-1,348_tosing,aj¹¹ȡuŋ⁵³,aj¹¹ȡuŋ⁵³,a j ¹¹ + ȡ u ŋ ⁵³,365,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sing,1261,SING,false,expert
+KimMunLaos-63_tosink-1,63_tosink,sim⁵³,sim⁵³,s i m ⁵³,70,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sink,1088,SINK (DESCEND),false,expert
+KimMunLaos-351_tosit-1,351_tosit,θəj³⁴¹,θəj³⁴¹,θ ə j ³⁴¹,385,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sit,1416,SIT,false,expert
+KimMunLaocai-351_tosit-1,351_tosit,gjɛt³³,gjɛt³³,g j ɛ t ³³,876,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to sit,1416,SIT,false,expert
+KimMunLaocai-350_toslash-1,350_toslash,daw⁴⁴,daw⁴⁴,d a w ⁴⁴,875,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to slash,,,false,expert
+KimMunLaos-349_tosleep-1,349_tosleep,fəj¹³,fəj¹³,f ə j ¹³,376,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sleep,1585,SLEEP,false,expert
+KimMunLaocai-349_tosleep-1,349_tosleep,fɐj³⁵,fɐj³⁵,f ɐ j ³⁵,874,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to sleep,1585,SLEEP,false,expert
+KimMunLaocai-348_tosmell-1,348_tosmell,hɔm⁵²,hɔm⁵²,h ɔ m ⁵²,873,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to smell,2124,SMELL,false,expert
+KimMunLaos-341_tosmile-1,341_tosmile,kjət²¹,kjət²¹,k j ə t ²¹,358,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to smile,1451,SMILE,false,expert
+KimMunLaos-347_tosmoke-1,347_tosmoke,hɔp³⁵jin³⁵bja:t³¹,hɔp³⁵jin³⁵bja:t³¹,h ɔ p ³⁵ + j i n ³⁵ + b j aː t ³¹,129,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to smoke,1689,SMOKE (INHALE),false,expert
+KimMunLaocai-347_tosmoke-1,347_tosmoke,hɔp⁵²jin²¹⁴,hɔp⁵²jin²¹⁴,h ɔ p ⁵² + j i n ²¹⁴,872,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to smoke,1689,SMOKE (INHALE),false,expert
+KimMunLaos-335_tosneeze-1,335_tosneeze,saŋ³¹ha³⁵kjan⁵³,saŋ³¹ha³⁵kjan⁵³,s a ŋ ³¹ + h a ³⁵ + k j a n ⁵³,351,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sneeze,1621,SNEEZE,false,expert
+KimMunLaos-359_tosnore-1,359_tosnore,da:n³¹,da:n³¹,d aː n ³¹,377,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to snore,1983,SNORE,false,expert
+KimMunLaocai-346_tosoak-1,346_tosoak,θe³³wɔm²¹⁴,θe³³wɔm²¹⁴,θ e ³³ + w ɔ m ²¹⁴,871,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to soak,2069,SOAK (VERB),false,expert
+KimMunLaos-343_tospeak-1,343_tospeak,kɔŋ³³,kɔŋ³³,k ɔ ŋ ³³,360,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to speak,1623,SPEAK,false,expert
+KimMunLaos-333_tospit-1,333_tospit,ȡo³⁴¹ȡa:n⁵³,ȡo³⁴¹ȡa:n⁵³,ȡ o ³⁴¹ + ȡ aː n ⁵³,349,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to spit,1440,SPIT,false,expert
+KimMunLaos-385_tosplit-1,385_tosplit,pa:j³⁵,pa:j³⁵,p aː j ³⁵,404,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to split,1437,SPLIT,false,expert
+KimMunLaos-154_tosprout-1,154_tosprout,pju³³ȵa:³¹,pju³³ȵa:³¹,p j u ³³ + ȵ aː ³¹,163,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to sprout,2076,SPROUT (VERB),false,expert
+KimMunLaos-134_tosqueeze-1,134_tosqueeze,nɛŋ³³,nɛŋ³³,n ɛ ŋ ³³,143,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to squeeze,1414,SQUEEZE,false,expert
+KimMunLaos-387_tostab-1,387_tostab,lɔm³⁵,lɔm³⁵,l ɔ m ³⁵,406,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to stab,1434,STAB,false,expert
+KimMunLaos-345_tostand-1,345_tostand,θow²¹,θow²¹,θ o w ²¹,386,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to stand,1442,STAND,false,expert
+KimMunLaocai-345_tostand-1,345_tostand,θo⁴⁴,θo⁴⁴,θ o ⁴⁴,870,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to stand,1442,STAND,false,expert
+KimMunLaos-344_tosteal-1,344_tosteal,aj³³θa²¹,aj³³θa²¹,a j ³³ + θ a ²¹,425,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to steal,713,STEAL,false,expert
+KimMunLaocai-344_tosteal-1,344_tosteal,aj³³θa³⁵,aj³³θa³⁵,a j ³³ + θ a ³⁵,869,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to steal,713,STEAL,false,expert
+KimMunLaos-343_tosteam-1,343_tosteam,sa:ŋ⁵³,sa:ŋ⁵³,s aː ŋ ⁵³,148,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to steam,2067,STEAM (VERB),false,expert
+KimMunLaocai-343_tosteam-1,343_tosteam,naŋ³⁵saŋ²¹⁴,naŋ³⁵saŋ²¹⁴,n a ŋ ³⁵ + s a ŋ ²¹⁴,868,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to steam,2067,STEAM (VERB),false,expert
+KimMunLaos-342_tostir-1,342_tostir,mun³¹,mun³¹,m u n ³¹,138,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to stir,696,STIR,false,expert
+KimMunLaocai-342_tostir-1,342_tostir,law⁴⁴,law⁴⁴,l a w ⁴⁴,867,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to stir,696,STIR,false,expert
+KimMunLaos-137_tostirfrytofry-1,137_tostirfrytofry,ȶa:w¹¹,ȶa:w¹¹,ȶ aː w ¹¹,146,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,"to stir fry, to fry",2162,STIR FRY,false,expert
+KimMunLaocai-341_tostoke-1,341_tostoke,su¹¹,su¹¹,s u ¹¹,866,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to stoke,,,false,expert
+KimMunLaos-339_tosuck-1,339_tosuck,dut⁵³,dut⁵³,d u t ⁵³,355,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to suck,1421,SUCK,false,expert
+KimMunLaos-339_tosuck-2,339_tosuck,hɔp³⁵,hɔp³⁵,h ɔ p ³⁵,356,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to suck,1421,SUCK,false,expert
+KimMunLaocai-387_tosundry-1,387_tosundry,faj⁵²,faj⁵²,f a j ⁵²,912,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to sun dry,3364,DRY IN SUN,false,expert
+KimMunLaos-326_toswallow-1,326_toswallow,na⁵³,na⁵³,n a ⁵³,342,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to swallow,897,SWALLOW,false,expert
+KimMunLaos-340_toswim-1,340_toswim,kjo³¹wɔm⁵³,kjo³¹wɔm⁵³,k j o ³¹ + w ɔ m ⁵³,399,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to swim,1439,SWIM,false,expert
+KimMunLaocai-340_toswim-1,340_toswim,kjo¹¹,kjo¹¹,k j o ¹¹,865,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to swim,1439,SWIM,false,expert
+KimMunLaocai-339_totalk-1,339_totalk,kɔ⁵²wa³⁵,kɔ⁵²wa³⁵,k ɔ ⁵² + w a ³⁵,864,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to talk,2708,TALK,false,expert
+KimMunLaos-142_totaste-1,142_totaste,dɔp²¹,dɔp²¹,d ɔ p ²¹,151,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to taste,21,TASTE (SOMETHING),false,expert
+KimMunLaocai-338_totear-1,338_totear,ȶɛ⁵²,ȶɛ⁵²,ȶ ɛ ⁵²,863,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to tear,1735,TEAR (SHRED),false,expert
+KimMunLaos-337_totell-1,337_totell,bu¹³,bu¹³,b u ¹³,361,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to tell,1711,TELL,false,expert
+KimMunLaos-349_tothink-1,349_tothink,ȵe³¹,ȵe³¹,ȵ e ³¹,367,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to think,2271,THINK,false,expert
+KimMunLaos-378_tothrow-1,378_tothrow,biw³⁵,biw³⁵,b i w ³⁵,396,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to throw,1456,THROW,false,expert
+KimMunLaos-378_tothrow-2,378_tothrow,gwɛŋ²¹,gwɛŋ²¹,gʷ ɛ ŋ ²¹,397,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to throw,1456,THROW,false,expert
+KimMunLaos-382_totie-1,382_totie,θa:j³⁵,θa:j³⁵,θ aː j ³⁵,401,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to tie,1917,TIE,false,expert
+KimMunLaos-332_tovomit-1,332_tovomit,u³³,u³³,u ³³,348,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to vomit,1278,VOMIT,false,expert
+KimMunLaos-336_towait-1,336_towait,ȶu³³,ȶu³³,ȶ u ³³,372,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to wait,1590,WAIT (FOR),false,expert
+KimMunLaocai-336_towait-1,336_towait,ȶu⁴⁴,ȶu⁴⁴,ȶ u ⁴⁴,861,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to wait,1590,WAIT (FOR),false,expert
+KimMunLaos-335_towalk-1,335_towalk,ja:ŋ³¹,ja:ŋ³¹,j aː ŋ ³¹,388,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to walk,1443,WALK,false,expert
+KimMunLaocai-335_towalk-1,335_towalk,jaŋ³³θaw³⁵,jaŋ³³θaw³⁵,j a ŋ ³³ + θ a w ³⁵,860,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to walk,1443,WALK,false,expert
+KimMunLaocai-333_towash-1,333_towash,daw³⁵,daw³⁵,d a w ³⁵,858,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to wash,1453,WASH,false,expert
+KimMunLaos-122_towashrice-1,122_towashrice,daw³³naŋ³⁵,daw³³naŋ³⁵,d a w ³³ + n a ŋ ³⁵,131,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to wash rice,,,false,expert
+KimMunLaos-291_toweavecloth-1,291_toweavecloth,puj³³kan³⁵,puj³³kan³⁵,p u j ³³ + k a n ³⁵,307,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to weave ( cloth ),133,WEAVE,false,expert
+KimMunLaos-324_toweep-1,324_toweep,ha:w³¹,ha:w³¹,h aː w ³¹,340,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to weep,1839,CRY,false,expert
+KimMunLaos-323_towink-1,323_towink,ȡip²¹məj²¹,ȡip²¹məj²¹,ȡ i p ²¹ + m ə j ²¹,339,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to wink,1655,BLINK,false,expert
+KimMunLaos-383_towipe-1,383_towipe,θɔt³⁵,θɔt³⁵,θ ɔ t ³⁵,402,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to wipe,1454,WIPE,false,expert
+KimMunLaos-160_towither-1,160_towither,gju³¹,gju³¹,g j u ³¹,169,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to wither,,,false,expert
+KimMunLaos-396_towork-1,396_towork,aj³³guŋ³³po⁵³,aj³³guŋ³³po⁵³,a j ³³ + g u ŋ ³³ + p o ⁵³,416,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to work,1086,WORK (ACTIVITY),false,expert
+KimMunLaocai-334_towrite-1,334_towrite,kja⁴⁴,kja⁴⁴,k j a ⁴⁴,859,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,to write,1672,WRITE,false,expert
+KimMunLaos-336_toyawn-1,336_toyawn,kaw³¹ŋɔp⁵³,kaw³¹ŋɔp⁵³,k a w ³¹ + ŋ ɔ p ⁵³,352,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,to yawn,1028,YAWN,false,expert
+KimMunLaocai-173_tobacco-1,173_tobacco,jin³¹ȶaj³⁴¹,jin³¹ȶaj³⁴¹,j i n ³¹ + ȶ a j ³⁴¹,698,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tobacco,974,TOBACCO,false,expert
+KimMunLaocai-104_toe-1,104_toe,θaw³⁵dɔ³¹,θaw³⁵dɔ³¹,θ a w ³⁵ + d ɔ ³¹,629,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,toe,1389,TOE,false,expert
+KimMunLaos-103_tomato-1,103_tomato,pjaw³³pjo³³,pjaw³³pjo³³,p j a w ³³ + p j o ³³,111,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tomato,986,TOMATO,false,expert
+KimMunLaos-31_tomorrow-1,31_tomorrow,saŋ³¹dom⁵³,saŋ³¹dom⁵³,s a ŋ ³¹ + d o m ⁵³,33,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tomorrow,1329,TOMORROW,false,expert
+KimMunLaos-105_tongue-1,105_tongue,bjɛt³¹,bjɛt³¹,b j ɛ t ³¹,231,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tongue,1205,TONGUE,false,expert
+KimMunLaocai-105_tongue-1,105_tongue,bjɐt³³,bjɐt³³,b j ɐ t ³³,630,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tongue,1205,TONGUE,false,expert
+KimMunLaos-307_tools-1,307_tools,ȶə.ðaj³³,ȶə.ðaj³³,ȶ ə ⁰ + ð a j ³³,323,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tools,1361,TOOL,false,expert
+KimMunLaos-221_tooth-1,221_tooth,ȵa:³¹,ȵa:³¹,ȵ aː ³¹,234,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tooth,1380,TOOTH,false,expert
+KimMunLaos-174_tree-1,174_tree,gjaŋ¹³,gjaŋ¹³,g j a ŋ ¹³,75,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tree,906,TREE,false,expert
+KimMunLaocai-174_tree-1,174_tree,gja:ŋ³⁵,gja:ŋ³⁵,g j aː ŋ ³⁵,699,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tree,906,TREE,false,expert
+KimMunLaos-70_treebark-1,70_treebark,gjaŋ¹³dup²¹,gjaŋ¹³dup²¹,g j a ŋ ¹³ + d u p ²¹,77,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tree bark,1204,BARK,false,expert
+KimMunLaos-155_treeshade-1,155_treeshade,gjaŋ¹³glom¹³,gjaŋ¹³glom¹³,g j a ŋ ¹³ + g l o m ¹³,164,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,tree shade,,,false,expert
+KimMunLaocai-175_treetrunk-1,175_treetrunk,gjaŋ³⁵θin⁵²,gjaŋ³⁵θin⁵²,g j a ŋ ³⁵ + θ i n ⁵²,700,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tree trunk,344,TREE TRUNK,false,expert
+KimMunLaos-236_trousers-1,236_trousers,kwa:³⁵,kwa:³⁵,kʷ aː ³⁵,309,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,trousers,809,TROUSERS,false,expert
+KimMunLaocai-236_trousers-1,236_trousers,kwɑ⁵²,kwɑ⁵²,kʷ ɑ ⁵²,761,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,trousers,809,TROUSERS,false,expert
+KimMunLaos-50_turtle-1,50_turtle,tu²¹,tu²¹,t u ²¹,202,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,turtle,112,TURTLE,false,expert
+KimMunLaocai-50_turtle-1,50_turtle,pit³¹,pit³¹,p i t ³¹,575,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,turtle,112,TURTLE,false,expert
+KimMunLaocai-106_tusk-1,106_tusk,ȵa:¹¹,ȵa:¹¹,ȵ aː ¹¹,631,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,tusk,3280,TUSK,false,expert
+KimMunLaos-108_urine-1,108_urine,wa³⁴¹,wa³⁴¹,w a ³⁴¹,267,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,urine,1142,URINE,false,expert
+KimMunLaocai-108_urine-1,108_urine,wa³⁴¹,wa³⁴¹,w a ³⁴¹,633,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,urine,1142,URINE,false,expert
+KimMunLaos-57_valley-1,57_valley,sun³⁵ȶa:w⁵³,sun³⁵ȶa:w⁵³,s u n ³⁵ + ȶ aː w ⁵³,64,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,valley,921,VALLEY,false,expert
+KimMunLaocai-176_vegetable-1,176_vegetable,gjɐj²¹⁴,gjɐj²¹⁴,g j ɐ j ²¹⁴,701,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,vegetable,924,VEGETABLES,false,expert
+KimMunLaos-282_village-1,282_village,gjaŋ³⁴¹,gjaŋ³⁴¹,g j a ŋ ³⁴¹,295,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,village,930,VILLAGE,false,expert
+KimMunLaocai-282_village-1,282_village,gjɐŋ³⁴¹,gjɐŋ³⁴¹,g j ɐ ŋ ³⁴¹,807,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,village,930,VILLAGE,false,expert
+KimMunLaocai-109_waist-1,109_waist,kla:j⁴⁴,kla:j⁴⁴,k l aː j ⁴⁴,634,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,waist,1681,WAIST,false,expert
+KimMunLaos-286_wallofhouse-1,286_wallofhouse,pjaw³³gɔŋ³⁴¹,pjaw³³gɔŋ³⁴¹,p j a w ³³ + g ɔ ŋ ³⁴¹,302,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wall of house,933,WALL (OF HOUSE),false,expert
+KimMunLaos-494_warm-1,494_warm,kjom⁵³bɔŋ³¹,kjom⁵³bɔŋ³¹,k j o m ⁵³ + b ɔ ŋ ³¹,516,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,warm,1232,WARM,false,expert
+KimMunLaocai-51_wasp-1,51_wasp,mɐj³⁴¹,mɐj³⁴¹,m ɐ j ³⁴¹,576,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wasp,1517,WASP,false,expert
+KimMunLaos-138_water-1,138_water,wɔm⁵³,wɔm⁵³,w ɔ m ⁵³,44,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,water,948,WATER,false,expert
+KimMunLaocai-138_water-1,138_water,wɐm²¹⁴,wɐm²¹⁴,w ɐ m ²¹⁴,663,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,water,948,WATER,false,expert
+KimMunLaos-64_waterfall-1,64_waterfall,wɔm⁵³tuj³¹ȶa:m³¹,wɔm⁵³tuj³¹ȶa:m³¹,w ɔ m ⁵³ + t u j ³¹ + ȶ aː m ³¹,71,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,waterfall,943,WATERFALL,false,expert
+KimMunLaos-90_watermelon-1,90_watermelon,kwa⁵³θa:j⁵³,kwa⁵³θa:j⁵³,kʷ a ⁵³ + θ aː j ⁵³,98,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,watermelon,2766,WATERMELON,false,expert
+KimMunLaocai-412_we-1,412_we,pan¹¹,pan¹¹,p a n ¹¹,937,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,we,1212,WE,false,expert
+KimMunLaos-258_we1p-1,258_we1p,pan³¹ti³¹doj³¹,pan³¹ti³¹doj³¹,p a n ³¹ + t i ³¹ + d o j ³¹,272,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,we (1p),1212,WE,false,expert
+KimMunLaocai-52_weasel-1,52_weasel,kin¹¹ma:w¹¹,kin¹¹ma:w¹¹,k i n ¹¹ + m aː w ¹¹,577,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,weasel,3384,WEASEL,false,expert
+KimMunLaos-22_weather-1,22_weather,si³⁵,si³⁵,s i ³⁵,24,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,weather,952,WEATHER,false,expert
+KimMunLaocai-283_wellwater-1,283_wellwater,twɐm¹¹kɔt³⁵,twɐm¹¹kɔt³⁵,t w ɐ m ¹¹ + k ɔ t ³⁵,808,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,well (water),954,WELL,false,expert
+KimMunLaos-34_west-1,34_west,fe⁵³fa:n¹³,fe⁵³fa:n¹³,f e ⁵³ + f aː n ¹³,37,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,west,1817,WEST,false,expert
+KimMunLaos-34_west-2,34_west,mə.nɔj³⁴¹mot²¹ȶəj³¹fa:n¹³,mə.nɔj³⁴¹mot²¹ȶəj³¹fa:n¹³,m ə ⁰ + n ɔ j ³⁴¹ + m o t ²¹ + ȶ ə j ³¹ + f aː n ¹³,38,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,west,1817,WEST,false,expert
+KimMunLaocai-286_wet-1,286_wet,dɔn²¹⁴,dɔn²¹⁴,d ɔ n ²¹⁴,811,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wet,1726,WET,false,expert
+KimMunLaocai-279_wetfield-1,279_wetfield,giŋ¹¹,giŋ¹¹,g i ŋ ¹¹,804,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wet field,,,false,expert
+KimMunLaos-502_what-1,502_what,ȵin³⁴¹to³⁵,ȵin³⁴¹to³⁵,ȵ i n ³⁴¹ + t o ³⁵,524,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,what,1236,WHAT,false,expert
+KimMunLaos-499_when-1,499_when,toj³¹nɔj³⁵,toj³¹nɔj³⁵,t o j ³¹ + n ɔ j ³⁵,521,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,when,1238,WHEN,false,expert
+KimMunLaos-500_where-1,500_where,jam⁵³ti¹³,jam⁵³ti¹³,j a m ⁵³ + t i ¹³,522,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,where,1237,WHERE,false,expert
+KimMunLaos-318_whistle-1,318_whistle,nɔ³³dɔŋ³¹,nɔ³³dɔŋ³¹,n ɔ ³³ + d ɔ ŋ ³¹,334,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,whistle,3107,WHISTLE (INSTRUMENT),false,expert
+KimMunLaos-285_white-1,285_white,pɛ²¹,pɛ²¹,p ɛ ²¹,479,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,white,1335,WHITE,false,expert
+KimMunLaocai-285_white-1,285_white,pɛ³³,pɛ³³,p ɛ ³³,810,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,white,1335,WHITE,false,expert
+KimMunLaos-113_whitesugar-1,113_whitesugar,toŋ³¹van³³pɛ²¹,toŋ³¹van³³pɛ²¹,t o ŋ ³¹ + v a n ³³ + p ɛ ²¹,122,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,white sugar,3441,WHITE SUGAR,false,expert
+KimMunLaos-501_who-1,501_who,man³⁵,man³⁵,m a n ³⁵,523,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,who,1235,WHO,false,expert
+KimMunLaocai-284_wide-1,284_wide,kwaŋ⁴⁴,kwaŋ⁴⁴,kʷ a ŋ ⁴⁴,809,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wide,1243,WIDE,false,expert
+KimMunLaos-218_widow-1,218_widow,mun³¹ȡi³⁴¹kwa:³³,mun³¹ȡi³⁴¹kwa:³³,m u n ³¹ + ȡ i ³⁴¹ + kʷ aː ³³,283,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,widow,1756,WIDOW,false,expert
+KimMunLaocai-218_widow-1,218_widow,gjɐm³³fɑ⁴⁴ɑw⁴⁴,gjɐm³³fɑ⁴⁴ɑw⁴⁴,g j ɐ m ³³ + f ɑ ⁴⁴ + ɑ w ⁴⁴,743,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,widow,1756,WIDOW,false,expert
+KimMunLaos-219_wife-1,219_wife,aw³³,aw³³,a w ³³,282,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wife,1199,WIFE,false,expert
+KimMunLaocai-219_wife-1,219_wife,ɑw⁴⁴,ɑw⁴⁴,ɑ w ⁴⁴,744,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wife,1199,WIFE,false,expert
+KimMunLaos-139_wind-1,139_wind,ȡa:w¹³,ȡa:w¹³,ȡ aː w ¹³,19,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wind,960,WIND,false,expert
+KimMunLaocai-139_wind-1,139_wind,ȡa:w³⁵,ȡa:w³⁵,ȡ aː w ³⁵,664,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wind,960,WIND,false,expert
+KimMunLaos-284_window-1,284_window,kjɛŋ³¹kjan⁵³,kjɛŋ³¹kjan⁵³,k j ɛ ŋ ³¹ + k j a n ⁵³,300,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,window,1375,WINDOW,false,expert
+KimMunLaos-118_wine-1,118_wine,blaw³¹ȶe⁵³tiw³³,blaw³¹ȶe⁵³tiw³³,b l a w ³¹ + ȶ e ⁵³ + t i w ³³,127,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wine,1524,WINE,false,expert
+KimMunLaocai-177_winealcohol-1,177_winealcohol,tiw⁴⁴,tiw⁴⁴,t i w ⁴⁴,702,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,wine/alcohol,404,ALCOHOL (FERMENTED DRINK),false,expert
+KimMunLaos-182_wing-1,182_wing,da:t⁵³,da:t⁵³,d aː t ⁵³,192,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wing,1257,WING,false,expert
+KimMunLaos-220_woman-1,220_woman,mun³¹ȡi³⁴¹,mun³¹ȡi³⁴¹,m u n ³¹ + ȡ i ³⁴¹,277,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,woman,962,WOMAN,false,expert
+KimMunLaocai-220_woman-1,220_woman,mun¹¹ȡi³⁴¹,mun¹¹ȡi³⁴¹,m u n ¹¹ + ȡ i ³⁴¹,745,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,woman,962,WOMAN,false,expert
+KimMunLaos-127_wood-1,127_wood,θa:ŋ³¹,θa:ŋ³¹,θ aː ŋ ³¹,136,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,wood,1803,WOOD,false,expert
+KimMunLaocai-197_ybrother-1,197_ybrother,jo³⁴¹,jo³⁴¹,j o ³⁴¹,722,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,y. brother,1760,YOUNGER BROTHER,false,expert
+KimMunLaocai-216_ysister-1,216_ysister,mu³³,mu³³,m u ³³,741,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,y. sister,1761,YOUNGER SISTER,false,expert
+KimMunLaos-192_year-1,192_year,ȵaŋ³⁵,ȵaŋ³⁵,ȵ a ŋ ³⁵,34,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,year,1226,YEAR,false,expert
+KimMunLaocai-192_year-1,192_year,ȵaŋ⁵²,ȵaŋ⁵²,ȵ a ŋ ⁵²,717,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,year,1226,YEAR,false,expert
+KimMunLaos-332_yellow-1,332_yellow,wa:ŋ³¹,wa:ŋ³¹,w aː ŋ ³¹,482,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,yellow,1424,YELLOW,false,expert
+KimMunLaocai-332_yellow-1,332_yellow,waŋ¹¹,waŋ¹¹,w a ŋ ¹¹,857,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,yellow,1424,YELLOW,false,expert
+KimMunLaos-30_yesterday-1,30_yesterday,kum³¹nɔj³⁵,kum³¹nɔj³⁵,k u m ³¹ + n ɔ j ³⁵,32,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,yesterday,1174,YESTERDAY,false,expert
+KimMunLaos-259_you2p-1,259_you2p,ȵo³¹,ȵo³¹,ȵ o ³¹,273,,,KimMunLaos,"Luang Nam Tha, Laos",kimm1245,Kim Mun,mji,Hmong-Mien,,you (2p),1213,YOU,false,expert
+KimMunLaocai-417_youpl-1,417_youpl,ȵo¹¹,ȵo¹¹,ȵ o ¹¹,942,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,you (pl),1213,YOU,false,expert
+KimMunLaocai-411_yousg-1,411_yousg,mɐj¹¹,mɐj¹¹,m ɐ j ¹¹,936,,,KimMunLaocai,"Lao Cai, Vietnam",kimm1245,Kim Mun,mji,Hmong-Mien,,you (sg),1215,THOU,false,expert

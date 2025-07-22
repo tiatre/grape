@@ -1,0 +1,712 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+Achagua-1_i-1,1_i,nujá,nuja,n u j a,1,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,I,1209,I,false,expert
+Baniwa-1_i-1,1_i,nhóa,nhóa,ɲ ó/o a,1,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,I,1209,I,false,expert
+Kabiyari-1_i-1,1_i,nhú,nhú,ɲ ú/u,1,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,I,1209,I,false,expert
+Kabiyari-1_i-2,1_i,nu-,nu-,n u,1,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,I,1209,I,false,expert
+Piapoco-1_i-1,1_i,núa,núa,n ú/u a,1,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,I,1209,I,false,expert
+Resigaro-1_i-1,1_i,ó,ó,ó/o,6,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,I,1209,I,false,expert
+Tariana-1_i-1,1_i,nuha,nuha,n u h a,1,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,I,1209,I,false,expert
+Yukuna-1_i-1,1_i,nuká,nuká,n u k á/a,1,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,I,1209,I,false,expert
+Achagua-2_all-1,2_all,kinínama,kininama,k i n i n a m a,9,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,all,98,ALL,false,expert
+Baniwa-2_all-1,2_all,phálhai,phálhai,pʰ á/a ʎ a i,11,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,all,98,ALL,false,expert
+Kabiyari-2_all-1,2_all,put'i,put'i,p u t ʔ i,17,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,all,98,ALL,false,expert
+Piapoco-2_all-1,2_all,canánama,kanánama,k a n á/a n a m a,9,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,all,98,ALL,false,expert
+Piapoco-2_all-2,2_all,macáita,makáita,m a k á/a i t a,18,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,all,98,ALL,false,expert
+Resigaro-2_all-1,2_all,phé?tó?,phé?tó?,pʰ é/e ʔ t ó/o ʔ,17,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,all,98,ALL,false,expert
+Yukuna-2_all-1,2_all,piyukeja,pijukeha,p i j u k e h a,17,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,all,98,ALL,false,expert
+Achagua-3_ash-1,3_ash,báali,ba:li,b a: l i,27,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,ash,646,ASH,false,expert
+Baniwa-3_ash-1,3_ash,-wádzole,-wádzole,w á/a dz o l e,26,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,ash,646,ASH,false,expert
+Kabiyari-3_ash-1,3_ash,pa'ari,pa'ari,p a ʔ a r i,27,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,ash,646,ASH,false,expert
+Piapoco-3_ash-1,3_ash,balìi,balìi,b a l ì/i i,27,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,ash,646,ASH,false,expert
+Piapoco-3_ash-2,3_ash,ibalìiná,ibalìiná,i b a l ì/i i n á/a,27,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,ash,646,ASH,false,expert
+Resigaro-3_ash-1,3_ash,ókóniigiJíhú,ókóniigiJíhú,ó/o k ó/o n ii g i ʒ í/i h ú/u,25,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,ash,646,ASH,false,expert
+Yukuna-3_ash-1,3_ash,pai'ilá,paiʔilá,p a i ʔ i l á/a,27,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,ash,646,ASH,false,expert
+Achagua-4_bark-1,4_bark,íimanaʃi,i:manaʃi,i: m a n a ʃ i,37,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,bark,1204,BARK,false,expert
+Baniwa-4_bark-1,4_bark,-ya,-ya,y a,30,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,bark,1204,BARK,false,expert
+Resigaro-4_bark-1,4_bark,da?mí,daʔmí,d a ʔ m í/i,37,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,bark,1204,BARK,false,expert
+Yukuna-4_bark-1,4_bark,ímaji,ímahi,í/i m a h i,37,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,bark,1204,BARK,false,expert
+Achagua-5_belly-1,5_belly,jawaiʃi,jawaiʃi,j a w a i ʃ i,39,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,belly,1251,BELLY,false,expert
+Baniwa-5_belly-1,5_belly,-xáda,-xáda,ʃ á/a d a,48,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,belly,1251,BELLY,false,expert
+Kabiyari-5_belly-1,5_belly,te[re],te[re],t e r e,46,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,belly,1251,BELLY,false,expert
+Piapoco-5_belly-1,5_belly,dèe,dèe,d è/e e,46,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,belly,1251,BELLY,false,expert
+Resigaro-5_belly-1,5_belly,-ii?šáú,-ii?šáú,ii ʔ ʃ á/a ú/u,48,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,belly,1251,BELLY,false,expert
+Yukuna-5_belly-1,5_belly,julaji,hulahi,h u l a h i,47,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,belly,1251,BELLY,false,expert
+Achagua-6_big-1,6_big,máanuii,maanuii,m aa n u ii,58,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,big,1202,BIG,false,expert
+Baniwa-6_big-1,6_big,maka-,maka-,m a k a,50,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,big,1202,BIG,false,expert
+Kabiyari-6_big-1,6_big,manuʔú,manuʔú,m a n u ʔ ú/u,58,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,big,1202,BIG,false,expert
+Piapoco-6_big-1,6_big,manuíri,manuíɾi,m a n u í/i ɾ i,58,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,big,1202,BIG,false,expert
+Resigaro-6_big-1,6_big,ǰiǰá?aamí,ǰiǰá?aamí,dʒ i dʒ á/a ʔ aa m í/i,54,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,big,1202,BIG,false,expert
+Yukuna-6_big-1,6_big,ñópo'ojlo,ɲópoʔohlo,ɲ ó/o p o ʔ o h l o,57,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,big,1202,BIG,false,expert
+Achagua-7_bird-1,7_bird,míʃidu,míʃidu,m í/i ʃ i d u,66,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,bird,937,BIRD,false,expert
+Baniwa-7_bird-1,7_bird,képira,képira,k é/e p i r a,67,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,bird,937,BIRD,false,expert
+Kabiyari-7_bird-1,7_bird,ʔupira,ʔupira,ʔ u p i r a,67,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,bird,937,BIRD,false,expert
+Kabiyari-7_bird-2,7_bird,ku(' )pira,ku(' )pira,k u ʔ p i r a,67,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,bird,937,BIRD,false,expert
+Piapoco-7_bird-1,7_bird,màsibèe,màsibèe,m à/a s i b è/e e,66,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bird,937,BIRD,false,expert
+Piapoco-7_bird-2,7_bird,kuìpìra,kuìpìra,k u ì/i p ì/i r a,67,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bird,937,BIRD,false,expert
+Resigaro-7_bird-1,7_bird,kóʔpíidú,kóʔpíidú,k ó/o ʔ p í/i i d ú/u,67,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,bird,937,BIRD,false,expert
+Resigaro-7_bird-2,7_bird,adovíigí,adovíigí,a d o v í/i i g í/i,70,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,bird,937,BIRD,false,expert
+Yukuna-7_bird-1,7_bird,kupira'aphá,kupiraʔapʰá,k u p i r a ʔ a pʰ á/a,67,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,bird,937,BIRD,false,expert
+Achagua-8_bite-1,8_bite,-ámua,-ámua,á/a m u a,79,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,bite,1403,BITE,false,expert
+Baniwa-8_bite-1,8_bite,-mhoa,-mhoa,mʰ o a,79,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,bite,1403,BITE,false,expert
+Kabiyari-8_bite-1,8_bite,amhe,amhe,a mʰ e,79,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,bite,1403,BITE,false,expert
+Piapoco-8_bite-1,8_bite,ichicúadaca,itʃikúadaka,i tʃ i k ú/u a d a k a,75,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bite,1403,BITE,false,expert
+Piapoco-8_bite-2,8_bite,imasáaca,imasáaka,i m a s á/a a k a,79,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bite,1403,BITE,false,expert
+Piapoco-8_bite-3,8_bite,nuamíadaca,nuamíadaka,n u a m í/i a d a k a,79,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bite,1403,BITE,false,expert
+Piapoco-8_bite-4,8_bite,yaamíaca,jaamíaka,j aa m í/i a k a,79,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bite,1403,BITE,false,expert
+Piapoco-8_bite-5,8_bite,yúucaca,júukaka,j ú/u u k a k a,83,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bite,1403,BITE,false,expert
+Resigaro-8_bite-1,8_bite,-emú,-emú,e m ú/u,79,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,bite,1403,BITE,false,expert
+Yukuna-8_bite-1,8_bite,ajma'akaje,ahmaʔakahe,a h m a ʔ a k a h e,79,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,bite,1403,BITE,false,expert
+Achagua-9_black-1,9_black,katʃáhulailau,katʃahulailau,k a tʃ a h u l a i l a u,89,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,black,163,BLACK,false,expert
+Baniwa-9_black-1,9_black,íitta,íitta,í/i i tt a,86,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,black,163,BLACK,false,expert
+Kabiyari-9_black-1,9_black,kewere-ri,kewere-ri,k e w e r e r i,88,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,black,163,BLACK,false,expert
+Piapoco-9_black-1,9_black,cúulíiri,kú:lí:ɾi,k ú:/uː l í:/iː ɾ i,88,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,black,163,BLACK,false,expert
+Resigaro-9_black-1,9_black,tsaphó?,tsaphó?,ts a pʰ ó/o ʔ,89,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,black,163,BLACK,false,expert
+Yukuna-9_black-1,9_black,kameni,kameni,k a m e n i,91,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,black,163,BLACK,false,expert
+Achagua-10_blood-1,10_blood,íirai,iirai,ii r a i,97,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,blood,946,BLOOD,false,expert
+Baniwa-10_blood-1,10_blood,-iiranaa,-iiranaa,ii r a n aa,97,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,blood,946,BLOOD,false,expert
+Kabiyari-10_blood-1,10_blood,íʔira,íʔira,í/i ʔ i r a,97,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,blood,946,BLOOD,false,expert
+Piapoco-10_blood-1,10_blood,irái,iɾái,i ɾ á/a i,97,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,blood,946,BLOOD,false,expert
+Resigaro-10_blood-1,10_blood,-iidú,-iidú,ii d ú/u,97,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,blood,946,BLOOD,false,expert
+Yukuna-10_blood-1,10_blood,íraji,íɾahi,í/i ɾ a h i,97,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,blood,946,BLOOD,false,expert
+Yukuna-10_blood-2,10_blood,jirá,hiɾá,h i ɾ á/a,97,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,blood,946,BLOOD,false,expert
+Achagua-11_bone-1,11_bone,jáhiʃi,jahiʃi,j a h i ʃ i,108,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,bone,1394,BONE,false,expert
+Baniwa-11_bone-1,11_bone,-áapi,-áapi,á/a a p i,108,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,bone,1394,BONE,false,expert
+Kabiyari-11_bone-1,11_bone,japi,japi,j a p i,108,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,bone,1394,BONE,false,expert
+Piapoco-11_bone-1,11_bone,api,api,a p i,108,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,bone,1394,BONE,false,expert
+Resigaro-11_bone-1,11_bone,aápí,aápí,a á/a p í/i,108,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,bone,1394,BONE,false,expert
+Yukuna-11_bone-1,11_bone,aphinámiji,apʰinámihi,a pʰ i n á/a m i h i,108,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,bone,1394,BONE,false,expert
+Baniwa-12_breast1-1,12_breast1,-íini,-íini,í/i i n i,117,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,breast_1,1402,BREAST,false,expert
+Piapoco-12_breast1-1,12_breast1,ìni,ìni,ì/i n i,117,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,breast_1,1402,BREAST,false,expert
+Achagua-13_breast2-1,13_breast2,kútaʃi,kutaʃi,k u t a ʃ i,120,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,breast_2,1402,BREAST,false,expert
+Kabiyari-13_breast2-1,13_breast2,ji,ji,j i,117,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,breast_2,1402,BREAST,false,expert
+Kabiyari-13_breast2-2,13_breast2,ukhu(ta),ukhu(ta),u kʰ u t a,120,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,breast_2,1402,BREAST,false,expert
+Piapoco-13_breast2-1,13_breast2,ucuta,ukuta,u k u t a,120,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,breast_2,1402,BREAST,false,expert
+Resigaro-13_breast2-1,13_breast2,ó?kótáapígú,óʔkótáapígú,ó/o ʔ k ó/o t á/a a p í/i g ú/u,120,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,breast_2,1402,BREAST,false,expert
+Yukuna-13_breast2-1,13_breast2,chu'uchú,tʃuʔutʃú,tʃ u ʔ u tʃ ú/u,3,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,breast_2,1402,BREAST,false,expert
+Baniwa-14_burn1-1,14_burn1,-haaka,-haaka,h aa k a,129,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,burn_1,2102,BURN,false,expert
+Yukuna-14_burn1-1,14_burn1,kára'akaje,káraʔakahe,k á/a r a ʔ a k a h e,129,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,burn_1,2102,BURN,false,expert
+Achagua-15_burn2-1,15_burn2,éemairi,e:mairi,e: m a i r i,130,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,burn_2,2102,BURN,false,expert
+Baniwa-15_burn2-1,15_burn2,-ma,-ma,m a,130,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,burn_2,2102,BURN,false,expert
+Kabiyari-15_burn2-1,15_burn2,kahema,kahema,k a h e m a,130,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,burn_2,2102,BURN,false,expert
+Kabiyari-15_burn2-2,15_burn2,heema,heema,h ee m a,130,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,burn_2,2102,BURN,false,expert
+Piapoco-15_burn2-1,15_burn2,emáca,emáka,e m á/a k a,130,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,burn_2,2102,BURN,false,expert
+Resigaro-15_burn2-1,15_burn2,hoo-khú,hoo-kʰú,h oo kʰ ú/u,129,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,burn_2,2102,BURN,false,expert
+Warekena-15_burn2-1,15_burn2,méniketa,méniketa,m é/e n i k e t a,130,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,burn_2,2102,BURN,false,expert
+Achagua-16_claw-1,16_claw,júbawiaʃi,jubawiaʃi,j u b a w i a ʃ i,138,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,claw,72,CLAW,false,expert
+Baniwa-16_claw-1,16_claw,-tsóta,-tsóta,ts ó/o t a,140,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,claw,72,CLAW,false,expert
+Kabiyari-16_claw-1,16_claw,u'upa,uʔupa,u ʔ u p a,138,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,claw,72,CLAW,false,expert
+Piapoco-16_claw-1,16_claw,yúuba,yúuba,y ú/u u b a,138,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,claw,72,CLAW,false,expert
+Piapoco-16_claw-2,16_claw,uba,uba,u b a,138,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,claw,72,CLAW,false,expert
+Resigaro-16_claw-1,16_claw,hi?táví,hiʔtáví,h i ʔ t á/a v í/i,140,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,claw,72,CLAW,false,expert
+Yukuna-16_claw-1,16_claw,u'upa,uʔupa,u ʔ u p a,138,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,claw,72,CLAW,false,expert
+Achagua-17_cloud-1,17_cloud,sáanai,saanai,s aa n a i,143,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,cloud,1489,CLOUD,false,expert
+Baniwa-17_cloud-1,17_cloud,eenótona,eenótona,ee n ó/o t o n a,144,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,cloud,1489,CLOUD,false,expert
+Baniwa-17_cloud-2,17_cloud,idzadawäka,idzadawäka,i dz a d a w a k a,152,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,cloud,1489,CLOUD,false,expert
+Piapoco-17_cloud-1,17_cloud,acalèe,akalèe,a k a l è/e e,150,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,cloud,1489,CLOUD,false,expert
+Resigaro-17_cloud-1,17_cloud,iítshú,iítshú,i í/i tsʰ ú/u,152,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,cloud,1489,CLOUD,false,expert
+Yukuna-17_cloud-1,17_cloud,[juni] juwáka'ala,[huni] huwákaʔala,h u n i + h u w á/a k a ʔ a l a,150,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,cloud,1489,CLOUD,false,expert
+Achagua-18_cold-1,18_cold,kasáIinii,kasalini:,k a s a l i n i:,153,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,cold,1287,COLD,false,expert
+Baniwa-18_cold-1,18_cold,hápe,hápe,h á/a p e,165,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,cold,1287,COLD,false,expert
+Kabiyari-18_cold-1,18_cold,peʔe,peʔe,p e ʔ e,165,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,cold,1287,COLD,false,expert
+Piapoco-18_cold-1,18_cold,casalíníiri,kasalíní:ɾi,k a s a l í/i n í:/iː ɾ i,153,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,cold,1287,COLD,false,expert
+Resigaro-18_cold-1,18_cold,hi?píí?,hiʔpííʔ,h i ʔ p íí/iː ʔ,165,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,cold,1287,COLD,false,expert
+Resigaro-18_cold-2,18_cold,taa,taa,t aa,5,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,cold,1287,COLD,false,expert
+Yukuna-18_cold-1,18_cold,ipe'ení,ipeʔení,i p e ʔ e n í/i,165,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,cold,1287,COLD,false,expert
+Achagua-19_come-1,19_come,íinueri,i:nueri,i: n u e r i,169,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,come,1446,COME,false,expert
+Baniwa-19_come-1,19_come,-no,-no,n o,169,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,come,1446,COME,false,expert
+Kabiyari-19_come-1,19_come,mira(a)ni,mira(a)ni,m i r a a n i,7,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,come,1446,COME,false,expert
+Kabiyari-19_come-2,19_come,anaa,anaa,a n aa,169,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,come,1446,COME,false,expert
+Piapoco-19_come-1,19_come,nùacawa néese,nùakawa néese,n ù/u a k a w a + n é/e e s e,169,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,come,1446,COME,false,expert
+Resigaro-19_come-1,19_come,tsa?nú,tsaʔnú,ts a ʔ n ú/u,169,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,come,1446,COME,false,expert
+Yukuna-19_come-1,19_come,iphakaje,ipʰakahe,i pʰ a k a h e,173,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,come,1446,COME,false,expert
+Yukuna-19_come-2,19_come,waícha,waítʃa,w a í/i tʃ a,175,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,come,1446,COME,false,expert
+Warekena-19_come-1,19_come,-wína,-wína,w í/i n a,7,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,come,1446,COME,false,expert
+Warekena-19_come-2,19_come,wádi!,wádi!,w á/a d i,175,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,come,1446,COME,false,expert
+Achagua-20_die-1,20_die,máanalii,ma:nali:,m a: n a l i:,177,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,die,1494,DIE,false,expert
+Baniwa-20_die-1,20_die,malíome,malíome,m a l í/i o m e,178,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,die,1494,DIE,false,expert
+Kabiyari-20_die-1,20_die,mikuu,mikuu,m i k uu,180,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,die,1494,DIE,false,expert
+Piapoco-20_die-1,20_die,étácawa,étákawa,é/e t á/a k a w a,185,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,die,1494,DIE,false,expert
+Resigaro-20_die-1,20_die,kainée- ǰú,kainée- ǰú,k a i n é/e e + dʒ ú/u,182,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,die,1494,DIE,false,expert
+Yukuna-20_die-1,20_die,taka'akaje,takaʔakahe,t a k a ʔ a k a h e,185,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,die,1494,DIE,false,expert
+Achagua-21_dog-1,21_dog,auli,auli,a u l i,190,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,dog,2009,DOG,false,expert
+Baniwa-21_dog-1,21_dog,tsiino,tsiino,ts ii n o,187,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,dog,2009,DOG,false,expert
+Kabiyari-21_dog-1,21_dog,t∫aawi,t∫aawi,t ʃ aa w i,189,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,dog,2009,DOG,false,expert
+Piapoco-21_dog-1,21_dog,yàlidu,jàlidu,j à/a l i d u,190,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,dog,2009,DOG,false,expert
+Resigaro-21_dog-1,21_dog,íiní,íiní,í/i i n í/i,187,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,dog,2009,DOG,false,expert
+Tariana-21_dog-1,21_dog,čínu,tʃínu,tʃ í/i n u,187,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,dog,2009,DOG,false,expert
+Yukuna-21_dog-1,21_dog,walú,walú,w a l ú/u,194,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,dog,2009,DOG,false,expert
+Achagua-22_drink-1,22_drink,íireri,i:reri,i: r e r i,196,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,drink,1401,DRINK,false,expert
+Baniwa-22_drink-1,22_drink,-íira,-íira,í/i i r a,196,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,drink,1401,DRINK,false,expert
+Kabiyari-22_drink-1,22_drink,irá,irá,i r á/a,196,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,drink,1401,DRINK,false,expert
+Piapoco-22_drink-1,22_drink,ìraca,ìɾaka,ì/i ɾ a k a,196,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,drink,1401,DRINK,false,expert
+Resigaro-22_drink-1,22_drink,i?dú,i?dú,i ʔ d ú/u,196,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,drink,1401,DRINK,false,expert
+Yukuna-22_drink-1,22_drink,i'irakaje,iʔiɾakahe,i ʔ i ɾ a k a h e,196,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,drink,1401,DRINK,false,expert
+Baniwa-23_dryn-1,23_dryn,-meettáta,-meettáta,m ee tt á/a t a,209,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,dry (N),1786,DRY UP,false,expert
+Kabiyari-23_dryn-1,23_dryn,iwá,iwá,i w á/a,205,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,dry (N),1786,DRY UP,false,expert
+Piapoco-23_dryn-1,23_dryn,chuìri,tʃuìɾi,tʃ u ì/i ɾ i,206,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,dry (N),1786,DRY UP,false,expert
+Resigaro-23_dryn-1,23_dryn,makádú,makádú,m a k á/a d ú/u,210,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,dry (N),1786,DRY UP,false,expert
+Yukuna-23_dryn-1,23_dryn,makára'akaje,makára'akaje,m a k á/a r a ʔ a k a j e,210,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,dry (N),1786,DRY UP,false,expert
+Achagua-24_ear-1,24_ear,wíbaʃi,wibaʃi,w i b a ʃ i,219,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,ear,1247,EAR,false,expert
+Baniwa-24_ear-1,24_ear,-heeni,-heeni,h ee n i,8,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,ear,1247,EAR,false,expert
+Baniwa-24_ear-2,24_ear,-hináko-liko,-hináko-liko,h i n á/a k o l i k o,217,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,ear,1247,EAR,false,expert
+Kabiyari-24_ear-1,24_ear,u'uwi,uʔuwi,u ʔ u w i,219,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,ear,1247,EAR,false,expert
+Piapoco-24_ear-1,24_ear,uwi,uwi,u w i,219,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,ear,1247,EAR,false,expert
+Resigaro-24_ear-1,24_ear,henákó,henákó,h e n á/a k ó/o,217,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,ear,1247,EAR,false,expert
+Yukuna-24_ear-1,24_ear,i'ijwijí,iʔihwihí,i ʔ i h w i h í/i,219,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,ear,1247,EAR,false,expert
+Achagua-25_earth-1,25_earth,káinabi,kainabi,k a i n a b i,228,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Baniwa-25_earth-1,25_earth,híipai,híipai,h í/i i p a i,222,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Kabiyari-25_earth-1,25_earth,ta'ka(a)ri,taʔka(a)ri,t a ʔ k a a r i,228,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Piapoco-25_earth-1,25_earth,cáli,káli,k á/a l i,228,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Resigaro-25_earth-1,25_earth,hihi,hihi,h i h i,226,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Yukuna-25_earth-1,25_earth,te'erí,teʔeɾí,t e ʔ e ɾ í/i,229,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,earth,1228,EARTH (SOIL),false,expert
+Achagua-26_eat-1,26_eat,íijeri,i:jeri,i: j e r i,232,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,eat,1336,EAT,false,expert
+Baniwa-26_eat-1,26_eat,-íiñha,-íiñha,í/i i ɲ a,232,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,eat,1336,EAT,false,expert
+Kabiyari-26_eat-1,26_eat,tʃha,tʃha,tʃʰ a,232,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,eat,1336,EAT,false,expert
+Piapoco-26_eat-1,26_eat,yáaca,já:ka,j á:/aː k a,232,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,eat,1336,EAT,false,expert
+Resigaro-26_eat-1,26_eat,a?mitú,a?mitú,a ʔ m i t ú/u,235,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,eat,1336,EAT,false,expert
+Yukuna-26_eat-1,26_eat,ajñakaje,ahɲakahe,a h ɲ a k a h e,232,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,eat,1336,EAT,false,expert
+Achagua-27_egg-1,27_egg,éewiʃi,eewiʃi,ee w i ʃ i,246,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,egg,744,EGG,false,expert
+Baniwa-27_egg-1,27_egg,-éewhe,-éewhe,é/e e w h e,246,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,egg,744,EGG,false,expert
+Kabiyari-27_egg-1,27_egg,éewhé,éewhé,é/e e w h é/e,246,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,egg,744,EGG,false,expert
+Piapoco-27_egg-1,27_egg,yéewési,jé:wési,j éː/eː w é/e s i,246,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,egg,744,EGG,false,expert
+Resigaro-27_egg-1,27_egg,eévé(ú),eévé(ú),e é/e v é/e ú/u,246,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,egg,744,EGG,false,expert
+Yukuna-27_egg-1,27_egg,ejweji,ehwehi,e h w e h i,246,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,egg,744,EGG,false,expert
+Achagua-28_eye-1,28_eye,túiʃi,tuiʃi,t u i ʃ i,254,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,eye,1248,EYE,false,expert
+Baniwa-28_eye-1,28_eye,-thi,-thi,tʰ i,254,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,eye,1248,EYE,false,expert
+Kabiyari-28_eye-1,28_eye,thu,thu,tʰ u,254,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,eye,1248,EYE,false,expert
+Piapoco-28_eye-1,28_eye,tuí,tuí,t u í/i,254,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,eye,1248,EYE,false,expert
+Resigaro-28_eye-1,28_eye,ijlují,ihluhí,i h l u h í/i,254,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,eye,1248,EYE,false,expert
+Yukuna-28_eye-1,28_eye,ijlují,ihluhí,i h l u h í/i,254,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,eye,1248,EYE,false,expert
+Kabiyari-29_feather-1,29_feather,apána,apána,a p á/a n a,256,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,feather,1201,FEATHER,false,expert
+Piapoco-29_feather-1,29_feather,báica,báika,b á/a i k a,257,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,feather,1201,FEATHER,false,expert
+Resigaro-29_feather-1,29_feather,tsíináhí,tsíináhí,ts í/i i n á/a h í/i,10,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,feather,1201,FEATHER,false,expert
+Tariana-29_feather-1,29_feather,dí-ča,dí-tʃa,d í/i tʃ a,259,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,feather,1201,FEATHER,false,expert
+Tariana-29_feather-2,29_feather,díča-ɾe,dítʃa-ɾe,d í/i tʃ a ɾ e,10,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,feather,1201,FEATHER,false,expert
+Tariana-29_feather-3,29_feather,daɾuphemá-ma,daɾupʰemá-ma,d a ɾ u pʰ e m á/a m a,262,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,feather,1201,FEATHER,false,expert
+Yukuna-29_feather-1,29_feather,chijneji,tʃihnehi,tʃ i h n e h i,10,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,feather,1201,FEATHER,false,expert
+Achagua-30_fire-1,30_fire,tʃitʃái,tʃitʃai,tʃ i tʃ a i,272,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,fire,221,FIRE,false,expert
+Baniwa-30_fire-1,30_fire,ttídzee,ttídzee,tt í/i dz ee,272,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,fire,221,FIRE,false,expert
+Kabiyari-30_fire-1,30_fire,kira'ari,kiraʔari,k i r a ʔ a r i,272,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,fire,221,FIRE,false,expert
+Piapoco-30_fire-1,30_fire,quichái,kitʃái,k i tʃ á/a i,272,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,fire,221,FIRE,false,expert
+Piapoco-30_fire-2,30_fire,síyái,síjái,s í/i j á/a i,272,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,fire,221,FIRE,false,expert
+Resigaro-30_fire-1,30_fire,o?koná?,oʔkonáʔ,o ʔ k o n á/a ʔ,267,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,fire,221,FIRE,false,expert
+Yukuna-30_fire-1,30_fire,jiyá,hijá,h i j á/a,272,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,fire,221,FIRE,false,expert
+Yukuna-30_fire-2,30_fire,kera'atani,keɾaʔatani,k e ɾ a ʔ a t a n i,272,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,fire,221,FIRE,false,expert
+Achagua-31_fishn-1,31_fishn,kubái,kubai,k u b a i,273,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,fish (N),227,FISH,false,expert
+Baniwa-31_fishn-1,31_fishn,kóphe,kóphe,k ó/o pʰ e,273,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,fish (N),227,FISH,false,expert
+Kabiyari-31_fishn-1,31_fishn,kúpha,ʔulle,ʔ u lː e,276,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,fish (N),227,FISH,false,expert
+Piapoco-31_fishn-1,31_fishn,kubái,kubái,k u b á/a i,273,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,fish (N),227,FISH,false,expert
+Resigaro-31_fishn-1,31_fishn,ámoogí,ámoogí,á/a m oo g í/i,278,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,fish (N),227,FISH,false,expert
+Yukuna-31_fishn-1,31_fishn,kúpe,kúpe,k ú/u p e,273,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,fish (N),227,FISH,false,expert
+Achagua-32_flesh-1,32_flesh,íinaʃi,i:naʃi,i: n a ʃ i,281,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,flesh,2259,FLESH,false,expert
+Baniwa-32_flesh-1,32_flesh,-íipe,-íipe,í/i i p e,288,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,flesh,2259,FLESH,false,expert
+Kabiyari-32_flesh-1,32_flesh,?ii,?ii,ʔ ii,288,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,flesh,2259,FLESH,false,expert
+Piapoco-32_flesh-1,32_flesh,iinási,iinási,ii n á/a s i,281,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,flesh,2259,FLESH,false,expert
+Resigaro-32_flesh-1,32_flesh,gí?í,gí?í,g í/i ʔ í/i,288,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,flesh,2259,FLESH,false,expert
+Yukuna-32_flesh-1,32_flesh,i'iji,ri'í,r i ʔ í/i,288,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,flesh,2259,FLESH,false,expert
+Achagua-33_flyv-1,33_flyv,jáareriu,ja:reriu,j a: r e r i u,297,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Baniwa-33_flyv-1,33_flyv,-áara,-áara,á/a a r a,297,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Kabiyari-33_flyv-1,33_flyv,áara,áara,á/a a r a,297,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Piapoco-33_flyv-1,33_flyv,yálacawa,jálakawa,j á/a l a k a w a,297,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Resigaro-33_flyv-1,33_flyv,adú,adú,a d ú/u,297,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Yukuna-33_flyv-1,33_flyv,ajrakaje,ahɾakahe,a h ɾ a k a h e,297,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,fly (V),1441,FLY (MOVE THROUGH AIR),false,expert
+Achagua-34_foot-1,34_foot,íibaʃi,i:baʃi,i: b a ʃ i,306,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,foot,1301,FOOT,false,expert
+Baniwa-34_foot-1,34_foot,-híipa,-híipa,h í/i i p a,306,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,foot,1301,FOOT,false,expert
+Kabiyari-34_foot-1,34_foot,híipa,híipa,h í/i i p a,306,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,foot,1301,FOOT,false,expert
+Piapoco-34_foot-1,34_foot,abàli,abàli,a b à/a l i,306,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,foot,1301,FOOT,false,expert
+Resigaro-34_foot-1,34_foot,hii?pú,hiiʔpú,h ii ʔ p ú/u,306,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,foot,1301,FOOT,false,expert
+Yukuna-34_foot-1,34_foot,ji'imaji,hiʔimahi,h i ʔ i m a h i,306,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,foot,1301,FOOT,false,expert
+Achagua-35_full-1,35_full,káawai,ka:wai,k a: w a i,317,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,full,1429,FULL,false,expert
+Baniwa-35_full-1,35_full,pákhame(i),pákhame(i),p á/a kʰ a m e i,314,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,full,1429,FULL,false,expert
+Kabiyari-35_full-1,35_full,manu',manu',m a n u ʔ,316,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,full,1429,FULL,false,expert
+Kabiyari-35_full-2,35_full,miyana,miyana,m i y a n a,12,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,full,1429,FULL,false,expert
+Resigaro-35_full-1,35_full,potsʰí?mó,potsʰí?mó,p o tsʰ í/i ʔ m ó/o,314,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,full,1429,FULL,false,expert
+Yukuna-35_full-1,35_full,mano'okaje,mano'okaje,m a n o ʔ o k a j e,316,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,full,1429,FULL,false,expert
+Achagua-36_give-1,36_give,jáairi,jaairi,j aa i r i,326,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,give,1447,GIVE,false,expert
+Baniwa-36_give-1,36_give,-áa,-áa,á/a a,326,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,give,1447,GIVE,false,expert
+Kabiyari-36_give-1,36_give,-aa,-aa,aa,326,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,give,1447,GIVE,false,expert
+Resigaro-36_give-1,36_give,-aa?ní,-aa?ní,aa ʔ n í/i,326,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,give,1447,GIVE,false,expert
+Yukuna-36_give-1,36_give,a'akaje,a'akaje,a ʔ a k a j e,326,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,give,1447,GIVE,false,expert
+Warekena-36_give-1,36_give,-huwa,-huwa,h u w a,327,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,give,1447,GIVE,false,expert
+Achagua-37_good-1,37_good,sáika,saika,s a i k a,329,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,good,1035,GOOD,false,expert
+Baniwa-37_good-1,37_good,mátsia,mátsia,m á/a ts i a,330,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,good,1035,GOOD,false,expert
+Kabiyari-37_good-1,37_good,tʃuni-ka,tʃuni-ka,tʃ u n i k a,332,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,good,1035,GOOD,false,expert
+Piapoco-37_good-1,37_good,cayábéeri,kajábé:ɾi,k a j á/a b é:/eː ɾ i,333,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,good,1035,GOOD,false,expert
+Resigaro-37_good-1,37_good,kaŝó?,kaʃóʔ,k a ʃ ó/o ʔ,334,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,good,1035,GOOD,false,expert
+Yukuna-37_good-1,37_good,palani,palani,p a l a n i,337,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,good,1035,GOOD,false,expert
+Achagua-38_grease-1,38_grease,júuwika,juuwika,j uu w i k a,338,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Baniwa-38_grease-1,38_grease,íitti,íitti,í/i i tt i,345,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Kabiyari-38_grease-1,38_grease,íʔit̪i,íʔit̪i,í/i ʔ i t̪ i,345,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Piapoco-38_grease-1,38_grease,iséená,isé:ná,i s é:/eː n á/a,345,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Resigaro-38_grease-1,38_grease,phedee?kátasí,phedee?kátasí,pʰ e d ee ʔ k á/a t a s í/i,343,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Yukuna-38_grease-1,38_grease,jilaji,hilahi,h i l a h i,346,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,grease,323,FAT (ORGANIC SUBSTANCE),false,expert
+Achagua-39_green-1,39_green,uléejii,ule:ji,u l e: j i,349,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,green,1425,GREEN,false,expert
+Baniwa-39_green-1,39_green,hípole,hípole,h í/i p o l e,349,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,green,1425,GREEN,false,expert
+Kabiyari-39_green-1,39_green,puré,puré,p u r é/e,349,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,green,1425,GREEN,false,expert
+Piapoco-39_green-1,39_green,ipùléeri,ipùlé:ɾi,i p ù/u l é:/eː ɾ i,349,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,green,1425,GREEN,false,expert
+Resigaro-39_green-1,39_green,ipogí?,ipogí?,i p o g í/i ʔ,349,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,green,1425,GREEN,false,expert
+Yukuna-39_green-1,39_green,ipureni,ipuɾeni,i p u ɾ e n i,349,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,green,1425,GREEN,false,expert
+Achagua-40_hair-1,40_hair,báinaʃi,bainaʃi,b a i n a ʃ i,353,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,hair,1040,HAIR,false,expert
+Baniwa-40_hair-1,40_hair,-tsíkole,-tsíkole,ts í/i k o l e,359,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,hair,1040,HAIR,false,expert
+Kabiyari-40_hair-1,40_hair,tʃuna,tʃuna,tʃ u n a,359,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,hair,1040,HAIR,false,expert
+Piapoco-40_hair-1,40_hair,ichùna,itʃùna,i tʃ ù/u n a,359,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,hair,1040,HAIR,false,expert
+Resigaro-40_hair-1,40_hair,híve?áǰii?ó,híveʔádʒiiʔó,h í/i v e ʔ á/a dʒ ii ʔ ó/o,358,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,hair,1040,HAIR,false,expert
+Yukuna-40_hair-1,40_hair,wilaji,wilahi,w i l a h i,359,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,hair,1040,HAIR,false,expert
+Achagua-41_hand-1,41_hand,káhiʃi,kahiʃi,k a h i ʃ i,370,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,hand,1277,HAND,false,expert
+Baniwa-41_hand-1,41_hand,-káapi,-káapi,k á/a a p i,370,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,hand,1277,HAND,false,expert
+Kabiyari-41_hand-1,41_hand,kaapi,kaapi,k aa p i,370,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,hand,1277,HAND,false,expert
+Piapoco-41_hand-1,41_hand,cáapi,ká:pi,k á:/aː p i,370,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,hand,1277,HAND,false,expert
+Resigaro-41_hand-1,41_hand,-ké,-ké,k é/e,370,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,hand,1277,HAND,false,expert
+Yukuna-41_hand-1,41_hand,yáte'elaji,játeʔelahi,j á/a t e ʔ e l a h i,373,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,hand,1277,HAND,false,expert
+Achagua-42_head-1,42_head,wítaʃi,witaʃi,w i t a ʃ i,379,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,head,1256,HEAD,false,expert
+Baniwa-42_head-1,42_head,-hiwída,-hiwída,h i w í/i d a,379,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,head,1256,HEAD,false,expert
+Kabiyari-42_head-1,42_head,hiwíta,hiwíta,h i w í/i t a,379,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,head,1256,HEAD,false,expert
+Piapoco-42_head-1,42_head,[nu]iwita,[nu]iwita,n u i w i t a,379,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,head,1256,HEAD,false,expert
+Resigaro-42_head-1,42_head,híveú,híveú,h í/i v e ú/u,379,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,head,1256,HEAD,false,expert
+Yukuna-42_head-1,42_head,wíla'aruji,wílaʔaɾuhi,w í/i l a ʔ a ɾ u h i,379,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,head,1256,HEAD,false,expert
+Achagua-43_hear-1,43_hear,éemeri,e:meri,e: m e r i,390,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,hear,1408,HEAR,false,expert
+Baniwa-43_hear-1,43_hear,-hima,-hima,h i m a,390,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,hear,1408,HEAR,false,expert
+Baniwa-43_hear-2,43_hear,-himeeta,-himeeta,h i m ee t a,390,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,hear,1408,HEAR,false,expert
+Kabiyari-43_hear-1,43_hear,heme,heme,h e m e,390,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,hear,1408,HEAR,false,expert
+Piapoco-43_hear-1,43_hear,émìaca,émìaka,é/e m ì/i a k a,390,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,hear,1408,HEAR,false,expert
+Resigaro-43_hear-1,43_hear,hé?mú,hé?mú,h é/e ʔ m ú/u,390,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,hear,1408,HEAR,false,expert
+Tariana-43_hear-1,43_hear,-híma,-híma,h í/i m a,390,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,hear,1408,HEAR,false,expert
+Yukuna-43_hear-1,43_hear,jema'akaje,hemaʔakahe,h e m a ʔ a k a h e,390,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,hear,1408,HEAR,false,expert
+Achagua-44_heart-1,44_heart,wówaʃi,wowaʃi,w o w a ʃ i,400,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,heart,1223,HEART,false,expert
+Baniwa-44_heart-1,44_heart,-kaale,-kaale,k aa l e,393,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,heart,1223,HEART,false,expert
+Kabiyari-44_heart-1,44_heart,kareta,kareta,k a r e t a,393,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,heart,1223,HEART,false,expert
+Piapoco-44_heart-1,44_heart,nu-wàwa,nu-wàwa,n u w à/a w a,400,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,heart,1223,HEART,false,expert
+Piapoco-44_heart-2,44_heart,íiricu,í:ɾiku,í:/iː ɾ i k u,393,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,heart,1223,HEART,false,expert
+Resigaro-44_heart-1,44_heart,váfoú,váfoú,v á/a f o ú/u,400,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,heart,1223,HEART,false,expert
+Yukuna-44_heart-1,44_heart,wajweji,wahwehi,w a h w e h i,400,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,heart,1223,HEART,false,expert
+Achagua-45_horn-1,45_horn,tʃáalaʃi,tʃa:laʃi,tʃ a: l a ʃ i,406,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,horn,1393,HORN (ANATOMY),false,expert
+Baniwa-45_horn-1,45_horn,-tsówa,-tsówa,ts ó/o w a,404,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,horn,1393,HORN (ANATOMY),false,expert
+Kabiyari-45_horn-1,45_horn,nuire,nuire,n u i r e,408,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,horn,1393,HORN (ANATOMY),false,expert
+Resigaro-45_horn-1,45_horn,-iijβií,-iijβií,ii j β i í/i,408,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,horn,1393,HORN (ANATOMY),false,expert
+Yukuna-45_horn-1,45_horn,i'iwáwiji,ri'iwawi,r i ʔ i w a w i,408,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,horn,1393,HORN (ANATOMY),false,expert
+Achagua-46_hot-1,46_hot,amuái,amuai,a m u a i,416,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,hot,1286,HOT,false,expert
+Baniwa-46_hot-1,46_hot,hámo,hámo,h á/a m o,416,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,hot,1286,HOT,false,expert
+Kabiyari-46_hot-1,46_hot,muʔú,muʔú,m u ʔ ú/u,416,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,hot,1286,HOT,false,expert
+Piapoco-46_hot-1,46_hot,ùuléeri,ùulé:ɾi,ù/u u l é:/eː ɾ i,413,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,hot,1286,HOT,false,expert
+Resigaro-46_hot-1,46_hot,ha?mo?,ha?mo?,h a ʔ m o ʔ,416,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,hot,1286,HOT,false,expert
+Yukuna-46_hot-1,46_hot,ima'aní,ima'aní,i m a ʔ a n í/i,417,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,hot,1286,HOT,false,expert
+Achagua-47_kill-1,47_kill,íinueri,i:nueri,i: n u e r i,426,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,kill,1417,KILL,false,expert
+Baniwa-47_kill-1,47_kill,-íinoa,-íinoa,í/i i n o a,426,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,kill,1417,KILL,false,expert
+Kabiyari-47_kill-1,47_kill,nua,nua,n u a,426,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,kill,1417,KILL,false,expert
+Piapoco-47_kill-1,47_kill,étáidaca,étáidaka,é/e t á/a i d a k a,422,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,kill,1417,KILL,false,expert
+Piapoco-47_kill-2,47_kill,nuáca,nuáka,n u á/a k a,426,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,kill,1417,KILL,false,expert
+Resigaro-47_kill-1,47_kill,kainée-khú,kainée-kʰú,k a i n é/e e kʰ ú/u,423,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,kill,1417,KILL,false,expert
+Resigaro-47_kill-2,47_kill,mótshó,mótsʰó,m ó/o tsʰ ó/o,428,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,kill,1417,KILL,false,expert
+Yukuna-47_kill-1,47_kill,nókaje,nókahe,n ó/o k a h e,426,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,kill,1417,KILL,false,expert
+Achagua-48_knee-1,48_knee,júruiʃi,juruiʃi,j u r u i ʃ i,435,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,knee,1371,KNEE,false,expert
+Baniwa-48_knee-1,48_knee,-hóorhi,-hóorhi,h ó/o o rʰ i,435,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,knee,1371,KNEE,false,expert
+Kabiyari-48_knee-1,48_knee,-urhu(na),-urhu(na),u rʰ u n a,435,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,knee,1371,KNEE,false,expert
+Kabiyari-48_knee-2,48_knee,-huru,-huru,h u r u,435,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,knee,1371,KNEE,false,expert
+Resigaro-48_knee-1,48_knee,-ho?dónaú,-ho?dónaú,h o ʔ d ó/o n a ú/u,435,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,knee,1371,KNEE,false,expert
+Yukuna-48_knee-1,48_knee,i'irúpachiji,ri'irúpachi,r i ʔ i r ú/u p a ʃ i,435,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,knee,1371,KNEE,false,expert
+Achagua-49_know-1,49_know,éeweri,e:weri,e: w e r i,446,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Achagua-49_know-2,49_know,jaléenaa,jale:na:,j a l e: n a:,443,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Baniwa-49_know-1,49_know,-áanhee,-áanhee,á/a a ɲ ee,443,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Kabiyari-49_know-1,49_know,aranhú,aranhú,a r a ɲ ú/u,443,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Piapoco-49_know-1,49_know,alíacawa,alíakawa,a l í/i a k a w a,444,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Resigaro-49_know-1,49_know,-manaá-tó?,-manaá-tó?,m a n a á/a t ó/o ʔ,443,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Yukuna-49_know-1,49_know,we'epíkaje,weʔepíkahe,w e ʔ e p í/i k a h e,446,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,know,1410,KNOW (SOMETHING),false,expert
+Achagua-50_leaf-1,50_leaf,bánabai,banabai,b a n a b a i,453,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,leaf,628,LEAF,false,expert
+Baniwa-50_leaf-1,50_leaf,panaphe,panaphe,p a n a pʰ e,453,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,leaf,628,LEAF,false,expert
+Baniwa-50_leaf-2,50_leaf,-phe,-phe,pʰ e,453,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,leaf,628,LEAF,false,expert
+Kabiyari-50_leaf-1,50_leaf,apana,apana,a p a n a,453,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,leaf,628,LEAF,false,expert
+Piapoco-50_leaf-1,50_leaf,ibáiná,ibáiná,i b á/a i n á/a,453,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,leaf,628,LEAF,false,expert
+Resigaro-50_leaf-1,50_leaf,apáná?aamí,apánáʔaamí,a p á/a n á/a ʔ aa m í/i,453,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,leaf,628,LEAF,false,expert
+Yukuna-50_leaf-1,50_leaf,wíchu'upe,wíchu'upe,w í/i ʃ u ʔ u p e,456,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,leaf,628,LEAF,false,expert
+Warekena-50_leaf-1,50_leaf,-phe,-phe,pʰ e,453,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,leaf,628,LEAF,false,expert
+Warekena-50_leaf-2,50_leaf,apanaphe,apanaphe,a p a n a pʰ e,453,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,leaf,628,LEAF,false,expert
+Achagua-51_lie-1,51_lie,kuániriu,kuaniriu,k u a n i r i u,463,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,lie,215,LIE DOWN,false,expert
+Baniwa-51_lie-1,51_lie,-kua,-kua,k u a,463,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,lie,215,LIE DOWN,false,expert
+Baniwa-51_lie-2,51_lie,-ɻhua,-ɻhua,ɻ h u a,463,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,lie,215,LIE DOWN,false,expert
+Kabiyari-51_lie-1,51_lie,-ku'apu,-ku'apu,k u ʔ a p u,463,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,lie,215,LIE DOWN,false,expert
+Kabiyari-51_lie-2,51_lie,-huapuku,-huapuku,h u a p u k u,463,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,lie,215,LIE DOWN,false,expert
+Resigaro-51_lie-1,51_lie,šoóné-ǰú,šoóné-ǰú,ʃ o ó/o n é/e ʒ ú/u,463,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,lie,215,LIE DOWN,false,expert
+Tariana-51_lie-1,51_lie,swá,swá,s w á/a,463,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,lie,215,LIE DOWN,false,expert
+Yukuna-51_lie-1,51_lie,to'okajo,to'okajo,t o ʔ o k a j o,465,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,lie,215,LIE DOWN,false,expert
+Achagua-52_liver-1,52_liver,tʃáaliʃi,tʃa:liʃi,tʃ a: l i ʃ i,472,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,liver,1224,LIVER,false,expert
+Baniwa-52_liver-1,52_liver,-xópana,-xópana,ʃ ó/o p a n a,475,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,liver,1224,LIVER,false,expert
+Kabiyari-52_liver-1,52_liver,úupana,úupana,ú/u u p a n a,475,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,liver,1224,LIVER,false,expert
+Piapoco-52_liver-1,52_liver,ubana,ubana,u b a n a,475,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,liver,1224,LIVER,false,expert
+Resigaro-52_liver-1,52_liver,-opáanú,-opáanú,o p á/a a n ú/u,475,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,liver,1224,LIVER,false,expert
+Yukuna-52_liver-1,52_liver,panaji,panaji,p a n a j i,475,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,liver,1224,LIVER,false,expert
+Achagua-53_long-1,53_long,matʃéenii,matʃe:ni:,m a tʃ e: n i:,482,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,long,1203,LONG,false,expert
+Baniwa-53_long-1,53_long,yápi,yápi,y á/a p i,484,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,long,1203,LONG,false,expert
+Kabiyari-53_long-1,53_long,wia,wia,w i a,486,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,long,1203,LONG,false,expert
+Piapoco-53_long-1,53_long,cáaléeri,káaléeri,k á/a a l é/e e r i,484,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,long,1203,LONG,false,expert
+Resigaro-53_long-1,53_long,tseinó?,tseinó?,ts e i n ó/o ʔ,482,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,long,1203,LONG,false,expert
+Yukuna-53_long-1,53_long,waphereni,waphereni,w a pʰ e r e n i,484,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,long,1203,LONG,false,expert
+Achagua-54_louse-1,54_louse,witéneʃi,witeneʃi,w i t e n e ʃ i,488,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,louse,1392,LOUSE,false,expert
+Baniwa-54_louse-1,54_louse,towída,towída,t o w í/i d a,488,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,louse,1392,LOUSE,false,expert
+Kabiyari-54_louse-1,54_louse,nií,nií,n i í/i,488,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,louse,1392,LOUSE,false,expert
+Piapoco-54_louse-1,54_louse,cùlibàu,kùlibàu,k ù/u l i b à/a u,491,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,louse,1392,LOUSE,false,expert
+Resigaro-54_louse-1,54_louse,netetshí?ó,netetsʰíʔó,n e t e tsʰ í/i ʔ ó/o,488,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,louse,1392,LOUSE,false,expert
+Yukuna-54_louse-1,54_louse,inejí,rine,r i n e,488,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,louse,1392,LOUSE,false,expert
+Achagua-55_manadultmale-1,55_manadultmale,waʃiálikueri,waʃialikueri,w a ʃ i a l i k u e r i,501,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,man (adult male),1554,MAN,false,expert
+Baniwa-55_manadultmale-1,55_manadultmale,atsíanli,atsíanli,a ts í/i a n l i,501,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,man (adult male),1554,MAN,false,expert
+Baniwa-55_manadultmale-2,55_manadultmale,newíki,newíki,n e w í/i k i,505,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,man (adult male),1554,MAN,false,expert
+Kabiyari-55_manadultmale-1,55_manadultmale,t̪ijá-ri,t̪ijá-ri,t̪ i j á/a r i,501,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,man (adult male),1554,MAN,false,expert
+Resigaro-55_manadultmale-1,55_manadultmale,atsáagí,atsáagí,a ts á/a a g í/i,501,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,man (adult male),1554,MAN,false,expert
+Yukuna-55_manadultmale-1,55_manadultmale,achiñá,atʃiɲá,a tʃ i ɲ á/a,501,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,man (adult male),1554,MAN,false,expert
+Achagua-56_many-1,56_many,báhiala,bahiala,b a h i a l a,506,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,many,1198,MANY,false,expert
+Baniwa-56_many-1,56_many,hanípa,hanípa,h a n í/i p a,507,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,many,1198,MANY,false,expert
+Baniwa-56_many-2,56_many,hóre,hóre,h ó/o r e,513,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,many,1198,MANY,false,expert
+Baniwa-56_many-3,56_many,manópe,manópe,m a n ó/o p e,507,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,many,1198,MANY,false,expert
+Kabiyari-56_many-1,56_many,muura,muura,m uu r a,509,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,many,1198,MANY,false,expert
+Piapoco-56_many-1,56_many,kána(na)ma,kána(na)ma,k á/a n a n a m a,510,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,many,1198,MANY,false,expert
+Piapoco-56_many-2,56_many,manuba,manuba,m a n u b a,507,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,many,1198,MANY,false,expert
+Piapoco-56_many-3,56_many,maini,maini,m a i n i,520,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,many,1198,MANY,false,expert
+Resigaro-56_many-1,56_many,an̥epúúʔ,an̥epúúʔ,a n̥ e p ú:/uː ʔ,507,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,many,1198,MANY,false,expert
+Yukuna-56_many-1,56_many,cha'aphá,cha'aphá,ʃ a ʔ a pʰ á/a,514,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,many,1198,MANY,false,expert
+Achagua-57_moon-1,57_moon,kéeri,ke:ri,k e: r i,521,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,moon,1313,MOON,false,expert
+Baniwa-57_moon-1,57_moon,kéeri,kéeri,k é/e e r i,521,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,moon,1313,MOON,false,expert
+Kabiyari-57_moon-1,57_moon,kéeri,kéeri,k é/e e r i,521,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,moon,1313,MOON,false,expert
+Piapoco-57_moon-1,57_moon,quéeri,ké:ɾi,k é:/eː ɾ i,521,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,moon,1313,MOON,false,expert
+Resigaro-57_moon-1,57_moon,keégí,keégí,k e é/e g í/i,521,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,moon,1313,MOON,false,expert
+Yukuna-57_moon-1,57_moon,keri,keɾi,k e ɾ i,521,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,moon,1313,MOON,false,expert
+Achagua-58_mountain-1,58_mountain,dúuli,dúuli,d ú/u u l i,536,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Baniwa-58_mountain-1,58_mountain,hidzápa,hidzápa,h i dz á/a p a,13,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Baniwa-58_mountain-2,58_mountain,híipana,híipana,h í/i i p a n a,537,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Kabiyari-58_mountain-1,58_mountain,marena,marena,m a r e n a,531,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Kabiyari-58_mountain-2,58_mountain,takari,takari,t a k a r i,538,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Piapoco-58_mountain-1,58_mountain,dúli,dúli,d ú/u l i,536,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Resigaro-58_mountain-1,58_mountain,tégahú,tégahú,t é/e g a h ú/u,13,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Tariana-58_mountain-1,58_mountain,maka-pulikúda,maka-pulikúda,m a k a p u l i k ú/u d a,534,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Yukuna-58_mountain-1,58_mountain,yenuri,jenuɾi,j e n u ɾ i,536,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Warekena-58_mountain-1,58_mountain,hidápa,hidápa,h i d á/a p a,13,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,mountain,639,MOUNTAIN,false,expert
+Achagua-59_mouth-1,59_mouth,númaʃi,numaʃi,n u m a ʃ i,546,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,mouth,674,MOUTH,false,expert
+Baniwa-59_mouth-1,59_mouth,-nóma,-nóma,n ó/o m a,546,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,mouth,674,MOUTH,false,expert
+Kabiyari-59_mouth-1,59_mouth,numa,numa,n u m a,546,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,mouth,674,MOUTH,false,expert
+Piapoco-59_mouth-1,59_mouth,nùma,nùma,n ù/u m a,546,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,mouth,674,MOUTH,false,expert
+Resigaro-59_mouth-1,59_mouth,nó,nó,n ó/o,546,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,mouth,674,MOUTH,false,expert
+Yukuna-59_mouth-1,59_mouth,numaji,numahi,n u m a h i,546,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,mouth,674,MOUTH,false,expert
+Achagua-60_name-1,60_name,hiʔinaʃi,hiʔinaʃi,h i ʔ i n a ʃ i,547,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,name,1405,NAME,false,expert
+Baniwa-60_name-1,60_name,-iipítana,-iipítana,ii p í/i t a n a,554,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,name,1405,NAME,false,expert
+Kabiyari-60_name-1,60_name,íí,íí,íí/iː,554,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,name,1405,NAME,false,expert
+Piapoco-60_name-1,60_name,ípidená,ípidená,í/i p i d e n á/a,554,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,name,1405,NAME,false,expert
+Resigaro-60_name-1,60_name,iivú,iivú,ii v ú/u,554,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,name,1405,NAME,false,expert
+Yukuna-60_name-1,60_name,iíji,iíhi,i í/i h i,554,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,name,1405,NAME,false,expert
+Achagua-61_neck-1,61_neck,wáaʃi,wa:ʃi,w a: ʃ i,555,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,neck,1333,NECK,false,expert
+Baniwa-61_neck-1,61_neck,-nóoro,-nóoro,n ó/o o r o,560,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,neck,1333,NECK,false,expert
+Kabiyari-61_neck-1,61_neck,kanhapi,kanhapi,k a ɲ a p i,558,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,neck,1333,NECK,false,expert
+Piapoco-61_neck-1,61_neck,canápi,kanápi,k a n á/a p i,558,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,neck,1333,NECK,false,expert
+Resigaro-61_neck-1,61_neck,-iñočhí,-iñočhí,i ñ o tʃʰ í/i,560,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,neck,1333,NECK,false,expert
+Yukuna-61_neck-1,61_neck,núrupiji,núrupihi,n ú/u r u p i h i,560,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,neck,1333,NECK,false,expert
+Achagua-62_new-1,62_new,wáalii,wa:li:,w a: l i:,572,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,new,1231,NEW,false,expert
+Baniwa-62_new-1,62_new,éemi,éemi,é/e e m i,565,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,new,1231,NEW,false,expert
+Baniwa-62_new-2,62_new,wali-,wali-,w a l i,572,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,new,1231,NEW,false,expert
+Baniwa-62_new-3,62_new,yapiápali,yapiápali,y a p i á/a p a l i,571,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,new,1231,NEW,false,expert
+Kabiyari-62_new-1,62_new,wárit̪é,wárit̪é,w á/a r i t̪ é/e,572,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,new,1231,NEW,false,expert
+Piapoco-62_new-1,62_new,wàlisàiri,wàlisàiri,w à/a l i s à/a i r i,572,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,new,1231,NEW,false,expert
+Resigaro-62_new-1,62_new,be?é,be?é,b e ʔ é/e,569,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,new,1231,NEW,false,expert
+Yukuna-62_new-1,62_new,wajé,wahé,w a h é/e,572,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,new,1231,NEW,false,expert
+Achagua-63_night-1,63_night,táaje,ta:je,t a: j e,584,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,night,1233,NIGHT,false,expert
+Baniwa-63_night-1,63_night,déepi,déepi,d é/e e p i,584,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,night,1233,NIGHT,false,expert
+Kabiyari-63_night-1,63_night,néápi,néápi,n é/e á/a p i,584,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,night,1233,NIGHT,false,expert
+Piapoco-63_night-1,63_night,catá,katá,k a t á/a,580,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,night,1233,NIGHT,false,expert
+Resigaro-63_night-1,63_night,naapí,naapí,n aa p í/i,584,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,night,1233,NIGHT,false,expert
+Yukuna-63_night-1,63_night,lapí,lapí,l a p í/i,584,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,night,1233,NIGHT,false,expert
+Achagua-64_nose-1,64_nose,dákuʃi,dakuʃi,d a k u ʃ i,591,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,nose,1221,NOSE,false,expert
+Baniwa-64_nose-1,64_nose,-hitáko,-hitáko,h i t á/a k o,591,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,nose,1221,NOSE,false,expert
+Kabiyari-64_nose-1,64_nose,hitákú,hitákú,h i t á/a k ú/u,591,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,nose,1221,NOSE,false,expert
+Piapoco-64_nose-1,64_nose,ídacu,ídaku,í/i d a k u,591,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,nose,1221,NOSE,false,expert
+Resigaro-64_nose-1,64_nose,-hitákó,-hitákó,h i t á/a k ó/o,591,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,nose,1221,NOSE,false,expert
+Yukuna-64_nose-1,64_nose,takuji,takuhi,t a k u h i,591,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,nose,1221,NOSE,false,expert
+Achagua-65_not-1,65_not,ma-,ma-,m a,593,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,not,1240,NOT,false,expert
+Achagua-65_not-2,65_not,hookai,hookai,h oo k a i,601,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,not,1240,NOT,false,expert
+Baniwa-65_not-1,65_not,ma-,ma-,m a,593,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,not,1240,NOT,false,expert
+Baniwa-65_not-2,65_not,ñáme,ñáme,ñ á/a m e,597,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,not,1240,NOT,false,expert
+Kabiyari-65_not-1,65_not,uka,uka,u k a,601,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,not,1240,NOT,false,expert
+Piapoco-65_not-1,65_not,càmita,kàmita,k à/a m i t a,597,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,not,1240,NOT,false,expert
+Resigaro-65_not-1,65_not,nii,nii,n ii,598,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,not,1240,NOT,false,expert
+Resigaro-65_not-2,65_not,ma-,ma-,m a,593,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,not,1240,NOT,false,expert
+Tariana-65_not-1,65_not,ma-,ma-,m a,593,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,not,1240,NOT,false,expert
+Yukuna-65_not-1,65_not,unká,unká,u n k á/a,601,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,not,1240,NOT,false,expert
+Warekena-65_not-1,65_not,ma-,ma-,m a,593,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,not,1240,NOT,false,expert
+Warekena-65_not-2,65_not,nalé,nalé,n a l é/e,598,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,not,1240,NOT,false,expert
+Achagua-66_one-1,66_one,áabai,a:bai,a: b a i,613,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,one,1493,ONE,false,expert
+Baniwa-66_one-1,66_one,a(a)pa-,a(a)pa-,a a p a,613,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,one,1493,ONE,false,expert
+Kabiyari-66_one-1,66_one,pa[pu],pa[pu],p a p u,613,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,one,1493,ONE,false,expert
+Piapoco-66_one-1,66_one,ab[ì-],ab[ì-],a b ì/i,613,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,one,1493,ONE,false,expert
+Piapoco-66_one-2,66_one,abe,abe,a b e,613,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,one,1493,ONE,false,expert
+Resigaro-66_one-1,66_one,pa[topʰe],pa[topʰe],p a t o pʰ e,613,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,one,1493,ONE,false,expert
+Resigaro-66_one-2,66_one,sagú,sagú,s a g ú/u,616,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,one,1493,ONE,false,expert
+Yukuna-66_one-1,66_one,pajluwa,pa(hluwáha),p a h l u w á/a h a,613,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,one,1493,ONE,false,expert
+Achagua-67_path-1,67_path,iníhibaa,inihiba:,i n i h i b a:,618,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,path,2252,PATH,false,expert
+Baniwa-67_path-1,67_path,inípo,inípo,i n í/i p o,618,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,path,2252,PATH,false,expert
+Baniwa-67_path-2,67_path,-aapówa,-aapówa,aa p ó/o w a,14,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,path,2252,PATH,false,expert
+Baniwa-67_path-3,67_path,-aapowánaa,-aapowánaa,aa p o w á/a n aa,14,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,path,2252,PATH,false,expert
+Kabiyari-67_path-1,67_path,apú-há,apú-há,a p ú/u h á/a,14,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,path,2252,PATH,false,expert
+Kabiyari-67_path-2,67_path,jóopu,jóopu,j ó/o o p u,14,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,path,2252,PATH,false,expert
+Kabiyari-67_path-3,67_path,ajápú,ajápú,a j á/a p ú/u,14,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,path,2252,PATH,false,expert
+Piapoco-67_path-1,67_path,àyapu,àjapu,à/a j a p u,14,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,path,2252,PATH,false,expert
+Resigaro-67_path-1,67_path,aǰápó,adʒápó,a dʒ á/a p ó/o,14,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,path,2252,PATH,false,expert
+Resigaro-67_path-2,67_path,éhuúhí,éhuúhí,é/e h u ú/u h í/i,14,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,path,2252,PATH,false,expert
+Yukuna-67_path-1,67_path,iñe'epú,iñe'epú,i ñ e ʔ e p ú/u,618,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,path,2252,PATH,false,expert
+Achagua-68_person-1,68_person,wenàiwica,wenàiwika,w e n à/a i w i k a,635,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,person,683,PERSON,false,expert
+Baniwa-68_person-1,68_person,newíki,newíki,n e w í/i k i,635,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,person,683,PERSON,false,expert
+Kabiyari-68_person-1,68_person,néki-ri,néki-ɾi,n é/e k i ɾ i,635,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,person,683,PERSON,false,expert
+Piapoco-68_person-1,68_person,wenàiwica,wenàiwika,w e n à/a i w i k a,635,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,person,683,PERSON,false,expert
+Resigaro-68_person-1,68_person,ináavi?žaánigí,ináaviʔʒaánigí,i n á/a a v i ʔ ʒ a á/a n i g í/i,635,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,person,683,PERSON,false,expert
+Yukuna-68_person-1,68_person,ina'uké,ina'uké,i n a ʔ u k é/e,635,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,person,683,PERSON,false,expert
+Achagua-69_rain-1,69_rain,júweriu,júweriu,j ú/u w e r i u,637,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Baniwa-69_rain-1,69_rain,íidza,íidza,í/i i dz a,643,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Kabiyari-69_rain-1,69_rain,peʔekhe,peʔekhe,p e ʔ e kʰ e,640,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Kabiyari-69_rain-2,69_rain,pehe,pehe,p e h e,640,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Piapoco-69_rain-1,69_rain,unía,unía,u n í/i a,644,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Resigaro-69_rain-1,69_rain,fá?voótsí,fá?voótsí,f á/a ʔ v o ó/o ts í/i,642,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Yukuna-69_rain-1,69_rain,juni,huni,h u n i,644,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Achagua-70_red-1,70_red,kírai,kírai,k í/i r a i,653,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,red,156,RED,false,expert
+Baniwa-70_red-1,70_red,iirai,iirai,ii r a i,653,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,red,156,RED,false,expert
+Baniwa-70_red-2,70_red,kéerama,kéerama,k é/e e r a m a,653,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,red,156,RED,false,expert
+Kabiyari-70_red-1,70_red,kíira,kíira,k í/i i r a,653,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,red,156,RED,false,expert
+Piapoco-70_red-1,70_red,quíiraca,kí:ɾaka,k í:/iː ɾ a k a,653,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,red,156,RED,false,expert
+Resigaro-70_red-1,70_red,kedávií́?,kedávií́ʔ,k e d á/a v i í/i ʔ,653,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,red,156,RED,false,expert
+Yukuna-70_red-1,70_red,kerani,keɾani,k e ɾ a n i,653,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,red,156,RED,false,expert
+Achagua-71_root-1,71_root,híitʃuʃi,híitʃuʃi,h í/i i tʃ u ʃ i,663,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,root,670,ROOT,false,expert
+Baniwa-71_root-1,71_root,-pali,-pali,p a l i,661,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,root,670,ROOT,false,expert
+Kabiyari-71_root-1,71_root,apáre,apáre,a p á/a r e,661,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,root,670,ROOT,false,expert
+Piapoco-71_root-1,71_root,ipìchu,ipìtʃu,i p ì/i tʃ u,661,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,root,670,ROOT,false,expert
+Resigaro-71_root-1,71_root,tébaké,tébaké,t é/e b a k é/e,661,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,root,670,ROOT,false,expert
+Yukuna-71_root-1,71_root,ji'ilaji,hiʔilahi,h i ʔ i l a h i,663,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,root,670,ROOT,false,expert
+Warekena-71_root-1,71_root,-ili,-ili,i l i,663,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,root,670,ROOT,false,expert
+Achagua-72_round-1,72_round,maka,maka,m a k a,668,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,round,1395,ROUND,false,expert
+Baniwa-72_round-1,72_round,madzakánhu,madzakánhu,m a dz a k á/a ɲ u,668,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,round,1395,ROUND,false,expert
+Kabiyari-72_round-1,72_round,paβuudú,paβuudú,p a β uu d ú/u,667,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,round,1395,ROUND,false,expert
+Resigaro-72_round-1,72_round,pavuudu,pavuudu,p a v uu d u,667,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,round,1395,ROUND,false,expert
+Achagua-73_sand-1,73_sand,káina,káina,k á/a i n a,680,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,sand,671,SAND,false,expert
+Baniwa-73_sand-1,73_sand,káida,káida,k á/a i d a,680,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,sand,671,SAND,false,expert
+Kabiyari-73_sand-1,73_sand,káʔa,káʔa,k á/a ʔ a,680,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,sand,671,SAND,false,expert
+Piapoco-73_sand-1,73_sand,kai[na],kai[na],k a i n a,680,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,sand,671,SAND,false,expert
+Resigaro-73_sand-1,73_sand,meníigí,meníigí,m e n í/i i g í/i,677,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,sand,671,SAND,false,expert
+Yukuna-73_sand-1,73_sand,ke'epé,keʔ-pé,k e ʔ p é/e,680,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,sand,671,SAND,false,expert
+Achagua-74_say-1,74_say,máiri,máiri,m á/a i r i,689,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,say,1458,SAY,false,expert
+Baniwa-74_say-1,74_say,-kaíte,-kaíte,k a í/i t e,690,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,say,1458,SAY,false,expert
+Kabiyari-74_say-1,74_say,íma,íma,í/i m a,689,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,say,1458,SAY,false,expert
+Piapoco-74_say-1,74_say,íma,íma,í/i m a,689,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,say,1458,SAY,false,expert
+Resigaro-74_say-1,74_say,-kemú,-kemú,k e m ú/u,686,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,say,1458,SAY,false,expert
+Yukuna-74_say-1,74_say,mí-,mí-,m í/i,689,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,say,1458,SAY,false,expert
+Warekena-74_say-1,74_say,-máka,-máka,m á/a k a,688,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,say,1458,SAY,false,expert
+Warekena-74_say-2,74_say,-kasaléta,-kasaléta,k a s a l é/e t a,690,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,say,1458,SAY,false,expert
+Achagua-75_see-1,75_see,káberi,káberi,k á/a b e r i,695,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,see,1409,SEE,false,expert
+Baniwa-75_see-1,75_see,-kápa,-kápa,k á/a p a,695,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,see,1409,SEE,false,expert
+Kabiyari-75_see-1,75_see,ikhá,ikhá,i kʰ á/a,695,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,see,1409,SEE,false,expert
+Piapoco-75_see-1,75_see,icáca,ikáka,i k á/a k a,695,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,see,1409,SEE,false,expert
+Resigaro-75_see-1,75_see,-tshení,-tshení,tsʰ e n í/i,696,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,see,1409,SEE,false,expert
+Yukuna-75_see-1,75_see,amákaje,amákahe,a m á/a k a h e,699,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,see,1409,SEE,false,expert
+Achagua-76_seed-1,76_seed,íimiʃi,íimiʃi,í/i i m i ʃ i,705,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,seed,714,SEED,false,expert
+Baniwa-76_seed-1,76_seed,-éekhe,-éekhe,é/e e kʰ e,701,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,seed,714,SEED,false,expert
+Kabiyari-76_seed-1,76_seed,(ka ka)kitjihe,(ka ka)kitjihe,k a + k a k i t j i h e,707,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,seed,714,SEED,false,expert
+Resigaro-76_seed-1,76_seed,hímiú,hímiú,h í/i m i ú/u,705,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,seed,714,SEED,false,expert
+Yukuna-76_seed-1,76_seed,ijiji,ijiji,i j i j i,707,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,seed,714,SEED,false,expert
+Warekena-76_seed-1,76_seed,-ihina,-ihina,i h i n a,707,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,seed,714,SEED,false,expert
+Achagua-77_sit-1,77_sit,wáairiu,wáairiu,w á/a a i r i u,710,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,sit,1416,SIT,false,expert
+Baniwa-77_sit-1,77_sit,-oówhaa,-oówhaa,o ó/o w h aa,710,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,sit,1416,SIT,false,expert
+Kabiyari-77_sit-1,77_sit,tu(')na,tu(')na,t u ʔ n a,714,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,sit,1416,SIT,false,expert
+Piapoco-77_sit-1,77_sit,awinacawa,awinakawa,a w i n a k a w a,710,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,sit,1416,SIT,false,expert
+Resigaro-77_sit-1,77_sit,ítshú,ítsʰú,í/i tsʰ ú/u,714,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,sit,1416,SIT,false,expert
+Resigaro-77_sit-2,77_sit,i?tsháká,iʔtsʰáká,i ʔ tsʰ á/a k á/a,714,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,sit,1416,SIT,false,expert
+Yukuna-77_sit-1,77_sit,yá'akajo,jáʔakaho,j á/a ʔ a k a h o,718,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,sit,1416,SIT,false,expert
+Yukuna-77_sit-2,77_sit,yá'akaje,yá'akaje,y á/a ʔ a k a j e,718,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,sit,1416,SIT,false,expert
+Achagua-78_skin-1,78_skin,íimanaʃi,íimanaʃi,í/i i m a n a ʃ i,728,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,skin,763,SKIN,false,expert
+Baniwa-78_skin-1,78_skin,-ya,-ya,y a,725,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,skin,763,SKIN,false,expert
+Kabiyari-78_skin-1,78_skin,íʔa-mi,íʔa-mi,í/i ʔ a m i,728,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,skin,763,SKIN,false,expert
+Piapoco-78_skin-1,78_skin,ímami,ímami,í/i m a m i,728,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,skin,763,SKIN,false,expert
+Resigaro-78_skin-1,78_skin,eémú,eémú,e é/e m ú/u,728,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,skin,763,SKIN,false,expert
+Yukuna-78_skin-1,78_skin,ímaji,ímahi,í/i m a h i,728,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,skin,763,SKIN,false,expert
+Achagua-79_sleep-1,79_sleep,máairi,máairi,m á/a a i r i,738,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,sleep,1585,SLEEP,false,expert
+Baniwa-79_sleep-1,79_sleep,-ímaa,-ímaa,í/i m aa,738,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,sleep,1585,SLEEP,false,expert
+Kabiyari-79_sleep-1,79_sleep,imáa,imáa,i m á/a a,738,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,sleep,1585,SLEEP,false,expert
+Piapoco-79_sleep-1,79_sleep,imáca,imáka,i m á/a k a,738,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,sleep,1585,SLEEP,false,expert
+Resigaro-79_sleep-1,79_sleep,ímú,ímú,í/i m ú/u,738,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,sleep,1585,SLEEP,false,expert
+Yukuna-79_sleep-1,79_sleep,kamátakajo,kamátakaho,k a m á/a t a k a h o,738,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,sleep,1585,SLEEP,false,expert
+Achagua-80_small-1,80_small,píituituu,pi:tuitu:,p i: t u i t u:,746,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,small,1246,SMALL,false,expert
+Baniwa-80_small-1,80_small,tsúu,tsúu,ts ú/u u,746,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,small,1246,SMALL,false,expert
+Kabiyari-80_small-1,80_small,karitʃhũĩ,karitʃhũĩ,k a r i tʃʰ ũ ĩ,746,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,small,1246,SMALL,false,expert
+Piapoco-80_small-1,80_small,achúméeri,atʃúmé:ɾi,a tʃ ú/u m é:/eː ɾ i,746,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,small,1246,SMALL,false,expert
+Resigaro-80_small-1,80_small,karitʃhũĩ,karitʃhũĩ,k a r i tʃʰ ũ ĩ,746,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,small,1246,SMALL,false,expert
+Yukuna-80_small-1,80_small,kamu'ujini,kamu'ujini,k a m u ʔ u j i n i,747,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,small,1246,SMALL,false,expert
+Achagua-81_smoke-1,81_smoke,íisaninaa,íisaninaa,í/i i s a n i n aa,755,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,smoke,778,SMOKE (EXHAUST),false,expert
+Baniwa-81_smoke-1,81_smoke,íitta,íitta,í/i i tt a,755,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,smoke,778,SMOKE (EXHAUST),false,expert
+Kabiyari-81_smoke-1,81_smoke,ít̪a-ri,ít̪a-ri,í/i t̪ a r i,755,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,smoke,778,SMOKE (EXHAUST),false,expert
+Resigaro-81_smoke-1,81_smoke,iítshú,iítsʰú,i í/i tsʰ ú/u,755,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,smoke,778,SMOKE (EXHAUST),false,expert
+Yukuna-81_smoke-1,81_smoke,ija,iha,i h a,755,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,smoke,778,SMOKE (EXHAUST),false,expert
+Achagua-82_stand-1,82_stand,bárueriu,barueriu,b a r u e r i u,762,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,stand,1442,STAND,false,expert
+Baniwa-82_stand-1,82_stand,-éema,-éema,é/e e m a,759,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,stand,1442,STAND,false,expert
+Kabiyari-82_stand-1,82_stand,patʃha,patʃha,p a tʃʰ a,761,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,stand,1442,STAND,false,expert
+Piapoco-82_stand-1,82_stand,bàlùanícawa,bàlùanícawa,b à/a l ù/u a n í/i c a w a,762,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,stand,1442,STAND,false,expert
+Resigaro-82_stand-1,82_stand,-i?tóṇú,-i?tóṇú,i ʔ t ó/o ṇ ú/u,763,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,stand,1442,STAND,false,expert
+Yukuna-82_stand-1,82_stand,tára'akajo,tára'akajo,t á/a r a ʔ a k a j o,767,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,stand,1442,STAND,false,expert
+Achagua-83_star-1,83_star,sáalii,sáalii,s á/a a l ii,16,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,star,1430,STAR,false,expert
+Baniwa-83_star-1,83_star,hiwírhi,hiwírhi,h i w í/i rʰ i,775,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,star,1430,STAR,false,expert
+Kabiyari-83_star-1,83_star,wirínhu,wirínhu,w i r í/i ɲ u,775,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,star,1430,STAR,false,expert
+Piapoco-83_star-1,83_star,dùlupùta,dùlupùta,d ù/u l u p ù/u t a,772,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,star,1430,STAR,false,expert
+Resigaro-83_star-1,83_star,hivíigí,hivíigí,h i v í/i i g í/i,775,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,star,1430,STAR,false,expert
+Yukuna-83_star-1,83_star,iwijrí,iwihɾí,i w i h ɾ í/i,775,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,star,1430,STAR,false,expert
+Achagua-84_stone-1,84_stone,íiba,íiba,í/i i b a,777,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,stone,857,STONE,false,expert
+Baniwa-84_stone-1,84_stone,hiipada,hiipada,h ii p a d a,777,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,stone,857,STONE,false,expert
+Kabiyari-84_stone-1,84_stone,híipa,híipa,h í/i i p a,777,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,stone,857,STONE,false,expert
+Piapoco-84_stone-1,84_stone,íba,íba,í/i b a,777,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,stone,857,STONE,false,expert
+Resigaro-84_stone-1,84_stone,vííši?óú,vííši?óú,v íí/iː ʃ i ʔ ó/o ú/u,782,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,stone,857,STONE,false,expert
+Yukuna-84_stone-1,84_stone,jipa,hipa,h i p a,777,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,stone,857,STONE,false,expert
+Achagua-85_sun-1,85_sun,káiwia,káiwia,k á/a i w i a,788,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,sun,1343,SUN,false,expert
+Baniwa-85_sun-1,85_sun,kámoi,kámoi,k á/a m o i,784,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,sun,1343,SUN,false,expert
+Kabiyari-85_sun-1,85_sun,abe,abe,a b e,786,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,sun,1343,SUN,false,expert
+Kabiyari-85_sun-2,85_sun,eri,eri,e r i,789,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,sun,1343,SUN,false,expert
+Piapoco-85_sun-1,85_sun,èeri,èeri,è/e e r i,789,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,sun,1343,SUN,false,expert
+Resigaro-85_sun-1,85_sun,há?í,háʔí,h á/a ʔ í/i,788,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,sun,1343,SUN,false,expert
+Yukuna-85_sun-1,85_sun,kamú,kamú,k a m ú/u,784,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,sun,1343,SUN,false,expert
+Achagua-86_swim-1,86_swim,jámareriu,jámareriu,j á/a m a r e r i u,795,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,swim,1439,SWIM,false,expert
+Baniwa-86_swim-1,86_swim,-aaxaa,-aaxaa,aa ʃ aa,799,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,swim,1439,SWIM,false,expert
+Baniwa-86_swim-2,86_swim,-aanhi,-aanhi,aa ɲ i,798,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,swim,1439,SWIM,false,expert
+Kabiyari-86_swim-1,86_swim,awápa,awápa,a w á/a p a,799,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,swim,1439,SWIM,false,expert
+Piapoco-86_swim-1,86_swim,màlacawa,màlakawa,m à/a l a k a w a,795,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,swim,1439,SWIM,false,expert
+Resigaro-86_swim-1,86_swim,o?vápú,oʔvápú,o ʔ v á/a p ú/u,799,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,swim,1439,SWIM,false,expert
+Yukuna-86_swim-1,86_swim,i'iwapakaje,iʔiwapakahe,i ʔ i w a p a k a h e,799,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,swim,1439,SWIM,false,expert
+Achagua-87_tail-1,87_tail,íiʃiʃi,íiʃiʃi,í/i i ʃ i ʃ i,809,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,tail,1220,TAIL,false,expert
+Baniwa-87_tail-1,87_tail,-iittípi,-iittípi,ii tt í/i p i,809,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tail,1220,TAIL,false,expert
+Kabiyari-87_tail-1,87_tail,t̪ipi,t̪ipi,t̪ i p i,809,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,tail,1220,TAIL,false,expert
+Kabiyari-87_tail-2,87_tail,muuku,muuku,m uu k u,811,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,tail,1220,TAIL,false,expert
+Piapoco-87_tail-1,87_tail,yàapusài,jàapusài,j à/a a p u s à/a i,806,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,tail,1220,TAIL,false,expert
+Resigaro-87_tail-1,87_tail,tshíipí,tsʰíipí,tsʰ í/i i p í/i,809,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,tail,1220,TAIL,false,expert
+Tariana-87_tail-1,87_tail,di-číma,di-tʃíma,d i tʃ í/i m a,809,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,tail,1220,TAIL,false,expert
+Tariana-87_tail-2,87_tail,di-sipí,di-sipí,d i s i p í/i,809,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,tail,1220,TAIL,false,expert
+Yukuna-87_tail-1,87_tail,jipiji,hipihi,h i p i h i,809,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,tail,1220,TAIL,false,expert
+Achagua-88_that-1,88_that,liára,liára,l i á/a r a,826,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,that,78,THAT,false,expert
+Achagua-88_that-2,88_that,ruára,ruára,r u á/a r a,826,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,that,78,THAT,false,expert
+Baniwa-88_that-1,88_that,lhiera(ha),lhiera(ha),ʎ i e r a h a,826,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,that,78,THAT,false,expert
+Kabiyari-88_that-1,88_that,ja-ta,ja-ta,j a t a,826,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,that,78,THAT,false,expert
+Kabiyari-88_that-2,88_that,ja-ra,ja-ra,j a r a,826,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,that,78,THAT,false,expert
+Piapoco-88_that-1,88_that,yáara,já:ɾa,j á:/aː ɾ a,826,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,that,78,THAT,false,expert
+Resigaro-88_that-1,88_that,aí,aí,a í/i,20,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,that,78,THAT,false,expert
+Yukuna-88_that-1,88_that,marí,maɾí,m a ɾ í/i,820,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,that,78,THAT,false,expert
+Warekena-88_that-1,88_that,-la,-la,l a,826,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,that,78,THAT,false,expert
+Warekena-88_that-2,88_that,-di,-di,d i,831,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,that,78,THAT,false,expert
+Warekena-88_that-3,88_that,-ni,-ni,n i,831,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,that,78,THAT,false,expert
+Achagua-89_this-1,89_this,liáni,liáni,l i á/a n i,826,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,this,1214,THIS,false,expert
+Achagua-89_this-2,89_this,ruani,ruani,r u a n i,835,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,this,1214,THIS,false,expert
+Achagua-89_this-3,89_this,náani,náani,n á/a a n i,837,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,this,1214,THIS,false,expert
+Baniwa-89_this-1,89_this,Ihíehe,Ihíehe,ɪ h í/i e h e,826,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,this,1214,THIS,false,expert
+Kabiyari-89_this-1,89_this,do?ó,do?ó,d o ʔ ó/o,835,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,this,1214,THIS,false,expert
+Piapoco-89_this-1,89_this,yái,jái,j á/a i,20,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,this,1214,THIS,false,expert
+Piapoco-89_this-2,89_this,úái,úái,ú/u á/a i,835,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,this,1214,THIS,false,expert
+Resigaro-89_this-1,89_this,gi?í,gi?í,g i ʔ í/i,831,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,this,1214,THIS,false,expert
+Resigaro-89_this-2,89_this,do?ó,doʔó,d o ʔ ó/o,835,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,this,1214,THIS,false,expert
+Tariana-89_this-1,89_this,hĩ,hĩ,h ĩ,831,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,this,1214,THIS,false,expert
+Yukuna-89_this-1,89_this,kele,kele,k e l e,831,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,this,1214,THIS,false,expert
+Warekena-89_this-1,89_this,-ti,-ti,t i,831,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,this,1214,THIS,false,expert
+Achagua-90_thouyou-1,90_thouyou,ijá,ijá,i j á/a,844,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,"thou, you",1215,THOU,false,expert
+Baniwa-90_thouyou-1,90_thouyou,hía,hía,h í/i a,21,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,"thou, you",1215,THOU,false,expert
+Baniwa-90_thouyou-2,90_thouyou,você,você,v o c ê/e,847,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,"thou, you",1215,THOU,false,expert
+Kabiyari-90_thouyou-1,90_thouyou,phé,phé,pʰ é/e,21,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,"thou, you",1215,THOU,false,expert
+Kabiyari-90_thouyou-2,90_thouyou,pi-,pi-,p i,21,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,"thou, you",1215,THOU,false,expert
+Piapoco-90_thouyou-1,90_thouyou,pía,pía,p í/i a,21,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,"thou, you",1215,THOU,false,expert
+Resigaro-90_thouyou-1,90_thouyou,ha?,haʔá,h a ʔ á/a,843,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,"thou, you",1215,THOU,false,expert
+Resigaro-90_thouyou-2,90_thouyou,phá,pʰá,pʰ á/a,21,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,"thou, you",1215,THOU,false,expert
+Resigaro-90_thouyou-3,90_thouyou,phú,pʰú,pʰ ú/u,21,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,"thou, you",1215,THOU,false,expert
+Tariana-90_thouyou-1,90_thouyou,piha,piha,p i h a,21,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,"thou, you",1215,THOU,false,expert
+Tariana-90_thouyou-2,90_thouyou,piha,pʰia,pʰ i a,21,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,"thou, you",1215,THOU,false,expert
+Tariana-90_thouyou-3,90_thouyou,iha,iha,i h a,844,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,"thou, you",1215,THOU,false,expert
+Yukuna-90_thouyou-1,90_thouyou,iká,iká,i k á/a,844,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,"thou, you",1215,THOU,false,expert
+Yukuna-90_thouyou-2,90_thouyou,piká,piká,p i k á/a,21,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,"thou, you",1215,THOU,false,expert
+Achagua-91_tongue-1,91_tongue,ínaneeʃi,ínaneeʃi,í/i n a n ee ʃ i,857,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,tongue,1205,TONGUE,false,expert
+Baniwa-91_tongue-1,91_tongue,-eenene,-eenene,ee n e n e,857,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tongue,1205,TONGUE,false,expert
+Kabiyari-91_tongue-1,91_tongue,nenipá,nenipá,n e n i p á/a,857,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,tongue,1205,TONGUE,false,expert
+Piapoco-91_tongue-1,91_tongue,nène,nène,n è/e n e,857,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,tongue,1205,TONGUE,false,expert
+Resigaro-91_tongue-1,91_tongue,e?héepé,eʔhéepé,e ʔ h é/e e p é/e,854,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,tongue,1205,TONGUE,false,expert
+Yukuna-91_tongue-1,91_tongue,lenaji,lenahi,l e n a h i,857,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,tongue,1205,TONGUE,false,expert
+Achagua-92_tooth-1,92_tooth,éeʃi,éeʃi,é/e e ʃ i,862,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,tooth,1380,TOOTH,false,expert
+Baniwa-92_tooth-1,92_tooth,-eetsha,-eetsha,ee tsʰ a,862,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tooth,1380,TOOTH,false,expert
+Baniwa-92_tooth-2,92_tooth,-dzawiere,-dzawiere,dz a w i e r e,868,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tooth,1380,TOOTH,false,expert
+Baniwa-92_tooth-3,92_tooth,-ee,-ee,ee,862,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tooth,1380,TOOTH,false,expert
+Baniwa-92_tooth-4,92_tooth,-kako,-kako,k a k o,871,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tooth,1380,TOOTH,false,expert
+Baniwa-92_tooth-5,92_tooth,-likoe,-likoe,l i k o e,872,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,tooth,1380,TOOTH,false,expert
+Kabiyari-92_tooth-1,92_tooth,ʔía,ʔía,ʔ í/i a,862,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,tooth,1380,TOOTH,false,expert
+Piapoco-92_tooth-1,92_tooth,yèi,jèi,j è/e i,862,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,tooth,1380,TOOTH,false,expert
+Resigaro-92_tooth-1,92_tooth,oné,oné,o n é/e,864,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,tooth,1380,TOOTH,false,expert
+Yukuna-92_tooth-1,92_tooth,aijí,aihí,a i h í/i,22,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,tooth,1380,TOOTH,false,expert
+Achagua-93_treewood-1,93_treewood,áikuba,áikuba,á/a i k u b a,879,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,"tree, wood",906,TREE,false,expert
+Baniwa-93_treewood-1,93_treewood,haiko,haiko,h a i k o,879,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,"tree, wood",906,TREE,false,expert
+Kabiyari-93_treewood-1,93_treewood,ʔahaa,ʔahaa,ʔ a h aa,881,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,"tree, wood",906,TREE,false,expert
+Piapoco-93_treewood-1,93_treewood,jéetaná,jéetaná,j é/e e t a n á/a,877,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,"tree, wood",906,TREE,false,expert
+Piapoco-93_treewood-2,93_treewood,àiku,àiku,à/a i k u,879,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,"tree, wood",906,TREE,false,expert
+Resigaro-93_treewood-1,93_treewood,aváana?é,aváanaʔé,a v á/a a n a ʔ é/e,881,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,"tree, wood",906,TREE,false,expert
+Yukuna-93_treewood-1,93_treewood,a'awaná,aʔawaná,a ʔ a w a n á/a,881,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,"tree, wood",906,TREE,false,expert
+Achagua-94_two-1,94_two,tʃámai,tʃámai,tʃ á/a m a i,887,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,two,1498,TWO,false,expert
+Baniwa-94_two-1,94_two,dzama-,dzama-,dz a m a,887,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,two,1498,TWO,false,expert
+Kabiyari-94_two-1,94_two,tʃumaa-,tʃumaa-,tʃ u m aa,887,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,two,1498,TWO,false,expert
+Piapoco-94_two-1,94_two,pucháiba,putʃáiba,p u tʃ á/a i b a,889,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,two,1498,TWO,false,expert
+Resigaro-94_two-1,94_two,migaakú,migaakú,m i g aa k ú/u,890,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,two,1498,TWO,false,expert
+Yukuna-94_two-1,94_two,iyamá,ijamá,i j a m á/a,887,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,two,1498,TWO,false,expert
+Warekena-94_two-1,94_two,dama-,dama-,d a m a,887,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,two,1498,TWO,false,expert
+Achagua-95_walk-1,95_walk,híneriu,híneriu,h í/i n e r i u,894,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,walk,1443,WALK,false,expert
+Baniwa-95_walk-1,95_walk,-áanhi,-áanhi,á/a a ɲ i,901,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,walk,1443,WALK,false,expert
+Baniwa-95_walk-2,95_walk,-eemánhi,-eemánhi,ee m á/a ɲ i,900,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,walk,1443,WALK,false,expert
+Kabiyari-95_walk-1,95_walk,aa,aa,aa,901,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,walk,1443,WALK,false,expert
+Piapoco-95_walk-1,95_walk,nuèpunícawa,nuèpuníkawa,n u è/e p u n í/i k a w a,898,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,walk,1443,WALK,false,expert
+Resigaro-95_walk-1,95_walk,-hí?vu,-hí?vu,h í/i ʔ v u,899,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,walk,1443,WALK,false,expert
+Yukuna-95_walk-1,95_walk,ja'apákaje,ja'apákaje,j a ʔ a p á/a k a j e,901,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,walk,1443,WALK,false,expert
+Achagua-96_water-1,96_water,ʃiátai,ʃiátai,ʃ i á/a t a i,909,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,water,948,WATER,false,expert
+Baniwa-96_water-1,96_water,óoni,óoni,ó/o o n i,910,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,water,948,WATER,false,expert
+Kabiyari-96_water-1,96_water,úuni,úuni,ú/u u n i,910,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,water,948,WATER,false,expert
+Piapoco-96_water-1,96_water,ú(u)ni,ú(u)ni,ú/u u n i,910,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,water,948,WATER,false,expert
+Resigaro-96_water-1,96_water,hooní,hooní,h oo n í/i,910,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,water,948,WATER,false,expert
+Yukuna-96_water-1,96_water,juni,húni,h ú/u n i,910,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,water,948,WATER,false,expert
+Achagua-97_we-1,97_we,wajá,wajá,w a j á/a,911,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,we,1212,WE,false,expert
+Baniwa-97_we-1,97_we,whía,whía,w h í/i a,911,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,we,1212,WE,false,expert
+Baniwa-97_we-2,97_we,wa-,wa-,w a,911,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,we,1212,WE,false,expert
+Kabiyari-97_we-1,97_we,whé,whé,w h é/e,911,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,we,1212,WE,false,expert
+Kabiyari-97_we-2,97_we,wa-,wa-,w a,911,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,we,1212,WE,false,expert
+Piapoco-97_we-1,97_we,wía,wía,w í/i a,911,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,we,1212,WE,false,expert
+Resigaro-97_we-1,97_we,muu?á,muuʔá,m uu ʔ á/a,916,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,we,1212,WE,false,expert
+Resigaro-97_we-2,97_we,fa?á,faʔá,f a ʔ á/a,911,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,we,1212,WE,false,expert
+Tariana-97_we-1,97_we,w(a)ha,w(a)ha,w a h a,911,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,we,1212,WE,false,expert
+Yukuna-97_we-1,97_we,weká,weká,w e k á/a,911,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,we,1212,WE,false,expert
+Yukuna-97_we-2,97_we,weká,weká,w e k á/a,911,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,we,1212,WE,false,expert
+Warekena-97_we-1,97_we,wa-,wa-,w a,911,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,we,1212,WE,false,expert
+Warekena-97_we-2,97_we,-wi,-wi,w i,911,,,Warekena,Warekena,ware1255,Warekena do San Miguel,,Arawakan,,we,1212,WE,false,expert
+Achagua-98_what-1,98_what,tána,tána,t á/a n a,947,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,what,1236,WHAT,false,expert
+Baniwa-98_what-1,98_what,kôaka?,kôaka?,k ô/o a k a ʔ,948,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,what,1236,WHAT,false,expert
+Kabiyari-98_what-1,98_what,mikha,mikha,m i kʰ a,950,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,what,1236,WHAT,false,expert
+Kabiyari-98_what-2,98_what,arhi,arhi,a rʰ i,960,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,what,1236,WHAT,false,expert
+Kabiyari-98_what-3,98_what,umha,umha,u mʰ a,959,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,what,1236,WHAT,false,expert
+Piapoco-98_what-1,98_what,càiná,kàiná,k à/a i n á/a,947,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,what,1236,WHAT,false,expert
+Piapoco-98_what-2,98_what,cawiná,kawiná,k a w i n á/a,947,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,what,1236,WHAT,false,expert
+Resigaro-98_what-1,98_what,keeni,keeni,k ee n i,947,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,what,1236,WHAT,false,expert
+Resigaro-98_what-2,98_what,kooni,kooni,k oo n i,947,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,what,1236,WHAT,false,expert
+Yukuna-98_what-1,98_what,na,na,n a,925,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,what,1236,WHAT,false,expert
+Achagua-99_white-1,99_white,kabálai,kabálai,k a b á/a l a i,943,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,white,1335,WHITE,false,expert
+Baniwa-99_white-1,99_white,hále,hále,h á/a l e,943,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,white,1335,WHITE,false,expert
+Baniwa-99_white-2,99_white,yalanawi,yalanawi,y a l a n a w i,944,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,white,1335,WHITE,false,expert
+Kabiyari-99_white-1,99_white,katare:i-ri,katare:i-ri,k a t a r e: i r i,939,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,white,1335,WHITE,false,expert
+Kabiyari-99_white-2,99_white,jarane,jarane,j a r a n e,944,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,white,1335,WHITE,false,expert
+Piapoco-99_white-1,99_white,cabalèeri,kabalèeɾi,k a b a l è/e e ɾ i,943,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,white,1335,WHITE,false,expert
+Yukuna-99_white-1,99_white,jareni,jareni,j a r e n i,944,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,white,1335,WHITE,false,expert
+Achagua-100_who-1,100_who,tána,tána,t á/a n a,947,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,who,1235,WHO,false,expert
+Baniwa-100_who-1,100_who,kóaka,kóaka,k ó/o a k a,948,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,who,1235,WHO,false,expert
+Kabiyari-100_who-1,100_who,mikha,mikha,m i kʰ a,950,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,who,1235,WHO,false,expert
+Kabiyari-100_who-2,100_who,arhi,arhi,a rʰ i,960,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,who,1235,WHO,false,expert
+Kabiyari-100_who-3,100_who,umha,umha,u mʰ a,959,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,who,1235,WHO,false,expert
+Piapoco-100_who-1,100_who,càiná,kàiná,k à/a i n á/a,947,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,who,1235,WHO,false,expert
+Piapoco-100_who-2,100_who,cawiná,kawiná,k a w i n á/a,947,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,who,1235,WHO,false,expert
+Resigaro-100_who-1,100_who,kéení,kéení,k é/e e n í/i,947,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,who,1235,WHO,false,expert
+Tariana-100_who-1,100_who,kwana,kwana,k w a n a,947,,,Tariana,Tariana,tari1256,Tariana,tae,Arawakan,,who,1235,WHO,false,expert
+Yukuna-100_who-1,100_who,najlo,nahlo,n a h l o,955,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,who,1235,WHO,false,expert
+Achagua-101_woman-1,101_woman,íinetoo,íinetoo,í/i i n e t oo,968,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,woman,962,WOMAN,false,expert
+Achagua-101_woman-2,101_woman,íina,íina,í/i i n a,968,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,woman,962,WOMAN,false,expert
+Baniwa-101_woman-1,101_woman,íinaro,íinaro,í/i i n a r o,968,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,woman,962,WOMAN,false,expert
+Kabiyari-101_woman-1,101_woman,nanáwí,nanáwí,n a n á/a w í/i,23,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,woman,962,WOMAN,false,expert
+Piapoco-101_woman-1,101_woman,inanái,inanái,i n a n á/a i,968,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,woman,962,WOMAN,false,expert
+Resigaro-101_woman-1,101_woman,ináadó,ináadó,i n á/a a d ó/o,968,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,woman,962,WOMAN,false,expert
+Yukuna-101_woman-1,101_woman,inanaru,inanaɾu,i n a n a ɾ u,968,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,woman,962,WOMAN,false,expert
+Achagua-102_yellow-1,102_yellow,meréekii,mereekii,m e r ee k ii,971,,,Achagua,Achagua,acha1250,Achagua,aca,Arawakan,,yellow,1424,YELLOW,false,expert
+Baniwa-102_yellow-1,102_yellow,éewa,éewa,é/e e w a,981,,,Baniwa,Baniwa,bani1255,Baniwa do Icana,bwi,Arawakan,,yellow,1424,YELLOW,false,expert
+Kabiyari-102_yellow-1,102_yellow,karawa-ri,karawa-ri,k a r a w a r i,981,,,Kabiyari,Kabiyari,cabi1241,Cabiyarí,cbb,Arawakan,,yellow,1424,YELLOW,false,expert
+Piapoco-102_yellow-1,102_yellow,é(e)wa,é(e)wa,é/e e w a,981,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,yellow,1424,YELLOW,false,expert
+Piapoco-102_yellow-2,102_yellow,éewéeri,é:wé:ɾi,é:/eː w é:/eː ɾ i,981,,,Piapoco,Piapoco,piap1246,Piapoco,pio,Arawakan,,yellow,1424,YELLOW,false,expert
+Resigaro-102_yellow-1,102_yellow,dogíiga?é?,dogíigaʔéʔ,d o g í/i i g a ʔ é/e ʔ,976,,,Resigaro,Resigaro,resi1247,Resígaro,rgr,Arawakan,,yellow,1424,YELLOW,false,expert
+Yukuna-102_yellow-1,102_yellow,jewani,jewani,j e w a n i,981,,,Yukuna,Yukuna,yucu1253,Yucuna,ycn,Arawakan,,yellow,1424,YELLOW,false,expert

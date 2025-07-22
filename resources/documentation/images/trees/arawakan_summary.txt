@@ -1,0 +1,20 @@
+Arawakan Language Family Tree
+========================================
+
+Dataset: chaconarawakan.tsv
+Languages: 8
+Tree height: 3.700
+Parameters: {'strategy': 'fixed', 'initial_value': 0.5}
+
+Languages in tree:
+  - Achagua
+  - Baniwa
+  - Kabiyari
+  - Piapoco
+  - Resigaro
+  - Tariana
+  - Warekena
+  - Yukuna
+
+Newick format:
+((Tariana:2.7,Warekena:2.7):1,((Achagua:0.3,Piapoco:0.3):0.2,((Baniwa:0.1,Resigaro:0.1):0.1,(Kabiyari:0.1,Yukuna:0.1):0.1):0.2):1);

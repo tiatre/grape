@@ -1,0 +1,732 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+ProtoPurus-1_body-1,1_body,*-mane,mane,m a n e,1,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,body,1480,BODY,false,expert
+Inapari-1_body-1,1_body,maná-ʔa-ti ,maná-ʔa-ti,m a n á/a + ʔ a + t i,1,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,body,1480,BODY,false,expert
+Apurina-1_body-1,1_body,-mane ,-mane,m a n e,1,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,body,1480,BODY,false,expert
+Yine-1_body-1,1_body,-mane ,-mane,m a n e,1,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,body,1480,BODY,false,expert
+ProtoPurus-2_head-1,2_head,*-kɨwɨ,kɨwɨ,k ɨ w ɨ,2,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,head,1256,HEAD,false,expert
+Inapari-2_head-1,2_head,hɨwɨ́-ti ,hɨwɨ́-ti,h ɨ w ɨ́/ɨ + t i,2,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,head,1256,HEAD,false,expert
+Apurina-2_head-1,2_head,-kɨwɨ ,-kɨwɨ,k ɨ w ɨ,2,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,head,1256,HEAD,false,expert
+Yine-2_head-1,2_head,-çiwɨ ,-çiwɨ,ç i w ɨ,2,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,head,1256,HEAD,false,expert
+ProtoPurus-3_eye-1,3_eye,*-hokɨ,hokɨ,h o k ɨ,3,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,eye,1248,EYE,false,expert
+Inapari-3_eye-1,3_eye,ohɨ-tí ,ohɨ-tí,o h ɨ + t í/i,3,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,eye,1248,EYE,false,expert
+Apurina-3_eye-1,3_eye,-okɨ ,-okɨ,o k ɨ,3,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,eye,1248,EYE,false,expert
+Yine-3_eye-1,3_eye,hi-hoçi,hi-hoçi,h i + h o ç i,3,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,eye,1248,EYE,false,expert
+ProtoPurus-4_earhole-1,4_earhole,*-kena-ko,kena-ko,k e n a + k o,4,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,earhole,3891,EARHOLE,false,expert
+Inapari-4_earhole-1,4_earhole,hanáʔo-ti ,hanáʔo-ti,h a n á/a ʔ o + t i,4,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,earhole,3891,EARHOLE,false,expert
+Apurina-4_earhole-1,4_earhole,-kenako-kɨ ,-kenako-kɨ,k e n a k o + k ɨ,4,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,earhole,3891,EARHOLE,false,expert
+Yine-4_earhole-1,4_earhole,-çnako-pna ,-çnako-pna,ç n a k o + p n a,4,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,earhole,3891,EARHOLE,false,expert
+ProtoPurus-5_hairfeather-1,5_hairfeather,*-piti,piti,p i t i,5,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hair/feather,2381,FEATHER OR FUR OR HAIR,false,expert
+Inapari-5_hairfeather-1,5_hairfeather,piʧi-tí ,piʧi-tí,p i tʃ i + t í/i,5,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hair/feather,2381,FEATHER OR FUR OR HAIR,false,expert
+Apurina-5_hairfeather-1,5_hairfeather,-piti ,-piti,p i t i,5,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,hair/feather,2381,FEATHER OR FUR OR HAIR,false,expert
+Yine-5_hairfeather-1,5_hairfeather,-pici ,-pici,p i c/tʃ i,5,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hair/feather,2381,FEATHER OR FUR OR HAIR,false,expert
+ProtoPurus-6_mouth-1,6_mouth,*-nama,nama,n a m a,6,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,mouth,674,MOUTH,false,expert
+Inapari-6_mouth-1,6_mouth,namá-ti ,namá-ti,n a m á/a + t i,6,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,mouth,674,MOUTH,false,expert
+Apurina-6_mouth-1,6_mouth,-nama ,-nama,n a m a,6,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,mouth,674,MOUTH,false,expert
+Yine-6_mouth-1,6_mouth,-nama ,-nama,n a m a,6,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,mouth,674,MOUTH,false,expert
+ProtoPurus-7_lip-1,7_lip,*-potu,potu,p o t u,7,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,lip,478,LIP,false,expert
+Inapari-7_lip-1,7_lip,potu-maʧá-ti ,potu-maʧá-ti,p o t u + m a tʃ á/a + t i,7,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,lip,478,LIP,false,expert
+Apurina-7_lip-1,7_lip,-poto ,-poto,p o t o,7,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,lip,478,LIP,false,expert
+Yine-7_lip-1,7_lip,hi-ʃa-pto ,hi-ʃa-pto,h i + ʃ a + p t o,7,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,lip,478,LIP,false,expert
+ProtoPurus-8_beard-1,8_beard,*-sia-potu,sia-potu,s i a + p o t u,8,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,beard,678,BEARD,false,expert
+Inapari-8_beard-1,8_beard,ijapotú-ti ,ijapotú-ti,i j a p o t ú/u + t i,8,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,beard,678,BEARD,false,expert
+Apurina-8_beard-1,8_beard,ʃiãpoto ,ʃiãpoto,ʃ i ã p o t o,8,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,beard,678,BEARD,false,expert
+Yine-8_beard-1,8_beard,hi-ʃa-pto ,hi-ʃa-pto,h i + ʃ a + p t o,8,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,beard,678,BEARD,false,expert
+ProtoPurus-9_tongue-1,9_tongue,*-nenɨ,nenɨ,n e n ɨ,9,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,tongue,1205,TONGUE,false,expert
+Inapari-9_tongue-1,9_tongue,není-pa-ti ,není-pa-ti,n e n í/i + p a + t i,9,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,tongue,1205,TONGUE,false,expert
+Apurina-9_tongue-1,9_tongue,-nɨnɨ ,-nɨnɨ,n ɨ n ɨ,9,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,tongue,1205,TONGUE,false,expert
+Yine-9_tongue-1,9_tongue,hi-nnɨ ,hi-nnɨ,h i + n n ɨ,9,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,tongue,1205,TONGUE,false,expert
+ProtoPurus-10_nose-1,10_nose,*-kiri,kiri,k i r i,10,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,nose,1221,NOSE,false,expert
+Inapari-10_nose-1,10_nose,hirí-ti ,hirí-ti,h i r í/i + t i,10,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,nose,1221,NOSE,false,expert
+Apurina-10_nose-1,10_nose,-kiri ,-kiri,k i r i,10,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,nose,1221,NOSE,false,expert
+Yine-10_nose-1,10_nose,hi-çri ,hi-çri,h i + ç r i,10,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,nose,1221,NOSE,false,expert
+ProtoPurus-11_bone-1,11_bone,*-hapɨ,hapɨ,h a p ɨ,11,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bone,1394,BONE,false,expert
+Inapari-11_bone-1,11_bone,apɨ-tí ,apɨ-tí,a p ɨ + t í/i,11,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bone,1394,BONE,false,expert
+Apurina-11_bone-1,11_bone,-apɨ ,-apɨ,a p ɨ,11,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bone,1394,BONE,false,expert
+Yine-11_bone-1,11_bone,hi-hapɨ ,hi-hapɨ,h i + h a p ɨ,11,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bone,1394,BONE,false,expert
+ProtoPurus-12_back-1,12_back,*-takɨ,takɨ,t a k ɨ,12,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,back,1291,BACK,false,expert
+Inapari-12_back-1,12_back,ʧahɨ́-ti ,ʧahɨ́-ti,tʃ a h ɨ́/ɨ + t i,12,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,back,1291,BACK,false,expert
+Yine-12_back-1,12_back,hi-tçi ,hi-tçi,h i + t ç i,12,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,back,1291,BACK,false,expert
+ProtoPurus-13_breast-1,13_breast,*-tenɨ,tenɨ,t e n ɨ,13,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,breast,1402,BREAST,false,expert
+Inapari-13_breast-1,13_breast,-ʧini ,-ʧini,tʃ i n i,13,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,breast,1402,BREAST,false,expert
+Apurina-13_breast-1,13_breast,-tenɨ ,-tenɨ,t e n ɨ,13,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,breast,1402,BREAST,false,expert
+Yine-13_breast-1,13_breast,tnɨ-ʧi ,tnɨ-ʧi,t n ɨ + tʃ i,13,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,breast,1402,BREAST,false,expert
+ProtoPurus-13_breast-2,13_breast,*-tenɨ-kɨ,tenɨ-kɨ,t e n ɨ + k ɨ,14,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,breast,1402,BREAST,false,expert
+Inapari-13_breast-2,13_breast,ʧiní-hɨ-ti ,ʧiní-hɨ-ti,tʃ i n í/i + h ɨ + t i,14,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,breast,1402,BREAST,false,expert
+Apurina-13_breast-2,13_breast,-tenɨ-kɨ ,-tenɨ-kɨ,t e n ɨ + k ɨ,14,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,breast,1402,BREAST,false,expert
+ProtoPurus-15_chest-1,15_chest,*-turu-,turu,t u r u,15,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,chest,1592,CHEST,false,expert
+Inapari-15_chest-1,15_chest,turú-ʧa-ti ,turú-ʧa-ti,t u r ú/u + tʃ a + t i,15,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,chest,1592,CHEST,false,expert
+Apurina-15_chest-1,15_chest,-toro-ta ,-toro-ta,t o r o + t a,15,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,chest,1592,CHEST,false,expert
+ProtoPurus-16_heart-1,16_heart,*-hakɨ,hakɨ,h a k ɨ,16,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,heart,1223,HEART,false,expert
+Inapari-16_heart-1,16_heart,ahɨ́-pa-ti ,ahɨ́-pa-ti,a h ɨ́/ɨ + p a + t i,16,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,heart,1223,HEART,false,expert
+Apurina-16_heart-1,16_heart,-(h)ãkɨ-pa ,-ãkɨ-pa,ã k ɨ + p a,16,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,heart,1223,HEART,false,expert
+Yine-16_heart-1,16_heart,-haç-ʧi / r-açi ,-haç-ʧi,h a ç + tʃ i,16,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,heart,1223,HEART,false,expert
+ProtoPurus-17_liver-1,17_liver,*-hupana,hupana,h u p a n a,17,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,liver,1224,LIVER,false,expert
+Inapari-17_liver-1,17_liver,upaná-ti ,upaná-ti,u p a n á/a + t i,17,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,liver,1224,LIVER,false,expert
+Apurina-17_liver-1,17_liver,-opana ,-opana,o p a n a,17,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,liver,1224,LIVER,false,expert
+Yine-17_liver-1,17_liver,hi-hopna ,hi-hopna,h i + h o p n a,17,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,liver,1224,LIVER,false,expert
+ProtoPurus-18_blood-1,18_blood,*-hɨra-ha,hɨra-ha,h ɨ r a + h a,18,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,blood,946,BLOOD,false,expert
+Inapari-18_blood-1,18_blood,ɨráá-ti ,ɨráá-ti,ɨ r áá/aː + t i,18,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,blood,946,BLOOD,false,expert
+Apurina-18_blood-1,18_blood,-(h)erẽka ,-erẽka,e r ẽ k a,18,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,blood,946,BLOOD,false,expert
+Yine-18_blood-1,18_blood,hi-hraha /hran-ʧi ,hi-hraha,h i + h r a h a,18,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,blood,946,BLOOD,false,expert
+ProtoPurus-19_flesh-1,19_flesh,*-hɨtɨ,hɨtɨ,h ɨ t ɨ,19,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,flesh,2259,FLESH,false,expert
+Inapari-19_flesh-1,19_flesh,ɨʧi-tí ,ɨʧi-tí,ɨ tʃ i + t í/i,19,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,flesh,2259,FLESH,false,expert
+Yine-19_flesh-1,19_flesh,hi-hitɨ ,hi-hitɨ,h i + h i t ɨ,19,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,flesh,2259,FLESH,false,expert
+ProtoPurus-20_veins-1,20_veins,*-kutsa,kutsa,k u ts a,20,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,Veins,1924,VEIN,false,expert
+Inapari-20_veins-1,20_veins,uta-tí ,uta-tí,u t a + t í/i,20,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,Veins,1924,VEIN,false,expert
+Apurina-20_veins-1,20_veins,-kotsa ,-kotsa,k o ts a,20,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,Veins,1924,VEIN,false,expert
+Yine-20_veins-1,20_veins,hi-kotsa ,hi-kotsa,h i + k o ts a,20,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,Veins,1924,VEIN,false,expert
+ProtoPurus-21_buttocks-1,21_buttocks,*-mutu,mutu,m u t u,21,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,buttocks,834,BUTTOCKS,false,expert
+Inapari-21_buttocks-1,21_buttocks,mutu-tí ,mutu-tí,m u t u + t í/i,21,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,buttocks,834,BUTTOCKS,false,expert
+Yine-21_buttocks-1,21_buttocks,hi-moto / mot-ʧi ,hi-moto,h i + m o t o,21,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,buttocks,834,BUTTOCKS,false,expert
+ProtoPurus-22_leg-1,22_leg,*-tapari,tapari,t a p a r i,22,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,leg,1297,LEG,false,expert
+Inapari-22_leg-1,22_leg,ʧaparí-ti ,ʧaparí-ti,tʃ a p a r í/i + t i,22,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,leg,1297,LEG,false,expert
+Yine-22_leg-1,22_leg,hi-tpali ,hi-tpali,h i + t p a l i,22,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,leg,1297,LEG,false,expert
+ProtoPurus-23_thigh-1,23_thigh,*-puri,puri,p u r i,23,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,thigh,800,THIGH,false,expert
+Inapari-23_thigh-1,23_thigh,purí-na-ti ,purí-na-ti,p u r í/i + n a + t i,23,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,thigh,800,THIGH,false,expert
+Apurina-23_thigh-1,23_thigh,-pori-ke ,-pori-ke,p o r i + k e,23,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,thigh,800,THIGH,false,expert
+ProtoPurus-24_knee-1,24_knee,*-sukɨ,sukɨ,s u k ɨ,24,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,knee,1371,KNEE,false,expert
+Inapari-24_knee-1,24_knee,uhɨ́-ʧa-ti ,uhɨ́-ʧa-ti,u h ɨ́/ɨ + tʃ a + t i,24,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,knee,1371,KNEE,false,expert
+Yine-24_knee-1,24_knee,hi-soçi ,hi-soçi,h i + s o ç i,24,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,knee,1371,KNEE,false,expert
+ProtoPurus-25_shin-1,25_shin,*-paru,paru,p a r u,25,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,shin,186,SHIN,false,expert
+Inapari-25_shin-1,25_shin,parú-ti ,parú-ti,p a r ú/u + t i,25,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,shin,186,SHIN,false,expert
+Yine-25_shin-1,25_shin,hi-palo-çi ,hi-palo-çi,h i + p a l o + ç i,25,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,shin,186,SHIN,false,expert
+ProtoPurus-26_foot-1,26_foot,*-kiti,kiti,k i t i,26,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,foot,1301,FOOT,false,expert
+Inapari-26_foot-1,26_foot,hiʧí-pa-ti ,hiʧí-pa-ti,h i tʃ í/i + p a + t i,26,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,foot,1301,FOOT,false,expert
+Apurina-26_foot-1,26_foot,-kiti ,-kiti,k i t i,26,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,foot,1301,FOOT,false,expert
+Yine-26_foot-1,26_foot,hi-çici ,hi-çici,h i + ç i c/tʃ i,26,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,foot,1301,FOOT,false,expert
+ProtoPurus-27_arm-1,27_arm,*-kano,kano,k a n o,27,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,arm,1673,ARM,false,expert
+Inapari-27_arm-1,27_arm,ano-he-tí ,ano-he-tí,a n o + h e + t í/i,27,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,arm,1673,ARM,false,expert
+Apurina-27_arm-1,27_arm,-kano ,-kano,k a n o,27,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,arm,1673,ARM,false,expert
+Yine-27_arm-1,27_arm,-kano ,-kano,k a n o,27,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,arm,1673,ARM,false,expert
+ProtoPurus-28_elbow-1,28_elbow,*-hitsu,hitsu,h i ts u,28,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,elbow,981,ELBOW,false,expert
+Inapari-28_elbow-1,28_elbow,hitu-ré-hɨ-ti ,hitu-ré-hɨ-ti,h i t u + r é/e + h ɨ + t i,28,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,elbow,981,ELBOW,false,expert
+Yine-28_elbow-1,28_elbow,hitso-he-re ,hitso-he-re,h i ts o + h e + r e,28,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,elbow,981,ELBOW,false,expert
+ProtoPurus-29_hand-1,29_hand,*-muju,muju,m u j u,29,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hand,1277,HAND,false,expert
+Inapari-29_hand-1,29_hand,mujú-ti ,mujú-ti,m u j ú/u + t i,29,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hand,1277,HAND,false,expert
+Apurina-29_hand-1,29_hand,-pio ,-pio,p i o,29,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,hand,1277,HAND,false,expert
+Yine-29_hand-1,29_hand,hi-mjo / mjo-ʧi ,hi-mjo,h i + m j o,29,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hand,1277,HAND,false,expert
+ProtoPurus-30_neck-1,30_neck,*-nu-,nu,n u,30,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,neck,1333,NECK,false,expert
+Inapari-30_neck-1,30_neck,nu-pi-tí ,nu-pi-tí,n u + p i + t í/i,30,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,neck,1333,NECK,false,expert
+Apurina-30_neck-1,30_neck,-no-kɨ / -no-pi ,-no-kɨ,n o + k ɨ,30,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,neck,1333,NECK,false,expert
+Yine-30_neck-1,30_neck,hi-no-çi / no-ʃ-ʧi,hi-no-çi,h i + n o + ç i,30,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,neck,1333,NECK,false,expert
+ProtoPurus-31_skin-1,31_skin,*-mata,mata,m a t a,31,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,skin,763,SKIN,false,expert
+Inapari-31_skin-1,31_skin,maʧá-ti ,maʧá-ti,m a tʃ á/a + t i,31,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,skin,763,SKIN,false,expert
+Apurina-31_skin-1,31_skin,-mata ,-mata,m a t a,31,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,skin,763,SKIN,false,expert
+Yine-31_skin-1,31_skin,hi-mta ,hi-mta,h i + m t a,31,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,skin,763,SKIN,false,expert
+ProtoPurus-32_navel-1,32_navel,*-puru,puru,p u r u,32,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,navel,1838,NAVEL,false,expert
+Inapari-32_navel-1,32_navel,purú-hɨ-ti ,purú-hɨ-ti,p u r ú/u + h ɨ + t i,32,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,navel,1838,NAVEL,false,expert
+Yine-32_navel-1,32_navel,hi-plo ,hi-plo,h i + p l o,32,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,navel,1838,NAVEL,false,expert
+ProtoPurus-33_tail-1,33_tail,*-si-pi,si-pi,s i + p i,33,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,tail,1220,TAIL,false,expert
+Inapari-33_tail-1,33_tail,ipi-tí ,ipi-tí,i p i + t í/i,33,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,tail,1220,TAIL,false,expert
+Apurina-33_tail-1,33_tail,-ʃipi ,-ʃipi,ʃ i p i,33,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,tail,1220,TAIL,false,expert
+Yine-33_tail-1,33_tail,hi-nʃi / nʃi-ʧi ,hi-nʃi,h i + n ʃ i,33,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,tail,1220,TAIL,false,expert
+ProtoPurus-34_wing-1,34_wing,*-mekɨ,mekɨ,m e k ɨ,34,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,wing,1257,WING,false,expert
+Inapari-34_wing-1,34_wing,mehɨ́-ʧa-pi-ti ,mehɨ́-ʧa-pi-ti,m e h ɨ́/ɨ + tʃ a + p i + t i,34,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,wing,1257,WING,false,expert
+Apurina-34_wing-1,34_wing,-mekɨ ,-mekɨ,m e k ɨ,34,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,wing,1257,WING,false,expert
+Yine-34_wing-1,34_wing,hi-meçi ,hi-meçi,h i + m e ç i,34,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,wing,1257,WING,false,expert
+ProtoPurus-35_egg-1,35_egg,*-nakɨ,nakɨ,n a k ɨ,35,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,egg,744,EGG,false,expert
+Inapari-35_egg-1,35_egg,a-nahɨ-rɨ́ ,a-nahɨ-rɨ́,a + n a h ɨ + r ɨ́/ɨ,35,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,egg,744,EGG,false,expert
+Apurina-35_egg-1,35_egg,nakɨ ,nakɨ,n a k ɨ,35,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,egg,744,EGG,false,expert
+Yine-35_egg-1,35_egg,hi-naçi ,hi-naçi,h i + n a ç i,35,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,egg,744,EGG,false,expert
+ProtoPurus-36_feces-1,36_feces,*-tika,tika,t i k a,36,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,feces,675,FAECES (EXCREMENT),false,expert
+Inapari-36_feces-1,36_feces,ri-ʧiʔá-ma ,ri-ʧiʔá-ma,r i + tʃ i ʔ á/a + m a,36,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,feces,675,FAECES (EXCREMENT),false,expert
+Apurina-36_feces-1,36_feces,tika-ti ,tika-ti,t i k a + t i,36,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,feces,675,FAECES (EXCREMENT),false,expert
+Yine-36_feces-1,36_feces,rɨ-ʧka ,rɨ-ʧka,r ɨ + tʃ k a,36,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,feces,675,FAECES (EXCREMENT),false,expert
+ProtoPurus-37_fart-1,37_fart,*-ɨkɨnɨ,ɨkɨnɨ,ɨ k ɨ n ɨ,37,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fart,1159,FART,false,expert
+Inapari-37_fart-1,37_fart,ɨhɨnɨ́-ti ,ɨhɨnɨ́-ti,ɨ h ɨ n ɨ́/ɨ + t i,37,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,fart,1159,FART,false,expert
+Yine-37_fart-1,37_fart,hiçnɨ-ʧi / r-ɨçnɨ ,hiçnɨ-ʧi,h i ç n ɨ + tʃ i,37,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fart,1159,FART,false,expert
+ProtoPurus-38_urine-1,38_urine,*-tsɨnɨ-ha,tsɨnɨ-ha,ts ɨ n ɨ + h a,38,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,urine,1142,URINE,false,expert
+Inapari-38_urine-1,38_urine,tɨnɨ́-ti ,tɨnɨ́-ti,t ɨ n ɨ́/ɨ + t i,38,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,urine,1142,URINE,false,expert
+Apurina-38_urine-1,38_urine,-tsɨnãa ,-tsɨnãa,ts ɨ n ã a,38,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,urine,1142,URINE,false,expert
+Yine-38_urine-1,38_urine,-tsɨnha ,-tsɨnha,ts ɨ nh/n̥ a,38,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,urine,1142,URINE,false,expert
+ProtoPurus-39_fat-1,39_fat,*-ihi,ihi,i h i,39,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fat,323,FAT (ORGANIC SUBSTANCE),false,expert
+Apurina-39_fat-1,39_fat,ĩĩ ,ĩĩ,ĩː,39,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,fat,323,FAT (ORGANIC SUBSTANCE),false,expert
+Yine-39_fat-1,39_fat,ç-hi-rɨ,ç-hi-rɨ,ç + h i + r ɨ,39,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fat,323,FAT (ORGANIC SUBSTANCE),false,expert
+ProtoPurus-40_name-1,40_name,*-hɨwaka,hɨwaka,h ɨ w a k a,40,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,name,1405,NAME,false,expert
+Inapari-40_name-1,40_name,ɨwáʔa-ti ,ɨwáʔa-ti,ɨ w á/a ʔ a + t i,40,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,name,1405,NAME,false,expert
+Apurina-40_name-1,40_name,-(h)iwãka ,-iwãka,i w ã k a,40,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,name,1405,NAME,false,expert
+Yine-40_name-1,40_name,-hiwaka / hiwak-ʧi ,-hiwaka,h i w a k a,40,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,name,1405,NAME,false,expert
+ProtoPurus-41_house-1,41_house,*-pana,pana,p a n a,41,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,house,1252,HOUSE,false,expert
+Inapari-41_house-1,41_house,pana-tí ,pana-tí,p a n a + t í/i,41,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,house,1252,HOUSE,false,expert
+Yine-41_house-1,41_house,pan-ʧi ,pan-ʧi,p a n + tʃ i,41,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,house,1252,HOUSE,false,expert
+ProtoPurus-42_village-1,42_village,*-puku,puku,p u k u,42,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,village,930,VILLAGE,false,expert
+Inapari-42_village-1,42_village,i-púʔú-ri ,i-púʔú-ri,i + p ú/u ʔ ú/u + r i,42,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,village,930,VILLAGE,false,expert
+Apurina-42_village-1,42_village,-awa-poko ,-awa-poko,a w a + p o k o,42,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,village,930,VILLAGE,false,expert
+Yine-42_village-1,42_village,pok-ʧi ,pok-ʧi,p o k + tʃ i,42,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,village,930,VILLAGE,false,expert
+ProtoPurus-43_nest-1,43_nest,*sijari,sijari,s i j a r i,43,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,nest,539,NEST,false,expert
+Inapari-43_nest-1,43_nest,ijári-ti ,ijári-ti,i j á/a r i + t i,43,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,nest,539,NEST,false,expert
+Yine-43_nest-1,43_nest,hi-ʃale ,hi-ʃale,h i + ʃ a l e,43,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,nest,539,NEST,false,expert
+ProtoPurus-44_path-1,44_path,*hatɨnɨ,hatɨnɨ,h a t ɨ n ɨ,44,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,path,2252,PATH,false,expert
+Inapari-44_path-1,44_path,haʧiní ,haʧiní,h a tʃ i n í/i,44,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,path,2252,PATH,false,expert
+Yine-44_path-1,44_path,hatnɨ-hapo / r-atnɨ-hapo-te ,hatnɨ-hapo,h a t n ɨ + h a p o,44,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,path,2252,PATH,false,expert
+ProtoPurus-45_path2-1,45_path2,*-hapO,hapO,h a p O/o,45,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,path2,2252,PATH,false,expert
+Apurina-45_path2-1,45_path2,-ãpo-rɨ ,-ãpo-rɨ,ã p o + r ɨ,45,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,path2,2252,PATH,false,expert
+Yine-45_path2-1,45_path2,hatnɨ-hapo ,hatnɨ-hapo,h a t n ɨ + h a p o,45,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,path2,2252,PATH,false,expert
+ProtoPurus-46_bow-1,46_bow,*tapu,tapu,t a p u,46,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bow,994,BOW,false,expert
+Inapari-46_bow-1,46_bow,ʧapú-ri ,ʧapú-ri,tʃ a p ú/u + r i,46,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bow,994,BOW,false,expert
+Apurina-46_bow-1,46_bow,tapo ,tapo,t a p o,46,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bow,994,BOW,false,expert
+Yine-46_bow-1,46_bow,[hi]tpo ,[hi]tpo,h i t p o,46,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bow,994,BOW,false,expert
+ProtoPurus-47_arrow-1,47_arrow,*kasiri,kasiri,k a s i r i,47,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,arrow,977,ARROW,false,expert
+Inapari-47_arrow-1,47_arrow,haári,haári,h a á/a r i,47,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,arrow,977,ARROW,false,expert
+Yine-47_arrow-1,47_arrow,kaʃri ,kaʃri,k a ʃ r i,47,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,arrow,977,ARROW,false,expert
+ProtoPurus-48_rope-1,48_rope,*-tsa,tsa,ts a,48,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,rope,1218,ROPE,false,expert
+Inapari-48_rope-1,48_rope,i-tá ,i-tá,i + t á/a,48,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,rope,1218,ROPE,false,expert
+Apurina-48_rope-1,48_rope,-tsa ,-tsa,ts a,48,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,rope,1218,ROPE,false,expert
+Yine-48_rope-1,48_rope,hi-tsa ,hi-tsa,h i + ts a,48,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,rope,1218,ROPE,false,expert
+ProtoPurus-49_canoe-1,49_canoe,*kanawa,kanawa,k a n a w a,49,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,canoe,1970,CANOE,false,expert
+Inapari-49_canoe-1,49_canoe,anawá ,anawá,a n a w á/a,49,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,canoe,1970,CANOE,false,expert
+Apurina-49_canoe-1,49_canoe,kanawa ,kanawa,k a n a w a,49,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,canoe,1970,CANOE,false,expert
+Yine-49_canoe-1,49_canoe,kanawa ,kanawa,k a n a w a,49,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,canoe,1970,CANOE,false,expert
+ProtoPurus-50_raft-1,50_raft,*pɨmarɨ,pɨmarɨ,p ɨ m a r ɨ,50,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,raft,1664,RAFT,false,expert
+Inapari-50_raft-1,50_raft,pɨmári ,pɨmári,p ɨ m á/a r i,50,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,raft,1664,RAFT,false,expert
+Yine-50_raft-1,50_raft,pɨmlɨ ,pɨmlɨ,p ɨ m l ɨ,50,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,raft,1664,RAFT,false,expert
+ProtoPurus-51_person-1,51_person,*kakɨtɨ,kakɨtɨ,k a k ɨ t ɨ,51,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,person,683,PERSON,false,expert
+Inapari-51_person-1,51_person,ahɨ́ʧi ,ahɨ́ʧi,a h ɨ́/ɨ tʃ i,51,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,person,683,PERSON,false,expert
+Apurina-51_person-1,51_person,kãkɨtɨ ,kãkɨtɨ,k ã k ɨ t ɨ,51,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,person,683,PERSON,false,expert
+Yine-51_person-1,51_person,kaçitɨ ,kaçitɨ,k a ç i t ɨ,51,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,person,683,PERSON,false,expert
+ProtoPurus-52_spiritsoul-1,52_spiritsoul,*kama-ti,kama-ti,k a m a + t i,52,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,spirit/soul,811,SOUL,false,expert
+Inapari-52_spiritsoul-1,52_spiritsoul,amáti ,amáti,a m á/a t i,52,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,spirit/soul,811,SOUL,false,expert
+Apurina-52_spiritsoul-1,52_spiritsoul,kamaʧi ,kamaʧi,k a m a tʃ i,52,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,spirit/soul,811,SOUL,false,expert
+Yine-52_spiritsoul-1,52_spiritsoul,kamʧi ,kamʧi,k a m tʃ i,52,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,spirit/soul,811,SOUL,false,expert
+ProtoPurus-53_man-1,53_man,*kekɨ,kekɨ,k e k ɨ,53,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,man,1554,MAN,false,expert
+Inapari-53_man-1,53_man,ehɨ́,ehɨ́,e h ɨ́/ɨ,53,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,man,1554,MAN,false,expert
+Apurina-53_man-1,53_man,kɨkɨ ,kɨkɨ,k ɨ k ɨ,53,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,man,1554,MAN,false,expert
+Yine-53_man-1,53_man,çeçi ,çeçi,ç e ç i,53,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,man,1554,MAN,false,expert
+ProtoPurus-54_woman-1,54_woman,*sɨtiO,sɨtiO,s ɨ t i O/o,54,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,woman,962,WOMAN,false,expert
+Apurina-54_woman-1,54_woman,sɨto ,sɨto,s ɨ t o,54,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,woman,962,WOMAN,false,expert
+Yine-54_woman-1,54_woman,sɨco ,sɨco,s ɨ c/tʃ o,54,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,woman,962,WOMAN,false,expert
+ProtoPurus-55_father-1,55_father,*-hɨrɨ,hɨrɨ,h ɨ r ɨ,55,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,father,1217,FATHER,false,expert
+Inapari-55_father-1,55_father,ɨrɨ́-ti ,ɨrɨ́-ti,ɨ r ɨ́/ɨ + t i,55,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,father,1217,FATHER,false,expert
+Apurina-55_father-1,55_father,-ɨrɨ ,-ɨrɨ,ɨ r ɨ,55,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,father,1217,FATHER,false,expert
+Yine-55_father-1,55_father,r-ɨrɨ / hir-ʧi ,r-ɨrɨ,r + ɨ r ɨ,55,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,father,1217,FATHER,false,expert
+ProtoPurus-56_father2-1,56_father2,*patɨ,patɨ,p a t ɨ,56,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,father2,1217,FATHER,false,expert
+Apurina-56_father2-1,56_father2,patɨ ,patɨ,p a t ɨ,56,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,father2,1217,FATHER,false,expert
+Yine-56_father2-1,56_father2,patɨ ,patɨ,p a t ɨ,56,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,father2,1217,FATHER,false,expert
+ProtoPurus-57_mother-1,57_mother,*-ɨnɨru,ɨnɨru,ɨ n ɨ r u,57,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,mother,1216,MOTHER,false,expert
+Inapari-57_mother-1,57_mother,ɨnɨrú-ti ,ɨnɨrú-ti,ɨ n ɨ r ú/u + t i,57,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,mother,1216,MOTHER,false,expert
+Apurina-57_mother-1,57_mother,-ɨnɨro ,-ɨnɨro,ɨ n ɨ r o,57,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,mother,1216,MOTHER,false,expert
+Yine-57_mother-1,57_mother,r-ɨnro ,r-ɨnro,r + ɨ n r o,57,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,mother,1216,MOTHER,false,expert
+ProtoPurus-58_mother2-1,58_mother2,*natu,natu,n a t u,58,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,mother2,1216,MOTHER,false,expert
+Inapari-58_mother2-1,58_mother2,natú ,natú,n a t ú/u,58,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,mother2,1216,MOTHER,false,expert
+Apurina-58_mother2-1,58_mother2,natú,natú,n a t ú/u,58,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,mother2,1216,MOTHER,false,expert
+Yine-58_mother2-1,58_mother2,nato,nato,n a t o,58,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,mother2,1216,MOTHER,false,expert
+ProtoPurus-59_son-1,59_son,*-tɨrɨ,tɨrɨ,t ɨ r ɨ,59,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,son,1620,SON,false,expert
+Inapari-59_son-1,59_son,tɨrɨ́-ti ,tɨrɨ́-ti,t ɨ r ɨ́/ɨ + t i,59,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,son,1620,SON,false,expert
+Yine-59_son-1,59_son,hi-tɨrɨ ,hi-tɨrɨ,h i + t ɨ r ɨ,59,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,son,1620,SON,false,expert
+ProtoPurus-60_daughter-1,60_daughter,*-situ,situ,s i t u,60,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,daughter,1357,DAUGHTER,false,expert
+Inapari-60_daughter-1,60_daughter,itú-ti ,itú-ti,i t ú/u + t i,60,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,daughter,1357,DAUGHTER,false,expert
+Yine-60_daughter-1,60_daughter,rɨ-ʃiʧo ,rɨ-ʃiʧo,r ɨ + ʃ i tʃ o,60,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,daughter,1357,DAUGHTER,false,expert
+ProtoPurus-61_grandson-1,61_grandson,*-mekani-rɨ,mekani-rɨ,m e k a n i + r ɨ,61,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,grandson,1618,GRANDSON,false,expert
+Inapari-61_grandson-1,61_grandson,meʔani-rí-si-ti ,meʔani-rí-si-ti,m e ʔ a n i + r í/i + s i + t i,61,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,grandson,1618,GRANDSON,false,expert
+Apurina-61_grandson-1,61_grandson,-mekaɲi-rɨ ,-mekaɲi-rɨ,m e k a ɲ i + r ɨ,61,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,grandson,1618,GRANDSON,false,expert
+Yine-61_grandson-1,61_grandson,hi-mekahji ,hi-mekahji,h i + m e k a h j i,61,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,grandson,1618,GRANDSON,false,expert
+ProtoPurus-62_granddaughter-1,62_granddaughter,*-mekani-ro,mekani-ro,m e k a n i + r o,62,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,granddaughter,1619,GRANDDAUGHTER,false,expert
+Inapari-62_granddaughter-1,62_granddaughter,meʔani-ró-hɨ-ti ,meʔani-ró-hɨ-ti,m e ʔ a n i + r ó/o + h ɨ + t i,62,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,granddaughter,1619,GRANDDAUGHTER,false,expert
+Apurina-62_granddaughter-1,62_granddaughter,-mekaɲi-ro ,-mekaɲi-ro,m e k a ɲ i + r o,62,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,granddaughter,1619,GRANDDAUGHTER,false,expert
+Yine-62_granddaughter-1,62_granddaughter,to-mekahjo ,to-mekahjo,t o + m e k a h j o,62,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,granddaughter,1619,GRANDDAUGHTER,false,expert
+ProtoPurus-63_fatherinlaw-1,63_fatherinlaw,*-himatukɨ-,himatukɨ,h i m a t u k ɨ,63,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,father-in-law,1055,FATHER-IN-LAW,false,expert
+Inapari-63_fatherinlaw-1,63_fatherinlaw,imatuhɨtí-ri ,imatuhɨtí-ri,i m a t u h ɨ t í/i + r i,63,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,father-in-law,1055,FATHER-IN-LAW,false,expert
+Apurina-63_fatherinlaw-1,63_fatherinlaw,-imatɨkɨ-rɨ ,-imatɨkɨ-rɨ,i m a t ɨ k ɨ + r ɨ,63,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,father-in-law,1055,FATHER-IN-LAW,false,expert
+Yine-63_fatherinlaw-1,63_fatherinlaw,himatçi-rɨ / himatçi-r-ʧi ,himatçi-rɨ,h i m a t ç i + r ɨ,63,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,father-in-law,1055,FATHER-IN-LAW,false,expert
+ProtoPurus-64_motherinlaw-1,64_motherinlaw,*-himakɨ-,himakɨ,h i m a k ɨ,64,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,mother-in-law,1050,MOTHER-IN-LAW,false,expert
+Inapari-64_motherinlaw-1,64_motherinlaw,imahɨ-tí-ro ,imahɨ-tí-ro,i m a h ɨ + t í/i + r o,64,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,mother-in-law,1050,MOTHER-IN-LAW,false,expert
+Yine-64_motherinlaw-1,64_motherinlaw,himaçi-ro / himaçi-r-ʧi ,himaçi-ro,h i m a ç i + r o,64,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,mother-in-law,1050,MOTHER-IN-LAW,false,expert
+ProtoPurus-65_nephewniece-1,65_nephewniece,*-parikare-,parikare,p a r i k a r e,65,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,nephew/niece,3890,NEPHEW OR NIECE,false,expert
+Inapari-65_nephewniece-1,65_nephewniece,pariʔare-ró-ti ,pariʔare-ró-ti,p a r i ʔ a r e + r ó/o + t i,65,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,nephew/niece,3890,NEPHEW OR NIECE,false,expert
+Yine-65_nephewniece-1,65_nephewniece,palikle-rɨ ,palikle-rɨ,p a l i k l e + r ɨ,65,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,nephew/niece,3890,NEPHEW OR NIECE,false,expert
+ProtoPurus-65_nephewniece-2,65_nephewniece,*-parikare-,parikare,p a r i k a r e,65,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,nephew/niece,3890,NEPHEW OR NIECE,false,expert
+Inapari-65_nephewniece-2,65_nephewniece,pariʔare-rí-ti ,pariʔare-rí-ti,p a r i ʔ a r e + r í/i + t i,65,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,nephew/niece,3890,NEPHEW OR NIECE,false,expert
+ProtoPurus-66_youngerbrother-1,66_youngerbrother,*-epɨ-rɨ,epɨ-rɨ,e p ɨ + r ɨ,66,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,younger brother,1760,YOUNGER BROTHER,false,expert
+Inapari-66_youngerbrother-1,66_youngerbrother,epɨrɨ́-hɨ-ti ,epɨrɨ́-hɨ-ti,e p ɨ r ɨ́/ɨ + h ɨ + t i,66,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,younger brother,1760,YOUNGER BROTHER,false,expert
+Apurina-66_youngerbrother-1,66_youngerbrother,-epɨrɨ ,-epɨrɨ,e p ɨ r ɨ,66,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,younger brother,1760,YOUNGER BROTHER,false,expert
+Yine-66_youngerbrother-1,66_youngerbrother,r-epɨrɨ ,r-epɨrɨ,r + e p ɨ r ɨ,66,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,younger brother,1760,YOUNGER BROTHER,false,expert
+ProtoPurus-67_youngersister-1,67_youngersister,*-epɨ-ro,epɨ-ro,e p ɨ + r o,67,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,younger sister,1761,YOUNGER SISTER,false,expert
+Inapari-67_youngersister-1,67_youngersister,epɨro-hɨ-ti ,epɨro-hɨ-ti,e p ɨ r o + h ɨ + t i,67,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,younger sister,1761,YOUNGER SISTER,false,expert
+Yine-67_youngersister-1,67_youngersister,r-epɨro ,r-epɨro,r + e p ɨ r o,67,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,younger sister,1761,YOUNGER SISTER,false,expert
+ProtoPurus-68_grandmother-1,68_grandmother,*-akɨro,akɨro,a k ɨ r o,68,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,grandmother,1496,GRANDMOTHER,false,expert
+Inapari-68_grandmother-1,68_grandmother,ahɨró-ti ,ahɨró-ti,a h ɨ r ó/o + t i,68,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,grandmother,1496,GRANDMOTHER,false,expert
+Apurina-68_grandmother-1,68_grandmother,-akɨro ,-akɨro,a k ɨ r o,68,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,grandmother,1496,GRANDMOTHER,false,expert
+Yine-68_grandmother-1,68_grandmother,r-açiro ,r-açiro,r + a ç i r o,68,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,grandmother,1496,GRANDMOTHER,false,expert
+ProtoPurus-69_grandfather-1,69_grandfather,*-atukɨrɨ,atukɨrɨ,a t u k ɨ r ɨ,69,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,grandfather,1383,GRANDFATHER,false,expert
+Inapari-69_grandfather-1,69_grandfather,atuhɨrɨ́-ti ,atuhɨrɨ́-ti,a t u h ɨ r ɨ́/ɨ + t i,69,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,grandfather,1383,GRANDFATHER,false,expert
+Apurina-69_grandfather-1,69_grandfather,-atokɨrɨ ,-atokɨrɨ,a t o k ɨ r ɨ,69,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,grandfather,1383,GRANDFATHER,false,expert
+Yine-69_grandfather-1,69_grandfather,r-atçirɨ ,r-atçirɨ,r + a t ç i r ɨ,69,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,grandfather,1383,GRANDFATHER,false,expert
+ProtoPurus-70_pet-1,70_pet,*-pɨra,pɨra,p ɨ r a,70,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,pet,3780,PET,false,expert
+Apurina-70_pet-1,70_pet,-pɨra ,-pɨra,p ɨ r a,70,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,pet,3780,PET,false,expert
+Yine-70_pet-1,70_pet,pra-ʧi ,pra-ʧi,p r a + tʃ i,70,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,pet,3780,PET,false,expert
+ProtoPurus-71_pacarodentsp-1,71_pacarodentsp,*kajatɨ,kajatɨ,k a j a t ɨ,71,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,paca (rodent sp.),316,PACA,false,expert
+Inapari-71_pacarodentsp-1,71_pacarodentsp,ajáʧi ,ajáʧi,a j á/a tʃ i,71,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,paca (rodent sp.),316,PACA,false,expert
+Apurina-71_pacarodentsp-1,71_pacarodentsp,kajatɨ ,kajatɨ,k a j a t ɨ,71,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,paca (rodent sp.),316,PACA,false,expert
+Yine-71_pacarodentsp-1,71_pacarodentsp,kajatɨ ,kajatɨ,k a j a t ɨ,71,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,paca (rodent sp.),316,PACA,false,expert
+ProtoPurus-72_capybara-1,72_capybara,*hipetɨ,hipetɨ,h i p e t ɨ,72,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,capybara,314,CAPYBARA,false,expert
+Inapari-72_capybara-1,72_capybara,hipeʧí ,hipeʧí,h i p e tʃ í/i,72,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,capybara,314,CAPYBARA,false,expert
+Yine-72_capybara-1,72_capybara,hipetɨ ,hipetɨ,h i p e t ɨ,72,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,capybara,314,CAPYBARA,false,expert
+ProtoPurus-73_rat-1,73_rat,*kutsi,kutsi,k u ts i,73,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,rat,1490,RAT,false,expert
+Inapari-73_rat-1,73_rat,utí ,utí,u t í/i,73,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,rat,1490,RAT,false,expert
+Apurina-73_rat-1,73_rat,koʧi ,koʧi,k o tʃ i,73,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,rat,1490,RAT,false,expert
+Yine-73_rat-1,73_rat,koʧi ,koʧi,k o tʃ i,73,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,rat,1490,RAT,false,expert
+ProtoPurus-74_agouti-1,74_agouti,*pekiri,pekiri,p e k i r i,74,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,agouti,313,AGOUTI,false,expert
+Inapari-74_agouti-1,74_agouti,pehirí ,pehirí,p e h i r í/i,74,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,agouti,313,AGOUTI,false,expert
+Apurina-74_agouti-1,74_agouti,pekiri ,pekiri,p e k i r i,74,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,agouti,313,AGOUTI,false,expert
+Yine-74_agouti-1,74_agouti,peçri ,peçri,p e ç r i,74,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,agouti,313,AGOUTI,false,expert
+ProtoPurus-75_coati-1,75_coati,*kapisiri,kapisiri,k a p i s i r i,75,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,coati,2389,COATI (COATIMUNDI),false,expert
+Inapari-75_coati-1,75_coati,apíí ,apíí,a p íí/iː,75,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,coati,2389,COATI (COATIMUNDI),false,expert
+Apurina-75_coati-1,75_coati,kapiʃi ,kapiʃi,k a p i ʃ i,75,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,coati,2389,COATI (COATIMUNDI),false,expert
+Yine-75_coati-1,75_coati,kapʃi ,kapʃi,k a p ʃ i,75,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,coati,2389,COATI (COATIMUNDI),false,expert
+ProtoPurus-76_peccarysp1-1,76_peccarysp1,*meriti,meriti,m e r i t i,76,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,peccary (sp.)1,,,false,expert
+Inapari-76_peccarysp1-1,76_peccarysp1,meríʧi,meríʧi,m e r í/i tʃ i,76,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,peccary (sp.)1,,,false,expert
+Apurina-76_peccarysp1-1,76_peccarysp1,meriti,meriti,m e r i t i,76,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,peccary (sp.)1,,,false,expert
+Yine-76_peccarysp1-1,76_peccarysp1,mrici  ,mrici,m r i c/tʃ i,76,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,peccary (sp.)1,,,false,expert
+ProtoPurus-77_peccarysp2-1,77_peccarysp2,*hirarɨ,hirarɨ,h i r a r ɨ,77,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,peccary (sp.)2,,,false,expert
+Inapari-77_peccarysp2-1,77_peccarysp2,hirári ,hirári,h i r á/a r i,77,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,peccary (sp.)2,,,false,expert
+Apurina-77_peccarysp2-1,77_peccarysp2,irarɨ ,irarɨ,i r a r ɨ,77,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,peccary (sp.)2,,,false,expert
+Yine-77_peccarysp2-1,77_peccarysp2,hijalɨ,hijalɨ,h i j a l ɨ,77,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,peccary (sp.)2,,,false,expert
+ProtoPurus-78_anteater-1,78_anteater,*sɨwa,sɨwa,s ɨ w a,78,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,anteater,181,ANTEATER,false,expert
+Inapari-78_anteater-1,78_anteater,hɨwá ,hɨwá,h ɨ w á/a,78,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,anteater,181,ANTEATER,false,expert
+Yine-78_anteater-1,78_anteater,sɨwa ,sɨwa,s ɨ w a,78,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,anteater,181,ANTEATER,false,expert
+ProtoPurus-79_tapir-1,79_tapir,*kema,kema,k e m a,79,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,tapir,312,TAPIR,false,expert
+Inapari-79_tapir-1,79_tapir,hamá ,hamá,h a m á/a,79,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,tapir,312,TAPIR,false,expert
+Apurina-79_tapir-1,79_tapir,kema ,kema,k e m a,79,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,tapir,312,TAPIR,false,expert
+Yine-79_tapir-1,79_tapir,çema ,çema,ç e m a,79,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,tapir,312,TAPIR,false,expert
+ProtoPurus-80_capuchinmonkey-1,80_capuchinmonkey,*tsikutɨ,tsikutɨ,ts i k u t ɨ,80,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,Capuchin monkey,,,false,expert
+Inapari-80_capuchinmonkey-1,80_capuchinmonkey,tiʔuʧí ,tiʔuʧí,t i ʔ u tʃ í/i,80,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,Capuchin monkey,,,false,expert
+Apurina-80_capuchinmonkey-1,80_capuchinmonkey,ʧikotɨ ,ʧikotɨ,tʃ i k o t ɨ,80,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,Capuchin monkey,,,false,expert
+Yine-80_capuchinmonkey-1,80_capuchinmonkey,ʧkotɨ ,ʧkotɨ,tʃ k o t ɨ,80,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,Capuchin monkey,,,false,expert
+ProtoPurus-81_howlermonkey-1,81_howlermonkey,*kaina,kaina,k a i n a,81,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,howler monkey>,433,HOWLER MONKEY,false,expert
+Inapari-81_howlermonkey-1,81_howlermonkey,aína,aína,a í/i n a,81,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,howler monkey>,433,HOWLER MONKEY,false,expert
+Apurina-81_howlermonkey-1,81_howlermonkey,kiɲa ,kiɲa,k i ɲ a,81,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,howler monkey>,433,HOWLER MONKEY,false,expert
+Yine-81_howlermonkey-1,81_howlermonkey,kina ,kina,k i n a,81,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,howler monkey>,433,HOWLER MONKEY,false,expert
+ProtoPurus-82_sloth-1,82_sloth,*makara,makara,m a k a r a,82,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,sloth,2446,SLOTH,false,expert
+Inapari-82_sloth-1,82_sloth,maʔára ,maʔára,m a ʔ á/a r a,82,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,sloth,2446,SLOTH,false,expert
+Apurina-82_sloth-1,82_sloth,makara ,makara,m a k a r a,82,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,sloth,2446,SLOTH,false,expert
+ProtoPurus-83_snake-1,83_snake,*hɨmenɨ,hɨmenɨ,h ɨ m e n ɨ,83,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,snake,730,SNAKE,false,expert
+Inapari-83_snake-1,83_snake,himení ,himení,h i m e n í/i,83,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,snake,730,SNAKE,false,expert
+Apurina-83_snake-1,83_snake,ɨmɨnɨ ,ɨmɨnɨ,ɨ m ɨ n ɨ,83,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,snake,730,SNAKE,false,expert
+Yine-83_snake-1,83_snake,himnɨ ,himnɨ,h i m n ɨ,83,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,snake,730,SNAKE,false,expert
+ProtoPurus-84_boa-1,84_boa,*mapitsiri,mapitsiri,m a p i ts i r i,84,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,boa,,,false,expert
+Inapari-84_boa-1,84_boa,mapitíri ,mapitíri,m a p i t í/i r i,84,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,boa,,,false,expert
+Yine-84_boa-1,84_boa,mapʧiri ,mapʧiri,m a p tʃ i r i,84,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,boa,,,false,expert
+ProtoPurus-85_alligator-1,85_alligator,*kajukɨrɨ,kajukɨrɨ,k a j u k ɨ r ɨ,85,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,alligator,1581,ALLIGATOR,false,expert
+Inapari-85_alligator-1,85_alligator,ajúhɨrɨ ,ajúhɨrɨ,a j ú/u h ɨ r ɨ,85,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,alligator,1581,ALLIGATOR,false,expert
+Apurina-85_alligator-1,85_alligator,kajukɨrɨ ,kajukɨrɨ,k a j u k ɨ r ɨ,85,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,alligator,1581,ALLIGATOR,false,expert
+Yine-85_alligator-1,85_alligator,kʃijoçrɨ ,kʃijoçrɨ,k ʃ i j o ç r ɨ,85,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,alligator,1581,ALLIGATOR,false,expert
+ProtoPurus-86_turtle-1,86_turtle,*sɨpɨrɨ,sɨpɨrɨ,s ɨ p ɨ r ɨ,86,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,turtle,112,TURTLE,false,expert
+Inapari-86_turtle-1,86_turtle,hipɨ́rɨ ,hipɨ́rɨ,h i p ɨ́/ɨ r ɨ,86,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,turtle,112,TURTLE,false,expert
+Apurina-86_turtle-1,86_turtle,sɨ̃pɨrɨ ,sɨ̃pɨrɨ,s ɨ̃/ɨ̃ p ɨ r ɨ,86,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,turtle,112,TURTLE,false,expert
+Yine-86_turtle-1,86_turtle,sɨprɨ ,sɨprɨ,s ɨ p r ɨ,86,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,turtle,112,TURTLE,false,expert
+ProtoPurus-87_ant-1,87_ant,*katsitɨ,katsitɨ,k a ts i t ɨ,87,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,ant,587,ANT,false,expert
+Inapari-87_ant-1,87_ant,atíʧi ,atíʧi,a t í/i tʃ i,87,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,ant,587,ANT,false,expert
+Apurina-87_ant-1,87_ant,kaʧitɨ ,kaʧitɨ,k a tʃ i t ɨ,87,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,ant,587,ANT,false,expert
+Yine-87_ant-1,87_ant,kaʧiʧi ,kaʧiʧi,k a tʃ i tʃ i,87,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,ant,587,ANT,false,expert
+ProtoPurus-88_isulaantsp-1,88_isulaantsp,*manahi,manahi,m a n a h i,88,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,isula (ant sp.),,,false,expert
+Inapari-88_isulaantsp-1,88_isulaantsp,maneĩ́ ,maneĩ́,m a n e ĩ́/ĩ,88,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,isula (ant sp.),,,false,expert
+Apurina-88_isulaantsp-1,88_isulaantsp,maɲii ,maɲii,m a ɲ iː,88,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,isula (ant sp.),,,false,expert
+Yine-88_isulaantsp-1,88_isulaantsp,manahi ,manahi,m a n a h i,88,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,isula (ant sp.),,,false,expert
+ProtoPurus-89_termite-1,89_termite,*kamara,kamara,k a m a r a,89,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,termite,883,TERMITE,false,expert
+Inapari-89_termite-1,89_termite,amará-hɨ ,amará-hɨ,a m a r á/a + h ɨ,89,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,termite,883,TERMITE,false,expert
+Apurina-89_termite-1,89_termite,kamara ,kamara,k a m a r a,89,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,termite,883,TERMITE,false,expert
+Yine-89_termite-1,89_termite,kamla ,kamla,k a m l a,89,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,termite,883,TERMITE,false,expert
+ProtoPurus-90_wasp-1,90_wasp,*sanɨ,sanɨ,s a n ɨ,90,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,wasp,1517,WASP,false,expert
+Inapari-90_wasp-1,90_wasp,haní ,haní,h a n í/i,90,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,wasp,1517,WASP,false,expert
+Apurina-90_wasp-1,90_wasp,sanɨ ,sanɨ,s a n ɨ,90,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,wasp,1517,WASP,false,expert
+Yine-90_wasp-1,90_wasp,sanɨ ,sanɨ,s a n ɨ,90,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,wasp,1517,WASP,false,expert
+ProtoPurus-91_mosquito-1,91_mosquito,*haniju,haniju,h a n i j u,91,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,mosquito,1509,MOSQUITO,false,expert
+Inapari-91_mosquito-1,91_mosquito,hanijú ,hanijú,h a n i j ú/u,91,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,mosquito,1509,MOSQUITO,false,expert
+Apurina-91_mosquito-1,91_mosquito,aɲiio ,aɲiio,a ɲ iː o,91,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,mosquito,1509,MOSQUITO,false,expert
+Yine-91_mosquito-1,91_mosquito,hahjo ,hahjo,h a h j o,91,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,mosquito,1509,MOSQUITO,false,expert
+ProtoPurus-92_beehoney-1,92_beehoney,*mapa,mapa,m a p a,92,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bee/honey,,,false,expert
+Inapari-92_beehoney-1,92_beehoney,mapaá ,mapaá,m a p a á/a,92,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bee/honey,,,false,expert
+Apurina-92_beehoney-1,92_beehoney,mapa ,mapa,m a p a,92,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bee/honey,,,false,expert
+ProtoPurus-93_fly-1,93_fly,*kerɨ,kerɨ,k e r ɨ,93,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fly,1504,FLY (INSECT),false,expert
+Inapari-93_fly-1,93_fly,herí-si ,herí-si,h e r í/i + s i,93,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,fly,1504,FLY (INSECT),false,expert
+Yine-93_fly-1,93_fly,çerɨ ,çerɨ,ç e r ɨ,93,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fly,1504,FLY (INSECT),false,expert
+ProtoPurus-94_butterfly-1,94_butterfly,*katatu,katatu,k a t a t u,94,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,butterfly,1791,BUTTERFLY,false,expert
+Inapari-94_butterfly-1,94_butterfly,aʧatú ,aʧatú,a tʃ a t ú/u,94,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,butterfly,1791,BUTTERFLY,false,expert
+Apurina-94_butterfly-1,94_butterfly,katatɨ ,katatɨ,k a t a t ɨ,94,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,butterfly,1791,BUTTERFLY,false,expert
+Yine-94_butterfly-1,94_butterfly,katato,katato,k a t a t o,94,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,butterfly,1791,BUTTERFLY,false,expert
+ProtoPurus-95_cockroach-1,95_cockroach,*tsopata,tsopata,ts o p a t a,95,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cockroach,1575,COCKROACH,false,expert
+Inapari-95_cockroach-1,95_cockroach,topaʧa ,topaʧa,t o p a tʃ a,95,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,cockroach,1575,COCKROACH,false,expert
+Apurina-95_cockroach-1,95_cockroach,tsopata ,tsopata,ts o p a t a,95,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,cockroach,1575,COCKROACH,false,expert
+ProtoPurus-96_spider-1,96_spider,*pɨtahana,pɨtahana,p ɨ t a h a n a,96,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,spider,843,SPIDER,false,expert
+Inapari-96_spider-1,96_spider,pɨʧaána ,pɨʧaána,p ɨ tʃ a á/a n a,96,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,spider,843,SPIDER,false,expert
+Yine-96_spider-1,96_spider,pɨthana,pɨthana,p ɨ tʰ a n a,96,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,spider,843,SPIDER,false,expert
+ProtoPurus-97_scorpion-1,97_scorpion,*hekuru,hekuru,h e k u r u,97,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,scorpion,1538,SCORPION,false,expert
+Inapari-97_scorpion-1,97_scorpion,heʔurú ,heʔurú,h e ʔ u r ú/u,97,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,scorpion,1538,SCORPION,false,expert
+Yine-97_scorpion-1,97_scorpion,heklo ,heklo,h e k l o,97,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,scorpion,1538,SCORPION,false,expert
+ProtoPurus-98_tick-1,98_tick,*kuparɨ,kuparɨ,k u p a r ɨ,98,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,tick,1527,TICK,false,expert
+Inapari-98_tick-1,98_tick,upári ,upári,u p á/a r i,98,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,tick,1527,TICK,false,expert
+Yine-98_tick-1,98_tick,koplɨ ,koplɨ,k o p l ɨ,98,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,tick,1527,TICK,false,expert
+ProtoPurus-99_louse-1,99_louse,*-kepa,kepa,k e p a,99,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,louse,1392,LOUSE,false,expert
+Inapari-99_louse-1,99_louse,hapá-ti ,hapá-ti,h a p á/a + t i,99,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,louse,1392,LOUSE,false,expert
+Yine-99_louse-1,99_louse,hi-çepa ,hi-çepa,h i + ç e p a,99,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,louse,1392,LOUSE,false,expert
+ProtoPurus-100_worm1-1,100_worm1,*tsomi,tsomi,ts o m i,100,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,worm1,1219,WORM,false,expert
+Inapari-100_worm1-1,100_worm1,tomí ,tomí,t o m í/i,100,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,worm1,1219,WORM,false,expert
+Apurina-100_worm1-1,100_worm1,tsomi ,tsomi,ts o m i,100,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,worm1,1219,WORM,false,expert
+Yine-100_worm1-1,100_worm1,tsomi ,tsomi,ts o m i,100,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,worm1,1219,WORM,false,expert
+ProtoPurus-101_worm2-1,101_worm2,*kenɨ,kenɨ,k e n ɨ,101,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,worm2,1219,WORM,false,expert
+Inapari-101_worm2-1,101_worm2,uri-héni ,uri-héni,u r i + h é/e n i,101,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,worm2,1219,WORM,false,expert
+Apurina-101_worm2-1,101_worm2,kẽʧi ,kẽʧi,k ẽ tʃ i,101,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,worm2,1219,WORM,false,expert
+Yine-101_worm2-1,101_worm2,çnɨ-ʧi ,çnɨ-ʧi,ç n ɨ + tʃ i,101,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,worm2,1219,WORM,false,expert
+Inapari-101_worm2-2,101_worm2,ti-héni ,ti-héni,t i + h é/e n i,101,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,worm2,1219,WORM,false,expert
+ProtoPurus-102_fishgeneric-1,102_fishgeneric,*sima,sima,s i m a,102,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fish (generic),227,FISH,false,expert
+Inapari-102_fishgeneric-1,102_fishgeneric,himá ,himá,h i m á/a,102,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,fish (generic),227,FISH,false,expert
+Apurina-102_fishgeneric-1,102_fishgeneric,ʃima-kɨ ,ʃima-kɨ,ʃ i m a + k ɨ,102,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,fish (generic),227,FISH,false,expert
+Yine-102_fishgeneric-1,102_fishgeneric,ʃima ,ʃima,ʃ i m a,102,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fish (generic),227,FISH,false,expert
+ProtoPurus-103_piranafishsp-1,103_piranafishsp,*huma,huma,h u m a,103,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,piraña (fish sp.),317,PIRANHA,false,expert
+Inapari-103_piranafishsp-1,103_piranafishsp,humá ,humá,h u m á/a,103,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,piraña (fish sp.),317,PIRANHA,false,expert
+Apurina-103_piranafishsp-1,103_piranafishsp,oma ,oma,o m a,103,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,piraña (fish sp.),317,PIRANHA,false,expert
+Yine-103_piranafishsp-1,103_piranafishsp,homa ,homa,h o m a,103,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,piraña (fish sp.),317,PIRANHA,false,expert
+ProtoPurus-104_crab-1,104_crab,*jutúro,jutúro,j u t ú/u r o,104,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,crab,2348,CRAB,false,expert
+Inapari-104_crab-1,104_crab,jutúro ,jutúro,j u t ú/u r o,104,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,crab,2348,CRAB,false,expert
+Yine-104_crab-1,104_crab,jotlo ,jotlo,j o t l o,104,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,crab,2348,CRAB,false,expert
+ProtoPurus-105_bat-1,105_bat,*siju,siju,s i j u,105,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bat,1793,BAT,false,expert
+Inapari-105_bat-1,105_bat,hijú-hɨ ,hijú-hɨ,h i j ú/u + h ɨ,105,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bat,1793,BAT,false,expert
+Apurina-105_bat-1,105_bat,ʃijo-kɨ ,ʃijo-kɨ,ʃ i j o + k ɨ,105,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bat,1793,BAT,false,expert
+Yine-105_bat-1,105_bat,ʃjo ,ʃjo,ʃ j o,105,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bat,1793,BAT,false,expert
+ProtoPurus-106_birdsp1-1,106_birdsp1,*majurɨ,majurɨ,m a j u r ɨ,106,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bird (sp.)1,,,false,expert
+Inapari-106_birdsp1-1,106_birdsp1,majúri ,majúri,m a j ú/u r i,106,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bird (sp.)1,,,false,expert
+Apurina-106_birdsp1-1,106_birdsp1,majorɨ ,majorɨ,m a j o r ɨ,106,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bird (sp.)1,,,false,expert
+Yine-106_birdsp1-1,106_birdsp1,majlɨ,majlɨ,m a j l ɨ,106,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bird (sp.)1,,,false,expert
+ProtoPurus-107_birdsp2-1,107_birdsp2,*hireka,hireka,h i r e k a,107,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bird (sp.)2,,,false,expert
+Inapari-107_birdsp2-1,107_birdsp2,hiréʔa,hiréʔa,h i r é/e ʔ a,107,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bird (sp.)2,,,false,expert
+Apurina-107_birdsp2-1,107_birdsp2,irẽka,irẽka,i r ẽ k a,107,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,bird (sp.)2,,,false,expert
+Yine-107_birdsp2-1,107_birdsp2,hijeka,hijeka,h i j e k a,107,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bird (sp.)2,,,false,expert
+ProtoPurus-108_birdsp3-1,108_birdsp3,*hititi,hititi,h i t i t i,108,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bird (sp.)3,,,false,expert
+Inapari-108_birdsp3-1,108_birdsp3,hiʧiʧí ,hiʧiʧí,h i tʃ i tʃ í/i,108,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bird (sp.)3,,,false,expert
+Yine-108_birdsp3-1,108_birdsp3,hicici ,hicici,h i c/tʃ i c/tʃ i,108,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bird (sp.)3,,,false,expert
+ProtoPurus-109_hummingbird-1,109_hummingbird,*siwejúrɨ,siwejúrɨ,s i w e j ú/u r ɨ,109,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hummingbird,1589,HUMMINGBIRD,false,expert
+Inapari-109_hummingbird-1,109_hummingbird,hiwejúri ,hiwejúri,h i w e j ú/u r i,109,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hummingbird,1589,HUMMINGBIRD,false,expert
+Yine-109_hummingbird-1,109_hummingbird,ʃwejlɨ ,ʃwejlɨ,ʃ w e j l ɨ,109,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hummingbird,1589,HUMMINGBIRD,false,expert
+ProtoPurus-110_duck-1,110_duck,*hupai,hupai,h u p a i,110,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,duck,1360,DUCK,false,expert
+Inapari-110_duck-1,110_duck,hupaí ,hupaí,h u p a í/i,110,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,duck,1360,DUCK,false,expert
+Apurina-110_duck-1,110_duck,opai ,opai,o p a i,110,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,duck,1360,DUCK,false,expert
+Yine-110_duck-1,110_duck,hopʃi ,hopʃi,h o p ʃ i,110,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,duck,1360,DUCK,false,expert
+ProtoPurus-111_eagle-1,111_eagle,*kukui,kukui,k u k u i,111,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,eagle,1905,EAGLE,false,expert
+Inapari-111_eagle-1,111_eagle,uʔuí ,uʔuí,u ʔ u í/i,111,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,eagle,1905,EAGLE,false,expert
+Apurina-111_eagle-1,111_eagle,kokoi ,kokoi,k o k o i,111,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,eagle,1905,EAGLE,false,expert
+ProtoPurus-112_owl-1,112_owl,*musa,musa,m u s a,112,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,owl,735,OWL,false,expert
+Inapari-112_owl-1,112_owl,muã́ ,muã́,m u ã́/ã,112,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,owl,735,OWL,false,expert
+Apurina-112_owl-1,112_owl,musa ,musa,m u s a,112,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,owl,735,OWL,false,expert
+Yine-112_owl-1,112_owl,mosa ,mosa,m o s a,112,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,owl,735,OWL,false,expert
+ProtoPurus-113_tree-1,113_tree,*haha-mɨna,haha-mɨna,h a h a + m ɨ n a,113,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,tree,906,TREE,false,expert
+Inapari-113_tree-1,113_tree,haámɨna ,haámɨna,h a á/a m ɨ n a,113,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,tree,906,TREE,false,expert
+Apurina-113_tree-1,113_tree,ãamɨna ,ãamɨna,ã a m ɨ n a,113,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,tree,906,TREE,false,expert
+Yine-113_tree-1,113_tree,hahmɨna ,hahmɨna,h a h m ɨ n a,113,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,tree,906,TREE,false,expert
+ProtoPurus-114_palmsp-1,114_palmsp,*kuna,kuna,k u n a,114,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,palm (sp.),,,false,expert
+Inapari-114_palmsp-1,114_palmsp,úna ,úna,ú/u n a,114,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,palm (sp.),,,false,expert
+Apurina-114_palmsp-1,114_palmsp,kona-kɨ ,kona-kɨ,k o n a + k ɨ,114,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,palm (sp.),,,false,expert
+Yine-114_palmsp-1,114_palmsp,kona ,kona,k o n a,114,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,palm (sp.),,,false,expert
+ProtoPurus-115_cane-1,115_cane,*katsarɨ,katsarɨ,k a ts a r ɨ,115,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cane,659,REED,false,expert
+Inapari-115_cane-1,115_cane,atarí ,atarí,a t a r í/i,115,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,cane,659,REED,false,expert
+Yine-115_cane-1,115_cane,katslɨ ,katslɨ,k a ts l ɨ,115,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,cane,659,REED,false,expert
+ProtoPurus-116_branch-1,116_branch,*-purɨ,purɨ,p u r ɨ,116,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,branch,1531,BRANCH,false,expert
+Inapari-116_branch-1,116_branch,purí ,purí,p u r í/i,116,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,branch,1531,BRANCH,false,expert
+Apurina-116_branch-1,116_branch,-porɨ ,-porɨ,p o r ɨ,116,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,branch,1531,BRANCH,false,expert
+Yine-116_branch-1,116_branch,hi-plɨ ,hi-plɨ,h i + p l ɨ,116,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,branch,1531,BRANCH,false,expert
+ProtoPurus-117_woodstick-1,117_woodstick,*-ke,ke,k e,117,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,"wood, stick",1295,STICK,false,expert
+Inapari-117_woodstick-1,117_woodstick,ano-he-tí,ano-he-tí,a n o + h e + t í/i,117,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,"wood, stick",1295,STICK,false,expert
+Apurina-117_woodstick-1,117_woodstick,-ke ,-ke,k e,117,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,"wood, stick",1295,STICK,false,expert
+Yine-117_woodstick-1,117_woodstick,hi-çe ,hi-çe,h i + ç e,117,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,"wood, stick",1295,STICK,false,expert
+ProtoPurus-118_seed-1,118_seed,*-kɨ,kɨ,k ɨ,118,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,seed,714,SEED,false,expert
+Inapari-118_seed-1,118_seed,-raná-hɨ ,-raná-hɨ,r a n á/a + h ɨ,118,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,seed,714,SEED,false,expert
+Apurina-118_seed-1,118_seed,-kɨ ,-kɨ,k ɨ,118,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,seed,714,SEED,false,expert
+Yine-118_seed-1,118_seed,hi-çi ,hi-çi,h i + ç i,118,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,seed,714,SEED,false,expert
+ProtoPurus-119_shellhusk-1,119_shellhusk,*-pata,pata,p a t a,119,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,shell/husk,,,false,expert
+Inapari-119_shellhusk-1,119_shellhusk, páʧa,páʧa,p á/a tʃ a,119,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,shell/husk,,,false,expert
+Yine-119_shellhusk-1,119_shellhusk,hi-pata ,hi-pata,h i + p a t a,119,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,shell/husk,,,false,expert
+ProtoPurus-120_flower-1,120_flower,*-hɨwɨ,hɨwɨ,h ɨ w ɨ,120,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,flower,239,FLOWER,false,expert
+Inapari-120_flower-1,120_flower,aáwɨ́rɨ ,aáwɨ́rɨ,a á/a w ɨ́/ɨ r ɨ,120,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,flower,239,FLOWER,false,expert
+Apurina-120_flower-1,120_flower,ɨ̃ɨ̃wɨ / ɨ̃wɨ ,ɨ̃ɨ̃wɨ,ɨ̃ɨ̃/ɨ̃ w ɨ,120,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,flower,239,FLOWER,false,expert
+Yine-120_flower-1,120_flower,hi-hwɨ ,hi-hwɨ,h i + hw/hʷ ɨ,120,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,flower,239,FLOWER,false,expert
+ProtoPurus-120_flower-2,120_flower,*ka-hɨwɨ-rɨ,ka-hɨwɨ-rɨ,k a + h ɨ w ɨ + r ɨ,120,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,flower,239,FLOWER,false,expert
+Yine-120_flower-2,120_flower,kahwɨrɨ ,kahwɨrɨ,k a hw/hʷ ɨ r ɨ,120,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,flower,239,FLOWER,false,expert
+ProtoPurus-121_leaf-1,121_leaf,*ka-sɨre-rɨ,ka-sɨre-rɨ,k a + s ɨ r e + r ɨ,121,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,Leaf,628,LEAF,false,expert
+Inapari-121_leaf-1,121_leaf,aɨreri ,aɨreri,a ɨ r e r i,121,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,Leaf,628,LEAF,false,expert
+Yine-121_leaf-1,121_leaf,hi-sɨre / ka-sɨre-rɨ ,hi-sɨre,h i + s ɨ r e,121,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,Leaf,628,LEAF,false,expert
+ProtoPurus-122_coca-1,122_coca,*katsuparɨ,katsuparɨ,k a ts u p a r ɨ,122,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,Coca,137,COCA,false,expert
+Inapari-122_coca-1,122_coca,atuparí ,atuparí,a t u p a r í/i,122,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,Coca,137,COCA,false,expert
+Apurina-122_coca-1,122_coca,katsuparɨ ,katsuparɨ,k a ts u p a r ɨ,122,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,Coca,137,COCA,false,expert
+ProtoPurus-123_sweetpotato-1,123_sweetpotato,*kɨparɨ,kɨparɨ,k ɨ p a r ɨ,123,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,sweet potato,159,SWEET POTATO,false,expert
+Inapari-123_sweetpotato-1,123_sweetpotato,hɨpári ,hɨpári,h ɨ p á/a r i,123,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,sweet potato,159,SWEET POTATO,false,expert
+Apurina-123_sweetpotato-1,123_sweetpotato,kɨparɨ ,kɨparɨ,k ɨ p a r ɨ,123,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,sweet potato,159,SWEET POTATO,false,expert
+Yine-123_sweetpotato-1,123_sweetpotato,çipalɨ ,çipalɨ,ç i p a l ɨ,123,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,sweet potato,159,SWEET POTATO,false,expert
+ProtoPurus-124_bittermanioc-1,124_bittermanioc,*kanɨrɨ,kanɨrɨ,k a n ɨ r ɨ,124,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,bitter manioc,,,false,expert
+Inapari-124_bittermanioc-1,124_bittermanioc,anɨrɨ́ ,anɨrɨ́,a n ɨ r ɨ́/ɨ,124,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,bitter manioc,,,false,expert
+Yine-124_bittermanioc-1,124_bittermanioc,kanrɨ ,kanrɨ,k a n r ɨ,124,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,bitter manioc,,,false,expert
+ProtoPurus-125_manioc-1,125_manioc,*kimeka,kimeka,k i m e k a,125,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,manioc,925,CASSAVA,false,expert
+Inapari-125_manioc-1,125_manioc,himeʔá ,himeʔá,h i m e ʔ á/a,125,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,manioc,925,CASSAVA,false,expert
+Yine-125_manioc-1,125_manioc,çimeka ,çimeka,ç i m e k a,125,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,manioc,925,CASSAVA,false,expert
+ProtoPurus-126_maize-1,126_maize,*si-kɨ,si-kɨ,s i + k ɨ,126,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,maize,506,MAIZE,false,expert
+Inapari-126_maize-1,126_maize,hisí ,hisí,h i s í/i,126,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,maize,506,MAIZE,false,expert
+Yine-126_maize-1,126_maize,ʃiçi ,ʃiçi,ʃ i ç i,126,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,maize,506,MAIZE,false,expert
+ProtoPurus-127_smokedmeat-1,127_smokedmeat,*hurutɨ,hurutɨ,h u r u t ɨ,127,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,smoked (meat),,,false,expert
+Inapari-127_smokedmeat-1,127_smokedmeat,hurúʧi ,hurúʧi,h u r ú/u tʃ i,127,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,smoked (meat),,,false,expert
+Yine-127_smokedmeat-1,127_smokedmeat,holotɨ ,holotɨ,h o l o t ɨ,127,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,smoked (meat),,,false,expert
+ProtoPurus-128_pepper-1,128_pepper,*kumarɨ,kumarɨ,k u m a r ɨ,128,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,pepper,1385,PEPPER,false,expert
+Inapari-128_pepper-1,128_pepper,umarí ,umarí,u m a r í/i,128,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,pepper,1385,PEPPER,false,expert
+Yine-128_pepper-1,128_pepper,komlɨ ,komlɨ,k o m l ɨ,128,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,pepper,1385,PEPPER,false,expert
+ProtoPurus-129_achiote-1,129_achiote,*hapɨkɨrɨ,hapɨkɨrɨ,h a p ɨ k ɨ r ɨ,129,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,achiote,349,ACHIOTE,false,expert
+Inapari-129_achiote-1,129_achiote,hapísíri ,hapísíri,h a p í/i s í/i r i,129,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,achiote,349,ACHIOTE,false,expert
+Apurina-129_achiote-1,129_achiote,ãpɨkɨrɨ ,ãpɨkɨrɨ,ã p ɨ k ɨ r ɨ,129,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,achiote,349,ACHIOTE,false,expert
+Yine-129_achiote-1,129_achiote,hapiçrɨ ,hapiçrɨ,h a p i ç r ɨ,129,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,achiote,349,ACHIOTE,false,expert
+ProtoPurus-130_medicine-1,130_medicine,*pini,pini,p i n i,130,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,medicine,1372,MEDICINE,false,expert
+Inapari-130_medicine-1,130_medicine,pini-tí-ri ,pini-tí-ri,p i n i + t í/i + r i,130,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,medicine,1372,MEDICINE,false,expert
+Apurina-130_medicine-1,130_medicine,piɲi ,piɲi,p i ɲ i,130,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,medicine,1372,MEDICINE,false,expert
+Yine-130_medicine-1,130_medicine,pin-re ,pin-re,p i n + r e,130,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,medicine,1372,MEDICINE,false,expert
+ProtoPurus-131_sun-1,131_sun,*atukatsi,atukatsi,a t u k a ts i,131,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,sun,1343,SUN,false,expert
+Inapari-131_sun-1,131_sun,tuʔatí ,tuʔatí,t u ʔ a t í/i,131,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,sun,1343,SUN,false,expert
+Apurina-131_sun-1,131_sun,atokaʧi ,atokaʧi,a t o k a tʃ i,131,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,sun,1343,SUN,false,expert
+Yine-131_sun-1,131_sun,tkaʧi ,tkaʧi,t k a tʃ i,131,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,sun,1343,SUN,false,expert
+ProtoPurus-132_moon-1,132_moon,*kasɨrɨ,kasɨrɨ,k a s ɨ r ɨ,132,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,moon,1313,MOON,false,expert
+Inapari-132_moon-1,132_moon,aɨrɨ́ ,aɨrɨ́,a ɨ r ɨ́/ɨ,132,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,moon,1313,MOON,false,expert
+Apurina-132_moon-1,132_moon,kasɨrɨ ,kasɨrɨ,k a s ɨ r ɨ,132,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,moon,1313,MOON,false,expert
+Yine-132_moon-1,132_moon,ksɨrɨ ,ksɨrɨ,k s ɨ r ɨ,132,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,moon,1313,MOON,false,expert
+ProtoPurus-133_night-1,133_night,*jatsi,jatsi,j a ts i,133,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,night,1233,NIGHT,false,expert
+Inapari-133_night-1,133_night,játi ,játi,j á/a t i,133,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,night,1233,NIGHT,false,expert
+Yine-133_night-1,133_night,jeʧ-no ,jeʧ-no,j e tʃ + n o,133,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,night,1233,NIGHT,false,expert
+ProtoPurus-134_yesterday-1,134_yesterday,*kapeta,kapeta,k a p e t a,134,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,yesterday,1174,YESTERDAY,false,expert
+Inapari-134_yesterday-1,134_yesterday,apeʧá ,apeʧá,a p e tʃ á/a,134,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,yesterday,1174,YESTERDAY,false,expert
+Yine-134_yesterday-1,134_yesterday,kapet-hohne ,kapet-hohne,k a p e t + h o h n e,134,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,yesterday,1174,YESTERDAY,false,expert
+ProtoPurus-135_wind-1,135_wind,*hitima,hitima,h i t i m a,135,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,wind,960,WIND,false,expert
+Inapari-135_wind-1,135_wind,hiʧíma ,hiʧíma,h i tʃ í/i m a,135,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,wind,960,WIND,false,expert
+Apurina-135_wind-1,135_wind,i~tima ,i,i,135,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,wind,960,WIND,false,expert
+ProtoPurus-136_rainbow-1,136_rainbow,*kɨsi,kɨsi,k ɨ s i,136,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,rainbow,1733,RAINBOW,false,expert
+Apurina-136_rainbow-1,136_rainbow,kɨsi ,kɨsi,k ɨ s i,136,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,rainbow,1733,RAINBOW,false,expert
+Yine-136_rainbow-1,136_rainbow,kʃi ,kʃi,k ʃ i,136,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,rainbow,1733,RAINBOW,false,expert
+ProtoPurus-137_lake-1,137_lake,*hɨpu-ha,hɨpu-ha,h ɨ p u + h a,137,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,lake,624,LAKE,false,expert
+Inapari-137_lake-1,137_lake,hipuã ,hipuã,h i p u ã,137,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,lake,624,LAKE,false,expert
+Apurina-137_lake-1,137_lake,ɨpowã ,ɨpowã,ɨ p o w ã,137,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,lake,624,LAKE,false,expert
+Yine-137_lake-1,137_lake,hipowha ,hipowha,h i p o wh/w̥ a,137,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,lake,624,LAKE,false,expert
+ProtoPurus-138_water-1,138_water,*hunɨ,hunɨ,h u n ɨ,138,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,water,948,WATER,false,expert
+Inapari-138_water-1,138_water,huní ,huní,h u n í/i,138,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,water,948,WATER,false,expert
+Yine-138_water-1,138_water,honɨ ,honɨ,h o n ɨ,138,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,water,948,WATER,false,expert
+ProtoPurus-139_rain-1,139_rain,*hina,hina,h i n a,139,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Inapari-139_rain-1,139_rain,hiná ,hiná,h i n á/a,139,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+Yine-139_rain-1,139_rain,hina ,hina,h i n a,139,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,rain,658,RAIN (PRECIPITATION),false,expert
+ProtoPurus-140_firefirewood-1,140_firefirewood,*tsitsi,tsitsi,ts i ts i,140,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fire/firewood,2675,FIRE OR FIREWOOD,false,expert
+Inapari-140_firefirewood-1,140_firefirewood,tití ,tití,t i t í/i,140,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,fire/firewood,2675,FIRE OR FIREWOOD,false,expert
+Yine-140_firefirewood-1,140_firefirewood,ʧiʧi ,ʧiʧi,tʃ i tʃ i,140,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fire/firewood,2675,FIRE OR FIREWOOD,false,expert
+ProtoPurus-141_firefirewood2-1,141_firefirewood2,*pawa,pawa,p a w a,141,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,fire/firewood2,2675,FIRE OR FIREWOOD,false,expert
+Inapari-141_firefirewood2-1,141_firefirewood2,páwa,páwa,p á/a w a,141,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,fire/firewood2,2675,FIRE OR FIREWOOD,false,expert
+Yine-141_firefirewood2-1,141_firefirewood2,no-pawa / paw-ʧi ,no-pawa,n o + p a w a,141,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,fire/firewood2,2675,FIRE OR FIREWOOD,false,expert
+ProtoPurus-142_hole-1,142_hole,*-pɨna,pɨna,p ɨ n a,142,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hole,1667,HOLE,false,expert
+Inapari-142_hole-1,142_hole,a-pɨna-rí ,a-pɨna-rí,a + p ɨ n a + r í/i,142,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hole,1667,HOLE,false,expert
+Yine-142_hole-1,142_hole,hi-pna ,hi-pna,h i + p n a,142,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hole,1667,HOLE,false,expert
+ProtoPurus-143_stone-1,143_stone,*sutarɨ,sutarɨ,s u t a r ɨ,143,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,stone,857,STONE,false,expert
+Inapari-143_stone-1,143_stone,huʧárí-sí ,huʧárí-sí,h u tʃ á/a r í/i + s í/i,143,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,stone,857,STONE,false,expert
+Yine-143_stone-1,143_stone,sotlɨ ,sotlɨ,s o t l ɨ,143,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,stone,857,STONE,false,expert
+ProtoPurus-144_pain-1,144_pain,*katsinu-,katsinu,k a ts i n u,144,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,pain,1783,PAIN,false,expert
+Inapari-144_pain-1,144_pain,atinu-rí ,atinu-rí,a t i n u + r í/i,144,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,pain,1783,PAIN,false,expert
+Yine-144_pain-1,144_pain,kaʧino-lɨ ,kaʧino-lɨ,k a tʃ i n o + l ɨ,144,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,pain,1783,PAIN,false,expert
+ProtoPurus-145_tobehave-1,145_tobehave,*-awa,awa,a w a,145,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to be/have,1579,BE,false,expert
+Inapari-145_tobehave-1,145_tobehave,r-awa-ma ,r-awa-ma,r + a w a + m a,145,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to be/have,1579,BE,false,expert
+Apurina-145_tobehave-1,145_tobehave,-awa ,-awa,a w a,145,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to be/have,1579,BE,false,expert
+Yine-145_tobehave-1,145_tobehave,r-awa ,r-awa,r + a w a,145,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to be/have,1579,BE,false,expert
+ProtoPurus-146_toarrive-1,146_toarrive,*-apuka,apuka,a p u k a,146,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to arrive,1387,ARRIVE,false,expert
+Inapari-146_toarrive-1,146_toarrive,r-apúʔa-ma,r-apúʔa-ma,r + a p ú/u ʔ a + m a,146,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to arrive,1387,ARRIVE,false,expert
+Apurina-146_toarrive-1,146_toarrive,-apoka ,-apoka,a p o k a,146,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to arrive,1387,ARRIVE,false,expert
+Yine-146_toarrive-1,146_toarrive,hapok-lɨ / r-apoka ,hapok-lɨ,h a p o k + l ɨ,146,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to arrive,1387,ARRIVE,false,expert
+ProtoPurus-147_tocome-1,147_tocome,*-ɨna,ɨna,ɨ n a,147,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to come,1446,COME,false,expert
+Inapari-147_tocome-1,147_tocome,r-ɨna-ma,r-ɨna-ma,r + ɨ n a + m a,147,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to come,1446,COME,false,expert
+Apurina-147_tocome-1,147_tocome,-ɨna ,-ɨna,ɨ n a,147,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to come,1446,COME,false,expert
+Yine-147_tocome-1,147_tocome,r-ɨna ,r-ɨna,r + ɨ n a,147,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to come,1446,COME,false,expert
+ProtoPurus-148_toreturn-1,148_toreturn,*-satuka,satuka,s a t u k a,148,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to return,581,COME BACK,false,expert
+Inapari-148_toreturn-1,148_toreturn,i-atuʔa-pa-má ,i-atuʔa-pa-má,i + a t u ʔ a + p a + m á/a,148,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to return,581,COME BACK,false,expert
+Yine-148_toreturn-1,148_toreturn,satok-lɨ ,satok-lɨ,s a t o k + l ɨ,148,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to return,581,COME BACK,false,expert
+ProtoPurus-149_towalk-1,149_towalk,*-jana,jana,j a n a,149,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to walk,1443,WALK,false,expert
+Inapari-149_towalk-1,149_towalk,i-janá-ma ,i-janá-ma,i + j a n á/a + m a,149,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to walk,1443,WALK,false,expert
+Apurina-149_towalk-1,149_towalk,-jana ,-jana,j a n a,149,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to walk,1443,WALK,false,expert
+Yine-149_towalk-1,149_towalk,jan-rɨ / jana ,jan-rɨ,j a n + r ɨ,149,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to walk,1443,WALK,false,expert
+ProtoPurus-150_topass-1,150_topass,*-kunuha,kunuha,k u n u h a,150,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to pass,558,PASS BY,false,expert
+Inapari-150_topass-1,150_topass,rɨ-ʔunṹa-ma ,rɨ-ʔunṹa-ma,r ɨ + ʔ u n ṹ a + m a,150,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to pass,558,PASS BY,false,expert
+Yine-150_topass-1,150_topass,rɨ-knoha ,rɨ-knoha,r ɨ + k n o h a,150,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to pass,558,PASS BY,false,expert
+ProtoPurus-151_tostep-1,151_tostep,*-akapa-,akapa,a k a p a,151,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to step,2065,STEP (VERB),false,expert
+Inapari-151_tostep-1,151_tostep,r-aʔapa-á-ma ,r-aʔapa-á-ma,r + a ʔ a p a + á/a + m a,151,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to step,2065,STEP (VERB),false,expert
+Yine-151_tostep-1,151_tostep,h-akap-ʃo-lɨ ,h-akap-ʃo-lɨ,h + a k a p + ʃ o + l ɨ,151,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to step,2065,STEP (VERB),false,expert
+ProtoPurus-152_togrow-1,152_togrow,*-tserɨ-ta,tserɨ-ta,ts e r ɨ + t a,152,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to grow,479,GROW,false,expert
+Inapari-152_togrow-1,152_togrow,i-terí-ʧa-ma ,i-terí-ʧa-ma,i + t e r í/i + tʃ a + m a,152,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to grow,479,GROW,false,expert
+Yine-152_togrow-1,152_togrow,i-tserɨ-wa-ta ,i-tserɨ-wa-ta,i + ts e r ɨ + w a + t a,152,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to grow,479,GROW,false,expert
+ProtoPurus-153_tosing-1,153_tosing,*-sika-,sika,s i k a,153,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to sing,1261,SING,false,expert
+Apurina-153_tosing-1,153_tosing,-ʃika ,-ʃika,ʃ i k a,153,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to sing,1261,SING,false,expert
+Yine-153_tosing-1,153_tosing,-ʃika-l-wa-ta ,-ʃika-l-wa-ta,ʃ i k a + l + w a + t a,153,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to sing,1261,SING,false,expert
+ProtoPurus-154_toeat-1,154_toeat,*-nika,nika,n i k a,154,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to eat,1336,EAT,false,expert
+Inapari-154_toeat-1,154_toeat,i-niʔá-ma ,i-niʔá-ma,i + n i ʔ á/a + m a,154,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to eat,1336,EAT,false,expert
+Apurina-154_toeat-1,154_toeat,-ɲika ,-ɲika,ɲ i k a,154,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to eat,1336,EAT,false,expert
+Yine-154_toeat-1,154_toeat,-nika ,-nika,n i k a,154,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to eat,1336,EAT,false,expert
+ProtoPurus-155_toswallow-1,155_toswallow,*-nikuru-ka,nikuru-ka,n i k u r u + k a,155,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to swallow,897,SWALLOW,false,expert
+Inapari-155_toswallow-1,155_toswallow,i-niʔuruʔa-má-ri,i-niʔuruʔa-má-ri,i + n i ʔ u r u ʔ a + m á/a + r i,155,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to swallow,897,SWALLOW,false,expert
+Yine-155_toswallow-1,155_toswallow,-niklok-lu ,-niklok-lu,n i k l o k + l u,155,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to swallow,897,SWALLOW,false,expert
+ProtoPurus-156_tosay-1,156_tosay,*-tsina,tsina,ts i n a,156,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to say,1458,SAY,false,expert
+Inapari-156_tosay-1,156_tosay,i-tiná-ma ,i-tiná-ma,i + t i n á/a + m a,156,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to say,1458,SAY,false,expert
+Yine-156_tosay-1,156_tosay,ʧin-rɨ / -ʧina ,ʧin-rɨ,tʃ i n + r ɨ,156,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to say,1458,SAY,false,expert
+ProtoPurus-157_tospeak-1,157_tospeak,*-tukanV-,tukanV,t u k a n V/ə,157,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to speak,1623,SPEAK,false,expert
+Inapari-157_tospeak-1,157_tospeak,ri-tuʔána-ma ,ri-tuʔána-ma,r i + t u ʔ á/a n a + m a,157,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to speak,1623,SPEAK,false,expert
+Yine-157_tospeak-1,157_tospeak,-tokanɨ-wa-ta ,-tokanɨ-wa-ta,t o k a n ɨ + w a + t a,157,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to speak,1623,SPEAK,false,expert
+ProtoPurus-158_tocommand-1,158_tocommand,*-jukana,jukana,j u k a n a,158,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to command,1998,COMMAND,false,expert
+Inapari-158_tocommand-1,158_tocommand,i-juʔana-má-ri ,i-juʔana-má-ri,i + j u ʔ a n a + m á/a + r i,158,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to command,1998,COMMAND,false,expert
+Yine-158_tocommand-1,158_tocommand,jokan-rɨ ,jokan-rɨ,j o k a n + r ɨ,158,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to command,1998,COMMAND,false,expert
+ProtoPurus-159_tocall-1,159_tocall,*-tuma-ha,tuma-ha,t u m a + h a,159,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to call,1084,CALL,false,expert
+Inapari-159_tocall-1,159_tocall,i-tumáá-ri ,i-tumáá-ri,i + t u m áá/aː + r i,159,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to call,1084,CALL,false,expert
+Yine-159_tocall-1,159_tocall,tomha-lɨ ,tomha-lɨ,t o mh/m̥ a + l ɨ,159,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to call,1084,CALL,false,expert
+ProtoPurus-160_tobreathe-1,160_tobreathe,*-nani,nani,n a n i,160,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to breathe,1407,BREATHE,false,expert
+Inapari-160_tobreathe-1,160_tobreathe,i-naní-ma ,i-naní-ma,i + n a n í/i + m a,160,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to breathe,1407,BREATHE,false,expert
+Yine-160_tobreathe-1,160_tobreathe,hi-nni- ,hi-nni-,h i + n n i,160,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to breathe,1407,BREATHE,false,expert
+ProtoPurus-161_towash1-1,161_towash1,*-kipa,kipa,k i p a,161,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to wash1,1453,WASH,false,expert
+Inapari-161_towash1-1,161_towash1,i-hipá-ma-ri ,i-hipá-ma-ri,i + h i p á/a + m a + r i,161,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to wash1,1453,WASH,false,expert
+Apurina-161_towash1-1,161_towash1,kipa ,kipa,k i p a,161,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to wash1,1453,WASH,false,expert
+ProtoPurus-162_towash2-1,162_towash2,*-erOka,erOka,e r O/o k a,162,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to wash2,1453,WASH,false,expert
+Apurina-162_towash2-1,162_towash2,eroka ,eroka,e r o k a,162,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to wash2,1453,WASH,false,expert
+Yine-162_towash2-1,162_towash2,t-erka-lɨ ,t-erka-lɨ,t + e r k a + l ɨ,162,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to wash2,1453,WASH,false,expert
+ProtoPurus-163_toswim-1,163_toswim,*-hano-ha,hano-ha,h a n o + h a,163,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to swim,1439,SWIM,false,expert
+Inapari-163_toswim-1,163_toswim,r-ano-ʔa-má ,r-ano-ʔa-má,r + a n o + ʔ a + m á/a,163,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to swim,1439,SWIM,false,expert
+Apurina-163_toswim-1,163_toswim,-noã-ta ,-noã-ta,n o ã + t a,163,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to swim,1439,SWIM,false,expert
+Yine-163_toswim-1,163_toswim,hanoh-lɨ / r-anoha-ta ,hanoh-lɨ,h a n o h + l ɨ,163,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to swim,1439,SWIM,false,expert
+ProtoPurus-164_tobath-1,164_tobath,*-ka,ka,k a,164,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to bath,138,BATHE,false,expert
+Inapari-164_tobath-1,164_tobath,i-ʔáá-ma ,i-ʔáá-ma,i + ʔ áá/aː + m a,164,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to bath,138,BATHE,false,expert
+Yine-164_tobath-1,164_tobath,-ka-wa ,-ka-wa,k a + w a,164,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to bath,138,BATHE,false,expert
+ProtoPurus-165_toplantput-1,165_toplantput,*-taka,taka,t a k a,165,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to plant/put,,,false,expert
+Inapari-165_toplantput-1,165_toplantput,rɨ-ʧaʔa-ma ,rɨ-ʧaʔa-ma,r ɨ + tʃ a ʔ a + m a,165,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to plant/put,,,false,expert
+Apurina-165_toplantput-1,165_toplantput,-taka,-taka,t a k a,165,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to plant/put,,,false,expert
+Yine-165_toplantput-1,165_toplantput,rɨ-tak-lɨ ,rɨ-tak-lɨ,r ɨ + t a k + l ɨ,165,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to plant/put,,,false,expert
+ProtoPurus-166_todig-1,166_todig,*-sɨtu,sɨtu,s ɨ t u,166,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to dig,1418,DIG,false,expert
+Inapari-166_todig-1,166_todig,i-hɨtú-ma ,i-hɨtú-ma,i + h ɨ t ú/u + m a,166,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to dig,1418,DIG,false,expert
+Yine-166_todig-1,166_todig,sito-t-lɨ ,sito-t-lɨ,s i t o + t + l ɨ,166,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to dig,1418,DIG,false,expert
+ProtoPurus-167_topeel-1,167_topeel,*-taraha-,taraha,t a r a h a,167,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to peel,275,PEEL,false,expert
+Inapari-167_topeel-1,167_topeel,i-ʧaraa-má-ri ,i-ʧaraa-má-ri,i + tʃ a r aː + m á/a + r i,167,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to peel,275,PEEL,false,expert
+Yine-167_topeel-1,167_topeel,talha-lɨ ,talha-lɨ,t a lh/l̥ a + l ɨ,167,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to peel,275,PEEL,false,expert
+ProtoPurus-168_tohear-1,168_tohear,*-kema,kema,k e m a,168,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to hear,1408,HEAR,false,expert
+Inapari-168_tohear-1,168_tohear,i-hama-má ,i-hama-má,i + h a m a + m á/a,168,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to hear,1408,HEAR,false,expert
+Apurina-168_tohear-1,168_tohear,-kema-ko ,-kema-ko,k e m a + k o,168,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to hear,1408,HEAR,false,expert
+Yine-168_tohear-1,168_tohear,-çema / -çem-lɨ ,-çema,ç e m a,168,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to hear,1408,HEAR,false,expert
+ProtoPurus-169_tosee-1,169_tosee,*-eta,eta,e t a,169,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to see,1409,SEE,false,expert
+Inapari-169_tosee-1,169_tosee,r-eʧá-ra-ma ,r-eʧá-ra-ma,r + e tʃ á/a + r a + m a,169,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to see,1409,SEE,false,expert
+Apurina-169_tosee-1,169_tosee,-eta[ma] ,-eta[ma],e t a m a,169,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to see,1409,SEE,false,expert
+Yine-169_tosee-1,169_tosee,r-et-lɨ ,r-et-lɨ,r + e t + l ɨ,169,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to see,1409,SEE,false,expert
+ProtoPurus-170_tolearn-1,170_tolearn,*-ɨma-ta,ɨma-ta,ɨ m a + t a,170,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to learn,504,LEARN,false,expert
+Inapari-170_tolearn-1,170_tolearn,r-ɨma-ʧa- ,r-ɨma-ʧa-,r + ɨ m a + tʃ a,170,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to learn,504,LEARN,false,expert
+Yine-170_tolearn-1,170_tolearn,r-ɨma-ta- ,r-ɨma-ta-,r + ɨ m a + t a,170,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to learn,504,LEARN,false,expert
+ProtoPurus-171_tofear-1,171_tofear,*-pika,pika,p i k a,171,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to fear,1419,FEAR (BE AFRAID),false,expert
+Inapari-171_tofear-1,171_tofear,i-piʔá-ma ,i-piʔá-ma,i + p i ʔ á/a + m a,171,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to fear,1419,FEAR (BE AFRAID),false,expert
+Apurina-171_tofear-1,171_tofear,-pika ,-pika,p i k a,171,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to fear,1419,FEAR (BE AFRAID),false,expert
+Yine-171_tofear-1,171_tofear,-pika ,-pika,p i k a,171,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to fear,1419,FEAR (BE AFRAID),false,expert
+ProtoPurus-172_tosleep-1,172_tosleep,*-ɨmaka,ɨmaka,ɨ m a k a,172,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to sleep,1585,SLEEP,false,expert
+Inapari-172_tosleep-1,172_tosleep,r-ɨmɨʔá-ma ,r-ɨmɨʔá-ma,r + ɨ m ɨ ʔ á/a + m a,172,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to sleep,1585,SLEEP,false,expert
+Apurina-172_tosleep-1,172_tosleep,-ɨmaka ,-ɨmaka,ɨ m a k a,172,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to sleep,1585,SLEEP,false,expert
+Yine-172_tosleep-1,172_tosleep,r-ɨmka ,r-ɨmka,r + ɨ m k a,172,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to sleep,1585,SLEEP,false,expert
+ProtoPurus-173_toliedown-1,173_toliedown,*-kurɨ-ha,kurɨ-ha,k u r ɨ + h a,173,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to lie down,215,LIE DOWN,false,expert
+Inapari-173_toliedown-1,173_toliedown,rɨ-ʔuri-a-ma ,rɨ-ʔuri-a-ma,r ɨ + ʔ u r i + a + m a,173,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to lie down,215,LIE DOWN,false,expert
+Yine-173_toliedown-1,173_toliedown,hi-klɨh-lɨ ,hi-klɨh-lɨ,h i + k l ɨ h + l ɨ,173,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to lie down,215,LIE DOWN,false,expert
+ProtoPurus-174_todie-1,174_todie,*-ɨpɨna,ɨpɨna,ɨ p ɨ n a,174,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to die,1494,DIE,false,expert
+Inapari-174_todie-1,174_todie,r-ɨpɨná-ma ,r-ɨpɨná-ma,r + ɨ p ɨ n á/a + m a,174,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to die,1494,DIE,false,expert
+Apurina-174_todie-1,174_todie,ɨpɨ̃-pe ,ɨpɨ̃-pe,ɨ p ɨ̃/ɨ̃ + p e,174,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to die,1494,DIE,false,expert
+Yine-174_todie-1,174_todie,hipna-lɨ / r-ɨpna ,hipna-lɨ,h i p n a + l ɨ,174,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to die,1494,DIE,false,expert
+ProtoPurus-175_tokill-1,175_tokill,*-hOka,hOka,h O/o k a,175,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to kill,1417,KILL,false,expert
+Apurina-175_tokill-1,175_tokill,-oka ,-oka,o k a,175,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to kill,1417,KILL,false,expert
+Yine-175_tokill-1,175_tokill,rɨ-hka-lɨ ,rɨ-hka-lɨ,r ɨ + h k a + l ɨ,175,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to kill,1417,KILL,false,expert
+ProtoPurus-176_tocook-1,176_tocook,*-wara,wara,w a r a,176,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to cook,1100,COOK (SOMETHING),false,expert
+Inapari-176_tocook-1,176_tocook,rɨ-wara-má-ri ,rɨ-wara-má-ri,r ɨ + w a r a + m á/a + r i,176,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to cook,1100,COOK (SOMETHING),false,expert
+Yine-176_tocook-1,176_tocook,hi-wla-lɨ ,hi-wla-lɨ,h i + w l a + l ɨ,176,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to cook,1100,COOK (SOMETHING),false,expert
+ProtoPurus-177_toroast-1,177_toroast,*-kuta,kuta,k u t a,177,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to roast,1962,ROAST (SOMETHING),false,expert
+Inapari-177_toroast-1,177_toroast,i-ʔuʧa-má-ri ,i-ʔuʧa-má-ri,i + ʔ u tʃ a + m á/a + r i,177,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to roast,1962,ROAST (SOMETHING),false,expert
+Yine-177_toroast-1,177_toroast,kota-çi-t-lɨ ,kota-çi-t-lɨ,k o t a + ç i + t + l ɨ,177,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to roast,1962,ROAST (SOMETHING),false,expert
+ProtoPurus-178_togrind-1,178_togrind,*-juki,juki,j u k i,178,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to grind,1033,GRIND,false,expert
+Inapari-178_togrind-1,178_togrind,juhi-rí ,juhi-rí,j u h i + r í/i,178,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to grind,1033,GRIND,false,expert
+Yine-178_togrind-1,178_togrind,joç-rɨ ,joç-rɨ,j o ç + r ɨ,178,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to grind,1033,GRIND,false,expert
+ProtoPurus-179_tofetch-1,179_tofetch,*-apa,apa,a p a,179,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to fetch,3551,FETCH,false,expert
+Inapari-179_tofetch-1,179_tofetch,r-apa-ʧí-má-ri ,r-apa-ʧí-má-ri,r + a p a + tʃ í/i + m á/a + r i,179,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to fetch,3551,FETCH,false,expert
+Apurina-179_tofetch-1,179_tofetch,-apa ,-apa,a p a,179,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,to fetch,3551,FETCH,false,expert
+Yine-179_tofetch-1,179_tofetch,r-apa-t-lɨ ,r-apa-t-lɨ,r + a p a + t + l ɨ,179,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to fetch,3551,FETCH,false,expert
+ProtoPurus-180_tosew-1,180_tosew,*-jutsa-ha,jutsa-ha,j u ts a + h a,180,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,to sew,1457,SEW,false,expert
+Inapari-180_tosew-1,180_tosew,i-jutãã-rá-ma ,i-jutãã-rá-ma,i + j u t ãː + r á/a + m a,180,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,to sew,1457,SEW,false,expert
+Yine-180_tosew-1,180_tosew,jotsha-lɨ ,jotsha-lɨ,j o tsʰ a + l ɨ,180,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,to sew,1457,SEW,false,expert
+ProtoPurus-181_pregnant-1,181_pregnant,*-mɨsi-,mɨsi,m ɨ s i,181,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,pregnant,1123,PREGNANT,false,expert
+Inapari-181_pregnant-1,181_pregnant,amirú ,amirú,a m i r ú/u,181,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,pregnant,1123,PREGNANT,false,expert
+Apurina-181_pregnant-1,181_pregnant,-miʃi ,-miʃi,m i ʃ i,181,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,pregnant,1123,PREGNANT,false,expert
+Yine-181_pregnant-1,181_pregnant,ka-mʃi-ro / mɨʃi-w-lɨ ,ka-mʃi-ro,k a + m ʃ i + r o,181,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,pregnant,1123,PREGNANT,false,expert
+ProtoPurus-182_hungry-1,182_hungry,*natsi,natsi,n a ts i,182,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hungry,1533,BE HUNGRY,false,expert
+Inapari-182_hungry-1,182_hungry,natí ,natí,n a t í/i,182,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hungry,1533,BE HUNGRY,false,expert
+Apurina-182_hungry-1,182_hungry,naʧi ,naʧi,n a tʃ i,182,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,hungry,1533,BE HUNGRY,false,expert
+Yine-182_hungry-1,182_hungry,naʧi ,naʧi,n a tʃ i,182,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hungry,1533,BE HUNGRY,false,expert
+ProtoPurus-183_shy-1,183_shy,*-pate-,pate,p a t e,183,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,shy,487,SHY,false,expert
+Inapari-183_shy-1,183_shy,a-pate-rí ,a-pate-rí,a + p a t e + r í/i,183,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,shy,487,SHY,false,expert
+Apurina-183_shy-1,183_shy,-pate-ta ,-pate-ta,p a t e + t a,183,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,shy,487,SHY,false,expert
+Yine-183_shy-1,183_shy,pate-wa-ta ,pate-wa-ta,p a t e + w a + t a,183,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,shy,487,SHY,false,expert
+ProtoPurus-184_hot-1,184_hot,*hame-,hame,h a m e,184,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,hot,1286,HOT,false,expert
+Inapari-184_hot-1,184_hot,hame-má-ri ,hame-má-ri,h a m e + m á/a + r i,184,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,hot,1286,HOT,false,expert
+Yine-184_hot-1,184_hot,hame-t-lɨ ,hame-t-lɨ,h a m e + t + l ɨ,184,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,hot,1286,HOT,false,expert
+ProtoPurus-185_cold-1,185_cold,*ka-ʧikare,ka-ʧikare,k a + tʃ i k a r e,185,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cold,1287,COLD,false,expert
+Apurina-185_cold-1,185_cold,-ʧĩkare ,-ʧĩkare,tʃ ĩ k a r e,185,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,cold,1287,COLD,false,expert
+Yine-185_cold-1,185_cold,ka-ʧikle-rɨ ,ka-ʧikle-rɨ,k a + tʃ i k l e + r ɨ,185,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,cold,1287,COLD,false,expert
+ProtoPurus-185_cold-2,185_cold,*ka-ʧikare,ka-ʧikare,k a + tʃ i k a r e,185,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cold,1287,COLD,false,expert
+Apurina-185_cold-2,185_cold,ka-ʧĩka-re-rɨ ,ka-ʧĩka-re-rɨ,k a + tʃ ĩ k a + r e + r ɨ,185,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,cold,1287,COLD,false,expert
+ProtoPurus-186_wet-1,186_wet,*potseja-,potseja,p o ts e j a,186,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,wet,1726,WET,false,expert
+Inapari-186_wet-1,186_wet,potejá-má-ri ,potejá-má-ri,p o t e j á/a + m á/a + r i,186,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,wet,1726,WET,false,expert
+Yine-186_wet-1,186_wet,potsja-lɨ ,potsja-lɨ,p o ts j a + l ɨ,186,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,wet,1726,WET,false,expert
+ProtoPurus-187_dry-1,187_dry,*puperi-,puperi,p u p e r i,187,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,dry,1398,DRY,false,expert
+Inapari-187_dry-1,187_dry,puperí-má-ri ,puperí-má-ri,p u p e r í/i + m á/a + r i,187,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,dry,1398,DRY,false,expert
+Yine-187_dry-1,187_dry,popri-ri ,popri-ri,p o p r i + r i,187,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,dry,1398,DRY,false,expert
+ProtoPurus-188_new-1,188_new,*herutɨ,herutɨ,h e r u t ɨ,188,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,new,1231,NEW,false,expert
+Inapari-188_new-1,188_new,herúʧi ,herúʧi,h e r ú/u tʃ i,188,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,new,1231,NEW,false,expert
+Yine-188_new-1,188_new,herotɨ ,herotɨ,h e r o t ɨ,188,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,new,1231,NEW,false,expert
+ProtoPurus-189_heavy-1,189_heavy,*pO-hɨno-rɨ,pO-hɨno-rɨ,p O/o + h ɨ n o + r ɨ,189,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,heavy,1210,HEAVY,false,expert
+Inapari-189_heavy-1,189_heavy,pɨɨnorɨ ,pɨɨnorɨ,p ɨː n o r ɨ,189,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,heavy,1210,HEAVY,false,expert
+Yine-189_heavy-1,189_heavy,hinolɨ ,hinolɨ,h i n o l ɨ,189,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,heavy,1210,HEAVY,false,expert
+ProtoPurus-190_above-1,190_above,*teno,teno,t e n o,190,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,above,1741,ABOVE,false,expert
+Inapari-190_above-1,190_above,téno ,téno,t é/e n o,190,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,above,1741,ABOVE,false,expert
+Yine-190_above-1,190_above,teno ,teno,t e n o,190,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,above,1741,ABOVE,false,expert
+ProtoPurus-191_below-1,191_below,*rapɨ-,rapɨ,r a p ɨ,191,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,below,1485,BELOW OR UNDER,false,expert
+Inapari-191_below-1,191_below,rapɨ[ʧa] ,rapɨ[ʧa],r a p ɨ tʃ a,191,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,below,1485,BELOW OR UNDER,false,expert
+Yine-191_below-1,191_below,rapɨ[ko] ,rapɨ[ko],r a p ɨ k o,191,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,below,1485,BELOW OR UNDER,false,expert
+ProtoPurus-192_coremiddle-1,192_coremiddle,*-anika-kɨ,anika-kɨ,a n i k a + k ɨ,192,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,core/middle,3208,CENTER OR MIDDLE,false,expert
+Inapari-192_coremiddle-1,192_coremiddle,aniʔa-hɨ ,aniʔa-hɨ,a n i ʔ a + h ɨ,192,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,core/middle,3208,CENTER OR MIDDLE,false,expert
+Yine-192_coremiddle-1,192_coremiddle,r-anika-çi-te ,r-anika-çi-te,r + a n i k a + ç i + t e,192,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,core/middle,3208,CENTER OR MIDDLE,false,expert
+ProtoPurus-193_two-1,193_two,*hepi,hepi,h e p i,193,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,two,1498,TWO,false,expert
+Inapari-193_two-1,193_two,hepí ,hepí,h e p í/i,193,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,two,1498,TWO,false,expert
+Apurina-193_two-1,193_two,epi ,epi,e p i,193,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,two,1498,TWO,false,expert
+Yine-193_two-1,193_two,hepi ,hepi,h e p i,193,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,two,1498,TWO,false,expert
+ProtoPurus-194_three-1,194_three,*mapa,mapa,m a p a,194,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,three,492,THREE,false,expert
+Inapari-194_three-1,194_three,mapá ,mapá,m a p á/a,194,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,three,492,THREE,false,expert
+Yine-194_three-1,194_three,mapa ,mapa,m a p a,194,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,three,492,THREE,false,expert
+ProtoPurus-195_clliquid-1,195_clliquid,*-ha,ha,h a,195,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cl.liquid,,,false,expert
+Inapari-195_clliquid-1,195_clliquid,ã- ,ã-,ã,195,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,cl.liquid,,,false,expert
+Apurina-195_clliquid-1,195_clliquid,-ã ,-ã,ã,195,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,cl.liquid,,,false,expert
+Yine-195_clliquid-1,195_clliquid,hi-ha ,hi-ha,h i + h a,195,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,cl.liquid,,,false,expert
+ProtoPurus-196_clcylindrical-1,196_clcylindrical,*-pi,pi,p i,196,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,cl.cylindrical,,,false,expert
+Inapari-196_clcylindrical-1,196_clcylindrical,-pi ,-pi,p i,196,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,cl.cylindrical,,,false,expert
+Yine-196_clcylindrical-1,196_clcylindrical,-pi ,-pi,p i,196,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,cl.cylindrical,,,false,expert
+ProtoPurus-197_gendermasc-1,197_gendermasc,*-rɨ,rɨ,r ɨ,197,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,gender.masc,,,false,expert
+Inapari-197_gendermasc-1,197_gendermasc,-rɨ ,-rɨ,r ɨ,197,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,gender.masc,,,false,expert
+Apurina-197_gendermasc-1,197_gendermasc,-rɨ ,-rɨ,r ɨ,197,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,gender.masc,,,false,expert
+Yine-197_gendermasc-1,197_gendermasc,-rɨ ~ -lɨ ,-rɨ,r ɨ,197,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,gender.masc,,,false,expert
+ProtoPurus-198_genderfem-1,198_genderfem,*-ro,ro,r o,198,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,gender.fem,,,false,expert
+Inapari-198_genderfem-1,198_genderfem,-ro ,-ro,r o,198,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,gender.fem,,,false,expert
+Apurina-198_genderfem-1,198_genderfem,-ro ,-ro,r o,198,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,gender.fem,,,false,expert
+Yine-198_genderfem-1,198_genderfem,-ro ~ -lo ,-ro,r o,198,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,gender.fem,,,false,expert
+ProtoPurus-199_progressive-1,199_progressive,*-nanɨ,nanɨ,n a n ɨ,199,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,progressive,,,false,expert
+Apurina-199_progressive-1,199_progressive,-nanɨ ,-nanɨ,n a n ɨ,199,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,progressive,,,false,expert
+Yine-199_progressive-1,199_progressive,-nanɨ ,-nanɨ,n a n ɨ,199,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,progressive,,,false,expert
+ProtoPurus-200_iterative-1,200_iterative,*-naka,naka,n a k a,200,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,iterative,,,false,expert
+Inapari-200_iterative-1,200_iterative,-naʔa ,-naʔa,n a ʔ a,200,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,iterative,,,false,expert
+Yine-200_iterative-1,200_iterative,-t-naka ,-t-naka,t + n a k a,200,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,iterative,,,false,expert
+ProtoPurus-201_intensive-1,201_intensive,*-jaka,jaka,j a k a,201,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,intensive,,,false,expert
+Inapari-201_intensive-1,201_intensive,-jaʔa ,-jaʔa,j a ʔ a,201,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,intensive,,,false,expert
+Yine-201_intensive-1,201_intensive,jaka ,jaka,j a k a,201,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,intensive,,,false,expert
+ProtoPurus-202_intensifier-1,202_intensifier,*-putɨ,putɨ,p u t ɨ,202,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,intensifier,,,false,expert
+Inapari-202_intensifier-1,202_intensifier,-puʧi ,-puʧi,p u tʃ i,202,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,intensifier,,,false,expert
+Yine-202_intensifier-1,202_intensifier,potɨ ,potɨ,p o t ɨ,202,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,intensifier,,,false,expert
+ProtoPurus-203_causverblzr-1,203_causverblzr,*ka-,ka,k a,203,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,caus/verblzr,,,false,expert
+Inapari-203_causverblzr-1,203_causverblzr,a- ,a-,a,203,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,caus/verblzr,,,false,expert
+Apurina-203_causverblzr-1,203_causverblzr,ka- ,ka-,k a,203,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,caus/verblzr,,,false,expert
+Yine-203_causverblzr-1,203_causverblzr,ka- ,ka-,k a,203,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,caus/verblzr,,,false,expert
+ProtoPurus-204_adjectivizer-1,204_adjectivizer,*pO-,pO,p O/o,204,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,adjectivizer,,,false,expert
+Inapari-204_adjectivizer-1,204_adjectivizer,*po-/*pu- ,*po-,p o,204,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,adjectivizer,,,false,expert
+Apurina-204_adjectivizer-1,204_adjectivizer,*po- ,*po-,p o,204,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,adjectivizer,,,false,expert
+Yine-204_adjectivizer-1,204_adjectivizer,po- ,po-,p o,204,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,adjectivizer,,,false,expert
+ProtoPurus-205_verbalizer-1,205_verbalizer,*-ta,ta,t a,205,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,verbalizer,,,false,expert
+Inapari-205_verbalizer-1,205_verbalizer,-ʧa[hi],-ʧa[hi],tʃ a h i,205,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,verbalizer,,,false,expert
+Apurina-205_verbalizer-1,205_verbalizer,-ta,-ta,t a,205,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,verbalizer,,,false,expert
+Yine-205_verbalizer-1,205_verbalizer,-ta,-ta,t a,205,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,verbalizer,,,false,expert
+ProtoPurus-206_absolute-1,206_absolute,*-tsi,tsi,ts i,206,,,ProtoPurus,Proto-Purus,puru1265,Purus,,Arawakan,,absolute,,,false,expert
+Inapari-206_absolute-1,206_absolute,-ti ,-ti,t i,206,,,Inapari,Iñapari,inap1242,Iñapari,inp,Arawakan,,absolute,,,false,expert
+Apurina-206_absolute-1,206_absolute,-ʧi ,-ʧi,tʃ i,206,,,Apurina,Apurinã,apur1254,Apurinã,apu,Arawakan,,absolute,,,false,expert
+Yine-206_absolute-1,206_absolute,-ʧi ,-ʧi,tʃ i,206,,,Yine,Yine,yine1238,Yine,pib,Arawakan,,absolute,,,false,expert

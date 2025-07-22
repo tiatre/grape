@@ -1,0 +1,64 @@
+
+         /-Chuvash
+      /-|
+     |   \-Khalaj
+   /-|
+  |  |   /-Turkmen
+  |   \-|
+  |     |   /-Crimean Tatar
+  |      \-|
+  |        |   /-Azeri
+  |         \-|
+  |           |   /-Gagauz
+  |            \-|
+  |               \-Turkish
+  |
+  |      /-Karaim
+  |   /-|
+  |  |  |   /-Karachay Balkar
+  |  |   \-|
+  |  |      \-Kumyk
+  |  |
+  |--|   /-Baraba Tatar
+  |  |  |
+  |  |  |   /-Bashkir
+--|  |  |--|
+  |  |  |   \-Kazan Tatar
+  |  |  |
+  |   \-|   /-Uyghur
+  |     |--|
+  |     |   \-Uzbek
+  |     |
+  |     |   /-Nogai
+  |     |  |
+  |      \-|   /-Karakalpak
+  |        |  |
+  |         \-|--Kazakh
+  |           |
+  |            \-Kirghiz
+  |
+  |   /-Salar
+  |  |
+  |  |   /-Cuman
+  |  |  |
+  |  |  |--Saryg Yugur
+   \-|  |
+     |  |   /-North Altay
+     |  |--|
+     |  |   \-South Altay
+     |  |
+      \-|   /-Old Turkic
+        |--|
+        |  |   /-Dolgan
+        |   \-|
+        |      \-Yakut
+        |
+        |      /-Tofa
+        |   /-|
+        |  |   \-Tuvan
+         \-|
+           |   /-Middle Chulym
+            \-|
+              |   /-Khakas
+               \-|
+                  \-Shor

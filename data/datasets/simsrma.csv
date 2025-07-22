@@ -1,0 +1,1056 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+Taoping-253_year-1,253_year,pə³³,pə³³,p ə ³³,118,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,year,1226,YEAR,false,expert
+Longxi-253_year-1,253_year,pù,pù,p ù/u,118,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,year,1226,YEAR,false,expert
+Mianchi-253_year-1,253_year,pù,pù,p ù/u,118,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,year,1226,YEAR,false,expert
+Yonghe-135_oneyear-1,135_oneyear,ə́-pù,ə́-pù,ə́/ə + p ù/u,118,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,one year,1226,YEAR,false,expert
+Wadu-253_year-1,253_year,pʉ̀,pʉ̀,p ʉ̀/ʉ,118,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Dayang-253_year-1,253_year,pɨ̀,pɨ̀,p ɨ̆/ɨ,118,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Taoba-253_year-1,253_year,pu⁵³,pu⁵³,p u ⁵³,118,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Qinghua-253_year-1,253_year,pə¹³,pə¹³,p ə ¹³,118,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Lanping-253_year-1,253_year,pə¹³,pə¹³,p ə ¹³,118,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Jiulong-253_year-1,253_year,pi⁵³,pi⁵³,p i ⁵³,118,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,year,1226,YEAR,false,expert
+Taoping-247_who-1,247_who,sɨ⁵⁵,sɨ⁵⁵,s ɨ ⁵⁵,108,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,who,1235,WHO,false,expert
+Longxi-247_who-1,247_who,sɨ́,sɨ́,s ɨ́/ɨ,108,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,who,1235,WHO,false,expert
+Mianchi-247_who-1,247_who,ʂí lè,ʂí_lè,ʂ í/i + l è/e,108,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,who,1235,WHO,false,expert
+Yonghe-247_who-1,247_who,sɨ́,sɨ́,s ɨ́/ɨ,108,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,who,1235,WHO,false,expert
+Wadu-247_who-1,247_who,hĩ̂,hĩ̂,h ĩ̂/ĩ,108,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,who,1235,WHO,false,expert
+Niuwozi-247_who-1,247_who,xɜᴴ,xɜᴴ,x ɜ ᴴ/⁵,108,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,who,1235,WHO,false,expert
+Taoba-247_who-1,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,108,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,who,1235,WHO,false,expert
+Qinghua-247_who-1,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,108,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,who,1235,WHO,false,expert
+Lanping-247_who-1,247_who,xɛ⁵⁵,xɛ⁵⁵,x ɛ ⁵⁵,108,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,who,1235,WHO,false,expert
+Taoping-246_white-1,246_white,pʐi⁵⁵,pʐi⁵⁵,p ʐ i ⁵⁵,183,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,white,1335,WHITE,false,expert
+Longxi-246_white-1,246_white,pʰé,pʰé,pʰ é/e,183,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,white,1335,WHITE,false,expert
+Mianchi-246_white-1,246_white,pʂí,pʂí,p ʂ í/i,183,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,white,1335,WHITE,false,expert
+Yonghe-246_white-1,246_white,pʰjí ~ pʰí,pʰjí,pʰ j í/i,183,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,white,1335,WHITE,false,expert
+Wadu-246_white-1,246_white,ʈʰṍ,ʈʰṍ,ʈʰ ṍ/õ,183,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Niuwozi-246_white-1,246_white,pʰʴĩᴴ,pʰʴĩᴴ,pʰ ʴ/ɹ ĩ ᴴ/⁵,183,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Dayang-246_white-1,246_white,pʰʂẽ́,pʰʂẽ́,pʰ ʂ ẽ́/ẽ,183,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Taoba-246_white-1,246_white,pʰʐã⁵⁵ mə⁵³,pʰʐã⁵⁵_mə⁵³,pʰ ʐ ã ⁵⁵ + m ə ⁵³,183,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Qinghua-246_white-1,246_white,pʰʐə̃⁵⁵,pʰʐə̃⁵⁵,pʰ ʐ ə̃ ⁵⁵,183,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Lanping-246_white-1,246_white,pʰʂə̃⁵⁵,pʰʂə̃⁵⁵,pʰ ʂ ə̃ ⁵⁵,183,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Jiulong-246_white-1,246_white,pʰʐĩ⁵⁵ lø⁵⁵ lø¹¹,pʰʐĩ⁵⁵_lø⁵⁵_lø¹¹,pʰ ʐ ĩ ⁵⁵ + l ø ⁵⁵ + l ø ¹¹,183,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,white,1335,WHITE,false,expert
+Taoping-242_weigh-1,242_weigh,tɕʰe⁵⁵,tɕʰe⁵⁵,tɕʰ e ⁵⁵,95,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,weigh,1098,WEIGH,false,expert
+Longxi-245_weightgrain-1,245_weightgrain,tɕʰì tɕʰí,tɕʰì_tɕʰí,tɕʰ ì/i + tɕʰ í/i,95,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,weight (grain),,,false,expert
+Mianchi-244_weighgrain-1,244_weighgrain,tɕʰé,tɕʰé,tɕʰ é/e,95,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,weigh (grain),,,false,expert
+Taoba-242_weigh-1,242_weigh,tə⁵⁵ tɕɛ⁵³,tə⁵⁵_tɕɛ⁵³,t ə ⁵⁵ + tɕ ɛ ⁵³,95,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,weigh,1098,WEIGH,false,expert
+Lanping-243_weighfood-1,243_weighfood,tə⁵⁵ tɕi⁵⁵,tə⁵⁵_tɕi⁵⁵,t ə ⁵⁵ + tɕ i ⁵⁵,95,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weigh (food),,,false,expert
+Jiulong-243_weighfood-1,243_weighfood,tɯ⁵⁵ ke⁵⁵,tɯ⁵⁵_ke⁵⁵,t ɯ ⁵⁵ + k e ⁵⁵,95,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weigh (food),,,false,expert
+Taoping-241_weep-1,241_weep,ŋə⁵⁵,ŋə⁵⁵,ŋ ə ⁵⁵,104,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,weep,1839,CRY,false,expert
+Longxi-241_weep-1,241_weep,ŋú,ŋú,ŋ ú/u,104,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,weep,1839,CRY,false,expert
+Wadu-241_weep-1,241_weep,qwé,qwé,q w é/e,104,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Niuwozi-241_weep-1,241_weep,kwɜjᴴ,kwɜjᴴ,k w ɜj/ɜi ᴴ/⁵,104,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Taoba-241_weep-1,241_weep,xue⁵⁵,xue⁵⁵,x u/w e ⁵⁵,104,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Qinghua-241_weep-1,241_weep,squa⁵⁵,squa⁵⁵,s q u/w a ⁵⁵,104,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Lanping-241_weep-1,241_weep,χquɑ⁵⁵,χquɑ⁵⁵,χ q u/w ɑ ⁵⁵,104,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Jiulong-241_weep-1,241_weep,kuɛ⁵⁵,kuɛ⁵⁵,k u ɛ ⁵⁵,104,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weep,1839,CRY,false,expert
+Taoping-240_weave-1,240_weave,tia³³,tia³³,t i/j a ³³,150,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,weave,133,WEAVE,false,expert
+Longxi-240_weave-1,240_weave,tɕà,tɕà,tɕ à/a,150,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,weave,133,WEAVE,false,expert
+Mianchi-240_weave-1,240_weave,tià,tià,t i/j à/a,150,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,weave,133,WEAVE,false,expert
+Yonghe-240_weave-1,240_weave,tæ̌,tæ̌,t æ̆/æ,150,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,weave,133,WEAVE,false,expert
+Wadu-240_weave-1,240_weave,tɕæ̌,tɕæ̌,tɕ æ̆/æ,150,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,weave,133,WEAVE,false,expert
+Dayang-240_weave-1,240_weave,tʂɒ̌,tʂɒ̌,ʈʂ ɒ̆/ɒ,150,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,weave,133,WEAVE,false,expert
+Taoba-240_weave-1,240_weave,nə³⁵ tɕɛ³⁵,nə³⁵_tɕɛ³⁵,n ə ³⁵ + tɕ ɛ ³⁵,150,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,weave,133,WEAVE,false,expert
+Lanping-240_weave-1,240_weave,tʃɑ¹³,tʃɑ¹³,tʃ ɑ ¹³,150,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,weave,133,WEAVE,false,expert
+Taoping-232_urine-1,232_urine,bie²⁴¹,bie²⁴¹,b i/j e ²⁴¹,186,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,urine,1142,URINE,false,expert
+Longxi-232_urine-1,232_urine,bí,bí,b í/i,186,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,urine,1142,URINE,false,expert
+Mianchi-232_urine-1,232_urine,biě,biě,b i ĕ/e,186,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,urine,1142,URINE,false,expert
+Yonghe-231_urinate-1,231_urinate,bɨ́,bɨ́,b ɨ́/ɨ,186,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,urinate,592,PISS,false,expert
+Wadu-232_urine-1,232_urine,bĩ̂,bĩ̂,b ĩ̂/ĩ,186,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,urine,1142,URINE,false,expert
+Niuwozi-232_urine-1,232_urine,biẽᶠ,biẽᶠ,b i/j ẽ ᶠ/⁵¹,186,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,urine,1142,URINE,false,expert
+Dayang-232_urine-1,232_urine,βbĩ́,βbĩ́,β b ĩ́/ĩ,186,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,urine,1142,URINE,false,expert
+Taoping-227_tree-1,227_tree,pʰo⁵⁵,pʰo⁵⁵,pʰ o ⁵⁵,91,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,tree,906,TREE,false,expert
+Longxi-227_tree-1,227_tree,ɕì pʰù,ɕì_pʰù,ɕ ì/i + pʰ ù/u,91,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,tree,906,TREE,false,expert
+Mianchi-227_tree-1,227_tree,pʰò ~ pʰó,pʰò,pʰ ò/o,91,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,tree,906,TREE,false,expert
+Yonghe-227_tree-1,227_tree,pʰú,pʰú,pʰ ú/u,91,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,tree,906,TREE,false,expert
+Wadu-227_tree-1,227_tree,bóŋ,bóŋ,b ó/o ŋ,91,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,tree,906,TREE,false,expert
+Qinghua-227_tree-1,227_tree,siɛ̃¹³ sbõ⁵⁵,siɛ̃¹³_sbõ⁵⁵,s i/j ɛ̃ ¹³ + s b õ ⁵⁵,91,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,tree,906,TREE,false,expert
+Lanping-227_tree-1,227_tree,siɛ̃¹³ vbõ⁵⁵,siɛ̃¹³_vbõ⁵⁵,s i/j ɛ̃ ¹³ + v b õ ⁵⁵,91,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tree,906,TREE,false,expert
+Jiulong-227_tree-1,227_tree,sẽ¹¹ bũ⁵⁵,sẽ¹¹_bũ⁵⁵,s ẽ ¹¹ + b ũ ⁵⁵,91,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tree,906,TREE,false,expert
+Taoping-226_tread-1,226_tread,tɕʰya³¹,tɕʰya³¹,tɕʰ y a ³¹,31,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,tread,575,TREAD,false,expert
+Longxi-226_tread-1,226_tread,tɕʰuà ȵí,tɕʰuà_ȵí,tɕʰ u/w à/a + ȵ í/i,31,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,tread,575,TREAD,false,expert
+Mianchi-226_tread-1,226_tread,tɕʰyà,tɕʰyà,tɕʰ y/ɥ à/a,31,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,tread,575,TREAD,false,expert
+Yonghe-226_tread-1,226_tread,tsʰwæ̀ ȵwí,tsʰwæ̀_ȵwí,tsʰ w æ̀/æ + ȵ w í/i,31,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,tread,575,TREAD,false,expert
+Taoba-226_tread-1,226_tread,nə³⁵ tɕʰo⁵⁵,nə³⁵_tɕʰo⁵⁵,n ə ³⁵ + tɕʰ o ⁵⁵,31,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,tread,575,TREAD,false,expert
+Qinghua-226_tread-1,226_tread,nə¹³ tʂʰɯ¹³,nə¹³_tʂʰɯ¹³,n ə ¹³ + ʈʂʰ ɯ ¹³,31,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,tread,575,TREAD,false,expert
+Lanping-226_tread-1,226_tread,nə¹³ tʂʰɯ¹³,nə¹³_tʂʰɯ¹³,n ə ¹³ + ʈʂʰ ɯ ¹³,31,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tread,575,TREAD,false,expert
+Taoping-225_tooth-1,225_tooth,suə⁵⁵,suə⁵⁵,s u/w ə ⁵⁵,194,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,tooth,1380,TOOTH,false,expert
+Longxi-225_tooth-1,225_tooth,sù,sù,s ù/u,194,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,tooth,1380,TOOTH,false,expert
+Mianchi-82_gums-1,82_gums,sú-nə̀,sú-nə̀,s ú/u + n ə̀/ə,194,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,gums,139,GUMS,false,expert
+Yonghe-225_tooth-1,225_tooth,ɕwí,ɕwí,ɕ w í/i,194,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,tooth,1380,TOOTH,false,expert
+Wadu-225_tooth-1,225_tooth,ɻ̥ʉ́,ɻ̥ʉ́,ɻ̥ ʉ́/ʉ,194,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Niuwozi-225_tooth-1,225_tooth,ɹ̥ʉᶠ,ɹ̥ʉᶠ,ɹ̥ ʉ ᶠ/⁵¹,194,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Dayang-225_tooth-1,225_tooth,ʂóu,ʂóu,ʂ óu/ou,194,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Taoba-225_tooth-1,225_tooth,ʂu⁵³,ʂu⁵³,ʂ u ⁵³,194,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Qinghua-225_tooth-1,225_tooth,ʂy⁵⁵,ʂy⁵⁵,ʂ y ⁵⁵,194,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Lanping-225_tooth-1,225_tooth,ʂy⁵⁵,ʂy⁵⁵,ʂ y ⁵⁵,194,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Jiulong-225_tooth-1,225_tooth,xui⁵⁵,xui⁵⁵,x ui ⁵⁵,194,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tooth,1380,TOOTH,false,expert
+Taoping-224_tongue-1,224_tongue,zɿ³¹ qə⁵⁵,zɿ³¹_qə⁵⁵,z ɿ ³¹ + q ə ⁵⁵,199,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,tongue,1205,TONGUE,false,expert
+Longxi-224_tongue-1,224_tongue,zə̀ qə̀,zə̀_qə̀,z ə̀/ə + q ə̀/ə,199,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,tongue,1205,TONGUE,false,expert
+Mianchi-224_tongue-1,224_tongue,zɨ̀ qé,zɨ̀_qé,z ɨ̆/ɨ + q é/e,199,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,tongue,1205,TONGUE,false,expert
+Yonghe-224_tongue-1,224_tongue,zɨ̌ qə̀,zɨ̌_qə̀,z ɨ̆/ɨ + q ə̀/ə,199,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,tongue,1205,TONGUE,false,expert
+Niuwozi-224_tongue-1,224_tongue,l̥eᴴ,l̥eᴴ,l̥ e ᴴ/⁵,199,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tongue,1205,TONGUE,false,expert
+Taoba-224_tongue-1,224_tongue,ɬiɛ⁵³,ɬiɛ⁵³,ɬ i/j ɛ ⁵³,199,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,tongue,1205,TONGUE,false,expert
+Qinghua-224_tongue-1,224_tongue,ɬie⁵⁵ qʰo⁵⁵,ɬie⁵⁵_qʰo⁵⁵,ɬ i/j e ⁵⁵ + qʰ o ⁵⁵,199,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,tongue,1205,TONGUE,false,expert
+Lanping-224_tongue-1,224_tongue,ɬie⁵⁵ qʰo⁵⁵,ɬie⁵⁵_qʰo⁵⁵,ɬ i/j e ⁵⁵ + qʰ o ⁵⁵,199,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tongue,1205,TONGUE,false,expert
+Jiulong-224_tongue-1,224_tongue,ɬə⁵⁵,ɬə⁵⁵,ɬ ə ⁵⁵,199,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tongue,1205,TONGUE,false,expert
+Taoping-222_toexist-1,222_toexist,ʒɿ³³,ʒɿ³³,ʒ ɿ ³³,38,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,to exist,,,false,expert
+Longxi-222_toexist-1,222_toexist,jì,jì,j ì/i,38,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,to exist,,,false,expert
+Mianchi-222_toexist-1,222_toexist,ʑì,ʑì,ʑ ì/i,38,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,to exist,,,false,expert
+Wadu-222_toexist-1,222_toexist,ʑǐ,ʑǐ,ʑ ĭ/i,38,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,to exist,,,false,expert
+Taoba-222_toexist-1,222_toexist,ʑɛ³⁵,ʑɛ³⁵,ʑ ɛ ³⁵,38,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,to exist,,,false,expert
+Qinghua-222_toexist-1,222_toexist,ʒø¹³,ʒø¹³,ʒ ø ¹³,38,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,to exist,,,false,expert
+Lanping-222_toexist-1,222_toexist,ʒø¹³,ʒø¹³,ʒ ø ¹³,38,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,to exist,,,false,expert
+Jiulong-222_toexist-1,222_toexist,ʑe³⁵,ʑe³⁵,ʑ e ³⁵,38,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,to exist,,,false,expert
+Taoping-217_thick-1,217_thick,lie³³,lie³³,l i/j e ³³,180,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,thick,1244,THICK,false,expert
+Longxi-217_thick-1,217_thick,lià,lià,l i/j à/a,180,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,thick,1244,THICK,false,expert
+Mianchi-217_thick-1,217_thick,lià,lià,l i/j à/a,180,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,thick,1244,THICK,false,expert
+Yonghe-217_thick-1,217_thick,læ̌,læ̌,l æ̆/æ,180,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,thick,1244,THICK,false,expert
+Wadu-217_thick-1,217_thick,ɦɑ̌,ɦɑ̌,ɦ ɑ̆/ɑ,180,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Niuwozi-217_thick-1,217_thick,ɣɑᴿ,ɣɑᴿ,ɣ ɑ ᴿ/¹⁵,180,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Dayang-217_thick-1,217_thick,ɣɑ̌ ~ ɦɑ̌,ɣɑ̌,ɣ ɑ̆/ɑ,180,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Taoba-217_thick-1,217_thick,ɣa¹³,ɣa¹³,ɣ a ¹³,180,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Qinghua-217_thick-1,217_thick,ɣa¹³,ɣa¹³,ɣ a ¹³,180,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Jiulong-217_thick-1,217_thick,lɑ³⁵,lɑ³⁵,l ɑ ³⁵,180,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,thick,1244,THICK,false,expert
+Taoping-212_sweat-1,212_sweat,χtʂuə⁵⁵,χtʂuə⁵⁵,χ ʈʂ u/w ə ⁵⁵,32,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,sweat,125,SWEAT (SUBSTANCE),false,expert
+Mianchi-212_sweat-1,212_sweat,tʂʰù,tʂʰù,ʈʂʰ ù/u,32,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sweat,125,SWEAT (SUBSTANCE),false,expert
+Yonghe-212_sweat-1,212_sweat,tɕʰwí,tɕʰwí,tɕʰ w í/i,32,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,sweat,125,SWEAT (SUBSTANCE),false,expert
+Dayang-212_sweat-1,212_sweat,ʃtʃʰí,ʃtʃʰí,ʃ tʃʰ í/i,32,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,sweat,125,SWEAT (SUBSTANCE),false,expert
+Qinghua-212_sweat-1,212_sweat,skʰi⁵⁵,skʰi⁵⁵,s kʰ i ⁵⁵,32,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,sweat,125,SWEAT (SUBSTANCE),false,expert
+Lanping-212_sweat-1,212_sweat,skʰi⁵⁵,skʰi⁵⁵,s kʰ i ⁵⁵,32,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sweat,125,SWEAT (SUBSTANCE),false,expert
+Taoping-210_stretch-1,210_stretch,sɿ³¹ tʂʰi⁵⁵,sɿ³¹_tʂʰi⁵⁵,s ɿ ³¹ + ʈʂʰ i ⁵⁵,100,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,stretch,214,STRETCH,false,expert
+Longxi-210_stretch-1,210_stretch,tsʰí,tsʰí,tsʰ í/i,100,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,stretch,214,STRETCH,false,expert
+Mianchi-210_stretch-1,210_stretch,tʂʰɨ̀ ~ tʂʰɨ́,tʂʰɨ̀,ʈʂʰ ɨ̆/ɨ,100,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,stretch,214,STRETCH,false,expert
+Yonghe-210_stretch-1,210_stretch,hə̀-tʂʰə́,hə̀-tʂʰə́,h ə̀/ə + ʈʂʰ ə́/ə,100,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,stretch,214,STRETCH,false,expert
+Qinghua-210_stretch-1,210_stretch,kʰə¹³ stʃõ⁵⁵,kʰə¹³_stʃõ⁵⁵,kʰ ə ¹³ + s tʃ õ ⁵⁵,100,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,stretch,214,STRETCH,false,expert
+Lanping-210_stretch-1,210_stretch,kʰə¹³ ʃtʃõ⁵⁵,kʰə¹³_ʃtʃõ⁵⁵,kʰ ə ¹³ + ʃ tʃ õ ⁵⁵,100,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stretch,214,STRETCH,false,expert
+Jiulong-210_stretch-1,210_stretch,kʰɯ¹¹ ʂã⁵⁵ la¹¹,kʰɯ¹¹_ʂã⁵⁵_la¹¹,kʰ ɯ ¹¹ + ʂ ã ⁵⁵ + l a ¹¹,100,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stretch,214,STRETCH,false,expert
+Taoping-209_strength-1,209_strength,dʐɿ²⁴¹,dʐɿ²⁴¹,ɖʐ ɿ ²⁴¹,97,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,strength,202,STRENGTH,false,expert
+Longxi-209_strength-1,209_strength,qú,qú,q ú/u,97,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,strength,202,STRENGTH,false,expert
+Mianchi-209_strength-1,209_strength,dʐà qà,dʐà_qà,ɖʐ à/a + q à/a,97,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,strength,202,STRENGTH,false,expert
+Yonghe-209_strength-1,209_strength,qǔ ~ kǔ,qǔ,q ŭ/u,97,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,strength,202,STRENGTH,false,expert
+Wadu-209_strength-1,209_strength,qɐ̌,qɐ̌,q ɐ̆/ɐ,97,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,strength,202,STRENGTH,false,expert
+Taoba-209_strength-1,209_strength,ka³⁵,ka³⁵,k a ³⁵,97,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,strength,202,STRENGTH,false,expert
+Qinghua-209_strength-1,209_strength,qa¹³,qa¹³,q a ¹³,97,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,strength,202,STRENGTH,false,expert
+Lanping-209_strength-1,209_strength,qa¹³,qa¹³,q a ¹³,97,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,strength,202,STRENGTH,false,expert
+Taoping-207_straight-1,207_straight,χtə⁵⁵,χtə⁵⁵,χ t ə ⁵⁵,189,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,straight,1404,STRAIGHT,false,expert
+Longxi-207_straight-1,207_straight,tí,tí,t í/i,189,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,straight,1404,STRAIGHT,false,expert
+Mianchi-208_straighterect-1,208_straighterect,tí,tí,t í/i,189,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"straight, erect",,,false,expert
+Taoba-207_straight-1,207_straight,tu⁵⁵ mə⁵³,tu⁵⁵_mə⁵³,t u ⁵⁵ + m ə ⁵³,189,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,straight,1404,STRAIGHT,false,expert
+Qinghua-207_straight-1,207_straight,stu⁵⁵,stu⁵⁵,s t u ⁵⁵,189,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,straight,1404,STRAIGHT,false,expert
+Lanping-207_straight-1,207_straight,stu⁵⁵,stu⁵⁵,s t u ⁵⁵,189,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,straight,1404,STRAIGHT,false,expert
+Jiulong-207_straight-1,207_straight,tə¹¹ tu⁵⁵,tə¹¹_tu⁵⁵,t ə ¹¹ + t u ⁵⁵,189,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,straight,1404,STRAIGHT,false,expert
+Taoping-203_star-1,203_star,χdʐe³³ pe⁵⁵,χdʐe³³_pe⁵⁵,χ ɖʐ e ³³ + p e ⁵⁵,193,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,star,1430,STAR,false,expert
+Longxi-203_star-1,203_star,zɨ̀ bà,zɨ̀_bà,z ɨ̆/ɨ + b à/a,193,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,star,1430,STAR,false,expert
+Mianchi-203_star-1,203_star,dʐɛ̀,dʐɛ̀,ɖʐ ɛ̀/ɛ,193,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,star,1430,STAR,false,expert
+Yonghe-203_star-1,203_star,dʐɨ́,dʐɨ́,ɖʐ ɨ́/ɨ,193,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,star,1430,STAR,false,expert
+Wadu-203_star-1,203_star,ɖə̌,ɖə̌,ɖ ə̆/ə,193,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Niuwozi-203_star-1,203_star,gʴəᴿ,gʴəᴿ,g ʴ/ɹ ə ᴿ/¹⁵,193,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Dayang-203_star-1,203_star,ɖɨ̌,ɖɨ̌,ɖ ɨ̆/ɨ,193,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Taoba-203_star-1,203_star,dʐə³⁵,dʐə³⁵,ɖʐ ə ³⁵,193,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Qinghua-203_star-1,203_star,dʐə¹³,dʐə¹³,ɖʐ ə ¹³,193,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Lanping-203_star-1,203_star,dʐə¹³,dʐə¹³,ɖʐ ə ¹³,193,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Jiulong-203_star-1,203_star,dʐɿ³⁵,dʐɿ³⁵,ɖʐ ɿ ³⁵,193,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,star,1430,STAR,false,expert
+Taoping-198_spitv-1,198_spitv,pʰe³³,pʰe³³,pʰ e ³³,124,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,spit (v.),1440,SPIT,false,expert
+Yonghe-198_spitv-1,198_spitv,sə́-pʰɛ̀,sə́-pʰɛ̀,s ə́/ə + pʰ ɛ̀/ɛ,124,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,spit (v.),1440,SPIT,false,expert
+Wadu-198_spitv-1,198_spitv,pʰɐ̀,pʰɐ̀,pʰ ɐ̀/ɐ,124,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,spit (v.),1440,SPIT,false,expert
+Niuwozi-197_spew-1,197_spew,pʰeᴿ,pʰeᴿ,pʰ e ᴿ/¹⁵,124,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,spew,,,false,expert
+Taoba-198_spitv-1,198_spitv,pʰø³⁵,pʰø³⁵,pʰ ø ³⁵,124,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,spit (v.),1440,SPIT,false,expert
+Qinghua-198_spitv-1,198_spitv,tə⁵⁵ spʰɛ¹³,tə⁵⁵_spʰɛ¹³,t ə ⁵⁵ + s pʰ ɛ ¹³,124,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,spit (v.),1440,SPIT,false,expert
+Lanping-198_spitv-1,198_spitv,tə⁵⁵ fpʰɛ¹³,tə⁵⁵_fpʰɛ¹³,t ə ⁵⁵ + f pʰ ɛ ¹³,124,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,spit (v.),1440,SPIT,false,expert
+Jiulong-198_spitv-1,198_spitv,tɯ⁵⁵ pʰə⁵⁵,tɯ⁵⁵_pʰə⁵⁵,t ɯ ⁵⁵ + pʰ ə ⁵⁵,124,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,spit (v.),1440,SPIT,false,expert
+Taoping-193_soldier-1,193_soldier,dʐue²⁴¹,dʐue²⁴¹,ɖʐ u/w e ²⁴¹,59,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,soldier,1941,SOLDIER,false,expert
+Longxi-193_soldier-1,193_soldier,guà,guà,g u/w à/a,59,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,soldier,1941,SOLDIER,false,expert
+Mianchi-193_soldier-1,193_soldier,dʑyè,dʑyè,dʑ y/ɥ è/e,59,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,soldier,1941,SOLDIER,false,expert
+Taoping-191_snow-1,191_snow,χpɑ³¹ tʰu³³,χpɑ³¹_tʰu³³,χ p ɑ ³¹ + tʰ u ³³,198,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,snow,784,SNOW,false,expert
+Longxi-191_snow-1,191_snow,mù pà,mù_pà,m ù/u + p à/a,198,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,snow,784,SNOW,false,expert
+Mianchi-191_snow-1,191_snow,peì,peì,p e ì/i,198,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,snow,784,SNOW,false,expert
+Yonghe-191_snow-1,191_snow,pɔ̌,pɔ̌,p ɔ̆/ɔ,198,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,snow,784,SNOW,false,expert
+Wadu-191_snow-1,191_snow,pʉ,pʉ,p ʉ,198,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Niuwozi-191_snow-1,191_snow,pʉᶠ,pʉᶠ,p ʉ ᶠ/⁵¹,198,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Taoba-191_snow-1,191_snow,pu̵⁵³,pu̵⁵³,p ʉ ⁵³,198,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Qinghua-191_snow-1,191_snow,spy⁵⁵,spy⁵⁵,s p y ⁵⁵,198,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Lanping-191_snow-1,191_snow,fpy⁵⁵,fpy⁵⁵,f p y ⁵⁵,198,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Jiulong-191_snow-1,191_snow,py⁵⁵,py⁵⁵,p y ⁵⁵,198,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snow,784,SNOW,false,expert
+Taoping-184_skin-1,184_skin,tʃʰɿ³¹ pa³³,tʃʰɿ³¹_pa³³,tʃʰ ɿ ³¹ + p a ³³,160,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,skin,763,SKIN,false,expert
+Longxi-184_skin-1,184_skin,ɹà pià,ɹà_pià,ɹ à/a + p i/j à/a,160,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,skin,763,SKIN,false,expert
+Mianchi-184_skin-1,184_skin,ʐà piá,ʐà_piá,ʐ à/a + p i/j á/a,160,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,skin,763,SKIN,false,expert
+Yonghe-184_skin-1,184_skin,ɦæ̀ pǽ,ɦæ̀_pǽ,ɦ æ̀/æ + p ǽ/æ,160,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,skin,763,SKIN,false,expert
+Niuwozi-184_skin-1,184_skin,ɹəᶠ,ɹəᶠ,ɹ ə ᶠ/⁵¹,160,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,skin,763,SKIN,false,expert
+Dayang-184_skin-1,184_skin,rə̀ ʃtʃɨ̌,rə̀_ʃtʃɨ̌,r ə̀/ə + ʃ tʃ ɨ̆/ɨ,160,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,skin,763,SKIN,false,expert
+Taoba-184_skin-1,184_skin,rə⁵³,rə⁵³,r ə ⁵³,160,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,skin,763,SKIN,false,expert
+Qinghua-184_skin-1,184_skin,ʐɤ¹³,ʐɤ¹³,ʐ ɤ ¹³,160,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,skin,763,SKIN,false,expert
+Jiulong-184_skin-1,184_skin,ʐɿ³⁵,ʐɿ³⁵,ʐ ɿ ³⁵,160,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,skin,763,SKIN,false,expert
+Taoping-183_sitonhatchegg-1,183_sitonhatchegg,χne⁵⁵,χne⁵⁵,χ n e ⁵⁵,20,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,sit on/hatch (egg),2075,BROOD (VERB),false,expert
+Mianchi-89_hatchbrood-1,89_hatchbrood,né,né,n é/e,20,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,hatch/brood,2075,BROOD (VERB),false,expert
+Taoba-183_sitonhatchegg-1,183_sitonhatchegg,tə⁵⁵ ȵi⁵³,tə⁵⁵_ȵi⁵³,t ə ⁵⁵ + ȵ i ⁵³,20,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sit on/hatch (egg),2075,BROOD (VERB),false,expert
+Qinghua-104_layegg-1,104_layegg,tə⁵⁵ ȵi⁵⁵,tə⁵⁵_ȵi⁵⁵,t ə ⁵⁵ + ȵ i ⁵⁵,20,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,lay egg,2464,LAY EGGS,false,expert
+Taoping-182_sitdown-1,182_sitdown,dzo³³,dzo³³,dz o ³³,113,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,sit down,1649,SIT DOWN,false,expert
+Longxi-182_sitdown-1,182_sitdown,ɦà zú,ɦà_zú,ɦ à/a + z ú/u,113,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sit down,1649,SIT DOWN,false,expert
+Mianchi-182_sitdown-1,182_sitdown,dzó,dzó,dz ó/o,113,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sit down,1649,SIT DOWN,false,expert
+Wadu-182_sitdown-1,182_sitdown,nə̀ dzṍ,nə̀_dzṍ,n ə̀/ə + dz ṍ/õ,113,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Niuwozi-182_sitdown-1,182_sitdown,dzõᴴ,dzõᴴ,dz õ ᴴ/⁵,113,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Taoba-182_sitdown-1,182_sitdown,nə³⁵ dziã⁵⁵,nə³⁵_dziã⁵⁵,n ə ³⁵ + dz i/j ã ⁵⁵,113,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Qinghua-182_sitdown-1,182_sitdown,nə¹³ dziɛ̃⁵⁵,nə¹³_dziɛ̃⁵⁵,n ə ¹³ + dz i/j ɛ̃ ⁵⁵,113,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Lanping-182_sitdown-1,182_sitdown,nə¹³ dziɛ̃⁵⁵,nə¹³_dziɛ̃⁵⁵,n ə ¹³ + dz i/j ɛ̃ ⁵⁵,113,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Jiulong-182_sitdown-1,182_sitdown,nə⁵⁵ dzə̃⁵⁵,nə⁵⁵_dzə̃⁵⁵,n ə ⁵⁵ + dz ə̃ ⁵⁵,113,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sit down,1649,SIT DOWN,false,expert
+Taoping-181_sinew-1,181_sinew,dʐʅ²⁴¹,dʐʅ²⁴¹,ɖʐ ʅ ²⁴¹,201,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,sinew,1137,TENDON,false,expert
+Longxi-181_sinew-1,181_sinew,dzɨ̀,dzɨ̀,dz ɨ̆/ɨ,201,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sinew,1137,TENDON,false,expert
+Mianchi-181_sinew-1,181_sinew,dʑɛ̀,dʑɛ̀,dʑ ɛ̀/ɛ,201,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sinew,1137,TENDON,false,expert
+Yonghe-181_sinew-1,181_sinew,dʐí,dʐí,ɖʐ í/i,201,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,sinew,1137,TENDON,false,expert
+Taoba-181_sinew-1,181_sinew,dʐu⁵³,dʐu⁵³,ɖʐ u ⁵³,201,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sinew,1137,TENDON,false,expert
+Taoping-180_silver-1,180_silver,χŋu⁵⁵,χŋu⁵⁵,χ ŋ u ⁵⁵,103,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,silver,759,SILVER,false,expert
+Longxi-180_silver-1,180_silver,ŋú,ŋú,ŋ ú/u,103,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,silver,759,SILVER,false,expert
+Mianchi-180_silver-1,180_silver,ŋó,ŋó,ŋ ó/o,103,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,silver,759,SILVER,false,expert
+Yonghe-180_silver-1,180_silver,wú,wú,w ú/u,103,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,silver,759,SILVER,false,expert
+Wadu-180_silver-1,180_silver,ŋṍ,ŋṍ,ŋ ṍ/õ,103,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Niuwozi-180_silver-1,180_silver,jõᴴ,jõᴴ,j õ ᴴ/⁵,103,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Dayang-180_silver-1,180_silver,ŋoṹ,ŋoṹ,ŋ o ṹ/ũ,103,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Taoba-180_silver-1,180_silver,ȵõ⁵⁵,ȵõ⁵⁵,ȵ õ ⁵⁵,103,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Qinghua-180_silver-1,180_silver,ŋɑ̃u⁵⁵,ŋɑ̃u⁵⁵,ŋ ɑ̃ u ⁵⁵,103,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Lanping-180_silver-1,180_silver,ŋɑ̃u⁵⁵,ŋɑ̃u⁵⁵,ŋ ɑ̃ u ⁵⁵,103,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Jiulong-180_silver-1,180_silver,ŋɯ̃³⁵,ŋɯ̃³⁵,ŋ ɯ̃ ³⁵,103,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,silver,759,SILVER,false,expert
+Taoping-178_shoulder-1,178_shoulder,lɑ³¹ χɑ⁵⁵ pi³³,lɑ³¹_χɑ⁵⁵_pi³³,l ɑ ³¹ + χ ɑ ⁵⁵ + p i ³³,63,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,shoulder,1482,SHOULDER,false,expert
+Taoping-177_shootv-1,177_shootv,qʰa³³,qʰa³³,qʰ a ³³,167,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,shoot (v.),1172,SHOOT,false,expert
+Longxi-177_shootv-1,177_shootv,qʰò,qʰò,qʰ ò/o,167,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,shoot (v.),1172,SHOOT,false,expert
+Mianchi-177_shootv-1,177_shootv,tʂʰà,tʂʰà,ʈʂʰ à/a,167,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,shoot (v.),1172,SHOOT,false,expert
+Wadu-177_shootv-1,177_shootv,ʈʰæ̌,ʈʰæ̌,ʈʰ æ̆/æ,167,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,shoot (v.),1172,SHOOT,false,expert
+Niuwozi-177_shootv-1,177_shootv,kʰʴɑ̌,kʰʴɑ̌,kʰ ʴ/³⁵ ɑ̆/ɑ,167,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shoot (v.),1172,SHOOT,false,expert
+Taoba-177_shootv-1,177_shootv,kʰə³⁵ tʂʰa³⁵,kʰə³⁵_tʂʰa³⁵,kʰ ə ³⁵ + ʈʂʰ a ³⁵,167,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,shoot (v.),1172,SHOOT,false,expert
+Qinghua-177_shootv-1,177_shootv,kʰə¹³ tʂʰɑ⁵⁵,kʰə¹³_tʂʰɑ⁵⁵,kʰ ə ¹³ + ʈʂʰ ɑ ⁵⁵,167,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,shoot (v.),1172,SHOOT,false,expert
+Lanping-177_shootv-1,177_shootv,kʰə¹³ tʂʰɑ⁵⁵,kʰə¹³_tʂʰɑ⁵⁵,kʰ ə ¹³ + ʈʂʰ ɑ ⁵⁵,167,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shoot (v.),1172,SHOOT,false,expert
+Taoping-175_shit-1,175_shit,tʃʰɿ⁵⁵,tʃʰɿ⁵⁵,tʃʰ ɿ ⁵⁵,107,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,shit,675,FAECES (EXCREMENT),false,expert
+Longxi-175_shit-1,175_shit,tsʰə̀,tsʰə̀,tsʰ ə̀/ə,107,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,shit,675,FAECES (EXCREMENT),false,expert
+Mianchi-175_shit-1,175_shit,tɕʰɛ́,tɕʰɛ́,tɕʰ ɛ́/ɛ,107,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,shit,675,FAECES (EXCREMENT),false,expert
+Yonghe-175_shit-1,175_shit,ʂɨ́,ʂɨ́,ʂ ɨ́/ɨ,107,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,shit,675,FAECES (EXCREMENT),false,expert
+Niuwozi-175_shit-1,175_shit,kɜjᶠ,kɜjᶠ,k ɜj/ɜi ᶠ/⁵¹,107,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Dayang-175_shit-1,175_shit,χqá,χqá,χ q á/a,107,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Taoba-175_shit-1,175_shit,xe⁵³,xe⁵³,x e ⁵³,107,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Qinghua-175_shit-1,175_shit,sqa⁵⁵,sqa⁵⁵,s q a ⁵⁵,107,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Lanping-175_shit-1,175_shit,xqa⁵⁵,xqa⁵⁵,x q a ⁵⁵,107,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Jiulong-175_shit-1,175_shit,qɛi⁵⁵,qɛi⁵⁵,q ɛi ⁵⁵,107,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shit,675,FAECES (EXCREMENT),false,expert
+Taoping-171_sharpengrind-1,171_sharpengrind,suə⁵⁵,suə⁵⁵,s u/w ə ⁵⁵,157,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Longxi-171_sharpengrind-1,171_sharpengrind,sù,sù,s ù/u,157,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Mianchi-171_sharpengrind-1,171_sharpengrind,sù,sù,s ù/u,157,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Niuwozi-171_sharpengrind-1,171_sharpengrind,suᴿ,suᴿ,s u ᴿ/¹⁵,157,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Taoba-171_sharpengrind-1,171_sharpengrind,kʰə³⁵ sui³⁵,kʰə³⁵_sui³⁵,kʰ ə ³⁵ + s ui ³⁵,157,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Qinghua-171_sharpengrind-1,171_sharpengrind,kʰə¹³ syi¹³,kʰə¹³_syi¹³,kʰ ə ¹³ + s yi ¹³,157,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,"sharpen, grind",251,SHARPEN (SOMETHING),false,expert
+Taoping-170_sew-1,170_sew,ʐi³¹ ʐi³¹,ʐi³¹_ʐi³¹,ʐ i ³¹ + ʐ i ³¹,173,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,sew,1457,SEW,false,expert
+Longxi-170_sew-1,170_sew,ɹà í,ɹà_í,ɹ à/a + í/i,173,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sew,1457,SEW,false,expert
+Mianchi-170_sew-1,170_sew,ʐì,ʐì,ʐ ì/i,173,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sew,1457,SEW,false,expert
+Yonghe-170_sew-1,170_sew,zɨ̀ jí,zɨ̀_jí,z ɨ̆/ɨ + j í/i,173,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,sew,1457,SEW,false,expert
+Wadu-170_sew-1,170_sew,dʐǐ,dʐǐ,ɖʐ ĭ/i,173,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,sew,1457,SEW,false,expert
+Niuwozi-170_sew-1,170_sew,dʐiᴿ,dʐiᴿ,ɖʐ i ᴿ/¹⁵,173,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sew,1457,SEW,false,expert
+Lanping-170_sew-1,170_sew,dʐi¹³,dʐi¹³,ɖʐ i ¹³,173,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sew,1457,SEW,false,expert
+Taoping-167_seed-1,167_seed,zuə³¹ zɑ²⁴¹,zuə³¹_zɑ²⁴¹,z u/w ə ³¹ + z ɑ ²⁴¹,61,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,seed,714,SEED,false,expert
+Longxi-167_seed-1,167_seed,dzueì,dzueì,dz u/w e ì/i,61,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,seed,714,SEED,false,expert
+Mianchi-149_pitstonebullet-1,149_pitstonebullet,zuì,zuì,z u ì/i,61,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"pit, stone; bullet",,,false,expert
+Taoping-166_rope-1,166_rope,bʐe³³,bʐe³³,b ʐ e ³³,184,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,rope,1218,ROPE,false,expert
+Mianchi-166_rope-1,166_rope,bʐè,bʐè,b ʐ è/e,184,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,rope,1218,ROPE,false,expert
+Wadu-166_rope-1,166_rope,dʐwẽ̌,dʐwẽ̌,ɖʐ w ẽ̌/ẽ,184,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Niuwozi-166_rope-1,166_rope,bʴjẽᴿ,bʴjẽᴿ,b ʴ/ɹ j ẽ ᴿ/¹⁵,184,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Dayang-166_rope-1,166_rope,bʐẽ̌,bʐẽ̌,b ʐ ẽ̌/ẽ,184,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Taoba-166_rope-1,166_rope,bʐẽ³⁵,bʐẽ³⁵,b ʐ ẽ ³⁵,184,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Qinghua-166_rope-1,166_rope,bʐə̃¹³,bʐə̃¹³,b ʐ ə̃ ¹³,184,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Lanping-166_rope-1,166_rope,bʐə̃¹³,bʐə̃¹³,b ʐ ə̃ ¹³,184,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,rope,1218,ROPE,false,expert
+Taoping-159_red-1,159_red,χȵi³¹ ȵi³³,χȵi³¹_ȵi³³,χ ȵ i ³¹ + ȵ i ³³,191,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,red,156,RED,false,expert
+Longxi-159_red-1,159_red,ɕí,ɕí,ɕ í/i,191,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,red,156,RED,false,expert
+Mianchi-159_red-1,159_red,nə́,nə́,n ə́/ə,191,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,red,156,RED,false,expert
+Yonghe-159_red-1,159_red,xí,xí,x í/i,191,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,red,156,RED,false,expert
+Niuwozi-159_red-1,159_red,neᴴ,neᴴ,n e ᴴ/⁵,191,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,red,156,RED,false,expert
+Dayang-159_red-1,159_red,ȵé,ȵé,ȵ é/e,191,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,red,156,RED,false,expert
+Taoba-159_red-1,159_red,ȵɛ⁵⁵ mə⁵³,ȵɛ⁵⁵_mə⁵³,ȵ ɛ ⁵⁵ + m ə ⁵³,191,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,red,156,RED,false,expert
+Qinghua-159_red-1,159_red,ȵø⁵⁵,ȵø⁵⁵,ȵ ø ⁵⁵,191,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,red,156,RED,false,expert
+Lanping-159_red-1,159_red,ȵø⁵⁵,ȵø⁵⁵,ȵ ø ⁵⁵,191,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,red,156,RED,false,expert
+Jiulong-34_copperredpurecopper-1,34_copperredpurecopper,ȵẽ⁵⁵,ȵẽ⁵⁵,ȵ ẽ ⁵⁵,191,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,copper (red; pure copper),1825,COPPER,false,expert
+Taoping-158_raw-1,158_raw,ʂe⁵⁵,ʂe⁵⁵,ʂ e ⁵⁵,16,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,raw,1959,RAW,false,expert
+Taoba-158_raw-1,158_raw,sə⁵⁵ sə⁵⁵ mə⁵³,sə⁵⁵_sə⁵⁵_mə⁵³,s ə ⁵⁵ + s ə ⁵⁵ + m ə ⁵³,16,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,raw,1959,RAW,false,expert
+Qinghua-158_raw-1,158_raw,sə⁵⁵ sə⁵⁵,sə⁵⁵_sə⁵⁵,s ə ⁵⁵ + s ə ⁵⁵,16,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,raw,1959,RAW,false,expert
+Lanping-158_raw-1,158_raw,sə⁵⁵ sə⁵⁵,sə⁵⁵_sə⁵⁵,s ə ⁵⁵ + s ə ⁵⁵,16,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,raw,1959,RAW,false,expert
+Taoping-155_price-1,155_price,pʰə³³,pʰə³³,pʰ ə ³³,123,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,price,657,PRICE,false,expert
+Longxi-155_price-1,155_price,pʰù,pʰù,pʰ ù/u,123,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,price,657,PRICE,false,expert
+Mianchi-155_price-1,155_price,pʰɛ̀,pʰɛ̀,pʰ ɛ̀/ɛ,123,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,price,657,PRICE,false,expert
+Wadu-155_price-1,155_price,pʰʉ̌,pʰʉ̌,pʰ ʉ̆/ʉ,123,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Niuwozi-155_price-1,155_price,pʰʴʉᴿ,pʰʴʉᴿ,pʰ ʴ/ɹ ʉ ᴿ/¹⁵,123,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Dayang-155_price-1,155_price,pʰǔ,pʰǔ,pʰ ŭ/u,123,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Taoba-155_price-1,155_price,pʰu³⁵,pʰu³⁵,pʰ u ³⁵,123,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Qinghua-155_price-1,155_price,pʰu¹³,pʰu¹³,pʰ u ¹³,123,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Jiulong-155_price-1,155_price,pʰy⁵⁵ qo⁵⁵,pʰy⁵⁵_qo⁵⁵,pʰ y ⁵⁵ + q o ⁵⁵,123,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,price,657,PRICE,false,expert
+Taoping-150_platedish-1,150_platedish,be³³,be³³,b e ³³,48,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"plate, dish",481,DISH,false,expert
+Taoping-148_pig-1,148_pig,pa³³,pa³³,p a ³³,119,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,pig,1337,PIG,false,expert
+Longxi-148_pig-1,148_pig,pià,pià,p i/j à/a,119,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,pig,1337,PIG,false,expert
+Mianchi-148_pig-1,148_pig,pià,pià,p i/j à/a,119,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,pig,1337,PIG,false,expert
+Yonghe-148_pig-1,148_pig,pæ̌,pæ̌,p æ̆/æ,119,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,pig,1337,PIG,false,expert
+Wadu-148_pig-1,148_pig,tɕʰwæ̌,tɕʰwæ̌,tɕʰ w æ̆/æ,119,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Niuwozi-148_pig-1,148_pig,tʃʰɥǎᴿ,tʃʰɥǎᴿ,tʃʰ ɥ ǎ/a ᴿ/¹⁵,119,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Dayang-148_pig-1,148_pig,tʃʰɥǎ,tʃʰɥǎ,tʃʰ ɥ ă/a,119,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Taoba-148_pig-1,148_pig,tɕyɛ³⁵,tɕyɛ³⁵,tɕ y ɛ ³⁵,119,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Qinghua-148_pig-1,148_pig,pʰʒɑ¹³,pʰʒɑ¹³,pʰ ʒ ɑ ¹³,119,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Lanping-148_pig-1,148_pig,pʰʃɑ¹³,pʰʃɑ¹³,pʰ ʃ ɑ ¹³,119,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Jiulong-148_pig-1,148_pig,tɕyə³⁵,tɕyə³⁵,tɕ y ə ³⁵,119,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,pig,1337,PIG,false,expert
+Taoping-146_peopleclan-1,146_peopleclan,χma³³,χma³³,χ m a ³³,52,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"people, clan",302,CLAN,false,expert
+Longxi-146_peopleclan-1,146_peopleclan,mà,mà,m à/a,52,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"people, clan",302,CLAN,false,expert
+Mianchi-146_peopleclan-1,146_peopleclan,mà,mà,m à/a,52,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"people, clan",302,CLAN,false,expert
+Yonghe-146_peopleclan-1,146_peopleclan,mə̌ʴ,mə̌ʴ,m ə̌/ə ʴ/ɹ,52,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,"people, clan",302,CLAN,false,expert
+Taoping-144_patchv-1,144_patchv,χpe³³,χpe³³,χ p e ³³,121,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,patch (v.),3550,PATCH,false,expert
+Longxi-143_patchn-1,143_patchn,pà qó,pà_qó,p à/a + q ó/o,121,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,patch (n.),,,false,expert
+Mianchi-142_patchn-1,142_patchn,pɛ ̀tʂʰì,pɛ_tʂʰì,p ɛ + ʈʂʰ ì/i,121,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,patch (n),,,false,expert
+Niuwozi-144_patchv-1,144_patchv,pʰeᴿ,pʰeᴿ,pʰ e ᴿ/¹⁵,121,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Dayang-144_patchv-1,144_patchv,ɸpʰyě,ɸpʰyě,ɸ pʰ y ĕ/e,121,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Taoba-144_patchv-1,144_patchv,xə³⁵ pʰiɛ³⁵,xə³⁵_pʰiɛ³⁵,x ə ³⁵ + pʰ i/j ɛ ³⁵,121,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Qinghua-144_patchv-1,144_patchv,xə¹³ fpʰɛ¹³,xə¹³_fpʰɛ¹³,x ə ¹³ + f pʰ ɛ ¹³,121,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Lanping-144_patchv-1,144_patchv,xə¹³ spʰɛ¹³,xə¹³_spʰɛ¹³,x ə ¹³ + s pʰ ɛ ¹³,121,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Jiulong-144_patchv-1,144_patchv,pʰa¹¹ la¹¹ de³⁵,pʰa¹¹_la¹¹_de³⁵,pʰ a ¹¹ + l a ¹¹ + d e ³⁵,121,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,patch (v.),3550,PATCH,false,expert
+Taoping-141_pantstrousers-1,141_pantstrousers,iɑ³¹ ʃɿ³³,iɑ³¹_ʃɿ³³,i ɑ ³¹ + ʃ ɿ ³³,179,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,pants/trousers,809,TROUSERS,false,expert
+Wadu-141_pantstrousers-1,141_pantstrousers,ʑə̌,ʑə̌,ʑ ə̆/ə,179,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,pants/trousers,809,TROUSERS,false,expert
+Taoba-141_pantstrousers-1,141_pantstrousers,ʑɨ³⁵,ʑɨ³⁵,ʑ ɨ ³⁵,179,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,pants/trousers,809,TROUSERS,false,expert
+Taoping-138_overflow-1,138_overflow,bə³³,bə³³,b ə ³³,50,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,overflow,,,false,expert
+Taoping-136_open-1,136_open,pʰʐa⁵⁵,pʰʐa⁵⁵,pʰ ʐ a ⁵⁵,3,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,open,1156,OPEN,false,expert
+Longxi-137_openeye-1,137_openeye,tə̀ pʰé,tə̀_pʰé,t ə̀/ə + pʰ é/e,3,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,open (eye),3234,OPEN (EYES),false,expert
+Mianchi-136_open-1,136_open,pʰɚ́,pʰɚ́,pʰ ə́˞/ɚ,3,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,open,1156,OPEN,false,expert
+Taoba-136_open-1,136_open,kʰə³⁵ pʰa⁵³,kʰə³⁵_pʰa⁵³,kʰ ə ³⁵ + pʰ a ⁵³,3,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,open,1156,OPEN,false,expert
+Lanping-200_splitopenrend-1,200_splitopenrend,tʰə¹³ pʃɑ⁵⁵,tʰə¹³_pʃɑ⁵⁵,tʰ ə ¹³ + p ʃ ɑ ⁵⁵,3,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"split open, rend",3080,SPLIT OPEN,false,expert
+Jiulong-136_open-1,136_open,kʰɯ¹¹ pʰo⁵⁵,kʰɯ¹¹_pʰo⁵⁵,kʰ ɯ ¹¹ + pʰ o ⁵⁵,3,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,open,1156,OPEN,false,expert
+Taoping-132_nose-1,132_nose,χȵi³¹ qo⁵⁵ pə³³,χȵi³¹_qo⁵⁵_pə³³,χ ȵ i ³¹ + q o ⁵⁵ + p ə ³³,190,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,nose,1221,NOSE,false,expert
+Longxi-132_nose-1,132_nose,tì bá-qə̀,tì_bá-qə̀,t ì/i + b á/a + q ə̀/ə,190,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,nose,1221,NOSE,false,expert
+Mianchi-132_nose-1,132_nose,nə̀ qɛ́ pì,nə̀_qɛ́_pì,n ə̀/ə + q ɛ́/ɛ + p ì/i,190,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,nose,1221,NOSE,false,expert
+Yonghe-132_nose-1,132_nose,tə̀ qɑ́ pù,tə̀_qɑ́_pù,t ə̀/ə + q ɑ́/ɑ + p ù/u,190,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,nose,1221,NOSE,false,expert
+Niuwozi-132_nose-1,132_nose,n̥iᴸ dʒjõᴴ,n̥iᴸ_dʒjõᴴ,n̥ i ᴸ/¹ + dʒ j õ ᴴ/⁵,190,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,nose,1221,NOSE,false,expert
+Taoba-132_nose-1,132_nose,n̥ə³⁵ ɣiã⁵³,n̥ə³⁵_ɣiã⁵³,n̥ ə ³⁵ + ɣ i/j ã ⁵³,190,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,nose,1221,NOSE,false,expert
+Qinghua-132_nose-1,132_nose,xiɛ̃¹³ dʒõ⁵⁵,xiɛ̃¹³_dʒõ⁵⁵,x i/j ɛ̃ ¹³ + dʒ õ ⁵⁵,190,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,nose,1221,NOSE,false,expert
+Lanping-132_nose-1,132_nose,xiɛ̃¹³ dʒõ⁵⁵,xiɛ̃¹³_dʒõ⁵⁵,x i/j ɛ̃ ¹³ + dʒ õ ⁵⁵,190,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,nose,1221,NOSE,false,expert
+Jiulong-132_nose-1,132_nose,ȵ̥ĩ¹¹ gõ³⁵,ȵ̥ĩ¹¹_gõ³⁵,ȵ̊ ĩ ¹¹ + g õ ³⁵,190,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,nose,1221,NOSE,false,expert
+Taoping-130_new-1,130_new,tsʰi⁵⁵,tsʰi⁵⁵,tsʰ i ⁵⁵,195,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,new,1231,NEW,false,expert
+Longxi-130_new-1,130_new,tɕʰí,tɕʰí,tɕʰ í/i,195,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,new,1231,NEW,false,expert
+Mianchi-130_new-1,130_new,sí,sí,s í/i,195,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,new,1231,NEW,false,expert
+Yonghe-130_new-1,130_new,sɨ́,sɨ́,s ɨ́/ɨ,195,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,new,1231,NEW,false,expert
+Niuwozi-130_new-1,130_new,ʃiᴿ,ʃiᴿ,ʃ i ᴿ/¹⁵,195,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,new,1231,NEW,false,expert
+Taoba-130_new-1,130_new,ɕi⁵⁵ ɕi⁵⁵ mə⁵³,ɕi⁵⁵_ɕi⁵⁵_mə⁵³,ɕ i ⁵⁵ + ɕ i ⁵⁵ + m ə ⁵³,195,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,new,1231,NEW,false,expert
+Qinghua-130_new-1,130_new,ʂi¹³ ʂi¹³,ʂi¹³_ʂi¹³,ʂ i ¹³ + ʂ i ¹³,195,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,new,1231,NEW,false,expert
+Lanping-130_new-1,130_new,ʂi¹³ ʂi¹³,ʂi¹³_ʂi¹³,ʂ i ¹³ + ʂ i ¹³,195,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,new,1231,NEW,false,expert
+Jiulong-130_new-1,130_new,sə⁵⁵ pa⁵⁵,sə⁵⁵_pa⁵⁵,s ə ⁵⁵ + p a ⁵⁵,195,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,new,1231,NEW,false,expert
+Taoping-128_nephew-1,128_nephew,dʑi³¹,dʑi³¹,dʑ i ³¹,33,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,nephew,1063,NEPHEW,false,expert
+Longxi-128_nephew-1,128_nephew,dʑì qʰuá,dʑì_qʰuá,dʑ ì/i + qʰ u á/a,33,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,nephew,1063,NEPHEW,false,expert
+Mianchi-128_nephew-1,128_nephew,dʑì,dʑì,dʑ ì/i,33,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,nephew,1063,NEPHEW,false,expert
+Niuwozi-129_nephewpaternal-1,129_nephewpaternal,djuᴿ,djuᴿ,d j u ᴿ/¹⁵,33,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"nephew, paternal",1056,SON-IN-LAW,false,expert
+Dayang-128_nephew-1,128_nephew,dyǔ,dyǔ,d y ŭ/u,33,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,nephew,1063,NEPHEW,false,expert
+Taoba-128_nephew-1,128_nephew,diu³⁵,diu³⁵,d i u ³⁵,33,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,nephew,1063,NEPHEW,false,expert
+Qinghua-128_nephew-1,128_nephew,diu¹³,diu¹³,d i u ¹³,33,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,nephew,1063,NEPHEW,false,expert
+Lanping-128_nephew-1,128_nephew,diu¹³,diu¹³,d i u ¹³,33,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,nephew,1063,NEPHEW,false,expert
+Taoping-127_needle-1,127_needle,χe³³,χe³³,χ e ³³,166,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,needle,1382,NEEDLE (FOR SEWING),false,expert
+Longxi-127_needle-1,127_needle,χèi,χèi,χ è/e i,166,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,needle,1382,NEEDLE (FOR SEWING),false,expert
+Mianchi-127_needle-1,127_needle,χɛ̀,χɛ̀,χ ɛ̀/ɛ,166,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,needle,1382,NEEDLE (FOR SEWING),false,expert
+Yonghe-127_needle-1,127_needle,χə̌,χə̌,χ ə̆/ə,166,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,needle,1382,NEEDLE (FOR SEWING),false,expert
+Wadu-127_needle-1,127_needle,qʰǔ,qʰǔ,qʰ ŭ/u,166,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Niuwozi-127_needle-1,127_needle,kʰoᴿ,kʰoᴿ,kʰ o ᴿ/¹⁵,166,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Dayang-127_needle-1,127_needle,qʰǒ,qʰǒ,qʰ ŏ/o,166,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Taoba-127_needle-1,127_needle,qʰo³⁵,qʰo³⁵,qʰ o ³⁵,166,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Qinghua-127_needle-1,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,166,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Lanping-127_needle-1,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,166,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Jiulong-127_needle-1,127_needle,qʰo⁵⁵,qʰo⁵⁵,qʰ o ⁵⁵,166,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,needle,1382,NEEDLE (FOR SEWING),false,expert
+Taoping-126_narrow-1,126_narrow,tɕʰe³³,tɕʰe³³,tɕʰ e ³³,10,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,narrow,1267,NARROW,false,expert
+Longxi-126_narrow-1,126_narrow,tɕʰá,tɕʰá,tɕʰ á/a,10,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,narrow,1267,NARROW,false,expert
+Taoba-126_narrow-1,126_narrow,ʂə⁵⁵ mə⁵³,ʂə⁵⁵_mə⁵³,ʂ ə ⁵⁵ + m ə ⁵³,10,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,narrow,1267,NARROW,false,expert
+Qinghua-126_narrow-1,126_narrow,stʃə⁵⁵,stʃə⁵⁵,s tʃ ə ⁵⁵,10,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,narrow,1267,NARROW,false,expert
+Lanping-126_narrow-1,126_narrow,ʃtʃə⁵⁵,ʃtʃə⁵⁵,ʃ tʃ ə ⁵⁵,10,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,narrow,1267,NARROW,false,expert
+Jiulong-126_narrow-1,126_narrow,tɕʰy¹¹ tɕʰy⁵⁵,tɕʰy¹¹_tɕʰy⁵⁵,tɕʰ y ¹¹ + tɕʰ y ⁵⁵,10,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,narrow,1267,NARROW,false,expert
+Taoping-125_name-1,125_name,χmə⁵⁵,χmə⁵⁵,χ m ə ⁵⁵,93,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,name,,,false,expert
+Longxi-125_name-1,125_name,zə̀ mú,zə̀_mú,z ə̀/ə + m ú/u,93,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,name,,,false,expert
+Yonghe-125_name-1,125_name,mə́ʴ,mə́ʴ,m ə́/ə ʴ/ɹ,93,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,name,,,false,expert
+Wadu-125_name-1,125_name,mǽ̃,mǽ̃,m ǽ̃/æ̃,93,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,name,,,false,expert
+Niuwozi-125_name-1,125_name,mɑ̃ᴴ,mɑ̃ᴴ,m ɑ̃ ᴴ/⁵,93,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,name,,,false,expert
+Dayang-125_name-1,125_name,mɑ̃́,mɑ̃́,m ɑ̃́/ɑ̃,93,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,name,,,false,expert
+Taoba-125_name-1,125_name,mɛ̃⁵⁵,mɛ̃⁵⁵,m ɛ̃ ⁵⁵,93,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,name,,,false,expert
+Qinghua-125_name-1,125_name,ma⁵⁵,ma⁵⁵,m a ⁵⁵,93,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,name,,,false,expert
+Lanping-125_name-1,125_name,ma⁵⁵,ma⁵⁵,m a ⁵⁵,93,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,name,,,false,expert
+Jiulong-125_name-1,125_name,mã³⁵,mã³⁵,m ã ³⁵,93,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,name,,,false,expert
+Longxi-13_bloom-1,13_bloom,tə̀ pá,tə̀_pá,t ə̀/ə + p á/a,1,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,bloom,3287,BLOOM,false,expert
+Mianchi-13_bloom-1,13_bloom,pɛ̀,pɛ̀,p ɛ̀/ɛ,1,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,bloom,3287,BLOOM,false,expert
+Yonghe-13_bloom-1,13_bloom,tə̀ pá,tə̀_pá,t ə̀/ə + p á/a,1,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,bloom,3287,BLOOM,false,expert
+Qinghua-13_bloom-1,13_bloom,tə⁵⁵ pɐ⁵⁵,tə⁵⁵_pɐ⁵⁵,t ə ⁵⁵ + p ɐ ⁵⁵,1,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,bloom,3287,BLOOM,false,expert
+Taoping-124_mushroom-1,124_mushroom,mɑ³¹ ʐu³³,mɑ³¹_ʐu³³,m ɑ ³¹ + ʐ u ³³,23,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,mushroom,641,MUSHROOM,false,expert
+Longxi-124_mushroom-1,124_mushroom,mə̀ ɚ̀,mə̀_ɚ̀,m ə̀/ə + ə̀˞/ə˞,23,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,mushroom,641,MUSHROOM,false,expert
+Mianchi-124_mushroom-1,124_mushroom,mò tsú ~ mɛ̀ ʐú,mò_tsú,m ò/o + ts ú/u,23,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,mushroom,641,MUSHROOM,false,expert
+Yonghe-124_mushroom-1,124_mushroom,mù xí,mù_xí,m ù/u + x í/i,23,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,mushroom,641,MUSHROOM,false,expert
+Wadu-124_mushroom-1,124_mushroom,mǐ,mǐ,m ĭ/i,23,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Dayang-124_mushroom-1,124_mushroom,mrẽ̌,mrẽ̌,m r ẽ̌/ẽ,23,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Taoba-124_mushroom-1,124_mushroom,mi³⁵,mi³⁵,m i ³⁵,23,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Qinghua-124_mushroom-1,124_mushroom,mʐi¹³,mʐi¹³,m ʐ i ¹³,23,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Lanping-124_mushroom-1,124_mushroom,mʐi¹³,mʐi¹³,m ʐ i ¹³,23,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Jiulong-124_mushroom-1,124_mushroom,mỹ³⁵,mỹ³⁵,m ỹ ³⁵,23,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,mushroom,641,MUSHROOM,false,expert
+Taoping-122_moon-1,122_moon,ɕy³³ ɕya⁵⁵,ɕy³³_ɕya⁵⁵,ɕ y ³³ + ɕ y a ⁵⁵,200,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,moon,1313,MOON,false,expert
+Longxi-122_moon-1,122_moon,lə̀,lə̀,l ə̀/ə,200,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,moon,1313,MOON,false,expert
+Mianchi-122_moon-1,122_moon,ɬə̀,ɬə̀,ɬ ə̀/ə,200,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,moon,1313,MOON,false,expert
+Yonghe-122_moon-1,122_moon,ɬì ɕʷǽ,ɬì_ɕʷǽ,ɬ ì/i + ɕʷ ǽ/æ,200,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,moon,1313,MOON,false,expert
+Niuwozi-122_moon-1,122_moon,l̥iᴴ,l̥iᴴ,l̥ i ᴴ/⁵,200,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,moon,1313,MOON,false,expert
+Taoba-122_moon-1,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,200,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,moon,1313,MOON,false,expert
+Qinghua-122_moon-1,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,200,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,moon,1313,MOON,false,expert
+Lanping-122_moon-1,122_moon,ɬi⁵⁵,ɬi⁵⁵,ɬ i ⁵⁵,200,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,moon,1313,MOON,false,expert
+Jiulong-122_moon-1,122_moon,ɬi⁵⁵ ŋɯ⁵⁵,ɬi⁵⁵_ŋɯ⁵⁵,ɬ i ⁵⁵ + ŋ ɯ ⁵⁵,200,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,moon,1313,MOON,false,expert
+Taoping-120_meatflesh-1,120_meatflesh,tʃʰɿ⁵⁵,tʃʰɿ⁵⁵,tʃʰ ɿ ⁵⁵,109,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,meat/flesh,2615,FLESH OR MEAT,false,expert
+Niuwozi-120_meatflesh-1,120_meatflesh,ʂɨᶠ,ʂɨᶠ,ʂ ɨ ᶠ/⁵¹,109,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Dayang-120_meatflesh-1,120_meatflesh,ʃtʃɨ̌,ʃtʃɨ̌,ʃ tʃ ɨ̆/ɨ,109,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Taoba-120_meatflesh-1,120_meatflesh,ʂə⁵³,ʂə⁵³,ʂ ə ⁵³,109,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Qinghua-120_meatflesh-1,120_meatflesh,ʃɤ⁵⁵,ʃɤ⁵⁵,ʃ ɤ ⁵⁵,109,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Lanping-120_meatflesh-1,120_meatflesh,ʃɤ⁵⁵,ʃɤ⁵⁵,ʃ ɤ ⁵⁵,109,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Jiulong-120_meatflesh-1,120_meatflesh,ʃi⁵⁵,ʃi⁵⁵,ʃ i ⁵⁵,109,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,meat/flesh,2615,FLESH OR MEAT,false,expert
+Taoping-118_lung-1,118_lung,tsʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,152,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,lung,688,LUNG,false,expert
+Longxi-118_lung-1,118_lung,tsʰù,tsʰù,tsʰ ù/u,152,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,lung,688,LUNG,false,expert
+Mianchi-118_lung-1,118_lung,tsʰoù,tsʰoù,tsʰ o ù/u,152,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,lung,688,LUNG,false,expert
+Yonghe-118_lung-1,118_lung,tsʰù-pʰɑ́,tsʰù-pʰɑ́,tsʰ ù/u + pʰ ɑ́/ɑ,152,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,lung,688,LUNG,false,expert
+Wadu-118_lung-1,118_lung,tsʰʉ̌,tsʰʉ̌,tsʰ ʉ̆/ʉ,152,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Niuwozi-118_lung-1,118_lung,tsʰʉᴿ,tsʰʉᴿ,tsʰ ʉ ᴿ/¹⁵,152,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Dayang-118_lung-1,118_lung,tsʰʉ̌,tsʰʉ̌,tsʰ ʉ̆/ʉ,152,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Taoba-118_lung-1,118_lung,tsʰø¹³,tsʰø¹³,tsʰ ø ¹³,152,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Qinghua-118_lung-1,118_lung,tsʰy¹³,tsʰy¹³,tsʰ y ¹³,152,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Lanping-118_lung-1,118_lung,tsʰy¹³,tsʰy¹³,tsʰ y ¹³,152,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Jiulong-118_lung-1,118_lung,tsʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,152,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,lung,688,LUNG,false,expert
+Taoping-116_lock-1,116_lock,qɑ⁵⁵ suɑ³¹,qɑ⁵⁵_suɑ³¹,q ɑ ⁵⁵ + s u/w ɑ ³¹,35,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,lock,,,false,expert
+Mianchi-116_lock-1,116_lock,ʂuà,ʂuà,ʂ u/w à/a,35,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,lock,,,false,expert
+Qinghua-116_lock-1,116_lock,sɑ¹³,sɑ¹³,s ɑ ¹³,35,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,lock,,,false,expert
+Lanping-116_lock-1,116_lock,sɑ¹³,sɑ¹³,s ɑ ¹³,35,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,lock,,,false,expert
+Taoping-115_liver-1,115_liver,sie⁵⁵,sie⁵⁵,s i/j e ⁵⁵,111,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,liver,1224,LIVER,false,expert
+Longxi-115_liver-1,115_liver,ɕí ɹá,ɕí_ɹá,ɕ í/i + ɹ á/a,111,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,liver,1224,LIVER,false,expert
+Mianchi-115_liver-1,115_liver,sè,sè,s è/e,111,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,liver,1224,LIVER,false,expert
+Wadu-115_liver-1,115_liver,tswẽ́,tswẽ́,ts w ẽ́/ẽ,111,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Niuwozi-115_liver-1,115_liver,tsɥɛ̃ᶠ,tsɥɛ̃ᶠ,ts ɥ ɛ̃ ᶠ/⁵¹,111,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Dayang-115_liver-1,115_liver,tswǐ,tswǐ,ts w ĭ/i,111,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Taoba-115_liver-1,115_liver,tsuẽ⁵³,tsuẽ⁵³,ts u ẽ ⁵³,111,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Qinghua-115_liver-1,115_liver,tsyɛ̃⁵⁵,tsyɛ̃⁵⁵,ts y ɛ̃ ⁵⁵,111,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Lanping-115_liver-1,115_liver,tsyɛ̃⁵⁵,tsyɛ̃⁵⁵,ts y ɛ̃ ⁵⁵,111,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Jiulong-115_liver-1,115_liver,tsu³⁵,tsu³⁵,ts u ³⁵,111,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,liver,1224,LIVER,false,expert
+Taoping-109_left-1,109_left,χgy³³,χgy³³,χ g y ³³,28,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,left,244,LEFT,false,expert
+Mianchi-110_lefthand-1,110_lefthand,guì,guì,g u ì/i,28,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,left (hand),244,LEFT,false,expert
+Yonghe-111_leftside-1,111_leftside,wàʴ-tɕʰá,wàʴ-tɕʰá,w à/a ʴ/³⁵ + tɕʰ á/a,28,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,left-side,244,LEFT,false,expert
+Wadu-109_left-1,109_left,wɛ̌j,wɛ̌j,w ɛ̌j/ɛi,28,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,left,244,LEFT,false,expert
+Qinghua-109_left-1,109_left,uɑ¹³,uɑ¹³,u/w ɑ ¹³,28,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,left,244,LEFT,false,expert
+Lanping-109_left-1,109_left,uɑ¹³,uɑ¹³,u/w ɑ ¹³,28,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,left,244,LEFT,false,expert
+Jiulong-109_left-1,109_left,we³⁵,we³⁵,w e ³⁵,28,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,left,244,LEFT,false,expert
+Taoping-108_learnteach-1,108_learnteach,tə¹³-sy⁵⁵,tə¹³-sy⁵⁵,t ə ¹³ + s y ⁵⁵,15,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,learn/teach,504,LEARN,false,expert
+Longxi-108_learnteach-1,108_learnteach,só,só,s ó/o,15,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,learn/teach,504,LEARN,false,expert
+Mianchi-108_learnteach-1,108_learnteach,soú,soú,s o ú/u,15,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,learn/teach,504,LEARN,false,expert
+Yonghe-214_teach-1,214_teach,ɕwí,ɕwí,ɕ w í/i,15,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,teach,709,TEACH,false,expert
+Wadu-108_learnteach-1,108_learnteach,swẽ́,swẽ́,s w ẽ́/ẽ,15,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,learn/teach,504,LEARN,false,expert
+Niuwozi-214_teach-1,214_teach,sʉᴴ sɥɛ̃ᴸ,sʉᴴ_sɥɛ̃ᴸ,s ʉ ᴴ/⁵ + s ɥ ɛ̃ ᴸ/¹,15,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,teach,709,TEACH,false,expert
+Dayang-214_teach-1,214_teach,swĩ́,swĩ́,s w ĩ́/ĩ,15,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,teach,709,TEACH,false,expert
+Taoba-107_learnteach-1,107_learnteach,xə³⁵ suẽ⁵³,xə³⁵_suẽ⁵³,x ə ³⁵ + s u ẽ ⁵³,15,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"learn, teach",504,LEARN,false,expert
+Qinghua-107_learnteach-1,107_learnteach,xə¹³ syẽ⁵⁵,xə¹³_syẽ⁵⁵,x ə ¹³ + s y ẽ ⁵⁵,15,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,"learn, teach",504,LEARN,false,expert
+Lanping-107_learnteach-1,107_learnteach,sy⁵⁵ syɛ̃¹³,sy⁵⁵_syɛ̃¹³,s y ⁵⁵ + s y ɛ̃ ¹³,15,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"learn, teach",504,LEARN,false,expert
+Jiulong-107_learnteach-1,107_learnteach,suɛ̃⁵⁵,suɛ̃⁵⁵,s u ɛ̃ ⁵⁵,15,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"learn, teach",504,LEARN,false,expert
+Taoping-106_leanofmeat-1,106_leanofmeat,dʐo²⁴¹,dʐo²⁴¹,ɖʐ o ²⁴¹,34,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,lean (of meat),2219,LEAN (MEAT),false,expert
+Taoba-106_leanofmeat-1,106_leanofmeat,dʐɐ³⁵ mə⁵³,dʐɐ³⁵_mə⁵³,ɖʐ ɐ ³⁵ + m ə ⁵³,34,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,lean (of meat),2219,LEAN (MEAT),false,expert
+Qinghua-106_leanofmeat-1,106_leanofmeat,dʐə¹³ ti⁵⁵,dʐə¹³_ti⁵⁵,ɖʐ ə ¹³ + t i ⁵⁵,34,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,lean (of meat),2219,LEAN (MEAT),false,expert
+Taoping-103_laugh-1,103_laugh,dʐa³³,dʐa³³,ɖʐ a ³³,197,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,laugh,1355,LAUGH,false,expert
+Longxi-103_laugh-1,103_laugh,dzà ~ zà,dzà,dz à/a,197,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,laugh,1355,LAUGH,false,expert
+Mianchi-103_laugh-1,103_laugh,dʐà,dʐà,ɖʐ à/a,197,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,laugh,1355,LAUGH,false,expert
+Yonghe-103_laugh-1,103_laugh,dʐɑ̌,dʐɑ̌,ɖʐ ɑ̆/ɑ,197,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,laugh,1355,LAUGH,false,expert
+Wadu-103_laugh-1,103_laugh,nɐ-ɻ̥æ̃̌,nɐ-ɻ̥æ̃̌,n ɐ + ɻ̥ æ̆̃/æ̃,197,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Niuwozi-103_laugh-1,103_laugh,ʴ̥aR,ʴ̥aR,ʴ̥/ɹ̥ a R/ɹ,197,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Dayang-103_laugh-1,103_laugh,ʂɑ̌,ʂɑ̌,ʂ ɑ̆/ɑ,197,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Taoba-103_laugh-1,103_laugh,ʂa³⁵,ʂa³⁵,ʂ a ³⁵,197,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Qinghua-103_laugh-1,103_laugh,ʃɑ¹³,ʃɑ¹³,ʃ ɑ ¹³,197,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Lanping-103_laugh-1,103_laugh,ʃɑ¹³,ʃɑ¹³,ʃ ɑ ¹³,197,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Jiulong-103_laugh-1,103_laugh,ʂɑ¹¹ ʂɑ⁵⁵,ʂɑ¹¹_ʂɑ⁵⁵,ʂ ɑ ¹¹ + ʂ ɑ ⁵⁵,197,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,laugh,1355,LAUGH,false,expert
+Taoping-100_house-1,100_house,tɕi⁵⁵ ko³³,tɕi⁵⁵_ko³³,tɕ i ⁵⁵ + k o ³³,99,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,house,1252,HOUSE,false,expert
+Longxi-100_house-1,100_house,tɕé kù,tɕé_kù,tɕ é/e + k ù/u,99,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,house,1252,HOUSE,false,expert
+Mianchi-100_house-1,100_house,tɕí,tɕí,tɕ í/i,99,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,house,1252,HOUSE,false,expert
+Yonghe-100_house-1,100_house,tɕí,tɕí,tɕ í/i,99,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,house,1252,HOUSE,false,expert
+Wadu-100_house-1,100_house,tʃṍ,tʃṍ,tʃ ṍ/õ,99,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Niuwozi-100_house-1,100_house,tʃĩᴴ,tʃĩᴴ,tʃ ĩ ᴴ/⁵,99,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Taoba-100_house-1,100_house,tɕø̃⁵⁵,tɕø̃⁵⁵,tɕ ø̃ ⁵⁵,99,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Qinghua-100_house-1,100_house,tʃə̃⁵⁵,tʃə̃⁵⁵,tʃ ə̃ ⁵⁵,99,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Lanping-100_house-1,100_house,tʃə̃⁵⁵,tʃə̃⁵⁵,tʃ ə̃ ⁵⁵,99,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Jiulong-100_house-1,100_house,tɕĩ³⁵,tɕĩ³⁵,tɕ ĩ ³⁵,99,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,house,1252,HOUSE,false,expert
+Taoping-99_horse-1,99_horse,ʐu⁵⁵,ʐu⁵⁵,ʐ u ⁵⁵,163,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,horse,615,HORSE,false,expert
+Longxi-99_horse-1,99_horse,ʐoù,ʐoù,ʐ o ù/u,163,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,horse,615,HORSE,false,expert
+Mianchi-99_horse-1,99_horse,ʁò,ʁò,ʁ ò/o,163,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,horse,615,HORSE,false,expert
+Yonghe-99_horse-1,99_horse,wǐ ~ wí,wǐ,w ĭ/i,163,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,horse,615,HORSE,false,expert
+Wadu-99_horse-1,99_horse,gwĩ̌,gwĩ̌,g w ĩ̌/ĩ,163,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Niuwozi-99_horse-1,99_horse,gɥɛ̃ᴸ,gɥɛ̃ᴸ,g ɥ ɛ̃ ᴸ/¹,163,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Dayang-99_horse-1,99_horse,ʒdʒĩ̌,ʒdʒĩ̌,ʒ dʒ ĩ̌/ĩ,163,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Taoba-99_horse-1,99_horse,ɣuẽ³⁵,ɣuẽ³⁵,ɣ u ẽ ³⁵,163,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Qinghua-99_horse-1,99_horse,sgyɛ̃¹³,sgyɛ̃¹³,s g y ɛ̃ ¹³,163,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Lanping-99_horse-1,99_horse,zgyɛ̃¹³,zgyɛ̃¹³,z g y ɛ̃ ¹³,163,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Jiulong-99_horse-1,99_horse,ʐuẽ³⁵,ʐuẽ³⁵,ʐ u ẽ ³⁵,163,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,horse,615,HORSE,false,expert
+Taoping-96_holdbabyinarms-1,96_holdbabyinarms,χtu³³,χtu³³,χ t u ³³,55,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,hold (baby) in arms,928,EMBRACE,false,expert
+Longxi-97_holdinarms-1,97_holdinarms,toù,toù,t o ù/u,55,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hold (in arms),1448,HOLD,false,expert
+Mianchi-98_holdclosely-1,98_holdclosely,ɦà tòu,ɦà_tòu,ɦ à/a + t ò/o u,55,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,hold closely,,,false,expert
+Taoping-95_hoe-1,95_hoe,kua³³,kua³³,k u/w a ³³,192,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,hoe,284,HOE,false,expert
+Longxi-95_hoe-1,95_hoe,tɕuà,tɕuà,tɕ u/w à/a,192,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hoe,284,HOE,false,expert
+Mianchi-95_hoe-1,95_hoe,kuà,kuà,k u/w à/a,192,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,hoe,284,HOE,false,expert
+Yonghe-95_hoe-1,95_hoe,kwæ̌,kwæ̌,k w æ̆/æ,192,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,hoe,284,HOE,false,expert
+Taoba-95_hoe-1,95_hoe,tɕya³⁵ dzə⁵⁵,tɕya³⁵_dzə⁵⁵,tɕ y a ³⁵ + dz ə ⁵⁵,192,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,hoe,284,HOE,false,expert
+Jiulong-95_hoe-1,95_hoe,tʂu³⁵ mɑ⁵⁵,tʂu³⁵_mɑ⁵⁵,ʈʂ u ³⁵ + m ɑ ⁵⁵,192,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hoe,284,HOE,false,expert
+Taoping-91_heart-1,91_heart,χtie⁵⁵ mə⁵⁵,χtie⁵⁵_mə⁵⁵,χ t i/j e ⁵⁵ + m ə ⁵⁵,57,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,heart,1223,HEART,false,expert
+Longxi-91_heart-1,91_heart,ɕì mì,ɕì_mì,ɕ ì/i + m ì/i,57,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,heart,1223,HEART,false,expert
+Mianchi-91_heart-1,91_heart,tiè,tiè,t i è/e,57,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,heart,1223,HEART,false,expert
+Yonghe-91_heart-1,91_heart,tì mí ~ tʰì mí,tì_mí,t ì/i + m í/i,57,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,heart,1223,HEART,false,expert
+Taoping-85_hair-1,85_hair,χmə³³,χmə³³,χ m ə ³³,127,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,hair,1040,HAIR,false,expert
+Longxi-85_hair-1,85_hair,χù,χù,χ ù/u,127,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hair,1040,HAIR,false,expert
+Mianchi-85_hair-1,85_hair,mù,mù,m ù/u,127,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,hair,1040,HAIR,false,expert
+Yonghe-85_hair-1,85_hair,hǔʴ,hǔʴ,h ŭ/u ʴ/ɹ,127,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,hair,1040,HAIR,false,expert
+Wadu-85_hair-1,85_hair,qhʉ́ m̥æ̀,qhʉ́_m̥æ̀,qʰ ʉ́/ʉ + m̥ æ̀/æ,127,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,hair,1040,HAIR,false,expert
+Niuwozi-85_hair-1,85_hair,khʉᴴ mãᴸ,khʉᴴ_mãᴸ,kʰ ʉ ᴴ/⁵ + m ã ᴸ/¹,127,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hair,1040,HAIR,false,expert
+Taoba-85_hair-1,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,127,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,hair,1040,HAIR,false,expert
+Qinghua-85_hair-1,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,127,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,hair,1040,HAIR,false,expert
+Lanping-85_hair-1,85_hair,ma⁵⁵,ma⁵⁵,m a ⁵⁵,127,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hair,1040,HAIR,false,expert
+Jiulong-90_headhair-1,90_headhair,"mã³⁵, mɛ̃i³⁵, qʰuo¹¹ mɛi³⁵",mã³⁵,m ã ³⁵,127,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,head hair,2648,HAIR (HEAD),false,expert
+Taoping-78_gnaw-1,78_gnaw,χɢɑ²⁴¹,χɢɑ²⁴¹,χ ɢ ɑ ²⁴¹,30,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,gnaw,2706,GNAW,false,expert
+Longxi-78_gnaw-1,78_gnaw,ʁà ɕà,ʁà_ɕà,ʁ à/a + ɕ à/a,30,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,gnaw,2706,GNAW,false,expert
+Yonghe-78_gnaw-1,78_gnaw,gɑ̀ʴ ɬɛ́,gɑ̀ʴ_ɬɛ́,g ɑ̀/ɑ ʴ/ɹ + ɬ ɛ́/ɛ,30,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,gnaw,2706,GNAW,false,expert
+Wadu-78_gnaw-1,78_gnaw,qǎ,qǎ,q ă/a,30,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,gnaw,2706,GNAW,false,expert
+Dayang-8_bite-1,8_bite,χqɑ̌,χqɑ̌,χ q ɑ̆/ɑ,30,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,bite,1403,BITE,false,expert
+Qinghua-78_gnaw-1,78_gnaw,xə¹³ qɑ¹³,xə¹³_qɑ¹³,x ə ¹³ + q ɑ ¹³,30,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,gnaw,2706,GNAW,false,expert
+Taoping-76_gall-1,76_gall,χtʂə⁵⁵,χtʂə⁵⁵,χ ʈʂ ə ⁵⁵,102,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,gall,1780,BILE,false,expert
+Longxi-76_gall-1,76_gall,tsɨ́,tsɨ́,ts ɨ́/ɨ,102,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,gall,1780,BILE,false,expert
+Mianchi-76_gall-1,76_gall,tɕɨ́,tɕɨ́,tɕ ɨ́/ɨ,102,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,gall,1780,BILE,false,expert
+Wadu-76_gall-1,76_gall,ʈə́,ʈə́,ʈ ə́/ə,102,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Niuwozi-76_gall-1,76_gall,kʴəᴴ,kʴəᴴ,k ʴ/ɹ ə ᴴ/⁵,102,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Taoba-76_gall-1,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,102,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Qinghua-76_gall-1,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,102,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Lanping-76_gall-1,76_gall,tʂə⁵⁵,tʂə⁵⁵,ʈʂ ə ⁵⁵,102,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Jiulong-76_gall-1,76_gall,tʂɿ³⁵,tʂɿ³⁵,ʈʂ ɿ ³⁵,102,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,gall,1780,BILE,false,expert
+Taoping-75_front-1,75_front,qə³¹ əʴ⁵⁵,qə³¹_əʴ⁵⁵,q ə ³¹ + ə ʴ/ɹ ⁵⁵,115,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,front,2194,FRONT (PART),false,expert
+Yonghe-75_front-1,75_front,kəʴ̌ ~ qə̌ʴ,kəʴ̌,k ə̆/ə ʴ/ɹ,115,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,front,2194,FRONT (PART),false,expert
+Wadu-75_front-1,75_front,ɹə́,ɹə́,ɹ ə́/ə,115,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,front,2194,FRONT (PART),false,expert
+Niuwozi-75_front-1,75_front,ɹəᶠ,ɹəᶠ,ɹ ə ᶠ/⁵¹,115,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,front,2194,FRONT (PART),false,expert
+Qinghua-75_front-1,75_front,ʐə⁵⁵,ʐə⁵⁵,ʐ ə ⁵⁵,115,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,front,2194,FRONT (PART),false,expert
+Lanping-75_front-1,75_front,ʐə⁵⁵,ʐə⁵⁵,ʐ ə ⁵⁵,115,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,front,2194,FRONT (PART),false,expert
+Taoping-74_frog-1,74_frog,dzuɑ³¹ pu⁵⁵ mɑ³³,dzuɑ³¹_pu⁵⁵_mɑ³³,dz u/w ɑ ³¹ + p u ⁵⁵ + m ɑ ³³,181,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,frog,503,FROG,false,expert
+Longxi-74_frog-1,74_frog,zò-piá,zò-piá,z ò/o + p i/j á/a,181,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,frog,503,FROG,false,expert
+Mianchi-74_frog-1,74_frog,dzò-piá,dzò-piá,dz ò/o + p i/j á/a,181,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,frog,503,FROG,false,expert
+Yonghe-74_frog-1,74_frog,dzù pǽ,dzù_pǽ,dz ù/u + p ǽ/æ,181,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,frog,503,FROG,false,expert
+Niuwozi-74_frog-1,74_frog,pɜᴴ diᴴ,pɜᴴ_diᴴ,p ɜ ᴴ/⁵ + d i ᴴ/⁵,181,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,frog,503,FROG,false,expert
+Dayang-74_frog-1,74_frog,ɸpɒ́,ɸpɒ́,ɸ p ɒ́/ɒ,181,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,frog,503,FROG,false,expert
+Qinghua-74_frog-1,74_frog,spɑ⁵⁵,spɑ⁵⁵,s p ɑ ⁵⁵,181,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,frog,503,FROG,false,expert
+Lanping-74_frog-1,74_frog,fpɑ⁵⁵,fpɑ⁵⁵,f p ɑ ⁵⁵,181,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,frog,503,FROG,false,expert
+Jiulong-74_frog-1,74_frog,pɐ⁵⁵ de⁵⁵,pɐ⁵⁵_de⁵⁵,p ɐ ⁵⁵ + d e ⁵⁵,181,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,frog,503,FROG,false,expert
+Taoping-73_fox-1,73_fox,qʰɑ³³ χguə³³,qʰɑ³³_χguə³³,qʰ ɑ ³³ + χ g u/w ə ³³,169,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,fox,1312,FOX,false,expert
+Longxi-73_fox-1,73_fox,qʰà guà,qʰà_guà,qʰ à/a + g u/w à/a,169,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,fox,1312,FOX,false,expert
+Mianchi-73_fox-1,73_fox,qʰá guɚ̀,qʰá_guɚ̀,qʰ á/a + g u ə̀˞/ə˞,169,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,fox,1312,FOX,false,expert
+Yonghe-73_fox-1,73_fox,wæ̌,wæ̌,w æ̆/æ,169,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,fox,1312,FOX,false,expert
+Niuwozi-73_fox-1,73_fox,gɥɛᶠ,gɥɛᶠ,g ɥ ɛ ᶠ/⁵¹,169,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fox,1312,FOX,false,expert
+Taoba-73_fox-1,73_fox,guə⁵³,guə⁵³,g u/w ə ⁵³,169,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,fox,1312,FOX,false,expert
+Qinghua-73_fox-1,73_fox,sgyɛ¹³,sgyɛ¹³,s g y ɛ ¹³,169,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,fox,1312,FOX,false,expert
+Lanping-73_fox-1,73_fox,guɐ¹³ po⁵⁵,guɐ¹³_po⁵⁵,g u ɐ ¹³ + p o ⁵⁵,169,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fox,1312,FOX,false,expert
+Jiulong-73_fox-1,73_fox,ʐyə³⁵,ʐyə³⁵,ʐ y ə ³⁵,169,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fox,1312,FOX,false,expert
+Taoping-71_footmeasure-1,71_footmeasure,tʂʰə⁵⁵,tʂʰə⁵⁵,ʈʂʰ ə ⁵⁵,182,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,foot (measure),2688,FOOT (UNIT),false,expert
+Wadu-70_foot-1,70_foot,ʈʰə́,ʈʰə́,ʈʰ ə́/ə,182,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Niuwozi-70_foot-1,70_foot,kʰʴəᴴ,kʰʴəᴴ,kʰ ʴ/³⁵ ə ᴴ/⁵,182,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Dayang-70_foot-1,70_foot,ʈʰɨ́,ʈʰɨ́,ʈʰ ɨ́/ɨ,182,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Taoba-70_foot-1,70_foot,tʂʰə⁵³,tʂʰə⁵³,ʈʂʰ ə ⁵³,182,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Qinghua-70_foot-1,70_foot,tʂʰə⁵⁵,tʂʰə⁵⁵,ʈʂʰ ə ⁵⁵,182,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Lanping-70_foot-1,70_foot,tʂʰə⁵³,tʂʰə⁵³,ʈʂʰ ə ⁵³,182,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Jiulong-70_foot-1,70_foot,tʂʰɿ⁵⁵,tʂʰɿ⁵⁵,ʈʂʰ ɿ ⁵⁵,182,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,foot,1301,FOOT,false,expert
+Taoping-68_flee-1,68_flee,pʰu⁵⁵,pʰu⁵⁵,pʰ u ⁵⁵,92,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,flee,956,FLEE,false,expert
+Longxi-68_flee-1,68_flee,dà pʰó,dà_pʰó,d à/a + pʰ ó/o,92,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,flee,956,FLEE,false,expert
+Yonghe-68_flee-1,68_flee,dò pʰú,dò_pʰú,d ò/o + pʰ ú/u,92,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,flee,956,FLEE,false,expert
+Wadu-68_flee-1,68_flee,pʰĩ̀,pʰĩ̀,pʰ ĩ̀/ĩ,92,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Niuwozi-68_flee-1,68_flee,pʰjɛ̃ᴿ,pʰjɛ̃ᴿ,pʰ j ɛ̃ ᴿ/¹⁵,92,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Dayang-68_flee-1,68_flee,ptʃʰĩ̌,ptʃʰĩ̌,p tʃʰ ĩ̌/ĩ,92,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Qinghua-68_flee-1,68_flee,pʰʒã⁵⁵,pʰʒã⁵⁵,pʰ ʒ ã ⁵⁵,92,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Lanping-68_flee-1,68_flee,kʰə¹³ pʰʃã⁵⁵,kʰə¹³_pʰʃã⁵⁵,kʰ ə ¹³ + pʰ ʃ ã ⁵⁵,92,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Jiulong-68_flee-1,68_flee,pʰã⁵⁵,pʰã⁵⁵,pʰ ã ⁵⁵,92,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flee,956,FLEE,false,expert
+Taoping-67_flea-1,67_flea,tsu⁵⁵ lu⁵⁵,tsu⁵⁵_lu⁵⁵,ts u ⁵⁵ + l u ⁵⁵,105,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,flea,232,FLEA,false,expert
+Wadu-67_flea-1,67_flea,l̥ɛj́,l̥ɛj́,l̥ ɛj́/ɛi,105,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Niuwozi-67_flea-1,67_flea,l̥ɜjᶠ,l̥ɜjᶠ,l̥ ɜj/ɜi ᶠ/⁵¹,105,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Taoba-67_flea-1,67_flea,ɬe⁵³,ɬe⁵³,ɬ e ⁵³,105,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Qinghua-67_flea-1,67_flea,ɬa⁵⁵,ɬa⁵⁵,ɬ a ⁵⁵,105,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Lanping-67_flea-1,67_flea,ɬa⁵⁵,ɬa⁵⁵,ɬ a ⁵⁵,105,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Jiulong-67_flea-1,67_flea,ɬɛi⁵⁵,ɬɛi⁵⁵,ɬ ɛi ⁵⁵,105,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,flea,232,FLEA,false,expert
+Taoping-66_firewood-1,66_firewood,sie³³,sie³³,s i/j e ³³,155,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,firewood,10,FIREWOOD,false,expert
+Longxi-66_firewood-1,66_firewood,ɕì,ɕì,ɕ ì/i,155,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,firewood,10,FIREWOOD,false,expert
+Mianchi-66_firewood-1,66_firewood,sè,sè,s è/e,155,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,firewood,10,FIREWOOD,false,expert
+Yonghe-66_firewood-1,66_firewood,sɛ́,sɛ́,s ɛ́/ɛ,155,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,firewood,10,FIREWOOD,false,expert
+Wadu-66_firewood-1,66_firewood,sěŋ,sěŋ,s ĕ/e ŋ,155,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Niuwozi-66_firewood-1,66_firewood,sjẽᴿ,sjẽᴿ,s j ẽ ᴿ/¹⁵,155,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Taoba-66_firewood-1,66_firewood,sẽ³⁵,sẽ³⁵,s ẽ ³⁵,155,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Qinghua-66_firewood-1,66_firewood,siɛ̃¹³,siɛ̃¹³,s i/j ɛ̃ ¹³,155,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Lanping-66_firewood-1,66_firewood,siɛ̃¹³,siɛ̃¹³,s i/j ɛ̃ ¹³,155,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Jiulong-66_firewood-1,66_firewood,sẽ⁵⁵,sẽ⁵⁵,s ẽ ⁵⁵,155,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,firewood,10,FIREWOOD,false,expert
+Taoping-62_fearbeafraid-1,62_fearbeafraid,qu³³,qu³³,q u ³³,165,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,fear; be afraid,1419,FEAR (BE AFRAID),false,expert
+Longxi-60_feardifficulty-1,60_feardifficulty,qò,qò,q ò/o,165,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,fear difficulty,,,false,expert
+Mianchi-59_fear-1,59_fear,kòu,kòu,k ò/o u,165,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,fear,,,false,expert
+Wadu-62_fearbeafraid-1,62_fearbeafraid,kɐ̌,kɐ̌,k ɐ̆/ɐ,165,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,fear; be afraid,1419,FEAR (BE AFRAID),false,expert
+Niuwozi-62_fearbeafraid-1,62_fearbeafraid,kjɜ̌,kjɜ̌,k j ɜ̆/ɜ,165,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fear; be afraid,1419,FEAR (BE AFRAID),false,expert
+Taoba-62_fearbeafraid-1,62_fearbeafraid,xiɐ³⁵,xiɐ³⁵,x i ɐ ³⁵,165,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,fear; be afraid,1419,FEAR (BE AFRAID),false,expert
+Qinghua-62_fearbeafraid-1,62_fearbeafraid,skiɛ¹³,skiɛ¹³,s k i/j ɛ ¹³,165,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,fear; be afraid,1419,FEAR (BE AFRAID),false,expert
+Taoping-56_eye-1,56_eye,mi⁵⁵,mi⁵⁵,m i ⁵⁵,188,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,eye,1248,EYE,false,expert
+Longxi-56_eye-1,56_eye,ȵí má toù,ȵí_má_toù,ȵ í/i + m á/a + t o ù/u,188,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,eye,1248,EYE,false,expert
+Mianchi-56_eye-1,56_eye,mù tié,mù_tié,m ù/u + t i é/e,188,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,eye,1248,EYE,false,expert
+Yonghe-56_eye-1,56_eye,mí kjæ̀,mí_kjæ̀,m í/i + k j æ̀/æ,188,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,eye,1248,EYE,false,expert
+Wadu-56_eye-1,56_eye,njæ HL,njæ_HL,n j æ HL/⁵¹,188,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Niuwozi-56_eye-1,56_eye,mjaᶠ,mjaᶠ,m j a ᶠ/⁵¹,188,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Dayang-56_eye-1,56_eye,myɑ́N,myɑ́N,m y/ɥ ɑ́/ɑ N/⁰,188,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Taoba-56_eye-1,56_eye,ȵiɛ⁵³,ȵiɛ⁵³,ȵ i/j ɛ ⁵³,188,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Qinghua-56_eye-1,56_eye,miɑ⁵⁵,miɑ⁵⁵,m i ɑ ⁵⁵,188,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Lanping-56_eye-1,56_eye,miɑ⁵⁵,miɑ⁵⁵,m i ɑ ⁵⁵,188,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Jiulong-56_eye-1,56_eye,ȵə³⁵,ȵə³⁵,ȵ ə ³⁵,188,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,eye,1248,EYE,false,expert
+Taoping-53_elbow-1,53_elbow,i³³ kye³³ kye³³,i³³_kye³³_kye³³,i ³³ + k y/ɥ e ³³ + k y/ɥ e ³³,164,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,elbow,981,ELBOW,false,expert
+Taoba-53_elbow-1,53_elbow,ʑɛ³⁵ ku³⁵,ʑɛ³⁵_ku³⁵,ʑ ɛ ³⁵ + k u ³⁵,164,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,elbow,981,ELBOW,false,expert
+Qinghua-53_elbow-1,53_elbow,ʒɛ¹³ kʰu⁵⁵,ʒɛ¹³_kʰu⁵⁵,ʒ ɛ ¹³ + kʰ u ⁵⁵,164,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,elbow,981,ELBOW,false,expert
+Lanping-53_elbow-1,53_elbow,ʒɛ⁵⁵ xqo¹³,ʒɛ⁵⁵_xqo¹³,ʒ ɛ ⁵⁵ + x q o ¹³,164,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,elbow,981,ELBOW,false,expert
+Taoping-52_easy-1,52_easy,zie³¹,zie³¹,z i/j e ³¹,36,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,easy,686,EASY,false,expert
+Mianchi-52_easy-1,52_easy,(pù) zɛ̀,_zɛ̀,z ɛ̀/ɛ,36,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,easy,686,EASY,false,expert
+Yonghe-52_easy-1,52_easy,zə̌,zə̌,z ə̆/ə,36,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,easy,686,EASY,false,expert
+Taoba-52_easy-1,52_easy,ʑe³⁵ ʑe⁵⁵ mə⁵³,ʑe³⁵_ʑe⁵⁵_mə⁵³,ʑ e ³⁵ + ʑ e ⁵⁵ + m ə ⁵³,36,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,easy,686,EASY,false,expert
+Qinghua-52_easy-1,52_easy,stʃɛ¹³ stʃɛ¹³,stʃɛ¹³_stʃɛ¹³,s tʃ ɛ ¹³ + s tʃ ɛ ¹³,36,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,easy,686,EASY,false,expert
+Lanping-52_easy-1,52_easy,ʃtʃɛ¹³ ʃtʃɛ⁵⁵,ʃtʃɛ¹³_ʃtʃɛ⁵⁵,ʃ tʃ ɛ ¹³ + ʃ tʃ ɛ ⁵⁵,36,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,easy,686,EASY,false,expert
+Jiulong-52_easy-1,52_easy,dʑə³⁵ dʑə³⁵,dʑə³⁵_dʑə³⁵,dʑ ə ³⁵ + dʑ ə ³⁵,36,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,easy,686,EASY,false,expert
+Taoping-50_drum-1,50_drum,χbu³³,χbu³³,χ b u ³³,49,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,drum,908,DRUM,false,expert
+Longxi-50_drum-1,50_drum,bù,bù,b ù/u,49,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,drum,908,DRUM,false,expert
+Mianchi-50_drum-1,50_drum,bù,bù,b ù/u,49,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,drum,908,DRUM,false,expert
+Taoping-46_dragon-1,46_dragon,χbə²⁴¹,χbə²⁴¹,χ b ə ²⁴¹,4,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,dragon,2038,DRAGON,false,expert
+Longxi-46_dragon-1,46_dragon,bú,bú,b ú/u,4,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,dragon,2038,DRAGON,false,expert
+Mianchi-46_dragon-1,46_dragon,bú,bú,b ú/u,4,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,dragon,2038,DRAGON,false,expert
+Taoba-46_dragon-1,46_dragon,bʐo⁵⁵,bʐo⁵⁵,b ʐ o ⁵⁵,4,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,dragon,2038,DRAGON,false,expert
+Taoping-43_deity-1,43_deity,tsʰie³³,tsʰie³³,tsʰ i/j e ³³,110,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,deity,3231,DEITY,false,expert
+Longxi-43_deity-1,43_deity,tɕʰí,tɕʰí,tɕʰ í/i,110,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,deity,3231,DEITY,false,expert
+Mianchi-43_deity-1,43_deity,sé,sé,s é/e,110,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,deity,3231,DEITY,false,expert
+Yonghe-43_deity-1,43_deity,sɨ́,sɨ́,s ɨ́/ɨ,110,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,deity,3231,DEITY,false,expert
+Wadu-43_deity-1,43_deity,hí,hí,h í/i,110,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,deity,3231,DEITY,false,expert
+Niuwozi-43_deity-1,43_deity,xeᴴ,xeᴴ,x e ᴴ/⁵,110,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,deity,3231,DEITY,false,expert
+Dayang-43_deity-1,43_deity,ɕé,ɕé,ɕ é/e,110,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,deity,3231,DEITY,false,expert
+Qinghua-215_temple-1,215_temple,ɕe⁵⁵ tʃə̃⁵⁵,ɕe⁵⁵_tʃə̃⁵⁵,ɕ e ⁵⁵ + tʃ ə̃ ⁵⁵,110,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,temple,911,TEMPLE,false,expert
+Lanping-215_temple-1,215_temple,ɕe⁵⁵ tʃə̃⁵⁵,ɕe⁵⁵_tʃə̃⁵⁵,ɕ e ⁵⁵ + tʃ ə̃ ⁵⁵,110,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,temple,911,TEMPLE,false,expert
+Taoping-42_deaf-1,42_deaf,ȵi³¹ kie³³ bu²⁴¹,ȵi³¹_kie³³_bu²⁴¹,ȵ i ³¹ + k i/j e ³³ + b u ²⁴¹,125,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,deaf,996,DEAF,false,expert
+Longxi-42_deaf-1,42_deaf,ȵì bò,ȵì_bò,ȵ ì/i + b ò/o,125,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,deaf,996,DEAF,false,expert
+Mianchi-42_deaf-1,42_deaf,bù,bù,b ù/u,125,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,deaf,996,DEAF,false,expert
+Yonghe-42_deaf-1,42_deaf,ȵí kwì bù,ȵí_kwì_bù,ȵ í/i + k w ì/i + b ù/u,125,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,deaf,996,DEAF,false,expert
+Wadu-42_deaf-1,42_deaf,da bõ̌,da_bõ̌,d a + b õ̌/õ,125,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Niuwozi-42_deaf-1,42_deaf,bõᴿ,bõᴿ,b õ ᴿ/¹⁵,125,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Taoba-42_deaf-1,42_deaf,zɐ³⁵ bõ³⁵,zɐ³⁵_bõ³⁵,z ɐ ³⁵ + b õ ³⁵,125,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Qinghua-42_deaf-1,42_deaf,sdə¹³ bõ¹³,sdə¹³_bõ¹³,s d ə ¹³ + b õ ¹³,125,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Lanping-42_deaf-1,42_deaf,zdə¹³ bõ¹³,zdə¹³_bõ¹³,z d ə ¹³ + b õ ¹³,125,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Jiulong-42_deaf-1,42_deaf,zɑ¹¹ bũ⁵⁵,zɑ¹¹_bũ⁵⁵,z ɑ ¹¹ + b ũ ⁵⁵,125,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,deaf,996,DEAF,false,expert
+Taoping-39_dark-1,39_dark,mu³³,mu³³,m u ³³,51,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,dark,706,DARK,false,expert
+Longxi-39_dark-1,39_dark,ɦà-mù,ɦà-mù,ɦ à/a + m ù/u,51,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,dark,706,DARK,false,expert
+Mianchi-39_dark-1,39_dark,mò,mò,m ò/o,51,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,dark,706,DARK,false,expert
+Taoping-38_dancejump-1,38_dancejump,tsʰu⁵⁵ ta⁵⁵,tsʰu⁵⁵_ta⁵⁵,tsʰ u ⁵⁵ + t a ⁵⁵,112,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"dance, jump",1879,DANCE,false,expert
+Longxi-38_dancejump-1,38_dancejump,tsʰó tà,tsʰó_tà,tsʰ ó/o + t à/a,112,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"dance, jump",1879,DANCE,false,expert
+Mianchi-38_dancejump-1,38_dancejump,soú,soú,s o ú/u,112,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"dance, jump",1879,DANCE,false,expert
+Yonghe-38_dancejump-1,38_dancejump,sú tɛ̀,sú_tɛ̀,s ú/u + t ɛ̀/ɛ,112,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,"dance, jump",1879,DANCE,false,expert
+Wadu-38_dancejump-1,38_dancejump,tsʰú,tsʰú,tsʰ ú/u,112,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Niuwozi-38_dancejump-1,38_dancejump,tsʰoᶠ,tsʰoᶠ,tsʰ o ᶠ/⁵¹,112,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Taoba-38_dancejump-1,38_dancejump,dʑɛ³⁵ tsʰo³⁵,dʑɛ³⁵_tsʰo³⁵,dʑ ɛ ³⁵ + tsʰ o ³⁵,112,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Qinghua-38_dancejump-1,38_dancejump,tsʰa⁵⁵ tsʰo⁵⁵,tsʰa⁵⁵_tsʰo⁵⁵,tsʰ a ⁵⁵ + tsʰ o ⁵⁵,112,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Lanping-38_dancejump-1,38_dancejump,xə¹³ tsʰo⁵⁵,xə¹³_tsʰo⁵⁵,x ə ¹³ + tsʰ o ⁵⁵,112,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Jiulong-38_dancejump-1,38_dancejump,tɕɯ⁵⁵ tsʰə⁵⁵,tɕɯ⁵⁵_tsʰə⁵⁵,tɕ ɯ ⁵⁵ + tsʰ ə ⁵⁵,112,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"dance, jump",1879,DANCE,false,expert
+Taoping-33_come-1,33_come,ly³³,ly³³,l y ³³,177,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,come,1446,COME,false,expert
+Longxi-33_come-1,33_come,lò,lò,l ò/o,177,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,come,1446,COME,false,expert
+Mianchi-33_come-1,33_come,ȵù,ȵù,ȵ ù/u,177,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,come,1446,COME,false,expert
+Wadu-33_come-1,33_come,ʑə̌,ʑə̌,ʑ ə̆/ə,177,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Niuwozi-33_come-1,33_come,ʒɨᴿ,ʒɨᴿ,ʒ ɨ ᴿ/¹⁵,177,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Taoba-33_come-1,33_come,ju³⁵,ju³⁵,j u ³⁵,177,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Qinghua-33_come-1,33_come,i¹³,i¹³,i ¹³,177,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Lanping-33_come-1,33_come,ʒə³⁵,ʒə³⁵,ʒ ə ³⁵,177,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Jiulong-33_come-1,33_come,li³⁵,li³⁵,l i ³⁵,177,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,come,1446,COME,false,expert
+Taoping-32_cloud-1,32_cloud,χde³³,χde³³,χ d e ³³,94,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,cloud,1489,CLOUD,false,expert
+Longxi-32_cloud-1,32_cloud,dá mù,dá_mù,d á/a + m ù/u,94,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,cloud,1489,CLOUD,false,expert
+Mianchi-32_cloud-1,32_cloud,dá mò,dá_mò,d á/a + m ò/o,94,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,cloud,1489,CLOUD,false,expert
+Yonghe-32_cloud-1,32_cloud,dá,dá,d á/a,94,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,cloud,1489,CLOUD,false,expert
+Niuwozi-32_cloud-1,32_cloud,dĩᴴ,dĩᴴ,d ĩ ᴴ/⁵,94,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cloud,1489,CLOUD,false,expert
+Dayang-32_cloud-1,32_cloud,zdĩ́,zdĩ́,z d ĩ́/ĩ,94,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,cloud,1489,CLOUD,false,expert
+Qinghua-32_cloud-1,32_cloud,sdĩ⁵⁵,sdĩ⁵⁵,s d ĩ ⁵⁵,94,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,cloud,1489,CLOUD,false,expert
+Lanping-32_cloud-1,32_cloud,zdĩ⁵⁵,zdĩ⁵⁵,z d ĩ ⁵⁵,94,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cloud,1489,CLOUD,false,expert
+Jiulong-32_cloud-1,32_cloud,dẽ³⁵,dẽ³⁵,d ẽ ³⁵,94,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cloud,1489,CLOUD,false,expert
+Taoping-29_clearofwater-1,29_clearofwater,dʐe³³,dʐe³³,ɖʐ e ³³,170,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,clear (of water),1147,PURE,false,expert
+Lanping-29_clearofwater-1,29_clearofwater,dʐuɛ̃¹³ si⁵⁵,dʐuɛ̃¹³_si⁵⁵,ɖʐ u ɛ̃ ¹³ + s i ⁵⁵,170,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,clear (of water),1147,PURE,false,expert
+Taoping-27_chop-1,27_chop,tsʰuɑ⁵⁵,tsʰuɑ⁵⁵,tsʰ u/w ɑ ⁵⁵,9,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,chop,155,CHOP,false,expert
+Longxi-27_chop-1,27_chop,tsʰuá dà,tsʰuá_dà,tsʰ u á/a + d à/a,9,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,chop,155,CHOP,false,expert
+Mianchi-27_chop-1,27_chop,tsʰoú tià,tsʰoú_tià,tsʰ o ú/u + t i/j à/a,9,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,chop,155,CHOP,false,expert
+Yonghe-27_chop-1,27_chop,tsʰwɑ́ tɛ̀,tsʰwɑ́_tɛ̀,tsʰ w ɑ́/ɑ + t ɛ̀/ɛ,9,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,chop,155,CHOP,false,expert
+Qinghua-27_chop-1,27_chop,tʰə¹³ stʃɑ⁵⁵,tʰə¹³_stʃɑ⁵⁵,tʰ ə ¹³ + s tʃ ɑ ⁵⁵,9,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,chop,155,CHOP,false,expert
+Lanping-27_chop-1,27_chop,tʰə¹³ ʃtʃɑ⁵⁵,tʰə¹³_ʃtʃɑ⁵⁵,tʰ ə ¹³ + ʃ tʃ ɑ ⁵⁵,9,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,chop,155,CHOP,false,expert
+Taoping-25_cavemountain-1,25_cavemountain,ʐɑ³³ pu³³,ʐɑ³³_pu³³,ʐ ɑ ³³ + p u ³³,162,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,cave (mountain),,,false,expert
+Yonghe-24_cave-1,24_cave,ɦɑ̀ pú,ɦɑ̀_pú,ɦ ɑ̀/ɑ + p ú/u,162,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,cave,1155,CAVE,false,expert
+Jiulong-24_cave-1,24_cave,ʐə¹¹ pu⁵⁵,ʐə¹¹_pu⁵⁵,ʐ ə ¹¹ + p u ⁵⁵,162,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cave,1155,CAVE,false,expert
+Taoping-23_cat-1,23_cat,ma³¹ ȵy⁵⁵,ma³¹_ȵy⁵⁵,m a ³¹ + ȵ y ⁵⁵,22,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,cat,1208,CAT,false,expert
+Longxi-23_cat-1,23_cat,má{ȵú} mé{ȵòu},máȵú,m á/a ȵ ú/u,22,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,cat,1208,CAT,false,expert
+Yonghe-23_cat-1,23_cat,mæ̀ ȵwí,mæ̀_ȵwí,m æ̀/æ + ȵ w í/i,22,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,cat,1208,CAT,false,expert
+Niuwozi-23_cat-1,23_cat,mɜᴸ tsɨᴿ,mɜᴸ_tsɨᴿ,m ɜ ᴸ/¹ + ts ɨ ᴿ/¹⁵,22,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cat,1208,CAT,false,expert
+Taoba-23_cat-1,23_cat,mɐ³⁵ tsə⁵⁵,mɐ³⁵_tsə⁵⁵,m ɐ ³⁵ + ts ə ⁵⁵,22,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,cat,1208,CAT,false,expert
+Qinghua-23_cat-1,23_cat,mɐ¹³ tsə⁵⁵,mɐ¹³_tsə⁵⁵,m ɐ ¹³ + ts ə ⁵⁵,22,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,cat,1208,CAT,false,expert
+Jiulong-23_cat-1,23_cat,mu¹¹ ȵi⁵⁵,mu¹¹_ȵi⁵⁵,m u ¹¹ + ȵ i ⁵⁵,22,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cat,1208,CAT,false,expert
+Taoping-22_buttocks-1,22_buttocks,tʰɑ³¹ bɑ³³,tʰɑ³¹_bɑ³³,tʰ ɑ ³¹ + b ɑ ³³,56,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,buttocks,834,BUTTOCKS,false,expert
+Longxi-236_vulva-1,236_vulva,tʰà bá,tʰà_bá,tʰ à/a + b á/a,56,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,vulva,1837,VULVA,false,expert
+Taoping-17_breakviofrope-1,17_breakviofrope,bʐe³³,bʐe³³,b ʐ e ³³,185,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"break (v.i., of rope)",460,BREAK (OF ROPE),false,expert
+Longxi-17_breakviofrope-1,17_breakviofrope,bà,bà,b à/a,185,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"break (v.i., of rope)",460,BREAK (OF ROPE),false,expert
+Mianchi-17_breakviofrope-1,17_breakviofrope,pʰɚ̌,pʰɚ̌,pʰ ɚ̆/ə˞,185,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"break (v.i., of rope)",460,BREAK (OF ROPE),false,expert
+Dayang-188_snapvi-1,188_snapvi,bʐɛ̌,bʐɛ̌,b ʐ ɛ̆/ɛ,185,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,snap (v.i.),460,BREAK (OF ROPE),false,expert
+Taoba-17_breakviofrope-1,17_breakviofrope,tə³⁵ bʐɛ³⁵,tə³⁵_bʐɛ³⁵,t ə ³⁵ + b ʐ ɛ ³⁵,185,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"break (v.i., of rope)",460,BREAK (OF ROPE),false,expert
+Qinghua-17_breakviofrope-1,17_breakviofrope,tʰə¹³ pʐɛ¹³,tʰə¹³_pʐɛ¹³,tʰ ə ¹³ + p ʐ ɛ ¹³,185,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,"break (v.i., of rope)",460,BREAK (OF ROPE),false,expert
+Taoping-15_bone-1,15_bone,ʐɑ³¹ kie³³,ʐɑ³¹_kie³³,ʐ ɑ ³¹ + k i/j e ³³,161,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,bone,1394,BONE,false,expert
+Longxi-15_bone-1,15_bone,ɹà ká,ɹà_ká,ɹ à/a + k á/a,161,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,bone,1394,BONE,false,expert
+Mianchi-15_bone-1,15_bone,ʐæ̀ ʁoù,ʐæ̀_ʁoù,ʐ æ̀/æ + ʁ o ù/u,161,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,bone,1394,BONE,false,expert
+Yonghe-15_bone-1,15_bone,ɦàʴ kjɛ́,ɦàʴ_kjɛ́,ɦ à/a ʴ/³⁵ + k j ɛ́/ɛ,161,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,bone,1394,BONE,false,expert
+Wadu-15_bone-1,15_bone,ɹà qá,ɹà_qá,ɹ à/a + q á/a,161,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Niuwozi-15_bone-1,15_bone,ɹɜᴸ kɑᴴ,ɹɜᴸ_kɑᴴ,ɹ ɜ ᴸ/¹ + k ɑ ᴴ/⁵,161,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Dayang-15_bone-1,15_bone,rɑ́ qɑ̌,rɑ́_qɑ̌,r ɑ́/ɑ + q ɑ̆/ɑ,161,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Taoba-15_bone-1,15_bone,rɛ³⁵ ka⁵³,rɛ³⁵_ka⁵³,r ɛ ³⁵ + k a ⁵³,161,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Qinghua-15_bone-1,15_bone,ʐɑ⁵⁵ qɑ¹³,ʐɑ⁵⁵_qɑ¹³,ʐ ɑ ⁵⁵ + q ɑ ¹³,161,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Lanping-15_bone-1,15_bone,ʐɑ⁵⁵ qɑ¹³,ʐɑ⁵⁵_qɑ¹³,ʐ ɑ ⁵⁵ + q ɑ ¹³,161,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Jiulong-15_bone-1,15_bone,ʐɑ¹¹ qɑ⁵⁵,ʐɑ¹¹_qɑ⁵⁵,ʐ ɑ ¹¹ + q ɑ ⁵⁵,161,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bone,1394,BONE,false,expert
+Taoping-14_blow-1,14_blow,pʰə³³,pʰə³³,pʰ ə ³³,2,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,blow,176,BLOW (WITH MOUTH),false,expert
+Longxi-14_blow-1,14_blow,phú,phú,pʰ ú/u,2,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,blow,176,BLOW (WITH MOUTH),false,expert
+Lanping-14_blow-1,14_blow,pʰu⁵⁵ py⁵⁵,pʰu⁵⁵_py⁵⁵,pʰ u ⁵⁵ + p y ⁵⁵,2,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Taoping-12_blood-1,12_blood,sa³³,sa³³,s a ³³,154,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,blood,946,BLOOD,false,expert
+Longxi-12_blood-1,12_blood,sà,sà,s à/a,154,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,blood,946,BLOOD,false,expert
+Mianchi-12_blood-1,12_blood,sà,sà,s à/a,154,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,blood,946,BLOOD,false,expert
+Yonghe-12_blood-1,12_blood,sɑ̌,sɑ̌,s ɑ̆/ɑ,154,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,blood,946,BLOOD,false,expert
+Wadu-12_blood-1,12_blood,sɛ̌j,sɛ̌j,s ɛ̌j/ɛi,154,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Niuwozi-12_blood-1,12_blood,sɜjᴿ,sɜjᴿ,s ɜj/ɜi ᴿ/¹⁵,154,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Dayang-12_blood-1,12_blood,sǎ,sǎ,s ă/a,154,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Taoba-12_blood-1,12_blood,se³⁵,se³⁵,s e ³⁵,154,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Qinghua-12_blood-1,12_blood,sa¹³,sa¹³,s a ¹³,154,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Lanping-12_blood-1,12_blood,sa¹³,sa¹³,s a ¹³,154,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Jiulong-12_blood-1,12_blood,sɛi³⁵,sɛi³⁵,s ɛi ³⁵,154,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blood,946,BLOOD,false,expert
+Taoping-10_black-1,10_black,ȵi⁵⁵ ȵi³¹,ȵi⁵⁵_ȵi³¹,ȵ i ⁵⁵ + ȵ i ³¹,158,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,black,163,BLACK,false,expert
+Longxi-10_black-1,10_black,ȵí ~ ȵì,ȵí,ȵ í/i,158,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,black,163,BLACK,false,expert
+Mianchi-10_black-1,10_black,nə̀,nə̀,n ə̀/ə,158,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,black,163,BLACK,false,expert
+Yonghe-10_black-1,10_black,ȵǐ,ȵǐ,ȵ ĭ/i,158,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,black,163,BLACK,false,expert
+Wadu-10_black-1,10_black,njæ̌,njæ̌,n j æ̆/æ,158,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Niuwozi-10_black-1,10_black,njɑᴿ,njɑᴿ,n j ɑ ᴿ/¹⁵,158,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Dayang-10_black-1,10_black,ȵɑ̌N,ȵɑ̌N,ȵ ɑ̆/ɑ N/⁰,158,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Taoba-10_black-1,10_black,ȵɛ³⁵ mə⁵³,ȵɛ³⁵_mə⁵³,ȵ ɛ ³⁵ + m ə ⁵³,158,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Qinghua-10_black-1,10_black,ȵɑ³⁵,ȵɑ³⁵,ȵ ɑ ³⁵,158,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Lanping-10_black-1,10_black,ȵɑ³⁵,ȵɑ³⁵,ȵ ɑ ³⁵,158,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,black,163,BLACK,false,expert
+Taoping-9_bitter-1,9_bitter,qʰa⁵⁵,qʰa⁵⁵,qʰ a ⁵⁵,168,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,bitter,887,BITTER,false,expert
+Longxi-9_bitter-1,9_bitter,qʰà,qʰà,qʰ à/a,168,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,bitter,887,BITTER,false,expert
+Mianchi-9_bitter-1,9_bitter,qʰà,qʰà,qʰ à/a,168,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,bitter,887,BITTER,false,expert
+Yonghe-9_bitter-1,9_bitter,kʰɑ́ ~ qʰɑ́,kʰɑ́,kʰ ɑ́/ɑ,168,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,bitter,887,BITTER,false,expert
+Wadu-9_bitter-1,9_bitter,qʰæ̌,qʰæ̌,qʰ æ̆/æ,168,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Niuwozi-9_bitter-1,9_bitter,kʰaᴿ,kʰaᴿ,kʰ a ᴿ/¹⁵,168,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Dayang-9_bitter-1,9_bitter,qʰɑ̌,qʰɑ̌,qʰ ɑ̆/ɑ,168,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Taoba-9_bitter-1,9_bitter,kʰa³⁵ mə⁵³,kʰa³⁵_mə⁵³,kʰ a ³⁵ + m ə ⁵³,168,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Qinghua-9_bitter-1,9_bitter,qʰɑ¹³,qʰɑ¹³,qʰ ɑ ¹³,168,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Lanping-9_bitter-1,9_bitter,qʰɑ¹³,qʰɑ¹³,qʰ ɑ ¹³,168,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Jiulong-9_bitter-1,9_bitter,qʰɑ⁵⁵,qʰɑ⁵⁵,qʰ ɑ ⁵⁵,168,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bitter,887,BITTER,false,expert
+Taoping-7_bee-1,7_bee,bə³¹ dʑy³³,bə³¹_dʑy³³,b ə ³¹ + dʑ y ³³,126,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,bee,665,BEE,false,expert
+Longxi-7_bee-1,7_bee,bù-iù,bù-iù,b ù/u + i ù/u,126,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,bee,665,BEE,false,expert
+Mianchi-7_bee-1,7_bee,bù-ʑoú,bù-ʑoú,b ù/u + ʑ o ú/u,126,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,bee,665,BEE,false,expert
+Yonghe-7_bee-1,7_bee,bù ʐú,bù_ʐú,b ù/u + ʐ ú/u,126,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,bee,665,BEE,false,expert
+Wadu-7_bee-1,7_bee,bʉ HL,bʉ_HL,b ʉ HL/⁵¹,126,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,bee,665,BEE,false,expert
+Niuwozi-7_bee-1,7_bee,bɨᶠ,bɨᶠ,b ɨ ᶠ/⁵¹,126,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bee,665,BEE,false,expert
+Dayang-7_bee-1,7_bee,bɨ́,bɨ́,b ɨ́/ɨ,126,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,bee,665,BEE,false,expert
+Lanping-7_bee-1,7_bee,bʒɛ¹³ tʃə⁵⁵,bʒɛ¹³_tʃə⁵⁵,b ʒ ɛ ¹³ + tʃ ə ⁵⁵,126,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bee,665,BEE,false,expert
+Jiulong-7_bee-1,7_bee,bi³⁵ lĩ⁵⁵,bi³⁵_lĩ⁵⁵,b i ³⁵ + l ĩ ⁵⁵,126,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bee,665,BEE,false,expert
+Taoping-6_beard-1,6_beard,tsʰuə⁵⁵ χmə³³,tsʰuə⁵⁵_χmə³³,tsʰ u/w ə ⁵⁵ + χ m ə ³³,8,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,beard,678,BEARD,false,expert
+Yonghe-6_beard-1,6_beard,tsʰə́ mù,tsʰə́_mù,tsʰ ə́/ə + m ù/u,8,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,beard,678,BEARD,false,expert
+Taoba-6_beard-1,6_beard,a³⁵ sõ⁵³,a³⁵_sõ⁵³,a ³⁵ + s õ ⁵³,8,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,beard,678,BEARD,false,expert
+Qinghua-6_beard-1,6_beard,a¹³ stiɑ̃u⁵⁵,a¹³_stiɑ̃u⁵⁵,a ¹³ + s t i ɑ̃ u ⁵⁵,8,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,beard,678,BEARD,false,expert
+Jiulong-6_beard-1,6_beard,a³³ sũ⁵⁵,a³³_sũ⁵⁵,a ³³ + s ũ ⁵⁵,8,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,beard,678,BEARD,false,expert
+Taoping-5_bethirsty-1,5_bethirsty,χpa⁵⁵,χpa⁵⁵,χ p a ⁵⁵,42,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,be thirsty,847,THIRSTY,false,expert
+Longxi-239_waterdirectionalthirst-1,239_waterdirectionalthirst,tsù tə̀-pià,tsù_tə̀-pià,ts ù/u + t ə̀/ə + p i/j à/a,42,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,water directional-thirst,848,THIRST,false,expert
+Mianchi-5_bethirsty-1,5_bethirsty,pià,pià,p i/j à/a,42,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,be thirsty,847,THIRSTY,false,expert
+Yonghe-5_bethirsty-1,5_bethirsty,tə̀-pǽ ~ tə̀-ɸǽ,tə̀-pǽ,t ə̀/ə + p ǽ/æ,42,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,be thirsty,847,THIRSTY,false,expert
+Taoping-3_belong-1,3_belong,dʐe³³,dʐe³³,ɖʐ e ³³,114,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,be long,1203,LONG,false,expert
+Longxi-3_belong-1,3_belong,dʐé,dʐé,ɖʐ é/e,114,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,be long,1203,LONG,false,expert
+Mianchi-3_belong-1,3_belong,dʐé,dʐé,ɖʐ é/e,114,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,be long,1203,LONG,false,expert
+Yonghe-3_belong-1,3_belong,dʐí,dʐí,ɖʐ í/i,114,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,be long,1203,LONG,false,expert
+Wadu-3_belong-1,3_belong,ɻǽŋ,ɻǽŋ,ɻ ǽ/æ ŋ,114,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Dayang-3_belong-1,3_belong,ʂã́,ʂã́,ʂ ã́/ã,114,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Taoba-3_belong-1,3_belong,ʂã⁵⁵ mə⁵³,ʂã⁵⁵_mə⁵³,ʂ ã ⁵⁵ + m ə ⁵³,114,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Qinghua-3_belong-1,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,114,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Lanping-3_belong-1,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,114,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Jiulong-3_belong-1,3_belong,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,114,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,be long,1203,LONG,false,expert
+Taoping-1_answerreplyv-1,1_answerreplyv,χgye³³,χgye³³,χ g y/ɥ e ³³,27,,,Taoping,Taoping,taop1238,Taoping Qiang,,Sino-Tibetan,Qiang,"answer, reply (v.)",1275,ANSWER,false,expert
+Longxi-1_answerreplyv-1,1_answerreplyv,guà,guà,g u/w à/a,27,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"answer, reply (v.)",1275,ANSWER,false,expert
+Lanping-1_answerreplyv-1,1_answerreplyv,tə¹³ gui³⁵ ski⁵⁵,tə¹³_gui³⁵_ski⁵⁵,t ə ¹³ + g ui ³⁵ + s k i ⁵⁵,27,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"answer, reply (v.)",1275,ANSWER,false,expert
+Mianchi-88_harvestreap-1,88_harvestreap,kú~kù,kú,k ú/u,5,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,harvest/reap,1827,HARVEST CROPS,false,expert
+Yonghe-88_harvestreap-1,88_harvestreap,ɦɛ̀ kwɛ́,ɦɛ̀_kwɛ́,ɦ ɛ̀/ɛ + k w ɛ́/ɛ,5,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,harvest/reap,1827,HARVEST CROPS,false,expert
+Lanping-88_harvestreap-1,88_harvestreap,xə¹³ kɯ⁵⁵,xə¹³_kɯ⁵⁵,x ə ¹³ + k ɯ ⁵⁵,5,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,harvest/reap,1827,HARVEST CROPS,false,expert
+Jiulong-88_harvestreap-1,88_harvestreap,kɯ⁵⁵ ʐe⁵⁵,kɯ⁵⁵_ʐe⁵⁵,k ɯ ⁵⁵ + ʐ e ⁵⁵,5,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,harvest/reap,1827,HARVEST CROPS,false,expert
+Longxi-65_fightgotowar-1,65_fightgotowar,qù quá,qù_quá,q ù/u + q u á/a,6,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,fight/go to war,,,false,expert
+Mianchi-65_fightgotowar-1,65_fightgotowar,dʐuɛ̀ quá,dʐuɛ̀_quá,ɖʐ u ɛ̀/ɛ + q u á/a,6,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,fight/go to war,,,false,expert
+Lanping-65_fightgotowar-1,65_fightgotowar,qo⁵⁵ qua⁵⁵,qo⁵⁵_qua⁵⁵,q o ⁵⁵ + q u/w a ⁵⁵,6,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fight/go to war,,,false,expert
+Longxi-112_life-1,112_life,tsɨ́,tsɨ́,ts ɨ́/ɨ,7,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,life,210,LIFE,false,expert
+Lanping-113_lifespan-1,113_lifespan,tsi⁵⁵,tsi⁵⁵,ts i ⁵⁵,7,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,lifespan,,,false,expert
+Jiulong-112_life-1,112_life,tsi³⁵,tsi³⁵,ts i ³⁵,7,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,life,210,LIFE,false,expert
+Longxi-201_stab-1,201_stab,tɕʰí,tɕʰí,tɕʰ í/i,11,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,stab,1434,STAB,false,expert
+Mianchi-201_stab-1,201_stab,tsʰoú,tsʰoú,tsʰ o ú/u,11,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,stab,1434,STAB,false,expert
+Lanping-201_stab-1,201_stab,tsʰu⁵⁵~xə¹³ tɕʰu⁵⁵,tsʰu⁵⁵,tsʰ u ⁵⁵,11,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stab,1434,STAB,false,expert
+Mianchi-165_rinseflush-1,165_rinseflush,tʂʰuá,tʂʰuá,ʈʂʰ u á/a,12,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,rinse/flush,2904,RINSE,false,expert
+Lanping-165_rinseflush-1,165_rinseflush,tʃʰõ⁵⁵,tʃʰõ⁵⁵,tʃʰ õ ⁵⁵,12,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,rinse/flush,2904,RINSE,false,expert
+Yonghe-45_direction-1,45_direction,dʑí,dʑí,dʑ í/i,13,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,direction,3427,DIRECTION,false,expert
+Wadu-45_direction-1,45_direction,dʑí,dʑí,dʑ í/i,13,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,direction,3427,DIRECTION,false,expert
+Longxi-31_clearclean-1,31_clearclean,ɕó,ɕó,ɕ ó/o,14,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,clear/clean,,,false,expert
+Mianchi-31_clearclean-1,31_clearclean,ɕó té,ɕó_té,ɕ ó/o + t é/e,14,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,clear/clean,,,false,expert
+Wadu-31_clearclean-1,31_clearclean,ʂṍ,ʂṍ,ʂ ṍ/õ,14,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,clear/clean,,,false,expert
+Niuwozi-31_clearclean-1,31_clearclean,ʂõᴴ,ʂõᴴ,ʂ õ ᴴ/⁵,14,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,clear/clean,,,false,expert
+Taoba-31_clearclean-1,31_clearclean,ʂã⁵⁵ n̥iɛ⁵⁵ mə⁵³,ʂã⁵⁵_n̥iɛ⁵⁵_mə⁵³,ʂ ã ⁵⁵ + n̥ i/j ɛ ⁵⁵ + m ə ⁵³,14,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,clear/clean,,,false,expert
+Qinghua-31_clearclean-1,31_clearclean,ʂõ⁵⁵ ne⁵⁵,ʂõ⁵⁵_ne⁵⁵,ʂ õ ⁵⁵ + n e ⁵⁵,14,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,clear/clean,,,false,expert
+Jiulong-31_clearclean-1,31_clearclean,ʂã⁵⁵,ʂã⁵⁵,ʂ ã ⁵⁵,14,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,clear/clean,,,false,expert
+Yonghe-133_obstruct-1,133_obstruct,ɦæ̀ -ʑwǽ,ɦæ̀-ʑwǽ,ɦ æ̀/æ + ʑ w ǽ/æ,17,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,obstruct,2762,BLOCK (THE WAY),false,expert
+Wadu-133_obstruct-1,133_obstruct,ɐ̀ - ʐwĩ́,ɐ̀-ʐwĩ́,ɐ̀/ɐ + ʐ w ĩ́/ĩ,17,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,obstruct,2762,BLOCK (THE WAY),false,expert
+Lanping-133_obstruct-1,133_obstruct,kʰə¹³ ʐa⁵⁵,kʰə¹³_ʐa⁵⁵,kʰ ə ¹³ + ʐ a ⁵⁵,17,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,obstruct,2762,BLOCK (THE WAY),false,expert
+Jiulong-133_obstruct-1,133_obstruct,xa¹¹ ʐo⁵⁵,xa¹¹_ʐo⁵⁵,x a ¹¹ + ʐ o ⁵⁵,17,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,obstruct,2762,BLOCK (THE WAY),false,expert
+Mianchi-44_delicious-1,44_delicious,ʑé,ʑé,ʑ é/e,18,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,delicious,1813,TASTY,false,expert
+Yonghe-44_delicious-1,44_delicious,ʑí,ʑí,ʑ í/i,18,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,delicious,1813,TASTY,false,expert
+Wadu-44_delicious-1,44_delicious,ʐṍ,ʐṍ,ʐ ṍ/õ,18,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,delicious,1813,TASTY,false,expert
+Taoba-44_delicious-1,44_delicious,ʐẽ⁵⁵ mə⁵³,ʐẽ⁵⁵_mə⁵³,ʐ ẽ ⁵⁵ + m ə ⁵³,18,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,delicious,1813,TASTY,false,expert
+Qinghua-44_delicious-1,44_delicious,ʐə̃⁵⁵ ti¹³,ʐə̃⁵⁵_ti¹³,ʐ ə̃ ⁵⁵ + t i ¹³,18,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,delicious,1813,TASTY,false,expert
+Lanping-44_delicious-1,44_delicious,ʒẽ⁵⁵ ti⁵⁵,ʒẽ⁵⁵_ti⁵⁵,ʒ ẽ ⁵⁵ + t i ⁵⁵,18,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,delicious,1813,TASTY,false,expert
+Jiulong-44_delicious-1,44_delicious,ʑĩ³⁵,ʑĩ³⁵,ʑ ĩ ³⁵,18,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,delicious,1813,TASTY,false,expert
+Mianchi-196_soup-1,196_soup,ʐɛ́,ʐɛ́,ʐ ɛ́/ɛ,19,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,soup,1547,SOUP,false,expert
+Dayang-196_soup-1,196_soup,rã̌,rã̌,r ã̌/ã,19,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,soup,1547,SOUP,false,expert
+Taoba-196_soup-1,196_soup,rɛ̃⁵⁵,rɛ̃⁵⁵,r ɛ̃ ⁵⁵,19,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,soup,1547,SOUP,false,expert
+Qinghua-196_soup-1,196_soup,ʂɑ¹³ ʐã⁵⁵,ʂɑ¹³_ʐã⁵⁵,ʂ ɑ ¹³ + ʐ ã ⁵⁵,19,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,soup,1547,SOUP,false,expert
+Lanping-196_soup-1,196_soup,ʂɑ¹³ ʐã⁵⁵,ʂɑ¹³_ʐã⁵⁵,ʂ ɑ ¹³ + ʐ ã ⁵⁵,19,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,soup,1547,SOUP,false,expert
+Longxi-238_warmselfbyfire-1,238_warmselfbyfire,mù lé,mù_lé,m ù/u + l é/e,21,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,warm self by fire,,,false,expert
+Taoba-238_warmselfbyfire-1,238_warmselfbyfire,ma³⁵ liã⁵⁵,ma³⁵_liã⁵⁵,m a ³⁵ + l i/j ã ⁵⁵,21,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,warm self by fire,,,false,expert
+Qinghua-238_warmselfbyfire-1,238_warmselfbyfire,mɐ¹³ lɛ̃⁵⁵,mɐ¹³_lɛ̃⁵⁵,m ɐ ¹³ + l ɛ̃ ⁵⁵,21,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,warm self by fire,,,false,expert
+Lanping-238_warmselfbyfire-1,238_warmselfbyfire,mɐ¹³ lɛ̃⁵⁵,mɐ¹³_lɛ̃⁵⁵,m ɐ ¹³ + l ɛ̃ ⁵⁵,21,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,warm self by fire,,,false,expert
+Jiulong-238_warmselfbyfire-1,238_warmselfbyfire,ma³⁵ ɬə̃⁵⁵,ma³⁵_ɬə̃⁵⁵,m a ³⁵ + ɬ ə̃ ⁵⁵,21,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,warm self by fire,,,false,expert
+Longxi-151_plown-1,151_plown,tò,tò,t ò/o,24,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,plow (n.),2154,PLOUGH (INSTRUMENT),false,expert
+Mianchi-151_plown-1,151_plown,tò kè,tò_kè,t ò/o + k è/e,24,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,plow (n.),2154,PLOUGH (INSTRUMENT),false,expert
+Yonghe-151_plown-1,151_plown,tù kwǽ,tù_kwǽ,t ù/u + k w ǽ/æ,24,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,plow (n.),2154,PLOUGH (INSTRUMENT),false,expert
+Lanping-151_plown-1,151_plown,tɑ̃u⁵⁵,tɑ̃u⁵⁵,t ɑ̃ u ⁵⁵,24,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,plow (n.),2154,PLOUGH (INSTRUMENT),false,expert
+Jiulong-151_plown-1,151_plown,tũ³⁵,tũ³⁵,t ũ ³⁵,24,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,plow (n.),2154,PLOUGH (INSTRUMENT),false,expert
+Longxi-139_owl-1,139_owl,ỳ kʰù,ỳ_kʰù,ỳ/y + kʰ ù/u,25,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,owl,735,OWL,false,expert
+Mianchi-139_owl-1,139_owl,kuì tòŋ kʰò,kuì_tòŋ_kʰò,k u ì/i + t ò/o ŋ + kʰ ò/o,25,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,owl,735,OWL,false,expert
+Yonghe-139_owl-1,139_owl,mǽ kʰwì,mǽ_kʰwì,m ǽ/æ + kʰ w ì/i,25,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,owl,735,OWL,false,expert
+Longxi-206_stone-1,206_stone,gò,gò,g ò/o,26,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,stone,857,STONE,false,expert
+Wadu-206_stone-1,206_stone,gʉ̀ ɖóŋ,gʉ̀_ɖóŋ,g ʉ̀/ʉ + ɖ ó/o ŋ,26,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,stone,857,STONE,false,expert
+Niuwozi-206_stone-1,206_stone,gʉᴸ bõᴴ,gʉᴸ_bõᴴ,g ʉ ᴸ/¹ + b õ ᴴ/⁵,26,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stone,857,STONE,false,expert
+Qinghua-206_stone-1,206_stone,sgø¹³,sgø¹³,s g ø ¹³,26,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,stone,857,STONE,false,expert
+Lanping-206_stone-1,206_stone,zgø¹³,zgø¹³,z g ø ¹³,26,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stone,857,STONE,false,expert
+Jiulong-206_stone-1,206_stone,guo¹¹ lũ⁵⁵,guo¹¹_lũ⁵⁵,g u o ¹¹ + l ũ ⁵⁵,26,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,stone,857,STONE,false,expert
+Longxi-20_bundle-1,20_bundle,què,què,q u è/e,29,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,bundle,2943,BUNDLE,false,expert
+Mianchi-20_bundle-1,20_bundle,quà,quà,q u/w à/a,29,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,bundle,2943,BUNDLE,false,expert
+Jiulong-19_bunchbundle-1,19_bunchbundle,(tə⁵⁵) qã¹¹,_qã¹¹,q ã ¹¹,29,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bunch/bundle,1966,BUNCH,false,expert
+Longxi-77_givebirth-1,77_givebirth,ì,ì,ì/i,37,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,give birth,1195,GIVE BIRTH,false,expert
+Mianchi-77_givebirth-1,77_givebirth,ʑì,ʑì,ʑ ì/i,37,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,give birth,1195,GIVE BIRTH,false,expert
+Wadu-77_givebirth-1,77_givebirth,ʑì,ʑì,ʑ ì/i,37,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,give birth,1195,GIVE BIRTH,false,expert
+Longxi-192_snowhailv-1,192_snowhailv,dà zì,dà_zì,d à/a + z ì/i,39,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"snow, hail (v.)",,,false,expert
+Yonghe-83_haillitsnowhailround-1,83_haillitsnowhailround,pɔ̌-ʐɨ̀ lwìlwí,pɔ̌-ʐɨ̀_lwìlwí,p ɔ̆/ɔ + ʐ ɨ̆/ɨ + l w ì/i l w í/i,39,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,hail (lit. snow-hail + round),609,HAIL,false,expert
+Taoba-84_hailn-1,84_hailn,ʑẽ³⁵,ʑẽ³⁵,ʑ ẽ ³⁵,39,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,hail (n.),609,HAIL,false,expert
+Jiulong-84_hailn-1,84_hailn,zẽ³⁵,zẽ³⁵,z ẽ ³⁵,39,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hail (n.),609,HAIL,false,expert
+Longxi-252_yawn-1,252_yawn,hà há pù,hà_há_pù,h à/a + h á/a + p ù/u,40,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,yawn,1028,YAWN,false,expert
+Mianchi-252_yawn-1,252_yawn,χà pú,χà_pú,χ à/a + p ú/u,40,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,yawn,1028,YAWN,false,expert
+Wadu-252_yawn-1,252_yawn,hɑ̀ ɕə̀,hɑ̀_ɕə̀,h ɑ̀/ɑ + ɕ ə̀/ə,40,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,yawn,1028,YAWN,false,expert
+Jiulong-252_yawn-1,252_yawn,xɑ¹¹ xe¹¹,xɑ¹¹_xe¹¹,x ɑ ¹¹ + x e ¹¹,40,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,yawn,1028,YAWN,false,expert
+Longxi-156_priest-1,156_priest,sɨ̀ pí,sɨ̀_pí,s ɨ̆/ɨ + p í/i,41,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,priest,852,PRIEST,false,expert
+Mianchi-156_priest-1,156_priest,pí,pí,p í/i,41,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,priest,852,PRIEST,false,expert
+Yonghe-164_riceraw-1,164_riceraw,kʰəʴ́~qʰə́ʴ,kʰəʴ́,kʰ ə ʴ́/ɹ,43,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,rice (raw),3289,UNCOOKED RICE,false,expert
+Longxi-36_cough-1,36_cough,tsʰú tá,tsʰú_tá,tsʰ ú/u + t á/a,44,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,cough,879,COUGH,false,expert
+Yonghe-36_cough-1,36_cough,tə̀-tsʰú,tə̀-tsʰú,t ə̀/ə + tsʰ ú/u,44,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,cough,879,COUGH,false,expert
+Longxi-55_enclosesheep-1,55_enclosesheep,tɕʰý,tɕʰý,tɕʰ ý/y,45,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,enclose (sheep),,,false,expert
+Mianchi-55_enclosesheep-1,55_enclosesheep,kʰuí,kʰuí,kʰ u í/i,45,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,enclose (sheep),,,false,expert
+Yonghe-54_enclose-1,54_enclose,tɕʰwí,tɕʰwí,tɕʰ w í/i,45,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,enclose,,,false,expert
+Longxi-114_live-1,114_live,sú,sú,s ú/u,46,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,live,1422,BE ALIVE,false,expert
+Yonghe-139_owl-2,139_owl,mǽ kʰwì,mǽ_kʰwì,m ǽ/æ + kʰ w ì/i,47,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,owl,735,OWL,false,expert
+Longxi-64_feedraise-1,64_feedraise,mì,mì,m ì/i,53,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"feed, raise",,,false,expert
+Mianchi-64_feedraise-1,64_feedraise,mù,mù,m ù/u,53,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"feed, raise",,,false,expert
+Yonghe-64_feedraise-1,64_feedraise,mǐ,mǐ,m ĭ/i,53,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,"feed, raise",,,false,expert
+Longxi-249_woundn-1,249_woundn,qò mì,qò_mì,q ò/o + m ì/i,54,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,wound (n.),1109,WOUND,false,expert
+Longxi-194_soliddurable-1,194_soliddurable,gù,gù,g ù/u,58,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"solid, durable",,,false,expert
+Longxi-213_tail-1,213_tail,suà kà,suà_kà,s u/w à/a + k à/a,60,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,tail,1220,TAIL,false,expert
+Mianchi-213_tail-1,213_tail,suà kè,suà_kè,s u/w à/a + k è/e,60,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,tail,1220,TAIL,false,expert
+Yonghe-213_tail-1,213_tail,sù kjɛ́,sù_kjɛ́,s ù/u + k j ɛ́/ɛ,60,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,tail,1220,TAIL,false,expert
+Longxi-234_vapor-1,234_vapor,lə̀,lə̀,l ə̀/ə,62,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,vapor,1193,STEAM,false,expert
+Mianchi-234_vapor-1,234_vapor,lè,lè,l è/e,62,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,vapor,1193,STEAM,false,expert
+Wadu-248_widebroad-1,248_widebroad,pú H,pú_H,p ú/u H/⁵,64,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Dayang-248_widebroad-1,248_widebroad,ɸpə́w,ɸpə́w,ɸ p ə́/ə w,64,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Taoba-248_widebroad-1,248_widebroad,po⁵⁵ mə⁵³,po⁵⁵_mə⁵³,p o ⁵⁵ + m ə ⁵³,64,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Qinghua-248_widebroad-1,248_widebroad,spo⁵⁵,spo⁵⁵,s p o ⁵⁵,64,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Lanping-248_widebroad-1,248_widebroad,fpo⁵⁵,fpo⁵⁵,f p o ⁵⁵,64,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Jiulong-248_widebroad-1,248_widebroad,po⁵⁵,po⁵⁵,p o ⁵⁵,64,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,wide/broad,2652,BROAD OR WIDE,false,expert
+Wadu-105_leaf-1,105_leaf,pɑ̌,pɑ̌,p ɑ̆/ɑ,65,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Niuwozi-105_leaf-1,105_leaf,sɜᴸ pɑᴴ,sɜᴸ_pɑᴴ,s ɜ ᴸ/¹ + p ɑ ᴴ/⁵,65,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Taoba-105_leaf-1,105_leaf,pa³⁵,pa³⁵,p a ³⁵,65,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Qinghua-105_leaf-1,105_leaf,sɐ¹³ fpɑ⁵⁵,sɐ¹³_fpɑ⁵⁵,s ɐ ¹³ + f p ɑ ⁵⁵,65,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Lanping-105_leaf-1,105_leaf,sɐ¹³,sɐ¹³,s ɐ ¹³,65,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Jiulong-105_leaf-1,105_leaf,pɑ⁵⁵,pɑ⁵⁵,p ɑ ⁵⁵,65,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,leaf,628,LEAF,false,expert
+Niuwozi-229_untie-1,229_untie,pʰʴəᴴ,pʰʴəᴴ,pʰ ʴ/ɹ ə ᴴ/⁵,66,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,untie,352,UNTIE,false,expert
+Jiulong-219_throwout-1,219_throwout,"nə¹¹ pʰə⁵⁵, nɑ¹¹ pʰɑ⁵⁵",nə¹¹_pʰə⁵⁵,n ə ¹¹ + pʰ ə ⁵⁵,67,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,throw out,3696,THROW AWAY,false,expert
+Wadu-211_sun-1,211_sun,bʉ́,bʉ́,b ʉ́/ʉ,68,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Niuwozi-211_sun-1,211_sun,bɨᴴ,bɨᴴ,b ɨ ᴴ/⁵,68,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Taoba-211_sun-1,211_sun,bʉ⁵³,bʉ⁵³,b ʉ ⁵³,68,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Qinghua-211_sun-1,211_sun,by⁵⁵,by⁵⁵,b y ⁵⁵,68,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Lanping-211_sun-1,211_sun,by⁵⁵,by⁵⁵,b y ⁵⁵,68,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Jiulong-211_sun-1,211_sun,bi³⁵,bi³⁵,b i ³⁵,68,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sun,1343,SUN,false,expert
+Wadu-51_duck-1,51_duck,bǽ,bǽ,b ǽ/æ,69,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,duck,1360,DUCK,false,expert
+Niuwozi-51_duck-1,51_duck,baᴴ,baᴴ,b a ᴴ/⁵ ʜ,69,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,duck,1360,DUCK,false,expert
+Taoba-51_duck-1,51_duck,ba³⁵,ba³⁵,b a ³⁵,69,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,duck,1360,DUCK,false,expert
+Niuwozi-173_sheepmaleram-1,173_sheepmaleram,tʰuᴴ,tʰuᴴ,tʰ u ᴴ/⁵,70,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"sheep, male; ram",1344,RAM,false,expert
+Wadu-11_blind-1,11_blind,qǔ,qǔ,q ŭ/u,71,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,blind,1653,BLIND,false,expert
+Niuwozi-11_blind-1,11_blind,kuᴴ,kuᴴ,k u ᴴ/⁵,71,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blind,1653,BLIND,false,expert
+Wadu-160_redunripegreenblue-1,160_redunripegreenblue,ní,ní,n í/i,72,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,"red, unripe, green, blue",,,false,expert
+Niuwozi-80_greenblue-1,80_greenblue,niᴴ,niᴴ,n i ᴴ/⁵,72,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"green, blue",2382,BLUE OR GREEN,false,expert
+Taoba-80_greenblue-1,80_greenblue,ȵi⁵⁵ na⁵⁵ mə⁵³,ȵi⁵⁵_na⁵⁵_mə⁵³,ȵ i ⁵⁵ + n a ⁵⁵ + m ə ⁵³,72,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"green, blue",2382,BLUE OR GREEN,false,expert
+Lanping-102_lambkid-1,102_lambkid,ʒɑ̃u⁵⁵ li⁵⁵,ʒɑ̃u⁵⁵_li⁵⁵,ʒ ɑ̃ u ⁵⁵ + l i ⁵⁵,73,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"lamb, kid",820,LAMB,false,expert
+Jiulong-102_lambkid-1,102_lambkid,ji⁵⁵ tsɿ⁵⁵,ji⁵⁵_tsɿ⁵⁵,j i ⁵⁵ + ts ɿ ⁵⁵,73,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"lamb, kid",820,LAMB,false,expert
+Wadu-86_half-1,86_half,pʰɑ̌,pʰɑ̌,pʰ ɑ̆/ɑ,74,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,half,816,HALF,false,expert
+Niuwozi-86_half-1,86_half,pʰɑᴿ,pʰɑᴿ,pʰ ɑ ᴿ/¹⁵,74,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,half,816,HALF,false,expert
+Taoba-86_half-1,86_half,pʰa³⁵,pʰa³⁵,pʰ a ³⁵,74,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,half,816,HALF,false,expert
+Lanping-86_half-1,86_half,pʰa⁵⁵ tɕi¹³,pʰa⁵⁵_tɕi¹³,pʰ a ⁵⁵ + tɕ i ¹³,74,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,half,816,HALF,false,expert
+Lanping-21_butterfly-1,21_butterfly,pʰɑ¹³ lɑ⁵⁵,pʰɑ¹³_lɑ⁵⁵,pʰ ɑ ¹³ + l ɑ ⁵⁵,75,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,butterfly,1791,BUTTERFLY,false,expert
+Wadu-69_fly-1,69_fly,bǐŋ,bǐŋ,b ĭ/i ŋ,76,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,fly,1441,FLY (MOVE THROUGH AIR),false,expert
+Niuwozi-69_fly-1,69_fly,bjɛ̃ᴿ,bjɛ̃ᴿ,b j ɛ̃ ᴿ/¹⁵,76,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fly,1441,FLY (MOVE THROUGH AIR),false,expert
+Wadu-14_blow-1,14_blow,m̥ə̀,m̥ə̀,m̥ ə̀/ə,77,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Niuwozi-14_blow-1,14_blow,m̥uᴿ,m̥uᴿ,m̥ u ᴿ/¹⁵,77,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Dayang-14_blow-1,14_blow,m̥ə̃̌,m̥ə̃̌,m̥ ə̃̌/ə̃,77,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Taoba-14_blow-1,14_blow,xə³⁵ m̥ə³⁵,xə³⁵_m̥ə³⁵,x ə ³⁵ + m̥ ə ³⁵,77,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Lanping-14_blow-2,14_blow,kʰə¹³ m̥ə¹³,kʰə¹³_m̥ə¹³,kʰ ə ¹³ + m̥ ə ¹³,77,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Jiulong-14_blow-1,14_blow,to³⁵,to³⁵,t o ³⁵,77,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,blow,176,BLOW (WITH MOUTH),false,expert
+Dayang-213_tail-1,213_tail,{mə́} ɬyé,mə́_ɬyé,m ə́/ə + ɬ y/ɥ é/e,78,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,tail,1220,TAIL,false,expert
+Taoba-213_tail-1,213_tail,mɐ̃³⁵ ɬio⁵³,mɐ̃³⁵_ɬio⁵³,m ɐ̃ ³⁵ + ɬ i o ⁵³,78,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,tail,1220,TAIL,false,expert
+Qinghua-213_tail-1,213_tail,mɐ¹³ ɬiɛ⁵⁵,mɐ¹³_ɬiɛ⁵⁵,m ɐ ¹³ + ɬ i/j ɛ ⁵⁵,78,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,tail,1220,TAIL,false,expert
+Lanping-213_tail-1,213_tail,mɐ¹³ ɬiɛ⁵⁵,mɐ¹³_ɬiɛ⁵⁵,m ɐ ¹³ + ɬ i/j ɛ ⁵⁵,78,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tail,1220,TAIL,false,expert
+Jiulong-213_tail-1,213_tail,mã³⁵,mã³⁵,m ã ³⁵,78,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,tail,1220,TAIL,false,expert
+Taoba-26_choke-1,26_choke,xə³⁵ tui³⁵,xə³⁵_tui³⁵,x ə ³⁵ + t ui ³⁵,79,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,choke,129,CHOKE,false,expert
+Taoba-176_shoe-1,176_shoe,tɕyi³⁵,tɕyi³⁵,tɕ yi ³⁵,80,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,shoe,1381,SHOE,false,expert
+Qinghua-176_shoe-1,176_shoe,tsyi¹³,tsyi¹³,ts yi ¹³,80,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,shoe,1381,SHOE,false,expert
+Lanping-176_shoe-1,176_shoe,tsyi¹³,tsyi¹³,ts yi ¹³,80,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shoe,1381,SHOE,false,expert
+Jiulong-176_shoe-1,176_shoe,tsui³⁵,tsui³⁵,ts ui ³⁵,80,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shoe,1381,SHOE,false,expert
+Dayang-101_joint-1,101_joint,tɐ-tsɛ̌j / tsǎ,tɐ-tsɛ̌j,t ɐ + ts ɛ̌j/ɛi,81,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,joint,999,JOINT,false,expert
+Lanping-101_joint-1,101_joint,tsi⁵⁵,tsi⁵⁵,ts i ⁵⁵,81,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,joint,999,JOINT,false,expert
+Jiulong-101_joint-1,101_joint,tsɛi³⁵,tsɛi³⁵,ts ɛi ³⁵,81,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,joint,999,JOINT,false,expert
+Niuwozi-63_feed-1,63_feed,ʈʂʰeᴿ,ʈʂʰeᴿ,ʈʂʰ e ᴿ/¹⁵,82,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,feed,739,FEED,false,expert
+Lanping-63_feed-1,63_feed,tʰə¹³ stʃʰɛ¹³,tʰə¹³_stʃʰɛ¹³,tʰ ə ¹³ + s tʃʰ ɛ ¹³,82,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,feed,739,FEED,false,expert
+Niuwozi-18_bridge-1,18_bridge,dzõᴿ,dzõᴿ,dz õ ᴿ/¹⁵,83,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bridge,1011,BRIDGE,false,expert
+Taoba-18_bridge-1,18_bridge,dzã³⁵,dzã³⁵,dz ã ³⁵,83,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,bridge,1011,BRIDGE,false,expert
+Qinghua-18_bridge-1,18_bridge,dziɑ̃u¹³,dziɑ̃u¹³,dz i ɑ̃ u ¹³,83,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,bridge,1011,BRIDGE,false,expert
+Lanping-18_bridge-1,18_bridge,dziɑ̃u¹³,dziɑ̃u¹³,dz i ɑ̃ u ¹³,83,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bridge,1011,BRIDGE,false,expert
+Jiulong-18_bridge-1,18_bridge,dzã³⁵,dzã³⁵,dz ã ³⁵,83,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bridge,1011,BRIDGE,false,expert
+Wadu-92_heavy-1,92_heavy,lɛ̀j,lɛ̀j,l ɛ̀/ɛ j,84,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,heavy,1210,HEAVY,false,expert
+Wadu-167_seed-1,167_seed,lɛ̌j,lɛ̌j,l ɛ̌j/ɛi,85,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,seed,714,SEED,false,expert
+Taoba-167_seed-1,167_seed,le³⁵,le³⁵,l e ³⁵,85,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,seed,714,SEED,false,expert
+Qinghua-167_seed-1,167_seed,la⁵⁵,la⁵⁵,l a ⁵⁵,85,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,seed,714,SEED,false,expert
+Lanping-167_seed-1,167_seed,la⁵⁵,la⁵⁵,l a ⁵⁵,85,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,seed,714,SEED,false,expert
+Jiulong-167_seed-1,167_seed,lɛi³⁵,lɛi³⁵,l ɛi ³⁵,85,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,seed,714,SEED,false,expert
+Niuwozi-72_forehead-1,72_forehead,l̥oᴿ,l̥oᴿ,l̥ o ᴿ/¹⁵,86,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,forehead,123,FOREHEAD,false,expert
+Dayang-72_forehead-1,72_forehead,ɬǒ,ɬǒ,ɬ ŏ/o,86,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,forehead,123,FOREHEAD,false,expert
+Taoba-72_forehead-1,72_forehead,ɬo³⁵,ɬo³⁵,ɬ o ³⁵,86,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,forehead,123,FOREHEAD,false,expert
+Qinghua-72_forehead-1,72_forehead,ɬo¹³,ɬo¹³,ɬ o ¹³,86,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,forehead,123,FOREHEAD,false,expert
+Lanping-72_forehead-1,72_forehead,ɬo¹³,ɬo¹³,ɬ o ¹³,86,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,forehead,123,FOREHEAD,false,expert
+Niuwozi-174_shepherdv-1,174_shepherdv,l̥iᴿ,l̥iᴿ,l̥ i ᴿ/¹⁵,87,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,shepherd (v.),2544,SHEPHERD,false,expert
+Taoba-79_grazevt-1,79_grazevt,ɬi³⁵,ɬi³⁵,ɬ i ³⁵,87,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,graze (v.t.),3058,GRAZE,false,expert
+Wadu-134_obtain-1,134_obtain,ɻǐ,ɻǐ,ɻ ĭ/i,88,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,obtain,694,GET,false,expert
+Niuwozi-134_obtain-1,134_obtain,riᴿ,riᴿ,r i ᴿ/¹⁵,88,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,obtain,694,GET,false,expert
+Wadu-16_bowl-1,16_bowl,qʰwɑ̌,qʰwɑ̌,qʰ w ɑ̆/ɑ,89,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,bowl,1530,BOWL,false,expert
+Niuwozi-16_bowl-1,16_bowl,kʰwɑᴿ,kʰwɑᴿ,kʰ w ɑ ᴿ/¹⁵,89,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bowl,1530,BOWL,false,expert
+Taoba-16_bowl-1,16_bowl,kʰua³⁵,kʰua³⁵,kʰ u/w a ³⁵,89,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,bowl,1530,BOWL,false,expert
+Qinghua-16_bowl-1,16_bowl,kʰuɑ¹³,kʰuɑ¹³,kʰ u/w ɑ ¹³,89,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,bowl,1530,BOWL,false,expert
+Lanping-16_bowl-1,16_bowl,kʰuɑ¹³,kʰuɑ¹³,kʰ u/w ɑ ¹³,89,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,bowl,1530,BOWL,false,expert
+Mianchi-154_pretendfeign-1,154_pretendfeign,pá pù,pá_pù,p á/a + p ù/u,90,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"pretend, feign",3631,PRETEND,false,expert
+Yonghe-153_pretend-1,153_pretend,ɸɑʴ́ ~ fɑ́ʴ,ɸɑʴ́,ɸ ɑʴ́/ɑ ʴ/ɹ,90,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,pretend,3631,PRETEND,false,expert
+Wadu-221_todo-1,221_todo,pʉ́,pʉ́,p ʉ́/ʉ,90,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,to do,813,DO,false,expert
+Niuwozi-221_todo-1,221_todo,pɑᶠ,pɑᶠ,p ɑ ᶠ/⁵¹,90,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,to do,813,DO,false,expert
+Longxi-169_separatesever-1,169_separatesever,qá tsʰé,qá_tsʰé,q á/a + tsʰ é/e,96,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"separate, sever",,,false,expert
+Mianchi-169_separatesever-1,169_separatesever,kiè ká,kiè_ká,k i è/e + k á/a,96,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,"separate, sever",,,false,expert
+Lanping-168_separatev-1,168_separatev,xə¹³ kʰe⁵⁵,xə¹³_kʰe⁵⁵,x ə ¹³ + kʰ e ⁵⁵,96,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,separate (v.),1359,SEPARATE,false,expert
+Jiulong-168_separatev-1,168_separatev,kʰə¹¹ kʰe⁵⁵ nə¹¹ ʃi¹¹,kʰə¹¹_kʰe⁵⁵_nə¹¹_ʃi¹¹,kʰ ə ¹¹ + kʰ e ⁵⁵ + n ə ¹¹ + ʃ i ¹¹,96,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,separate (v.),1359,SEPARATE,false,expert
+Longxi-37_cuckoo-1,37_cuckoo,qí pù,qí_pù,q í/i + p ù/u,98,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,cuckoo,2934,CUCKOO,false,expert
+Mianchi-37_cuckoo-1,37_cuckoo,koú pù,koú_pù,k o ú/u + p ù/u,98,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,cuckoo,2934,CUCKOO,false,expert
+Wadu-37_cuckoo-1,37_cuckoo,qí pù,qí_pù,q í/i + p ù/u,98,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,cuckoo,2934,CUCKOO,false,expert
+Lanping-37_cuckoo-1,37_cuckoo,qei⁵⁵ pu¹³,qei⁵⁵_pu¹³,q e i ⁵⁵ + p u ¹³,98,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cuckoo,2934,CUCKOO,false,expert
+Jiulong-37_cuckoo-1,37_cuckoo,kɯ¹¹ pu⁵⁵,kɯ¹¹_pu⁵⁵,k ɯ ¹¹ + p u ⁵⁵,98,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,cuckoo,2934,CUCKOO,false,expert
+Yonghe-4_besour-1,4_besour,tswɛ́,tswɛ́,ts w ɛ́/ɛ,101,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,be sour,1906,SOUR,false,expert
+Wadu-4_besour-1,4_besour,ʈʂú,ʈʂú,ʈʂ ú/u,101,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,be sour,1906,SOUR,false,expert
+Niuwozi-4_besour-1,4_besour,ʈʂuᴴ,ʈʂuᴴ,ʈʂ u ᴴ/⁵,101,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,be sour,1906,SOUR,false,expert
+Dayang-4_besour-1,4_besour,tʃú,tʃú,tʃ ú/u,101,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,be sour,1906,SOUR,false,expert
+Yonghe-237_wait-1,237_wait,ʑì lwí,ʑì_lwí,ʑ ì/i + l w í/i,106,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,wait,1590,WAIT (FOR),false,expert
+Lanping-237_wait-1,237_wait,xə¹³ liõ⁵⁵ ku⁵⁵,xə¹³_liõ⁵⁵_ku⁵⁵,x ə ¹³ + l i õ ⁵⁵ + k u ⁵⁵,106,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,wait,1590,WAIT (FOR),false,expert
+Mianchi-187_snake-1,187_snake,bʐě,bʐě,b ʐ ĕ/e,116,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,snake,730,SNAKE,false,expert
+Wadu-187_snake-1,187_snake,bʉ ɻɛȷ́,bʉ_ɻɛȷ́,b ʉ + ɻ ɛȷ́/ɛi,116,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,snake,730,SNAKE,false,expert
+Taoba-187_snake-1,187_snake,bɐ³⁵,bɐ³⁵,b ɐ ³⁵,116,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,snake,730,SNAKE,false,expert
+Qinghua-187_snake-1,187_snake,bɐ¹³ ʐɑ⁵⁵,bɐ¹³_ʐɑ⁵⁵,b ɐ ¹³ + ʐ ɑ ⁵⁵,116,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,snake,730,SNAKE,false,expert
+Lanping-187_snake-1,187_snake,bɐ¹³ ʐɑ⁵⁵,bɐ¹³_ʐɑ⁵⁵,b ɐ ¹³ + ʐ ɑ ⁵⁵,116,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snake,730,SNAKE,false,expert
+Jiulong-187_snake-1,187_snake,bu¹¹ ʐɛi⁵⁵,bu¹¹_ʐɛi⁵⁵,b u ¹¹ + ʐ ɛi ⁵⁵,116,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snake,730,SNAKE,false,expert
+Longxi-172_sheep-1,172_sheep,ió,ió,i ó/o,117,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sheep,1331,SHEEP,false,expert
+Mianchi-172_sheep-1,172_sheep,ioú,ioú,i o ú/u,117,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sheep,1331,SHEEP,false,expert
+Wadu-172_sheep-1,172_sheep,ʐṍ,ʐṍ,ʐ ṍ/õ,117,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Niuwozi-172_sheep-1,172_sheep,ʐõᴴ,ʐõᴴ,ʐ õ ᴴ/⁵,117,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Dayang-172_sheep-1,172_sheep,zʒoṹ,zʒoṹ,z ʒ o ṹ/ũ,117,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Taoba-172_sheep-1,172_sheep,ʐã⁵⁵,ʐã⁵⁵,ʐ ã ⁵⁵,117,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Qinghua-172_sheep-1,172_sheep,ʒɑ̃u⁵⁵,ʒɑ̃u⁵⁵,ʒ ɑ̃ u ⁵⁵,117,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Lanping-172_sheep-1,172_sheep,ʒɑ̃u⁵⁵,ʒɑ̃u⁵⁵,ʒ ɑ̃ u ⁵⁵,117,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Jiulong-172_sheep-1,172_sheep,ʒõ³⁵,ʒõ³⁵,ʒ õ ³⁵,117,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sheep,1331,SHEEP,false,expert
+Longxi-157_pus-1,157_pus,pù,pù,p ù/u,120,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,pus,1808,PUS,false,expert
+Mianchi-157_pus-1,157_pus,pù,pù,p ù/u,120,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,pus,1808,PUS,false,expert
+Dayang-157_pus-1,157_pus,ɸpɨ̌,ɸpɨ̌,ɸ p ɨ̆/ɨ,120,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,pus,1808,PUS,false,expert
+Qinghua-157_pus-1,157_pus,spy¹³,spy¹³,s p y ¹³,120,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,pus,1808,PUS,false,expert
+Lanping-157_pus-1,157_pus,fpy¹³,fpy¹³,f p y ¹³,120,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,pus,1808,PUS,false,expert
+Jiulong-157_pus-1,157_pus,pu⁵⁵,pu⁵⁵,p u ⁵⁵,120,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,pus,1808,PUS,false,expert
+Longxi-199_splashsprinkle-1,199_splashsprinkle,pʰà,pʰà,pʰ à/a,122,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,splash/sprinkle,365,SPLASH,false,expert
+Mianchi-199_splashsprinkle-1,199_splashsprinkle,(tsuɛ̀) pʰɛ̀,_pʰɛ̀,pʰ ɛ̀/ɛ,122,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,splash/sprinkle,365,SPLASH,false,expert
+Lanping-199_splashsprinkle-1,199_splashsprinkle,pʂɛ¹³,pʂɛ¹³,p ʂ ɛ ¹³,122,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,splash/sprinkle,365,SPLASH,false,expert
+Jiulong-199_splashsprinkle-1,199_splashsprinkle,pʐɛ̃⁵⁵,pʐɛ̃⁵⁵,p ʐ ɛ̃ ⁵⁵,122,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,splash/sprinkle,365,SPLASH,false,expert
+Longxi-87_hammern-1,87_hammern,tuà liò,tuà_liò,t u/w à/a + l i ò/o,128,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hammer (n.),1481,HAMMER,false,expert
+Mianchi-87_hammern-1,87_hammern,tuà liò,tuà_liò,t u/w à/a + l i ò/o,128,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,hammer (n.),1481,HAMMER,false,expert
+Wadu-223_tohammer-1,223_tohammer,tɑ̌,tɑ̌,t ɑ̆/ɑ,128,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,to hammer,3115,HAMMER (SOMETHING),false,expert
+Taoba-223_tohammer-1,223_tohammer,xə³⁵ ta³⁵,xə³⁵_ta³⁵,x ə ³⁵ + t a ³⁵,128,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,to hammer,3115,HAMMER (SOMETHING),false,expert
+Qinghua-223_tohammer-1,223_tohammer,xə¹³ stɑ¹³,xə¹³_stɑ¹³,x ə ¹³ + s t ɑ ¹³,128,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,to hammer,3115,HAMMER (SOMETHING),false,expert
+Longxi-48_drillauger-1,48_drillauger,ȵò,ȵò,ȵ ò/o,129,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,"drill, auger",3423,DRILL,false,expert
+Jiulong-47_drillv-1,47_drillv,ȵ̩ĩ¹¹ by³⁵,ȵ̩ĩ¹¹_by³⁵,ȵ̩/ȵ ĩ ¹¹ + b y ³⁵,129,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,drill (v.),1501,BORE,false,expert
+Longxi-228_triphammerforhullingrice-1,228_triphammerforhullingrice,tʰiò,tʰiò,tʰ i ò/o,130,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,trip hammer for hulling rice,,,false,expert
+Dayang-228_triphammerforhullingrice-1,228_triphammerforhullingrice,ʃtʃǐ,ʃtʃǐ,ʃ tʃ ĭ/i,130,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,trip hammer for hulling rice,,,false,expert
+Lanping-228_triphammerforhullingrice-1,228_triphammerforhullingrice,ʃtʃi¹³,ʃtʃi¹³,ʃ tʃ i ¹³,130,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,trip hammer for hulling rice,,,false,expert
+Longxi-186_small-1,186_small,tsù,tsù,ts ù/u,151,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,small,1246,SMALL,false,expert
+Mianchi-186_small-1,186_small,tsù ~ tsú,tsù,ts ù/u,151,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,small,1246,SMALL,false,expert
+Yonghe-186_small-1,186_small,tsə̌,tsə̌,ts ə̆/ə,151,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,small,1246,SMALL,false,expert
+Wadu-186_small-1,186_small,qʰɐ tsɛ̌j,qʰɐ_tsɛ̌j,qʰ ɐ + ts ɛ̌j/ɛi,151,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,small,1246,SMALL,false,expert
+Niuwozi-186_small-1,186_small,kɜᴸ tsɜjᴿ,kɜᴸ_tsɜjᴿ,k ɜ ᴸ/¹ + ts ɜj/ɜi ᴿ/¹⁵,151,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,small,1246,SMALL,false,expert
+Taoba-186_small-1,186_small,ka³⁵ tse³⁵ mə⁵³,ka³⁵_tse³⁵_mə⁵³,k a ³⁵ + ts e ³⁵ + m ə ⁵³,151,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,small,1246,SMALL,false,expert
+Qinghua-186_small-1,186_small,qa¹³ tsɛ³⁵,qa¹³_tsɛ³⁵,q a ¹³ + ts ɛ ³⁵,151,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,small,1246,SMALL,false,expert
+Lanping-186_small-1,186_small,qa¹³ tsɛ¹³,qa¹³_tsɛ¹³,q a ¹³ + ts ɛ ¹³,151,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,small,1246,SMALL,false,expert
+Longxi-58_fatofhumans-1,58_fatofhumans,tsʰɨ̀,tsʰɨ̀,tsʰ ɨ̆/ɨ,153,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,fat (of humans),,,false,expert
+Wadu-57_fat-1,57_fat,tsʰə̀,tsʰə̀,tsʰ ə̀/ə,153,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,fat,1282,FAT (FROM ANIMALS),false,expert
+Taoba-57_fat-1,57_fat,tsʰə³⁵,tsʰə³⁵,tsʰ ə ³⁵,153,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,fat,1282,FAT (FROM ANIMALS),false,expert
+Qinghua-57_fat-1,57_fat,tsʰɤ¹³,tsʰɤ¹³,tsʰ ɤ ¹³,153,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,fat,1282,FAT (FROM ANIMALS),false,expert
+Lanping-57_fat-1,57_fat,tsʰɤ¹³,tsʰɤ¹³,tsʰ ɤ ¹³,153,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fat,1282,FAT (FROM ANIMALS),false,expert
+Jiulong-57_fat-1,57_fat,tsʰɿ³⁵,tsʰɿ³⁵,tsʰ ɿ ³⁵,153,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,fat,1282,FAT (FROM ANIMALS),false,expert
+Longxi-93_hemp-1,93_hemp,"sò,","sò,",s ò/o,156,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hemp,2041,HEMP,false,expert
+Yonghe-93_hemp-1,93_hemp,sǔ,sǔ,s ŭ/u,156,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,hemp,2041,HEMP,false,expert
+Wadu-93_hemp-1,93_hemp,sǔ,sǔ,s ŭ/u,156,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,hemp,2041,HEMP,false,expert
+Dayang-93_hemp-1,93_hemp,sɑ̌w,sɑ̌w,s ɑ̆/ɑ w,156,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,hemp,2041,HEMP,false,expert
+Lanping-93_hemp-1,93_hemp,sɑu¹³,sɑu¹³,s ɑ u ¹³,156,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hemp,2041,HEMP,false,expert
+Jiulong-93_hemp-1,93_hemp,so³⁵,so³⁵,s o ³⁵,156,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,hemp,2041,HEMP,false,expert
+Mianchi-189_snivel-1,189_snivel,nə̀,nə̀,n ə̀/ə,159,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,snivel,,,false,expert
+Niuwozi-189_snivel-1,189_snivel,n̥̥ɑ̃ᴿ,n̥̥ɑ̃ᴿ,n̥ ɑ̃ ᴿ/¹⁵,159,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,snivel,,,false,expert
+Dayang-190_snot-1,190_snot,n̥æ̃̌,n̥æ̃̌,n̥ æ̆̃/æ̃,159,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,snot,208,NASAL MUCUS (SNOT),false,expert
+Longxi-251_write-1,251_write,"ɹà,","ɹà,",ɹ à/a,171,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,write,1672,WRITE,false,expert
+Mianchi-251_write-1,251_write,ɕà,ɕà,ɕ à/a,171,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,write,1672,WRITE,false,expert
+Wadu-251_write-1,251_write,ɖʉ̌,ɖʉ̌,ɖ ʉ̆/ʉ,171,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,write,1672,WRITE,false,expert
+Niuwozi-251_write-1,251_write,dʐʉᴿ,dʐʉᴿ,ɖʐ ʉ ᴿ/¹⁵,171,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,write,1672,WRITE,false,expert
+Longxi-28_circle-1,28_circle,zɨ̀ ʑé,zɨ̀_ʑé,z ɨ̆/ɨ + ʑ é/e,172,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,circle,1467,CIRCLE,false,expert
+Taoba-28_circle-1,28_circle,rua⁵⁵ mə⁵³,rua⁵⁵_mə⁵³,r u/w a ⁵⁵ + m ə ⁵³,172,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,circle,1467,CIRCLE,false,expert
+Qinghua-28_circle-1,28_circle,ʐuɐ¹³ ʐuɐ¹³,ʐuɐ¹³_ʐuɐ¹³,ʐ u ɐ ¹³ + ʐ u ɐ ¹³,172,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,circle,1467,CIRCLE,false,expert
+Lanping-28_circle-1,28_circle,ʐuɐ¹³ ʐuɐ¹³,ʐuɐ¹³_ʐuɐ¹³,ʐ u ɐ ¹³ + ʐ u ɐ ¹³,172,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,circle,1467,CIRCLE,false,expert
+Jiulong-28_circle-1,28_circle,ʐu¹¹ ʐuə⁵⁵,ʐu¹¹_ʐuə⁵⁵,ʐ u ¹¹ + ʐ u/w ə ⁵⁵,172,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,circle,1467,CIRCLE,false,expert
+Longxi-204_sticky-1,204_sticky,zà,zà,z à/a,174,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sticky,3703,STICKY,false,expert
+Mianchi-204_sticky-1,204_sticky,pià dzà,pià_dzà,p i/j à/a + dz à/a,174,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,sticky,3703,STICKY,false,expert
+Taoba-218_thicksticky-1,218_thicksticky,dzu³⁵ mə⁵³,dzu³⁵_mə⁵³,dz u ³⁵ + m ə ⁵³,174,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,"thick, sticky",,,false,expert
+Qinghua-218_thicksticky-1,218_thicksticky,dzy¹³,dzy¹³,dz y ¹³,174,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,"thick, sticky",,,false,expert
+Lanping-205_stickyglutinous-1,205_stickyglutinous,dʑa¹³ ti⁵⁵,dʑa¹³_ti⁵⁵,dʑ a ¹³ + t i ⁵⁵,174,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"sticky, glutinous",3703,STICKY,false,expert
+Jiulong-218_thicksticky-1,218_thicksticky,dzu³⁵,dzu³⁵,dz u ³⁵,174,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,"thick, sticky",,,false,expert
+Yonghe-121_melt-1,121_melt,dʐə̌,dʐə̌,ɖʐ ə̆/ə,175,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,melt,2334,MELT,false,expert
+Wadu-121_melt-1,121_melt,ɖʐæ̌,ɖʐæ̌,ɖʐ æ̆/æ,175,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,melt,2334,MELT,false,expert
+Longxi-145_penis-1,145_penis,lià qə̀,lià_qə̀,l i/j à/a + q ə̀/ə,176,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,penis,1222,PENIS,false,expert
+Mianchi-145_penis-1,145_penis,lià qɛ̀,lià_qɛ̀,l i/j à/a + q ɛ̀/ɛ,176,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,penis,1222,PENIS,false,expert
+Yonghe-145_penis-1,145_penis,lǐ,lǐ,l ĭ/i,176,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,penis,1222,PENIS,false,expert
+Dayang-216_testicle-1,216_testicle,lɒ̀ dɒ̌,lɒ̀_dɒ̌,l ɒ̀/ɒ + d ɒ̆/ɒ,176,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,testicle,797,TESTICLES,false,expert
+Longxi-162_returntoaplace-1,162_returntoaplace,lò,lò,l ò/o,178,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,return to a place,581,COME BACK,false,expert
+Lanping-161_return-1,161_return,xə¹³ lo¹³,xə¹³_lo¹³,x ə ¹³ + l o ¹³,178,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,return,581,COME BACK,false,expert
+Longxi-35_corpse-1,35_corpse,mó,mó,m ó/o,187,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,corpse,767,CORPSE,false,expert
+Mianchi-35_corpse-1,35_corpse,mó,mó,m ó/o,187,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,corpse,767,CORPSE,false,expert
+Yonghe-35_corpse-1,35_corpse,mì múʴ,mì_múʴ,m ì/i + m ú/u ʴ/ɹ,187,,,Yonghe,Yonghe,yong1287,Yonghe Qiang,,Sino-Tibetan,Qiang,corpse,767,CORPSE,false,expert
+Wadu-35_corpse-1,35_corpse,mǔ,mǔ,m ŭ/u,187,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,corpse,767,CORPSE,false,expert
+Niuwozi-35_corpse-1,35_corpse,muᴿ,muᴿ,m u ᴿ/¹⁵,187,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,corpse,767,CORPSE,false,expert
+Lanping-35_corpse-1,35_corpse,ȵi⁵⁵ mu⁵⁵,ȵi⁵⁵_mu⁵⁵,ȵ i ⁵⁵ + m u ⁵⁵,187,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,corpse,767,CORPSE,false,expert
+Jiulong-35_corpse-1,35_corpse,mi³⁵ mũ⁵⁵,mi³⁵_mũ⁵⁵,m i ³⁵ + m ũ ⁵⁵,187,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,corpse,767,CORPSE,false,expert
+Longxi-185_sleep-1,185_sleep,(ɦà) mà zè,_mà_zè,m à/a + z è/e,196,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,sleep,1585,SLEEP,false,expert
+Mianchi-131_nodoff-1,131_nodoff,mɛ̀ ʑɛ̀ -qɛ̀ tuá,mɛ̀_ʑɛ̀-qɛ̀_tuá,m ɛ̀/ɛ + ʑ ɛ̀/ɛ + q ɛ̀/ɛ + t u á/a,196,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,nod off,,,false,expert
+Wadu-185_sleep-1,185_sleep,ʑə̌,ʑə̌,ʑ ə̆/ə,196,,,Wadu,Wadu,nort2723,Northern Pumi,pmi,Sino-Tibetan,Pumi,sleep,1585,SLEEP,false,expert
+Taoba-185_sleep-1,185_sleep,kʰə³⁵ ʑi³⁵,kʰə³⁵_ʑi³⁵,kʰ ə ³⁵ + ʑ i ³⁵,196,,,Taoba,Taoba,taob1239,Táobā,,Sino-Tibetan,Pumi,sleep,1585,SLEEP,false,expert
+Qinghua-185_sleep-1,185_sleep,nə¹³ ʒə¹³,nə¹³_ʒə¹³,n ə ¹³ + ʒ ə ¹³,196,,,Qinghua,Qinghua,qing1238,Qinghua Pumi,,Sino-Tibetan,Pumi,sleep,1585,SLEEP,false,expert
+Lanping-185_sleep-1,185_sleep,nə¹³ ʒə¹³,nə¹³_ʒə¹³,n ə ¹³ + ʒ ə ¹³,196,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sleep,1585,SLEEP,false,expert
+Jiulong-185_sleep-1,185_sleep,kʰɯ¹¹ ʑɯ⁵⁵,kʰɯ¹¹_ʑɯ⁵⁵,kʰ ɯ ¹¹ + ʑ ɯ ⁵⁵,196,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,sleep,1585,SLEEP,false,expert
+Longxi-94_hideself-1,94_hideself,pià,pià,p i/j à/a,202,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,hide self,2485,HIDE (ONESELF),false,expert
+Niuwozi-2_axe-1,2_axe,pɨᶠ,pɨᶠ,p ɨ ᶠ/⁵¹,203,,,Niuwozi,Niuwozi,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,axe,677,AXE,false,expert
+Dayang-2_axe-1,2_axe,ɸpɨ́,ɸpɨ́,ɸ p ɨ́/ɨ,203,,,Dayang,Dayang,daya1246,Dayang Pumi,,Sino-Tibetan,Pumi,axe,677,AXE,false,expert
+Lanping-2_axe-1,2_axe,fpy⁵⁵,fpy⁵⁵,f p y ⁵⁵,203,,,Lanping,Lanping,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,axe,677,AXE,false,expert
+Jiulong-2_axe-1,2_axe,pi⁵⁵,pi⁵⁵,p i ⁵⁵,203,,,Jiulong,Jiulong,sout2729,Southern Pumi,pmj,Sino-Tibetan,Pumi,axe,677,AXE,false,expert
+Longxi-117_lowerseatnothonored-1,117_lowerseatnothonored,ɹà lì,ɹà_lì,ɹ à/a + l ì/i,204,,,Longxi,Longxi,long1374,Longxi Qiang,,Sino-Tibetan,Qiang,lower seat (not honored),,,false,expert
+Mianchi-117_lowerseatnothonored-1,117_lowerseatnothonored,ʐí lè,ʐí_lè,ʐ í/i + l è/e,204,,,Mianchi,Mianchi,mian1253,Mianchi Qiang,,Sino-Tibetan,Qiang,lower seat (not honored),,,false,expert

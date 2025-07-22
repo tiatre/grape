@@ -1,0 +1,40 @@
+Arawakan Language Family Phylogenetic Tree
+==================================================
+
+TREE STATISTICS:
+  Languages: 8
+  Tree height: 3.700
+
+TREE STRUCTURE:
+--------------------
+
+      /-Tariana
+   /-|
+  |   \-Warekena
+  |
+--|      /-Achagua
+  |   /-|
+  |  |   \-Piapoco
+  |  |
+   \-|      /-Baniwa
+     |   /-|
+     |  |   \-Resigaro
+      \-|
+        |   /-Kabiyari
+         \-|
+            \-Yukuna
+
+LINGUISTIC GROUPINGS FOUND:
+-------------------------
+Northern Arawakan: Baniwa, Tariana, Achagua, Piapoco
+
+ALL LANGUAGES IN TREE:
+--------------------
+  • Achagua
+  • Baniwa
+  • Kabiyari
+  • Piapoco
+  • Resigaro
+  • Tariana
+  • Warekena
+  • Yukuna

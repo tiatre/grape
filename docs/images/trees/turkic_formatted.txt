@@ -1,0 +1,64 @@
+Turkic Language Family Phylogenetic Tree\n==================================================\n\nTREE STATISTICS:\n  Languages: 32\n  Tree height: 3.300\n\nTREE STRUCTURE:\n--------------------\n
+         /-Chuvash
+      /-|
+     |   \-Khalaj
+   /-|
+  |  |   /-Turkmen
+  |   \-|
+  |     |   /-Crimean Tatar
+  |      \-|
+  |        |   /-Azeri
+  |         \-|
+  |           |   /-Gagauz
+  |            \-|
+  |               \-Turkish
+  |
+  |      /-Karaim
+  |   /-|
+  |  |  |   /-Karachay Balkar
+  |  |   \-|
+  |  |      \-Kumyk
+  |  |
+  |--|   /-Baraba Tatar
+  |  |  |
+  |  |  |   /-Bashkir
+--|  |  |--|
+  |  |  |   \-Kazan Tatar
+  |  |  |
+  |   \-|   /-Uyghur
+  |     |--|
+  |     |   \-Uzbek
+  |     |
+  |     |   /-Nogai
+  |     |  |
+  |      \-|   /-Karakalpak
+  |        |  |
+  |         \-|--Kazakh
+  |           |
+  |            \-Kirghiz
+  |
+  |   /-Salar
+  |  |
+  |  |   /-Cuman
+  |  |  |
+  |  |  |--Saryg Yugur
+   \-|  |
+     |  |   /-North Altay
+     |  |--|
+     |  |   \-South Altay
+     |  |
+      \-|   /-Old Turkic
+        |--|
+        |  |   /-Dolgan
+        |   \-|
+        |      \-Yakut
+        |
+        |      /-Tofa
+        |   /-|
+        |  |   \-Tuvan
+         \-|
+           |   /-Middle Chulym
+            \-|
+              |   /-Khakas
+               \-|
+                  \-Shor\n\nALL LANGUAGES IN TREE:\n--------------------\n  • Azeri\n  • Baraba Tatar\n  • Bashkir\n  • Chuvash\n  • Crimean Tatar\n  • Cuman\n  • Dolgan\n  • Gagauz\n  • Karachay Balkar\n  • Karaim\n  • Karakalpak\n  • Kazakh\n  • Kazan Tatar\n  • Khakas\n  • Khalaj\n  • Kirghiz\n  • Kumyk\n  • Middle Chulym\n  • Nogai\n  • North Altay\n  • Old Turkic\n  • Salar\n  • Saryg Yugur\n  • Shor\n  • South Altay\n  • Tofa\n  • Turkish\n  • Turkmen\n  • Tuvan\n  • Uyghur\n  • Uzbek\n  • Yakut\n

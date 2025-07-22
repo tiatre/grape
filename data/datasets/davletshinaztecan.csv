@@ -1,0 +1,855 @@
+ID,Parameter_ID,Value,Form,Segments,Cognacy,Loan,Borrowing,Language_ID,Language_Name,Glottocode,Glottolog_Name,ISO639P3code,Family,SubGroup,Parameter_Name,Concepticon_ID,Concepticon_Gloss,Cognacy_Doubt,Cognate_Detection_Method
+ClassicalNahuatl-1_alltodos-1,1_alltodos,mochi-n,mochi-n,m o tʃ i + n,1,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+TetelcingoNahuatl-1_alltodos-1,1_alltodos,nochiː,nochiː,n o tʃ iː,1,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+NorthPueblaNahuatl-1_alltodos-1,1_alltodos,nochi-n,nochi-n,n o tʃ i + n,1,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+MecayapanNahuat-1_alltodos-1,1_alltodos,(i)nochi,nochi,n o tʃ i,1,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+PajapanNahuat-1_alltodos-1,1_alltodos,nochi,nochi,n o tʃ i,1,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+JalupaNahuat-1_alltodos-1,1_alltodos,muchi,muchi,m u tʃ i,1,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+Pipil-1_alltodos-1,1_alltodos,muchi,muchi,m u tʃ i,1,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+Pochutec-1_alltodos-1,1_alltodos,nochó,nochó,n o tʃ ó/o,1,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+ProtoAztecan-1_alltodos-1,1_alltodos,*mochɨ-m,*mochɨ-m,m o tʃ ɨ + m,1,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,all (todos) ,98,ALL,false,expert
+ClassicalNahuatl-2_ashes-1,2_ashes,nex-tli,nex-tli,n e x + tɬ i,2,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,ashes ,646,ASH,false,expert
+TetelcingoNahuatl-2_ashes-1,2_ashes,tlako-nex-tliː,tlako-nex-tliː,tɬ a k o + n e x + tɬ iː,2,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,ashes ,646,ASH,false,expert
+NorthPueblaNahuatl-2_ashes-1,2_ashes,tleko-nex-tli,tleko-nex-tli,tɬ e k o + n e x + tɬ i,2,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,ashes ,646,ASH,false,expert
+MecayapanNahuat-2_ashes-1,2_ashes,kwa-neːx,kwa-neːx,kʷ a + n eː x,2,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,ashes ,646,ASH,false,expert
+PajapanNahuat-2_ashes-1,2_ashes,ba-neːx,ba-neːx,b a + n eː x,2,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,ashes ,646,ASH,false,expert
+JalupaNahuat-2_ashes-1,2_ashes,kó-nex-ti,kó-nex-ti,k ó/o + n e x + t i,2,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,ashes ,646,ASH,false,expert
+Pipil-2_ashes-1,2_ashes,nex-ti,nex-ti,n e x + t i,2,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,ashes ,646,ASH,false,expert
+Pochutec-2_ashes-1,2_ashes,nox-t,nox-t,n o x + t,2,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,ashes ,646,ASH,false,expert
+ProtoAztecan-2_ashes-1,2_ashes,*nɨx-tlɨ,*nɨx-tlɨ,n ɨ x + tɬ ɨ,2,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,ashes ,646,ASH,false,expert
+ClassicalNahuatl-3_bark-1,3_bark,eːwa-tl,eːwa-tl,eː w a + tɬ,3,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,bark ,1204,BARK,false,expert
+TetelcingoNahuatl-3_bark-1,3_bark,yewa-yu-tl,yewa-yu-tl,j e w a + j u + tɬ,3,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,bark ,1204,BARK,false,expert
+NorthPueblaNahuatl-3_bark-1,3_bark,-yewa-yo,-yewa-yo,j e w a + j o,3,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,bark ,1204,BARK,false,expert
+MecayapanNahuat-3_bark-1,3_bark,kwa-kahloː-ʔ,kwa-kahloː-ʔ,kʷ a + k a h l oː + ʔ,4,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,bark ,1204,BARK,false,expert
+PajapanNahuat-3_bark-1,3_bark,-ba-gahlo,-ba-gahlo,b a + g a h l o,4,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,bark ,1204,BARK,false,expert
+JalupaNahuat-3_bark-1,3_bark,-sul-koi,-sul-koi,s u l + k o i,5,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,bark ,1204,BARK,false,expert
+Pipil-3_bark-1,3_bark,-eːwa-yu,-eːwa-yu,eː w a + j u,3,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,bark ,1204,BARK,false,expert
+ProtoAztecan-3_bark-1,3_bark,*ɨwaː-yoː-tl,*ɨwaː-yoː-tl,ɨ w aː + j oː + tɬ,3,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,bark ,1204,BARK,false,expert
+ClassicalNahuatl-4_belly-1,4_belly,-iʔte,-iʔte,i ʔ t e,6,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+TetelcingoNahuatl-4_belly-1,4_belly,-ihte,-ihte,i h t e,6,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+NorthPueblaNahuatl-4_belly-1,4_belly,"-ihte, -pox",-ihte,i h t e,6,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+MecayapanNahuat-4_belly-1,4_belly,-talax (exterior),-talax_,t a l a x,7,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+PajapanNahuat-4_belly-1,4_belly,-ihti,-ihti,i h t i,6,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+JalupaNahuat-4_belly-1,4_belly,-ihti,-ihti,i h t i,6,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+Pipil-4_belly-1,4_belly,-ihti,-ihti,i h t i,6,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+ProtoAztecan-4_belly-1,4_belly,*-ɨhtɨ,*-ɨhtɨ,ɨ h t ɨ,6,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,belly ,1251,BELLY,false,expert
+ClassicalNahuatl-5_big-1,5_big,weː(i),weː,w eː,8,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,big ,1202,BIG,false,expert
+TetelcingoNahuatl-5_big-1,5_big,bieyiː,bieyiː,b i e j iː,8,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,big ,1202,BIG,false,expert
+NorthPueblaNahuatl-5_big-1,5_big,weyi,weyi,w e j i,8,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,big ,1202,BIG,false,expert
+MecayapanNahuat-5_big-1,5_big,weyi,weyi,w e j i,8,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,big ,1202,BIG,false,expert
+PajapanNahuat-5_big-1,5_big,weːy,weːy,w eː j,8,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,big ,1202,BIG,false,expert
+JalupaNahuat-5_big-1,5_big,wey,wey,w e j,8,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,big ,1202,BIG,false,expert
+Pipil-5_big-1,5_big,weːy,weːy,w eː j,8,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,big ,1202,BIG,false,expert
+Pochutec-5_big-1,5_big,huhióm,huhióm,h u h i ó/o m,8,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,big ,1202,BIG,false,expert
+ProtoAztecan-5_big-1,5_big,*wehey(ɨ),*wehey,w e h e j,8,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,big ,1202,BIG,false,expert
+ClassicalNahuatl-6_bird-1,6_bird,toːtoː-tl,toːtoː-tl,t oː t oː + tɬ,9,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,bird ,937,BIRD,false,expert
+TetelcingoNahuatl-6_bird-1,6_bird,tutu-tl,tutu-tl,t u t u + tɬ,9,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,bird ,937,BIRD,false,expert
+NorthPueblaNahuatl-6_bird-1,6_bird,toto-tl,toto-tl,t o t o + tɬ,9,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,bird ,937,BIRD,false,expert
+MecayapanNahuat-6_bird-1,6_bird,toːtoː-ʔ,toːtoː-ʔ,t oː t oː + ʔ,9,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,bird ,937,BIRD,false,expert
+PajapanNahuat-6_bird-1,6_bird,toːto-t,toːto-t,t oː t o + t,9,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,bird ,937,BIRD,false,expert
+JalupaNahuat-6_bird-1,6_bird,tuːru-t,tuːru-t,t uː r u + t,9,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,bird ,937,BIRD,false,expert
+Pipil-6_bird-1,6_bird,"tuːtu-t (Santo Domingo de Guzmán), wiːlu-t (Cuisnahuat)",tuːtu-t_,t uː t u + t,9,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,bird ,937,BIRD,false,expert
+ProtoAztecan-6_bird-1,6_bird,*toːtoː-tl,*toːtoː-tl,t oː t oː + tɬ,9,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,bird ,937,BIRD,false,expert
+ClassicalNahuatl-7_bite-1,7_bite,-keʔtzom(a),-keʔtzom,k e ʔ ts o m,10,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,bite ,1403,BITE,false,expert
+TetelcingoNahuatl-7_bite-1,7_bite,-ketzoma,-ketzoma,k e ts o m a,10,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,bite ,1403,BITE,false,expert
+NorthPueblaNahuatl-7_bite-1,7_bite,-tlan-kechiya,-tlan-kechiya,tɬ a n + k e tʃ i j a,11,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,bite ,1403,BITE,false,expert
+MecayapanNahuat-7_bite-1,7_bite,-tan-kwa,-tan-kwa,t a n + kʷ a,12,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,bite ,1403,BITE,false,expert
+PajapanNahuat-7_bite-1,7_bite,-tam-ba,-tam-ba,t a m + b a,12,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,bite ,1403,BITE,false,expert
+Pipil-7_bite-1,7_bite,-tan-kwa,-tan-kwa,t a n + kʷ a,12,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,bite ,1403,BITE,false,expert
+ProtoAztecan-7_bite-1,7_bite,*-kɨh-tzoma,*-kɨh-tzoma,k ɨ h + ts o m a,12,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,bite ,1403,BITE,false,expert
+ClassicalNahuatl-8_black-1,8_black,tliːl-tik,tliːl-tik,tɬ iː l + t i k,13,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,black ,163,BLACK,false,expert
+TetelcingoNahuatl-8_black-1,8_black,"tlil-tiːk, kapotz-tiːk",tlil-tiːk,tɬ i l + t iː k,13,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,black ,163,BLACK,false,expert
+NorthPueblaNahuatl-8_black-1,8_black,tlil-tik,tlil-tik,tɬ i l + t i k,13,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,black ,163,BLACK,false,expert
+MecayapanNahuat-8_black-1,8_black,"piːs-tiʔ, chaːpo-tiʔ",piːs-tiʔ,p iː s + t i ʔ,14,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,black ,163,BLACK,false,expert
+PajapanNahuat-8_black-1,8_black,pis-tik,pis-tik,p i s + t i k,14,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,black ,163,BLACK,false,expert
+JalupaNahuat-8_black-1,8_black,yayák,yayák,j a j á/a k,15,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,black ,163,BLACK,false,expert
+Pipil-8_black-1,8_black,"tiːl-tik (Santo Domingo de Guzmán), kuː-tiːl-tik (Cuisnahuat)",tiːl-tik_,t iː l + t i k,13,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,black ,163,BLACK,false,expert
+ProtoAztecan-8_black-1,8_black,*tliːl-tɨ-k,*tliːl-tɨ-k,tɬ iː l + t ɨ + k,13,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,black ,163,BLACK,false,expert
+ClassicalNahuatl-9_blood-1,9_blood,es-tli,es-tli,e s + tɬ i,16,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+TetelcingoNahuatl-9_blood-1,9_blood,yes-tliː,yes-tliː,j e s + tɬ iː,16,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+NorthPueblaNahuatl-9_blood-1,9_blood,yes-tli,yes-tli,j e s + tɬ i,16,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+MecayapanNahuat-9_blood-1,9_blood,es-ti,es-ti,e s + t i,16,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+PajapanNahuat-9_blood-1,9_blood,es-ti,es-ti,e s + t i,16,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+JalupaNahuat-9_blood-1,9_blood,es-ti,es-ti,e s + t i,16,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+Pipil-9_blood-1,9_blood,es-ti,es-ti,e s + t i,16,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+Pochutec-9_blood-1,9_blood,es-t,es-t,e s + t,16,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+ProtoAztecan-9_blood-1,9_blood,*ɨs-tlɨ,*ɨs-tlɨ,ɨ s + tɬ ɨ,16,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,blood ,946,BLOOD,false,expert
+ClassicalNahuatl-10_bone-1,10_bone,omi-tl,omi-tl,o m i + tɬ,17,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,bone ,1394,BONE,false,expert
+TetelcingoNahuatl-10_bone-1,10_bone,miːmiːte-tl,miːmiːte-tl,m iː m iː t e + tɬ,18,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,bone ,1394,BONE,false,expert
+NorthPueblaNahuatl-10_bone-1,10_bone,ohmi-tl,ohmi-tl,o h m i + tɬ,17,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,bone ,1394,BONE,false,expert
+MecayapanNahuat-10_bone-1,10_bone,omi-ʔ,omi-ʔ,o m i + ʔ,17,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,bone ,1394,BONE,false,expert
+PajapanNahuat-10_bone-1,10_bone,omi-t,omi-t,o m i + t,17,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,bone ,1394,BONE,false,expert
+JalupaNahuat-10_bone-1,10_bone,umi-t,umi-t,u m i + t,17,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,bone ,1394,BONE,false,expert
+Pipil-10_bone-1,10_bone,uːmi-t,uːmi-t,uː m i + t,17,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,bone ,1394,BONE,false,expert
+Pochutec-10_bone-1,10_bone,o-t,o-t,o + t,17,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,bone ,1394,BONE,false,expert
+ProtoAztecan-10_bone-1,10_bone,*oːmɨ-tl,*oːmɨ-tl,oː m ɨ + tɬ,17,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,bone ,1394,BONE,false,expert
+ClassicalNahuatl-11_breast-1,11_breast,-chiːchiːwal,-chiːchiːwal,tʃ iː tʃ iː w a l,19,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+TetelcingoNahuatl-11_breast-1,11_breast,-chichiːwal (de mujer),-chichiːwal_,tʃ i tʃ iː w a l,19,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+NorthPueblaNahuatl-11_breast-1,11_breast,-chichiwal (de mujer),-chichiwal_,tʃ i tʃ i w a l,19,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+MecayapanNahuat-11_breast-1,11_breast,-chiːchiwal (teta),-chiːchiwal_,tʃ iː tʃ i w a l,19,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+PajapanNahuat-11_breast-1,11_breast,-chichiwal (teta),-chichiwal_,tʃ i tʃ i w a l,19,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+JalupaNahuat-11_breast-1,11_breast,-chichi (teta),-chichi_,tʃ i tʃ i,20,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+Pipil-11_breast-1,11_breast,-chiːchih (teta),-chiːchih_,tʃ iː tʃ i h,20,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+Pochutec-11_breast-1,11_breast,/no/-tipén (mi pecho),no,n o,21,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+ProtoAztecan-11_breast-1,11_breast,*-chiːchiːwal,*-chiːchiːwal,tʃ iː tʃ iː w a l,19,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,breast ,1402,BREAST,false,expert
+ClassicalNahuatl-12_burntr-1,12_burntr,-tlatiaː,-tlatiaː,tɬ a t i aː,22,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+TetelcingoNahuatl-12_burntr-1,12_burntr,-tlatia,-tlatia,tɬ a t i a,22,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+NorthPueblaNahuatl-12_burntr-1,12_burntr,-tititza,-tititza,t i t i ts a,23,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+MecayapanNahuat-12_burntr-1,12_burntr,-tatiá,-tatiá,t a t i á/a,22,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+PajapanNahuat-12_burntr-1,12_burntr,-tata,-tata,t a t a,22,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+JalupaNahuat-12_burntr-1,12_burntr,-tati,-tati,t a t i,22,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+Pipil-12_burntr-1,12_burntr,-tatia,-tatia,t a t i a,22,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+Pochutec-12_burntr-1,12_burntr,-tatí,-tatí,t a t í/i,22,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+ProtoAztecan-12_burntr-1,12_burntr,*-tla-tɨ-ha,*-tla-tɨ-ha,tɬ a + t ɨ + h a,22,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,burn tr. ,141,BURN (SOMETHING),false,expert
+ClassicalNahuatl-13_clawnail-1,13_clawnail,iste-tl,iste-tl,i s t e + tɬ,24,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+TetelcingoNahuatl-13_clawnail-1,13_clawnail,iste,iste,i s t e,24,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+NorthPueblaNahuatl-13_clawnail-1,13_clawnail,ist-n,ist-n,i s t + n,24,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+MecayapanNahuat-13_clawnail-1,13_clawnail,isti,isti,i s t i,24,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+PajapanNahuat-13_clawnail-1,13_clawnail,-isti,-isti,i s t i,24,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+JalupaNahuat-13_clawnail-1,13_clawnail,-isti,-isti,i s t i,24,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+Pipil-13_clawnail-1,13_clawnail,isti-t,isti-t,i s t i + t,24,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+Pochutec-13_clawnail-1,13_clawnail,ox-t,ox-t,o x + t,24,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+ProtoAztecan-13_clawnail-1,13_clawnail,*-ɨstɨ,*-ɨstɨ,ɨ s t ɨ,24,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,claw(nail) ,2128,CLAW OR NAIL,false,expert
+ClassicalNahuatl-14_cloud-1,14_cloud,mix-tli,mix-tli,m i x + tɬ i,25,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+TetelcingoNahuatl-14_cloud-1,14_cloud,mex-tliː,mex-tliː,m e x + tɬ iː,25,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+NorthPueblaNahuatl-14_cloud-1,14_cloud,(tepe)-mex-tli,-mex-tli,m e x + tɬ i,25,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+MecayapanNahuat-14_cloud-1,14_cloud,mix-ti,mix-ti,m i x + t i,25,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+PajapanNahuat-14_cloud-1,14_cloud,miːx-ti,miːx-ti,m iː x + t i,25,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+Pipil-14_cloud-1,14_cloud,mix-ti,mix-ti,m i x + t i,25,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+Pochutec-14_cloud-1,14_cloud,pix-t?,pix-t?,p i x + t,26,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+ProtoAztecan-14_cloud-1,14_cloud,*mix-tlɨ,*mix-tlɨ,m i x + tɬ ɨ,25,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,cloud ,1489,CLOUD,false,expert
+ClassicalNahuatl-15_cold-1,15_cold,"iːtz-tik, sesek",iːtz-tik,iː ts + t i k,28,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,cold ,1287,COLD,false,expert
+TetelcingoNahuatl-15_cold-1,15_cold,itz-tiːk,itz-tiːk,i ts + t iː k,27,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,cold ,1287,COLD,false,expert
+NorthPueblaNahuatl-15_cold-1,15_cold,itz-tik,itz-tik,i ts + t i k,27,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,cold ,1287,COLD,false,expert
+MecayapanNahuat-15_cold-1,15_cold,seseːʔ,seseːʔ,s e s eː ʔ,28,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,cold ,1287,COLD,false,expert
+PajapanNahuat-15_cold-1,15_cold,seseːk,seseːk,s e s eː k,28,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,cold ,1287,COLD,false,expert
+JalupaNahuat-15_cold-1,15_cold,sesek,sesek,s e s e k,28,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,cold ,1287,COLD,false,expert
+Pipil-15_cold-1,15_cold,sesek,sesek,s e s e k,28,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,cold ,1287,COLD,false,expert
+Pochutec-15_cold-1,15_cold,"piná, kug’li",piná,p i n á/a,29,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,cold ,1287,COLD,false,expert
+ProtoAztecan-15_cold-1,15_cold,*sese-k,*sese-k,s e s e + k,28,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,cold ,1287,COLD,false,expert
+ClassicalNahuatl-16_come-1,16_come,witz,witz,w i ts,30,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,come ,1446,COME,false,expert
+TetelcingoNahuatl-16_come-1,16_come,ibitz,ibitz,i b i ts,30,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,come ,1446,COME,false,expert
+NorthPueblaNahuatl-16_come-1,16_come,witz,witz,w i ts,30,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,come ,1446,COME,false,expert
+MecayapanNahuat-16_come-1,16_come,wiːʔ,wiːʔ,w iː ʔ,30,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,come ,1446,COME,false,expert
+PajapanNahuat-16_come-1,16_come,wiːtz,wiːtz,w iː ts,30,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,come ,1446,COME,false,expert
+JalupaNahuat-16_come-1,16_come,ñotz,ñotz,ɲ o ts,31,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,come ,1446,COME,false,expert
+Pipil-16_come-1,16_come,wiːtz,wiːtz,w iː ts,30,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,come ,1446,COME,false,expert
+Pochutec-16_come-1,16_come,witz,witz,w i ts,30,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,come ,1446,COME,false,expert
+ProtoAztecan-16_come-1,16_come,*wiːtz (preterit-as-present form),*wiːtz_,w iː ts,30,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,come ,1446,COME,false,expert
+ClassicalNahuatl-17_die-1,17_die,mik(i),mik,m i k,32,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,die ,1494,DIE,false,expert
+TetelcingoNahuatl-17_die-1,17_die,miːkiː,miːkiː,m iː k iː,32,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,die ,1494,DIE,false,expert
+NorthPueblaNahuatl-17_die-1,17_die,miki,miki,m i k i,32,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,die ,1494,DIE,false,expert
+MecayapanNahuat-17_die-1,17_die,miki,miki,m i k i,32,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,die ,1494,DIE,false,expert
+PajapanNahuat-17_die-1,17_die,migi,migi,m i g i,32,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,die ,1494,DIE,false,expert
+JalupaNahuat-17_die-1,17_die,miki,miki,m i k i,32,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,die ,1494,DIE,false,expert
+Pipil-17_die-1,17_die,miki,miki,m i k i,32,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,die ,1494,DIE,false,expert
+Pochutec-17_die-1,17_die,mok,mok,m o k,32,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,die ,1494,DIE,false,expert
+ProtoAztecan-17_die-1,17_die,*mɨki,*mɨki,m ɨ k i,32,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,die ,1494,DIE,false,expert
+ClassicalNahuatl-18_dog-1,18_dog,chichi-(toːn),chichi-,tʃ i tʃ i,33,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,dog ,2009,DOG,false,expert
+TetelcingoNahuatl-18_dog-1,18_dog,chiːchiː-tu,chiːchiː-tu,tʃ iː tʃ iː + t u,33,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,dog ,2009,DOG,false,expert
+NorthPueblaNahuatl-18_dog-1,18_dog,chichi,chichi,tʃ i tʃ i,33,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,dog ,2009,DOG,false,expert
+MecayapanNahuat-18_dog-1,18_dog,peːlo (Spanish loan),peːlo_,p eː l o,49,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,dog ,2009,DOG,false,expert
+PajapanNahuat-18_dog-1,18_dog,pelo (Spanish loan),pelo_,p e l o,50,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,dog ,2009,DOG,false,expert
+JalupaNahuat-18_dog-1,18_dog,chuchu,chuchu,tʃ u tʃ u,33,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,dog ,2009,DOG,false,expert
+Pipil-18_dog-1,18_dog,peːlu (Spanish loan),peːlu_,p eː l u,33,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,dog ,2009,DOG,false,expert
+Pochutec-18_dog-1,18_dog,tachóm,tachóm,t a tʃ ó/o m,34,true,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,dog ,2009,DOG,false,expert
+ClassicalNahuatl-19_drink-1,19_drink,-on-iː (thither-drink),-on-iː_,o n + iː,51,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+TetelcingoNahuatl-19_drink-1,19_drink,-on-i,-on-i,o n + i,51,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+NorthPueblaNahuatl-19_drink-1,19_drink,-on-i,-on-i,o n + i,51,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+MecayapanNahuat-19_drink-1,19_drink,-on-i-á,-on-i-á,o n + i + á/a,51,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+PajapanNahuat-19_drink-1,19_drink,-on-i,-on-i,o n + i,51,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+JalupaNahuat-19_drink-1,19_drink,/xi-k/-i (impera- tive form),xi-k,x i + k,51,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+Pipil-19_drink-1,19_drink,-un-i,-un-i,u n + i,51,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+Pochutec-19_drink-1,19_drink,tem-í (mouth-drink?),tem-í_,t e m + í/i,51,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+ProtoAztecan-19_drink-1,19_drink,*-ihi,*-ihi,i h i,51,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,drink ,1401,DRINK,false,expert
+ClassicalNahuatl-20_dry-1,20_dry,waːk-ki,waːk-ki,w aː k + k i,52,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,dry ,1398,DRY,false,expert
+TetelcingoNahuatl-20_dry-1,20_dry,wah-kiː,wah-kiː,w a h + k iː,52,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,dry ,1398,DRY,false,expert
+NorthPueblaNahuatl-20_dry-1,20_dry,wah-ki,wah-ki,w a h + k i,52,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,dry ,1398,DRY,false,expert
+MecayapanNahuat-20_dry-1,20_dry,waːk-toʔ,waːk-toʔ,w aː k + t o ʔ,52,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,dry ,1398,DRY,false,expert
+PajapanNahuat-20_dry-1,20_dry,waːk-tok,waːk-tok,w aː k + t o k,52,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,dry ,1398,DRY,false,expert
+JalupaNahuat-20_dry-1,20_dry,wak-tuk,wak-tuk,w a k + t u k,52,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,dry ,1398,DRY,false,expert
+Pipil-20_dry-1,20_dry,waːk-tuk,waːk-tuk,w aː k + t u k,52,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,dry ,1398,DRY,false,expert
+Pochutec-20_dry-1,20_dry,wak,wak,w a k,52,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,dry ,1398,DRY,false,expert
+ProtoAztecan-20_dry-1,20_dry,*waːk-,*waːk-,w aː k,52,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,dry ,1398,DRY,false,expert
+ClassicalNahuatl-21_ear-1,21_ear,nakas-tli,nakas-tli,n a k a s + tɬ i,53,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,ear ,1247,EAR,false,expert
+TetelcingoNahuatl-21_ear-1,21_ear,-nakas,-nakas,n a k a s,53,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,ear ,1247,EAR,false,expert
+NorthPueblaNahuatl-21_ear-1,21_ear,-nakas,-nakas,n a k a s,53,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,ear ,1247,EAR,false,expert
+MecayapanNahuat-21_ear-1,21_ear,nakas,nakas,n a k a s,53,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,ear ,1247,EAR,false,expert
+PajapanNahuat-21_ear-1,21_ear,-nagas,-nagas,n a g a s,53,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,ear ,1247,EAR,false,expert
+JalupaNahuat-21_ear-1,21_ear,-nakas,-nakas,n a k a s,53,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,ear ,1247,EAR,false,expert
+Pipil-21_ear-1,21_ear,-nakas,-nakas,n a k a s,53,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,ear ,1247,EAR,false,expert
+Pochutec-21_ear-1,21_ear,nekés-t,nekés-t,n e k é/e s + t,53,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,ear ,1247,EAR,false,expert
+ProtoAztecan-21_ear-1,21_ear,*nakas-tlɨ,*nakas-tlɨ,n a k a s + tɬ ɨ,53,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,ear ,1247,EAR,false,expert
+ClassicalNahuatl-22_earth-1,22_earth,tlaːl-li,tlaːl-li,tɬ aː l + l i,54,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+TetelcingoNahuatl-22_earth-1,22_earth,tlöliː,tlöliː,tɬ ø l iː,54,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+NorthPueblaNahuatl-22_earth-1,22_earth,tlali,tlali,tɬ a l i,54,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+MecayapanNahuat-22_earth-1,22_earth,taːhli,taːhli,t aː h l i,54,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+PajapanNahuat-22_earth-1,22_earth,taːhli,taːhli,t aː h l i,54,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+JalupaNahuat-22_earth-1,22_earth,tahli,tahli,t a h l i,54,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+Pipil-22_earth-1,22_earth,taːl,taːl,t aː l,54,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+Pochutec-22_earth-1,22_earth,tal,tal,t a l,54,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+ProtoAztecan-22_earth-1,22_earth,*tlaːl-lɨ,*tlaːl-lɨ,tɬ aː l + l ɨ,54,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,earth ,1228,EARTH (SOIL),false,expert
+ClassicalNahuatl-23_eat-1,23_eat,-kwaː,-kwaː,kʷ aː,55,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,eat ,1336,EAT,false,expert
+TetelcingoNahuatl-23_eat-1,23_eat,-kwa,-kwa,kʷ a,55,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,eat ,1336,EAT,false,expert
+NorthPueblaNahuatl-23_eat-1,23_eat,-kwa,-kwa,kʷ a,55,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,eat ,1336,EAT,false,expert
+MecayapanNahuat-23_eat-1,23_eat,-kwa,-kwa,kʷ a,55,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,eat ,1336,EAT,false,expert
+PajapanNahuat-23_eat-1,23_eat,-baː,-baː,b aː,55,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,eat ,1336,EAT,false,expert
+JalupaNahuat-23_eat-1,23_eat,-bwaː,-bwaː,b w aː,55,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,eat ,1336,EAT,false,expert
+Pipil-23_eat-1,23_eat,kwa,kwa,kʷ a,55,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,eat ,1336,EAT,false,expert
+Pochutec-23_eat-1,23_eat,kwa,kwa,kʷ a,55,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,eat ,1336,EAT,false,expert
+ProtoAztecan-23_eat-1,23_eat,*-kwa-haː,*-kwa-haː,kʷ a + h aː,55,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,eat ,1336,EAT,false,expert
+ClassicalNahuatl-24_egg-1,24_egg,toːtol-te-tl,toːtol-te-tl,t oː t o l + t e + tɬ,56,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,egg ,744,EGG,false,expert
+TetelcingoNahuatl-24_egg-1,24_egg,tutol-tetl,tutol-tetl,t u t o l + t e tɬ,56,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,egg ,744,EGG,false,expert
+NorthPueblaNahuatl-24_egg-1,24_egg,totol-te-tl,totol-te-tl,t o t o l + t e + tɬ,56,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,egg ,744,EGG,false,expert
+MecayapanNahuat-24_egg-1,24_egg,teksis,teksis,t e k s i s,57,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,egg ,744,EGG,false,expert
+PajapanNahuat-24_egg-1,24_egg,teksis,teksis,t e k s i s,57,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,egg ,744,EGG,false,expert
+JalupaNahuat-24_egg-1,24_egg,pil-tzin,pil-tzin,p i l + ts i n,58,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,egg ,744,EGG,false,expert
+Pipil-24_egg-1,24_egg,teksis-ti,teksis-ti,t e k s i s + t i,57,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,egg ,744,EGG,false,expert
+Pochutec-24_egg-1,24_egg,ti-tó-t,ti-tó-t,t i + t ó/o + t,59,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,egg ,744,EGG,false,expert
+ClassicalNahuatl-25_eye-1,25_eye,-iːx-teloloʔ,-iːx-teloloʔ,iː x + t e l o l o ʔ,60,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,eye ,1248,EYE,false,expert
+TetelcingoNahuatl-25_eye-1,25_eye,-ix-telolo,-ix-telolo,i x + t e l o l o,60,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,eye ,1248,EYE,false,expert
+NorthPueblaNahuatl-25_eye-1,25_eye,-ix-telolo,-ix-telolo,i x + t e l o l o,60,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,eye ,1248,EYE,false,expert
+MecayapanNahuat-25_eye-1,25_eye,-iːx,-iːx,iː x,60,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,eye ,1248,EYE,false,expert
+PajapanNahuat-25_eye-1,25_eye,-iːx-tololo,-iːx-tololo,iː x + t o l o l o,60,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,eye ,1248,EYE,false,expert
+JalupaNahuat-25_eye-1,25_eye,-iːx,-iːx,iː x,60,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,eye ,1248,EYE,false,expert
+Pipil-25_eye-1,25_eye,-iːx,-iːx,iː x,60,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,eye ,1248,EYE,false,expert
+Pochutec-25_eye-1,25_eye,ix-totolú-t,ix-totolú-t,i x + t o t o l ú/u + t,60,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,eye ,1248,EYE,false,expert
+ProtoAztecan-25_eye-1,25_eye,*-iːx,*-iːx,iː x,60,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,eye ,1248,EYE,false,expert
+ClassicalNahuatl-26_fatn-1,26_fatn,chiyaːwis-tli,chiyaːwis-tli,tʃ i j aː w i s + tɬ i,73,true,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+TetelcingoNahuatl-26_fatn-1,26_fatn,"manteka (Spanish loan), chiːyöwa",manteka_,m a n t e k a,74,true,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+NorthPueblaNahuatl-26_fatn-1,26_fatn,chiak-tli,chiak-tli,tʃ i a k + tɬ i,75,true,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+MecayapanNahuat-26_fatn-1,26_fatn,"-tomahka (su gordura), xeːpoh (de res, Spanish loan)",-tomahka_,t o m a h k a,76,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+PajapanNahuat-26_fatn-1,26_fatn,"mantega (Spanish loan), pagax (Spanish loan)",mantega_,m a n t e g a,77,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+JalupaNahuat-26_fatn-1,26_fatn,manteka (Spanish loan),manteka_,m a n t e k a,78,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,fat n. ,323,FAT (ORGANIC SUBSTANCE),false,expert
+ClassicalNahuatl-27_feather-1,27_feather,ihwi-tl,ihwi-tl,i h w i + tɬ,79,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+TetelcingoNahuatl-27_feather-1,27_feather,"tohmitl (su pluma, pelo: itohmeyo)",tohmitl_,t o h m i tɬ,80,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+NorthPueblaNahuatl-27_feather-1,27_feather,ihwi-tl,ihwi-tl,i h w i + tɬ,79,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+MecayapanNahuat-27_feather-1,27_feather,tzohmi-ʔ,tzohmi-ʔ,ts o h m i + ʔ,81,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+PajapanNahuat-27_feather-1,27_feather,tzohmi-t,tzohmi-t,ts o h m i + t,81,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+JalupaNahuat-27_feather-1,27_feather,iy-uhwi-yu,iy-uhwi-yu,i j + u h w i + j u,79,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+Pipil-27_feather-1,27_feather,-uhmi-yu,-uhmi-yu,u h m i + j u,82,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+ProtoAztecan-27_feather-1,27_feather,*-ɨ?wɨ,*-ɨ?wɨ,ɨ w ɨ,79,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,feather ,1201,FEATHER,false,expert
+ClassicalNahuatl-28_fire-1,28_fire,tle-tl,tle-tl,tɬ e + tɬ,83,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,fire ,221,FIRE,false,expert
+TetelcingoNahuatl-28_fire-1,28_fire,tle-tzin-tliː,tle-tzin-tliː,tɬ e + ts i n + tɬ iː,83,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,fire ,221,FIRE,false,expert
+NorthPueblaNahuatl-28_fire-1,28_fire,tle-tl,tle-tl,tɬ e + tɬ,83,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,fire ,221,FIRE,false,expert
+MecayapanNahuat-28_fire-1,28_fire,tiʔ-ti,tiʔ-ti,t i ʔ + t i,83,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,fire ,221,FIRE,false,expert
+PajapanNahuat-28_fire-1,28_fire,ti-t,ti-t,t i + t,83,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,fire ,221,FIRE,false,expert
+JalupaNahuat-28_fire-1,28_fire,ti-t,ti-t,t i + t,83,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,fire ,221,FIRE,false,expert
+Pipil-28_fire-1,28_fire,tiː-t,tiː-t,t iː + t,83,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,fire ,221,FIRE,false,expert
+Pochutec-28_fire-1,28_fire,te-t,te-t,t e + t,83,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,fire ,221,FIRE,false,expert
+ProtoAztecan-28_fire-1,28_fire,*tlahi-tl,*tlahi-tl,tɬ a h i + tɬ,83,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,fire ,221,FIRE,false,expert
+ClassicalNahuatl-29_fish-1,29_fish,mich-in,mich-in,m i tʃ + i n,84,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,fish ,227,FISH,false,expert
+TetelcingoNahuatl-29_fish-1,29_fish,miːchiː,miːchiː,m iː tʃ iː,84,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,fish ,227,FISH,false,expert
+NorthPueblaNahuatl-29_fish-1,29_fish,michi,michi,m i tʃ i,84,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,fish ,227,FISH,false,expert
+MecayapanNahuat-29_fish-1,29_fish,toːpoh,toːpoh,t oː p o h,85,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,fish ,227,FISH,false,expert
+PajapanNahuat-29_fish-1,29_fish,toːpoh,toːpoh,t oː p o h,85,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,fish ,227,FISH,false,expert
+JalupaNahuat-29_fish-1,29_fish,xeːneh,xeːneh,x eː n e h,86,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,fish ,227,FISH,false,expert
+Pipil-29_fish-1,29_fish,michin,michin,m i tʃ i n,84,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,fish ,227,FISH,false,expert
+Pochutec-29_fish-1,29_fish,michóm,michóm,m i tʃ ó/o m,84,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,fish ,227,FISH,false,expert
+ProtoAztecan-29_fish-1,29_fish,*mɨ-chɨ-m,*mɨ-chɨ-m,m ɨ + tʃ ɨ + m,84,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,fish ,227,FISH,false,expert
+ClassicalNahuatl-30_fly-1,30_fly,patlaːn(i),patlaːn,p a tɬ aː n,87,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+TetelcingoNahuatl-30_fly-1,30_fly,patlöni,patlöni,p a tɬ ø n i,87,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+NorthPueblaNahuatl-30_fly-1,30_fly,patlani,patlani,p a tɬ a n i,87,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+MecayapanNahuat-30_fly-1,30_fly,pataːni,pataːni,p a t aː n i,87,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+PajapanNahuat-30_fly-1,30_fly,pataːni,pataːni,p a t aː n i,87,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+JalupaNahuat-30_fly-1,30_fly,parani,parani,p a r a n i,87,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+Pipil-30_fly-1,30_fly,pataːni,pataːni,p a t aː n i,87,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+Pochutec-30_fly-1,30_fly,patánk,patánk,p a t á/a n k,87,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+ProtoAztecan-30_fly-1,30_fly,*patlaːni,*patlaːni,p a tɬ aː n i,87,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,fly ,1441,FLY (MOVE THROUGH AIR),false,expert
+ClassicalNahuatl-31_foot-1,31_foot,(i)kxi-tl,kxi-tl,kx i + tɬ,88,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+TetelcingoNahuatl-31_foot-1,31_foot,-ikxiː,-ikxiː,i kx iː,88,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+NorthPueblaNahuatl-31_foot-1,31_foot,-ikxi,-ikxi,i kx i,88,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+MecayapanNahuat-31_foot-1,31_foot,ikxi,ikxi,i kx i,88,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+PajapanNahuat-31_foot-1,31_foot,-ikxi,-ikxi,i kx i,88,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+JalupaNahuat-31_foot-1,31_foot,-ikxi,-ikxi,i kx i,88,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+Pipil-31_foot-1,31_foot,(i)kxi,kxi,kx i,88,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+Pochutec-31_foot-1,31_foot,/no/-xói ‘mi pie’,no,n o,89,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+ProtoAztecan-31_foot-1,31_foot,*-ɨkxɨ,*-ɨkxɨ,ɨ kx ɨ,88,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,foot ,1301,FOOT,false,expert
+ClassicalNahuatl-32_full-1,32_full,teːn-tok,teːn-tok,t eː n + t o k,90,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,full ,1429,FULL,false,expert
+TetelcingoNahuatl-32_full-1,32_full,tien-tiːka,tien-tiːka,t i e n + t iː k a,90,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,full ,1429,FULL,false,expert
+NorthPueblaNahuatl-32_full-1,32_full,"ten-tok, temi",ten-tok,t e n + t o k,90,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,full ,1429,FULL,false,expert
+MecayapanNahuat-32_full-1,32_full,teːn-toʔ,teːn-toʔ,t eː n + t o ʔ,90,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,full ,1429,FULL,false,expert
+PajapanNahuat-32_full-1,32_full,teːn-tok,teːn-tok,t eː n + t o k,90,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,full ,1429,FULL,false,expert
+JalupaNahuat-32_full-1,32_full,neː-tik,neː-tik,n eː + t i k,91,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,full ,1429,FULL,false,expert
+Pipil-32_full-1,32_full,teːn-tuk,teːn-tuk,t eː n + t u k,90,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,full ,1429,FULL,false,expert
+ProtoAztecan-32_full-1,32_full,*teːn-tok,*teːn-tok,t eː n + t o k,90,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,full ,1429,FULL,false,expert
+ClassicalNahuatl-33_givetr-1,33_givetr,-maka,-maka,m a k a,92,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+TetelcingoNahuatl-33_givetr-1,33_givetr,-maka,-maka,m a k a,92,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+NorthPueblaNahuatl-33_givetr-1,33_givetr,-maka,-maka,m a k a,92,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+MecayapanNahuat-33_givetr-1,33_givetr,-maka,-maka,m a k a,92,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+PajapanNahuat-33_givetr-1,33_givetr,-maga,-maga,m a g a,92,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+JalupaNahuat-33_givetr-1,33_givetr,-ma,-ma,m a,92,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+Pipil-33_givetr-1,33_givetr,-maka,-maka,m a k a,92,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+Pochutec-33_givetr-1,33_givetr,-meká,-meká,m e k á/a,92,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+ProtoAztecan-33_givetr-1,33_givetr,*-maka,*-maka,m a k a,92,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,give tr. ,1447,GIVE,false,expert
+ClassicalNahuatl-34_good-1,34_good,kwal-li,kwal-li,kʷ a l + l i,93,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,good ,1035,GOOD,false,expert
+TetelcingoNahuatl-34_good-1,34_good,kwaliː,kwaliː,kʷ a l iː,93,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,good ,1035,GOOD,false,expert
+NorthPueblaNahuatl-34_good-1,34_good,kwali,kwali,kʷ a l i,93,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,good ,1035,GOOD,false,expert
+MecayapanNahuat-34_good-1,34_good,yeːk-ti,yeːk-ti,j eː k + t i,94,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,good ,1035,GOOD,false,expert
+PajapanNahuat-34_good-1,34_good,yek-ti,yek-ti,j e k + t i,94,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,good ,1035,GOOD,false,expert
+JalupaNahuat-34_good-1,34_good,yek-ti,yek-ti,j e k + t i,94,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,good ,1035,GOOD,false,expert
+Pipil-34_good-1,34_good,yeːk,yeːk,j eː k,94,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,good ,1035,GOOD,false,expert
+Pochutec-34_good-1,34_good,"ulík (cf. CNa weːlik ‘something delicious, pleasing’)",ulík_,u l í/i k,95,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,good ,1035,GOOD,false,expert
+ProtoAztecan-34_good-1,34_good,*yeːk-tlɨ,*yeːk-tlɨ,j eː k + tɬ ɨ,94,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,good ,1035,GOOD,false,expert
+ClassicalNahuatl-34_good-2,34_good,yek-tli,yek-tli,j e k + tɬ i,97,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,good ,1035,GOOD,false,expert
+ProtoAztecan-34_good-2,34_good,*yeːk-tlɨ,*yeːk-tlɨ,j eː k + tɬ ɨ,97,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,good ,1035,GOOD,false,expert
+ClassicalNahuatl-35_green-1,35_green,xoxok-tik,xoxok-tik,x o x o k + t i k,98,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,green ,1425,GREEN,false,expert
+TetelcingoNahuatl-35_green-1,35_green,xoxok-tiːk,xoxok-tiːk,x o x o k + t iː k,98,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,green ,1425,GREEN,false,expert
+NorthPueblaNahuatl-35_green-1,35_green,xoxok-tik,xoxok-tik,x o x o k + t i k,98,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,green ,1425,GREEN,false,expert
+MecayapanNahuat-35_green-1,35_green,xoxok-tiʔ,xoxok-tiʔ,x o x o k + t i ʔ,98,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,green ,1425,GREEN,false,expert
+PajapanNahuat-35_green-1,35_green,xoxok-tik,xoxok-tik,x o x o k + t i k,98,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,green ,1425,GREEN,false,expert
+JalupaNahuat-35_green-1,35_green,xuxuí-k,xuxuí-k,x u x u í/i + k,99,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,green ,1425,GREEN,false,expert
+Pipil-35_green-1,35_green,xuxuwi-k,xuxuwi-k,x u x u w i + k,99,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,green ,1425,GREEN,false,expert
+Pochutec-35_green-1,35_green,xwi,xwi,x w i,100,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,green ,1425,GREEN,false,expert
+ClassicalNahuatl-36_hair-1,36_hair,tzon-tli,tzon-tli,ts o n + tɬ i,101,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+TetelcingoNahuatl-36_hair-1,36_hair,tzon-tliː,tzon-tliː,ts o n + tɬ iː,101,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+NorthPueblaNahuatl-36_hair-1,36_hair,tzon-tli,tzon-tli,ts o n + tɬ i,101,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+MecayapanNahuat-36_hair-1,36_hair,tzon-kal,tzon-kal,ts o n + k a l,102,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+PajapanNahuat-36_hair-1,36_hair,tzon-gal,tzon-gal,ts o n + g a l,102,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+JalupaNahuat-36_hair-1,36_hair,tzun-ti,tzun-ti,ts u n + t i,101,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+Pipil-36_hair-1,36_hair,tzun-kal,tzun-kal,ts u n + k a l,102,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+Pochutec-36_hair-1,36_hair,tzon,tzon,ts o n,101,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+ProtoAztecan-36_hair-1,36_hair,*-tzom,*-tzom,ts o m,101,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,hair ,1040,HAIR,false,expert
+ClassicalNahuatl-37_hand-1,37_hand,-maː,-maː,m aː,103,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,hand ,1277,HAND,false,expert
+TetelcingoNahuatl-37_hand-1,37_hand,-mö,-mö,m ø,103,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,hand ,1277,HAND,false,expert
+NorthPueblaNahuatl-37_hand-1,37_hand,-ma-n,-ma-n,m a + n,103,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,hand ,1277,HAND,false,expert
+MecayapanNahuat-37_hand-1,37_hand,mayiʔ,mayiʔ,m a j i ʔ,103,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,hand ,1277,HAND,false,expert
+PajapanNahuat-37_hand-1,37_hand,-maː,-maː,m aː,103,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,hand ,1277,HAND,false,expert
+JalupaNahuat-37_hand-1,37_hand,-maː-n,-maː-n,m aː + n,103,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,hand ,1277,HAND,false,expert
+Pipil-37_hand-1,37_hand,-mey,-mey,m e j,103,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,hand ,1277,HAND,false,expert
+Pochutec-37_hand-1,37_hand,maí,maí,m a í/i,103,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,hand ,1277,HAND,false,expert
+ProtoAztecan-37_hand-1,37_hand,*-mah,*-mah,m a h,103,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,hand ,1277,HAND,false,expert
+ClassicalNahuatl-38_head-1,38_head,kwaː(i)-tl,kwaː-tl,kʷ aː + tɬ,105,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,head ,1256,HEAD,false,expert
+TetelcingoNahuatl-38_head-1,38_head,-tzon-teko,-tzon-teko,ts o n + t e k o,104,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,head ,1256,HEAD,false,expert
+NorthPueblaNahuatl-38_head-1,38_head,-tzon-teko,-tzon-teko,ts o n + t e k o,104,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,head ,1256,HEAD,false,expert
+MecayapanNahuat-38_head-1,38_head,-tzon-tekon,-tzon-tekon,ts o n + t e k o n,104,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,head ,1256,HEAD,false,expert
+PajapanNahuat-38_head-1,38_head,-tzon-tegon,-tzon-tegon,ts o n + t e g o n,104,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,head ,1256,HEAD,false,expert
+JalupaNahuat-38_head-1,38_head,tzun-tekon,tzun-tekon,ts u n + t e k o n,104,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,head ,1256,HEAD,false,expert
+Pipil-38_head-1,38_head,tzun-tekuma-t,tzun-tekuma-t,ts u n + t e k u m a + t,104,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,head ,1256,HEAD,false,expert
+Pochutec-38_head-1,38_head,kwaí-t,kwaí-t,kʷ a í/i + t,105,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,head ,1256,HEAD,false,expert
+ProtoAztecan-38_head-1,38_head,*-kwah,*-kwah,kʷ a h,104,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,head ,1256,HEAD,false,expert
+ClassicalNahuatl-39_hear-1,39_hear,-kak(i),-kak,k a k,106,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+TetelcingoNahuatl-39_hear-1,39_hear,-kakiː,-kakiː,k a k iː,106,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+NorthPueblaNahuatl-39_hear-1,39_hear,-kaki,-kaki,k a k i,106,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+MecayapanNahuat-39_hear-1,39_hear,-kaki,-kaki,k a k i,106,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+PajapanNahuat-39_hear-1,39_hear,-gagi,-gagi,g a g i,106,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+JalupaNahuat-39_hear-1,39_hear,-kai,-kai,k a i,106,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+Pipil-39_hear-1,39_hear,-kaːki,-kaːki,k aː k i,106,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+Pochutec-39_hear-1,39_hear,-kekí,-kekí,k e k í/i,106,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+ProtoAztecan-39_hear-1,39_hear,*-kaki,*-kaki,k a k i,106,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,hear ,1408,HEAR,false,expert
+ClassicalNahuatl-40_heart-1,40_heart,yoːl-li,yoːl-li,j oː l + l i,107,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,heart ,1223,HEART,false,expert
+TetelcingoNahuatl-40_heart-1,40_heart,yuloh-tliː,yuloh-tliː,j u l o h + tɬ iː,107,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,heart ,1223,HEART,false,expert
+NorthPueblaNahuatl-40_heart-1,40_heart,-yol-o,-yol-o,j o l + o,107,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,heart ,1223,HEART,false,expert
+MecayapanNahuat-40_heart-1,40_heart,-yaːlmah (Spanish loan),-yaːlmah_,j aː l m a h,123,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,heart ,1223,HEART,false,expert
+PajapanNahuat-40_heart-1,40_heart,-alma (Spanish loan),-alma_,a l m a,124,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,heart ,1223,HEART,false,expert
+JalupaNahuat-40_heart-1,40_heart,yuh-lu,yuh-lu,j u h + l u,107,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,heart ,1223,HEART,false,expert
+Pipil-40_heart-1,40_heart,-yu(ː)l,-yul,j u l,107,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,heart ,1223,HEART,false,expert
+Pochutec-40_heart-1,40_heart,/n/-olyú (mi corazón),n,n,107,true,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,heart ,1223,HEART,false,expert
+ProtoAztecan-40_heart-1,40_heart,*-yoːl,*-yoːl,j oː l,107,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,heart ,1223,HEART,false,expert
+ClassicalNahuatl-41_horn-1,41_horn,kwaːkwaw(i)-tl,kwaːkwaw-tl,kʷ aː kʷ a w + tɬ,125,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+NorthPueblaNahuatl-41_horn-1,41_horn,-kwakow,-kwakow,kʷ a k o w,125,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+MecayapanNahuat-41_horn-1,41_horn,kwaːkwa,kwaːkwa,kʷ aː kʷ a,125,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+PajapanNahuat-41_horn-1,41_horn,-baːbaː,-baːbaː,b aː b aː,125,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+JalupaNahuat-41_horn-1,41_horn,kokoit,kokoit,k o k o i t,125,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+Pipil-41_horn-1,41_horn,-kachoh (Spanish loan),-kachoh_,k a tʃ o h,137,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,horn ,1393,HORN (ANATOMY),false,expert
+ClassicalNahuatl-42_i-1,42_i,neʔwaː-tl,neʔwaː-tl,n e ʔ w aː + tɬ,138,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,I ,1209,I,false,expert
+TetelcingoNahuatl-42_i-1,42_i,naha,naha,n a h a,138,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,I ,1209,I,false,expert
+NorthPueblaNahuatl-42_i-1,42_i,nehwa-tl,nehwa-tl,n e h w a + tɬ,138,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,I ,1209,I,false,expert
+MecayapanNahuat-42_i-1,42_i,neh,neh,n e h,138,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,I ,1209,I,false,expert
+PajapanNahuat-42_i-1,42_i,neha,neha,n e h a,138,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,I ,1209,I,false,expert
+JalupaNahuat-42_i-1,42_i,nehe,nehe,n e h e,138,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,I ,1209,I,false,expert
+Pipil-42_i-1,42_i,na ~ nah ~ naha,na,n a,138,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,I ,1209,I,false,expert
+Pochutec-42_i-1,42_i,nen,nen,n e n,138,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,I ,1209,I,false,expert
+ProtoAztecan-42_i-1,42_i,*naha,*naha,n a h a,138,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,I ,1209,I,false,expert
+ClassicalNahuatl-43_kill-1,43_kill,-mikiː-tiaː,-mikiː-tiaː,m i k iː + t i aː,139,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,kill ,1417,KILL,false,expert
+TetelcingoNahuatl-43_kill-1,43_kill,-miːk-tiːa,-miːk-tiːa,m iː k + t iː a,139,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,kill ,1417,KILL,false,expert
+NorthPueblaNahuatl-43_kill-1,43_kill,-mik-tia,-mik-tia,m i k + t i a,139,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,kill ,1417,KILL,false,expert
+MecayapanNahuat-43_kill-1,43_kill,-mik-tia,-mik-tia,m i k + t i a,139,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,kill ,1417,KILL,false,expert
+PajapanNahuat-43_kill-1,43_kill,-mik-tia,-mik-tia,m i k + t i a,139,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,kill ,1417,KILL,false,expert
+JalupaNahuat-43_kill-1,43_kill,-mik-ti,-mik-ti,m i k + t i,139,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,kill ,1417,KILL,false,expert
+Pipil-43_kill-1,43_kill,-mik-tia,-mik-tia,m i k + t i a,139,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,kill ,1417,KILL,false,expert
+Pochutec-43_kill-1,43_kill,moktí,moktí,m o k t í/i,139,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,kill ,1417,KILL,false,expert
+ProtoAztecan-43_kill-1,43_kill,*mɨk-tɨ-ha,*mɨk-tɨ-ha,m ɨ k + t ɨ + h a,139,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,kill ,1417,KILL,false,expert
+ClassicalNahuatl-44_knee-1,44_knee,tlan-kwai-,tlan-kwai-,tɬ a n + kʷ a i,140,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+TetelcingoNahuatl-44_knee-1,44_knee,-tlan-kwate,-tlan-kwate,tɬ a n + kʷ a t e,140,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+NorthPueblaNahuatl-44_knee-1,44_knee,-tlan-kwa,-tlan-kwa,tɬ a n + kʷ a,140,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+MecayapanNahuat-44_knee-1,44_knee,tan-kwaː-ʔ,tan-kwaː-ʔ,t a n + kʷ aː + ʔ,140,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+PajapanNahuat-44_knee-1,44_knee,-tam-ba,-tam-ba,t a m + b a,140,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+JalupaNahuat-44_knee-1,44_knee,-tam-bwa-n,-tam-bwa-n,t a m + b w a + n,140,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+Pipil-44_knee-1,44_knee,-tewahka,-tewahka,t e w a h k a,141,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+ProtoAztecan-44_knee-1,44_knee,*-tlan-kwah,*-tlan-kwah,tɬ a n + kʷ a h,140,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,knee ,1371,KNEE,false,expert
+ClassicalNahuatl-45_know-1,45_know,mat(i),mat,m a t,142,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+TetelcingoNahuatl-45_know-1,45_know,-matiː,-matiː,m a t iː,142,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+NorthPueblaNahuatl-45_know-1,45_know,-mati,-mati,m a t i,142,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+MecayapanNahuat-45_know-1,45_know,-mati,-mati,m a t i,142,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+PajapanNahuat-45_know-1,45_know,-mati,-mati,m a t i,142,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+JalupaNahuat-45_know-1,45_know,-ma,-ma,m a,142,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+Pipil-45_know-1,45_know,-mati,-mati,m a t i,142,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+Pochutec-45_know-1,45_know,metí,metí,m e t í/i,142,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+ProtoAztecan-45_know-1,45_know,*mati,*mati,m a t i,142,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,know ,1410,KNOW (SOMETHING),false,expert
+ClassicalNahuatl-46_leaf-1,46_leaf,iswa-tl,iswa-tl,i s w a + tɬ,143,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+TetelcingoNahuatl-46_leaf-1,46_leaf,xiːbiːtl,xiːbiːtl,x iː b iː tɬ,144,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+NorthPueblaNahuatl-46_leaf-1,46_leaf,xiwi-tl,xiwi-tl,x i w i + tɬ,144,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+MecayapanNahuat-46_leaf-1,46_leaf,iswaʔ,iswaʔ,i s w a ʔ,143,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+PajapanNahuat-46_leaf-1,46_leaf,-iswa-t,-iswa-t,i s w a + t,143,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+JalupaNahuat-46_leaf-1,46_leaf,iswa-t,iswa-t,i s w a + t,143,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+Pipil-46_leaf-1,46_leaf,iswa-t,iswa-t,i s w a + t,143,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+Pochutec-46_leaf-1,46_leaf,xut,xut,x u t,144,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+ProtoAztecan-46_leaf-1,46_leaf,*ɨswa-tl,*ɨswa-tl,ɨ s w a + tɬ,143,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,leaf ,628,LEAF,false,expert
+ClassicalNahuatl-47_lie-1,47_lie,mo-teːka,mo-teːka,m o + t eː k a,145,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+TetelcingoNahuatl-47_lie-1,47_lie,mo-tieka,mo-tieka,m o + t i e k a,145,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+NorthPueblaNahuatl-47_lie-1,47_lie,mo-teka,mo-teka,m o + t e k a,145,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+MecayapanNahuat-47_lie-1,47_lie,mo-teːca,mo-teːca,m o + t eː c a,145,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+PajapanNahuat-47_lie-1,47_lie,mo-tega,mo-tega,m o + t e g a,145,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+JalupaNahuat-47_lie-1,47_lie,mu-reka-k (acos- tado),mu-reka-k_,m u + r e k a + k,145,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+Pipil-47_lie-1,47_lie,mu-teːka,mu-teːka,m u + t eː k a,145,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+Pochutec-47_lie-1,47_lie,teké,teké,t e k é/e,145,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+ProtoAztecan-47_lie-1,47_lie,*mo-teːka,*mo-teːka,m o + t eː k a,145,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,lie ,1411,LIE (REST),false,expert
+ClassicalNahuatl-48_liver-1,48_liver,eːl-li,eːl-li,eː l + l i,154,true,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,liver ,1224,LIVER,false,expert
+NorthPueblaNahuatl-48_liver-1,48_liver,-yel-tlapach,-yel-tlapach,j e l + tɬ a p a tʃ,155,true,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,liver ,1224,LIVER,false,expert
+MecayapanNahuat-48_liver-1,48_liver,-yoːl,-yoːl,j oː l,156,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,liver ,1224,LIVER,false,expert
+Pipil-48_liver-1,48_liver,-el-tapach,-el-tapach,e l + t a p a tʃ,157,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,liver ,1224,LIVER,false,expert
+ClassicalNahuatl-49_long-1,49_long,weːiyak,weːiyak,w eː i j a k,158,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,long ,1203,LONG,false,expert
+TetelcingoNahuatl-49_long-1,49_long,beyak,beyak,b e j a k,158,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,long ,1203,LONG,false,expert
+NorthPueblaNahuatl-49_long-1,49_long,weyak,weyak,w e j a k,158,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,long ,1203,LONG,false,expert
+MecayapanNahuat-49_long-1,49_long,weːyaktiʔ,weːyaktiʔ,w eː j a k t i ʔ,158,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,long ,1203,LONG,false,expert
+PajapanNahuat-49_long-1,49_long,weːyak,weːyak,w eː j a k,158,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,long ,1203,LONG,false,expert
+JalupaNahuat-49_long-1,49_long,weyak,weyak,w e j a k,158,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,long ,1203,LONG,false,expert
+Pipil-49_long-1,49_long,weyak,weyak,w e j a k,158,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,long ,1203,LONG,false,expert
+ProtoAztecan-49_long-1,49_long,*weheya-k,*weheya-k,w e h e j a + k,158,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,long ,1203,LONG,false,expert
+ClassicalNahuatl-50_louse-1,50_louse,atemi-tl,atemi-tl,a t e m i + tɬ,159,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+TetelcingoNahuatl-50_louse-1,50_louse,atiːmiː-tl,atiːmiː-tl,a t iː m iː + tɬ,159,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+NorthPueblaNahuatl-50_louse-1,50_louse,pioho (Spanish loan),pioho_,p i o h o,175,true,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+MecayapanNahuat-50_louse-1,50_louse,atimiʔ,atimiʔ,a t i m i ʔ,159,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+PajapanNahuat-50_louse-1,50_louse,aːtin,aːtin,aː t i n,159,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+JalupaNahuat-50_louse-1,50_louse,aːtin,aːtin,aː t i n,159,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+Pipil-50_louse-1,50_louse,atime-t,atime-t,a t i m e + t,159,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+Pochutec-50_louse-1,50_louse,atóm-t,atóm-t,a t ó/o m + t,159,true,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+ProtoAztecan-50_louse-1,50_louse,*atɨmɨ-tl,*atɨmɨ-tl,a t ɨ m ɨ + tɬ,159,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,louse ,1392,LOUSE,false,expert
+ClassicalNahuatl-51_man-1,51_man,"taːka-tl, okich-tli",taːka-tl,t aː k a + tɬ,176,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,man ,1554,MAN,false,expert
+TetelcingoNahuatl-51_man-1,51_man,"umbre (Spanish loan), tlöca-tl",umbre_,u m b r e,176,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,man ,1554,MAN,false,expert
+NorthPueblaNahuatl-51_man-1,51_man,tlakatl,tlakatl,tɬ a k a tɬ,176,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,man ,1554,MAN,false,expert
+MecayapanNahuat-51_man-1,51_man,taːga-ʔ,taːga-ʔ,t aː g a + ʔ,176,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,man ,1554,MAN,false,expert
+PajapanNahuat-51_man-1,51_man,taːga-t,taːga-t,t aː g a + t,176,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,man ,1554,MAN,false,expert
+JalupaNahuat-51_man-1,51_man,taːka-t,taːka-t,t aː k a + t,176,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,man ,1554,MAN,false,expert
+Pipil-51_man-1,51_man,taːka-t,taːka-t,t aː k a + t,176,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,man ,1554,MAN,false,expert
+Pochutec-51_man-1,51_man,"okóx-t, teké-t",okóx-t,o k ó/o x + t,176,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,man ,1554,MAN,false,expert
+ProtoAztecan-51_man-1,51_man,*tlaːka-tl,*tlaːka-tl,tɬ aː k a + tɬ,176,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,man ,1554,MAN,false,expert
+ClassicalNahuatl-52_many-1,52_many,miakiːn ~ miakiːntiːn ~ miaktiːn ~ miːmiak,miakiːn,m i a k iː n,177,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,many ,1198,MANY,false,expert
+TetelcingoNahuatl-52_many-1,52_many,meyak,meyak,m e j a k,177,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,many ,1198,MANY,false,expert
+NorthPueblaNahuatl-52_many-1,52_many,miak,miak,m i a k,177,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,many ,1198,MANY,false,expert
+MecayapanNahuat-52_many-1,52_many,"miaʔ (mucho), miakeh (muchos)",miaʔ_,m i a ʔ,177,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,many ,1198,MANY,false,expert
+PajapanNahuat-52_many-1,52_many,miak (muchos),miak_,m i a k,177,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,many ,1198,MANY,false,expert
+JalupaNahuat-52_many-1,52_many,miakpa (muchos),miakpa_,m i a k p a,177,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,many ,1198,MANY,false,expert
+Pipil-52_many-1,52_many,"miyak (mucho, muchos, bastante)",miyak_,m i j a k,177,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,many ,1198,MANY,false,expert
+Pochutec-52_many-1,52_many,"asók (mucho, muchos, muy)",asók_,a s ó/o k,178,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,many ,1198,MANY,false,expert
+ProtoAztecan-52_many-1,52_many,*mɨyak,*mɨyak,m ɨ j a k,177,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,many ,1198,MANY,false,expert
+ClassicalNahuatl-53_meat-1,53_meat,naka-tl,naka-tl,n a k a + tɬ,179,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+TetelcingoNahuatl-53_meat-1,53_meat,naka-tl,naka-tl,n a k a + tɬ,179,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+NorthPueblaNahuatl-53_meat-1,53_meat,naka-tl,naka-tl,n a k a + tɬ,179,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+MecayapanNahuat-53_meat-1,53_meat,naka-ʔ,naka-ʔ,n a k a + ʔ,179,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+PajapanNahuat-53_meat-1,53_meat,naga-t,naga-t,n a g a + t,179,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+JalupaNahuat-53_meat-1,53_meat,naka-t,naka-t,n a k a + t,179,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+Pipil-53_meat-1,53_meat,naka-t,naka-t,n a k a + t,179,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+Pochutec-53_meat-1,53_meat,"neké-t (esta carne está manida), tutú-t (carne para comer)",neké-t_,n e k é/e + t,179,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+ProtoAztecan-53_meat-1,53_meat,*naka-tl,*naka-tl,n a k a + tɬ,179,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,meat ,2615,FLESH OR MEAT,false,expert
+ClassicalNahuatl-54_moon-1,54_moon,meːtz-tli,meːtz-tli,m eː ts + tɬ i,180,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,moon ,1313,MOON,false,expert
+TetelcingoNahuatl-54_moon-1,54_moon,mietz-tliː,mietz-tliː,m i e ts + tɬ iː,180,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,moon ,1313,MOON,false,expert
+NorthPueblaNahuatl-54_moon-1,54_moon,metz-tli,metz-tli,m e ts + tɬ i,180,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,moon ,1313,MOON,false,expert
+MecayapanNahuat-54_moon-1,54_moon,"meːtz-ti, to-yeː-tzin (lit. ‘nuesta madrecita’)",meːtz-ti,m eː ts + t i,180,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,moon ,1313,MOON,false,expert
+PajapanNahuat-54_moon-1,54_moon,"meːs-ti, to-yeː-tzin",meːs-ti,m eː s + t i,180,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,moon ,1313,MOON,false,expert
+JalupaNahuat-54_moon-1,54_moon,meːtz-ti,meːtz-ti,m eː ts + t i,180,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,moon ,1313,MOON,false,expert
+Pipil-54_moon-1,54_moon,meːtz-ti,meːtz-ti,m eː ts + t i,180,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,moon ,1313,MOON,false,expert
+Pochutec-54_moon-1,54_moon,mes-t,mes-t,m e s + t,180,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,moon ,1313,MOON,false,expert
+ProtoAztecan-54_moon-1,54_moon,*meːtz-tlɨ,*meːtz-tlɨ,m eː ts + tɬ ɨ,180,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,moon ,1313,MOON,false,expert
+ClassicalNahuatl-55_mountain-1,55_mountain,tepeː-tl,tepeː-tl,t e p eː + tɬ,181,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+TetelcingoNahuatl-55_mountain-1,55_mountain,tepie-tl,tepie-tl,t e p i e + tɬ,181,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+NorthPueblaNahuatl-55_mountain-1,55_mountain,tepe-tl,tepe-tl,t e p e + tɬ,181,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+MecayapanNahuat-55_mountain-1,55_mountain,tepeː-ʔ,tepeː-ʔ,t e p eː + ʔ,181,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+PajapanNahuat-55_mountain-1,55_mountain,tepeː-t,tepeː-t,t e p eː + t,181,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+Pipil-55_mountain-1,55_mountain,tepeː-t,tepeː-t,t e p eː + t,181,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+ProtoAztecan-55_mountain-1,55_mountain,*tɨpeː-tl,*tɨpeː-tl,t ɨ p eː + tɬ,181,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,mountain ,639,MOUNTAIN,false,expert
+ClassicalNahuatl-56_mouth-1,56_mouth,kam(a)-tl,kam-tl,k a m + tɬ,182,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+TetelcingoNahuatl-56_mouth-1,56_mouth,-kama-k,-kama-k,k a m a + k,182,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+NorthPueblaNahuatl-56_mouth-1,56_mouth,-kama-k,-kama-k,k a m a + k,182,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+MecayapanNahuat-56_mouth-1,56_mouth,-teːn,-teːn,t eː n,183,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+PajapanNahuat-56_mouth-1,56_mouth,-teːn,-teːn,t eː n,183,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+JalupaNahuat-56_mouth-1,56_mouth,-teːn,-teːn,t eː n,183,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+Pipil-56_mouth-1,56_mouth,-teːn,-teːn,t eː n,183,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+Pochutec-56_mouth-1,56_mouth,ten,ten,t e n,183,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+ProtoAztecan-56_mouth-1,56_mouth,*teːn-tlɨ,*teːn-tlɨ,t eː n + tɬ ɨ,183,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,mouth ,674,MOUTH,false,expert
+ClassicalNahuatl-57_name-1,57_name,toːkaː(i)-tl,toːkaː-tl,t oː k aː + tɬ,184,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,name ,1405,NAME,false,expert
+TetelcingoNahuatl-57_name-1,57_name,-tukö,-tukö,t u k ø,184,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,name ,1405,NAME,false,expert
+NorthPueblaNahuatl-57_name-1,57_name,tokah-tli,tokah-tli,t o k a h + tɬ i,184,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,name ,1405,NAME,false,expert
+MecayapanNahuat-57_name-1,57_name,toːkaː-ʔ,toːkaː-ʔ,t oː k aː + ʔ,184,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,name ,1405,NAME,false,expert
+PajapanNahuat-57_name-1,57_name,-toga,-toga,t o g a,184,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,name ,1405,NAME,false,expert
+JalupaNahuat-57_name-1,57_name,tuwa-n,tuwa-n,t u w a + n,184,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,name ,1405,NAME,false,expert
+Pipil-57_name-1,57_name,-tuːkey,-tuːkey,t uː k e j,184,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,name ,1405,NAME,false,expert
+Pochutec-57_name-1,57_name,kul,kul,k u l,185,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,name ,1405,NAME,false,expert
+ProtoAztecan-57_name-1,57_name,*toːkaːhɨ-tl,*toːkaːhɨ-tl,t oː k aː h ɨ + tɬ,184,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,name ,1405,NAME,false,expert
+ClassicalNahuatl-58_neck-1,58_neck,kech-tli,kech-tli,k e tʃ + tɬ i,186,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,neck ,1333,NECK,false,expert
+TetelcingoNahuatl-58_neck-1,58_neck,-kech-kochtla,-kech-kochtla,k e tʃ + k o tʃ tɬ a,186,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,neck ,1333,NECK,false,expert
+NorthPueblaNahuatl-58_neck-1,58_neck,-kech,-kech,k e tʃ,186,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,neck ,1333,NECK,false,expert
+MecayapanNahuat-58_neck-1,58_neck,-kech,-kech,k e tʃ,186,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,neck ,1333,NECK,false,expert
+PajapanNahuat-58_neck-1,58_neck,-geːch,-geːch,g eː tʃ,186,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,neck ,1333,NECK,false,expert
+JalupaNahuat-58_neck-1,58_neck,-kech,-kech,k e tʃ,186,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,neck ,1333,NECK,false,expert
+Pipil-58_neck-1,58_neck,-kech-kuːyu,-kech-kuːyu,k e tʃ + k uː j u,186,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,neck ,1333,NECK,false,expert
+Pochutec-58_neck-1,58_neck,kox-t (pescuezo),kox-t_,k o x + t,186,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,neck ,1333,NECK,false,expert
+ProtoAztecan-58_neck-1,58_neck,*kəch-tlɨ,*kəch-tlɨ,k ə tʃ + tɬ ɨ,186,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,neck ,1333,NECK,false,expert
+ClassicalNahuatl-59_new-1,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,187,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,new ,1231,NEW,false,expert
+TetelcingoNahuatl-59_new-1,59_new,yankwiː-k,yankwiː-k,j a n kʷ iː + k,187,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,new ,1231,NEW,false,expert
+NorthPueblaNahuatl-59_new-1,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,187,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,new ,1231,NEW,false,expert
+MecayapanNahuat-59_new-1,59_new,yamkwi-ʔ,yamkwi-ʔ,j a m kʷ i + ʔ,187,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,new ,1231,NEW,false,expert
+PajapanNahuat-59_new-1,59_new,yambi-k,yambi-k,j a m b i + k,187,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,new ,1231,NEW,false,expert
+JalupaNahuat-59_new-1,59_new,yambwi-k,yambwi-k,j a m b w i + k,187,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,new ,1231,NEW,false,expert
+Pipil-59_new-1,59_new,yankwi-k,yankwi-k,j a n kʷ i + k,187,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,new ,1231,NEW,false,expert
+ProtoAztecan-59_new-1,59_new,*yankwi-k,*yankwi-k,j a n kʷ i + k,187,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,new ,1231,NEW,false,expert
+ClassicalNahuatl-60_night-1,60_night,yowal-li,yowal-li,j o w a l + l i,188,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+TetelcingoNahuatl-60_night-1,60_night,yowaliː,yowaliː,j o w a l iː,188,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+NorthPueblaNahuatl-60_night-1,60_night,yowali,yowali,j o w a l i,188,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+MecayapanNahuat-60_night-1,60_night,yowal,yowal,j o w a l,188,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+PajapanNahuat-60_night-1,60_night,ta-yoá,ta-yoá,t a + j o á/a,189,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+JalupaNahuat-60_night-1,60_night,ta-yuwa-k,ta-yuwa-k,t a + j u w a + k,189,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+Pipil-60_night-1,60_night,ta-yuwa,ta-yuwa,t a + j u w a,189,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+Pochutec-60_night-1,60_night,owél,owél,o w é/e l,188,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+ProtoAztecan-60_night-1,60_night,*yowal-lɨ,*yowal-lɨ,j o w a l + l ɨ,188,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,night ,1233,NIGHT,false,expert
+ClassicalNahuatl-61_nose-1,61_nose,yak(a)-tl,yak-tl,j a k + tɬ,190,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+TetelcingoNahuatl-61_nose-1,61_nose,-yeka-tzol,-yeka-tzol,j e k a + ts o l,190,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+NorthPueblaNahuatl-61_nose-1,61_nose,-yeka-k,-yeka-k,j e k a + k,190,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+MecayapanNahuat-61_nose-1,61_nose,yak-ti,yak-ti,j a k + t i,190,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+PajapanNahuat-61_nose-1,61_nose,yaga-t,yaga-t,j a g a + t,190,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+JalupaNahuat-61_nose-1,61_nose,-yak,-yak,j a k,190,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+Pipil-61_nose-1,61_nose,-yak,-yak,j a k,190,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+Pochutec-61_nose-1,61_nose,yeké-t,yeké-t,j e k é/e + t,190,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+ProtoAztecan-61_nose-1,61_nose,*yaka-tl,*yaka-tl,j a k a + tɬ,190,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,nose ,1221,NOSE,false,expert
+ClassicalNahuatl-62_not-1,62_not,aʔmoː,aʔmoː,a ʔ m oː,191,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,not ,1240,NOT,false,expert
+TetelcingoNahuatl-62_not-1,62_not,amo,amo,a m o,191,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,not ,1240,NOT,false,expert
+NorthPueblaNahuatl-62_not-1,62_not,ahmo,ahmo,a h m o,191,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,not ,1240,NOT,false,expert
+MecayapanNahuat-62_not-1,62_not,"ayaːʔ, amo",ayaːʔ,a j aː ʔ,191,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,not ,1240,NOT,false,expert
+PajapanNahuat-62_not-1,62_not,"amó, ayá, a-té",amó,a m ó/o,192,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,not ,1240,NOT,false,expert
+JalupaNahuat-62_not-1,62_not,te,te,t e,192,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,not ,1240,NOT,false,expert
+Pipil-62_not-1,62_not,teː tesu,teː_tesu,t eː + t e s u,192,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,not ,1240,NOT,false,expert
+Pochutec-62_not-1,62_not,as,as,a s,193,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,not ,1240,NOT,false,expert
+ClassicalNahuatl-63_one-1,63_one,seː (bound form: sem),seː_,s eː,194,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,one ,1493,ONE,false,expert
+TetelcingoNahuatl-63_one-1,63_one,"sie, sen-te",sie,s i e,194,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,one ,1493,ONE,false,expert
+NorthPueblaNahuatl-63_one-1,63_one,seya,seya,s e j a,194,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,one ,1493,ONE,false,expert
+MecayapanNahuat-63_one-1,63_one,seː,seː,s eː,194,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,one ,1493,ONE,false,expert
+PajapanNahuat-63_one-1,63_one,se,se,s e,194,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,one ,1493,ONE,false,expert
+JalupaNahuat-63_one-1,63_one,se,se,s e,194,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,one ,1493,ONE,false,expert
+Pipil-63_one-1,63_one,seː,seː,s eː,194,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,one ,1493,ONE,false,expert
+Pochutec-63_one-1,63_one,se,se,s e,194,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,one ,1493,ONE,false,expert
+ProtoAztecan-63_one-1,63_one,*seː(m),*seː,s eː,194,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,one ,1493,ONE,false,expert
+ClassicalNahuatl-64_person-1,64_person,tlaːka-tl,tlaːka-tl,tɬ aː k a + tɬ,207,true,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,person ,683,PERSON,false,expert
+TetelcingoNahuatl-64_person-1,64_person,"hiente (Spanish loan), tlöka",hiente_,h i e n t e,208,true,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,person ,683,PERSON,false,expert
+MecayapanNahuat-64_person-1,64_person,hente (Spanish loan),hente_,h e n t e,209,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,person ,683,PERSON,false,expert
+PajapanNahuat-64_person-1,64_person,kristianoh (Spanish loan),kristianoh_,k r i s t i a n o h,210,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,person ,683,PERSON,false,expert
+JalupaNahuat-64_person-1,64_person,yohomeh,yohomeh,j o h o m e h,211,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,person ,683,PERSON,false,expert
+Pipil-64_person-1,64_person,kristanuh (Spanish loan),kristanuh_,k r i s t a n u h,212,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,person ,683,PERSON,false,expert
+ClassicalNahuatl-65_rain-1,65_rain,kiyaw(i)-tl,kiyaw-tl,k i j a w + tɬ,213,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+TetelcingoNahuatl-65_rain-1,65_rain,kiːyabiː-tl,kiːyabiː-tl,k iː j a b iː + tɬ,213,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+NorthPueblaNahuatl-65_rain-1,65_rain,kiyawi-tl,kiyawi-tl,k i j a w i + tɬ,213,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+MecayapanNahuat-65_rain-1,65_rain,kiahuaː-ʔ ~ tiahuaː-ʔ,kiahuaː-ʔ,k i a h u aː + ʔ,213,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+PajapanNahuat-65_rain-1,65_rain,aː-tzona-t,aː-tzona-t,aː + ts o n a + t,214,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+JalupaNahuat-65_rain-1,65_rain,chimaː-t,chimaː-t,tʃ i m aː + t,215,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+Pipil-65_rain-1,65_rain,aː-t,aː-t,aː + t,216,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+Pochutec-65_rain-1,65_rain,yek-t,yek-t,j e k + t,217,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,rain ,2108,RAINING OR RAIN,false,expert
+ClassicalNahuatl-66_red-1,66_red,chiː-chiːl-tik (cf. chi:l-li ‘chili pepper’),chiː-chiːl-tik_,tʃ iː + tʃ iː l + t i k,218,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,red ,156,RED,false,expert
+TetelcingoNahuatl-66_red-1,66_red,chi-chi-ltiːk,chi-chi-ltiːk,tʃ i + tʃ i + l t iː k,218,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,red ,156,RED,false,expert
+NorthPueblaNahuatl-66_red-1,66_red,chi-chil-tik,chi-chil-tik,tʃ i + tʃ i l + t i k,218,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,red ,156,RED,false,expert
+MecayapanNahuat-66_red-1,66_red,chiːl-tiʔ,chiːl-tiʔ,tʃ iː l + t i ʔ,218,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,red ,156,RED,false,expert
+PajapanNahuat-66_red-1,66_red,ta-tawi-k (cf. CNa tla:w(i)-tl ‘red ochre’),ta-tawi-k_,t a + t a w i + k,219,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,red ,156,RED,false,expert
+JalupaNahuat-66_red-1,66_red,traik,traik,t r a i k,219,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,red ,156,RED,false,expert
+Pipil-66_red-1,66_red,chiːl-tik,chiːl-tik,tʃ iː l + t i k,218,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,red ,156,RED,false,expert
+ProtoAztecan-66_red-1,66_red,*chiːl-tɨ-k ?,*chiːl-tɨ-k_?,tʃ iː l + t ɨ + k,218,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,red ,156,RED,false,expert
+ClassicalNahuatl-67_road-1,67_road,oʔ-tli,oʔ-tli,o ʔ + tɬ i,220,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,road ,667,ROAD,false,expert
+TetelcingoNahuatl-67_road-1,67_road,oh-tliː,oh-tliː,o h + tɬ iː,220,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,road ,667,ROAD,false,expert
+NorthPueblaNahuatl-67_road-1,67_road,oh-tli,oh-tli,o h + tɬ i,220,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,road ,667,ROAD,false,expert
+MecayapanNahuat-67_road-1,67_road,oh-ti,oh-ti,o h + t i,220,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,road ,667,ROAD,false,expert
+PajapanNahuat-67_road-1,67_road,oh-ti,oh-ti,o h + t i,220,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,road ,667,ROAD,false,expert
+JalupaNahuat-67_road-1,67_road,uh-ti,uh-ti,u h + t i,220,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,road ,667,ROAD,false,expert
+Pipil-67_road-1,67_road,uh-ti,uh-ti,u h + t i,220,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,road ,667,ROAD,false,expert
+Pochutec-67_road-1,67_road,ot’kán,ot’kán,o tʼ k á/a n,220,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,road ,667,ROAD,false,expert
+ProtoAztecan-67_road-1,67_road,*oh-tlɨ,*oh-tlɨ,o h + tɬ ɨ,220,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,road ,667,ROAD,false,expert
+ClassicalNahuatl-68_root-1,68_root,nelwa-tl,nelwa-tl,n e l w a + tɬ,221,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,root ,670,ROOT,false,expert
+TetelcingoNahuatl-68_root-1,68_root,nelwa-yu-tl,nelwa-yu-tl,n e l w a + j u + tɬ,221,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,root ,670,ROOT,false,expert
+NorthPueblaNahuatl-68_root-1,68_root,nelwa-tl,nelwa-tl,n e l w a + tɬ,221,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,root ,670,ROOT,false,expert
+MecayapanNahuat-68_root-1,68_root,nelwa-ʔ,nelwa-ʔ,n e l w a + ʔ,221,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,root ,670,ROOT,false,expert
+PajapanNahuat-68_root-1,68_root,ba-takson,ba-takson,b a + t a k s o n,222,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,root ,670,ROOT,false,expert
+JalupaNahuat-68_root-1,68_root,talwa-t,talwa-t,t a l w a + t,223,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,root ,670,ROOT,false,expert
+Pipil-68_root-1,68_root,nelwa-t,nelwa-t,n e l w a + t,221,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,root ,670,ROOT,false,expert
+ProtoAztecan-68_root-1,68_root,*nelwa-tl ?,*nelwa-tl_?,n e l w a + tɬ,221,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,root ,670,ROOT,false,expert
+ClassicalNahuatl-69_round-1,69_round,yawal-tik (cosa redonda como rodela),yawal-tik_,j a w a l + t i k,224,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,round ,1395,ROUND,false,expert
+TetelcingoNahuatl-69_round-1,69_round,yewal-tiːk,yewal-tiːk,j e w a l + t iː k,224,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,round ,1395,ROUND,false,expert
+NorthPueblaNahuatl-69_round-1,69_round,yewal-tik,yewal-tik,j e w a l + t i k,224,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,round ,1395,ROUND,false,expert
+MecayapanNahuat-69_round-1,69_round,"yawal-tiʔ (plano), mimil-tiʔ (esférico)",yawal-tiʔ_,j a w a l + t i ʔ,224,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,round ,1395,ROUND,false,expert
+PajapanNahuat-69_round-1,69_round,monso (a loan?),monso_,m o n s o,225,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,round ,1395,ROUND,false,expert
+JalupaNahuat-69_round-1,69_round,tulutz-tik,tulutz-tik,t u l u ts + t i k,226,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,round ,1395,ROUND,false,expert
+Pipil-69_round-1,69_round,"yawal-nah (circular), mi-mil-nah (rollizo), ul-ul-nah (esférico)",yawal-nah_,j a w a l + n a h,224,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,round ,1395,ROUND,false,expert
+ProtoAztecan-69_round-1,69_round,*yawal-tɨ-k ?,*yawal-tɨ-k_?,j a w a l + t ɨ + k,224,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,round ,1395,ROUND,false,expert
+ClassicalNahuatl-70_sand-1,70_sand,xaːl-li,xaːl-li,x aː l + l i,227,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,sand ,671,SAND,false,expert
+TetelcingoNahuatl-70_sand-1,70_sand,xöliː,xöliː,x ø l iː,227,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,sand ,671,SAND,false,expert
+NorthPueblaNahuatl-70_sand-1,70_sand,xali,xali,x a l i,227,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,sand ,671,SAND,false,expert
+MecayapanNahuat-70_sand-1,70_sand,xaːhli,xaːhli,x aː h l i,227,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,sand ,671,SAND,false,expert
+PajapanNahuat-70_sand-1,70_sand,xaːhli,xaːhli,x aː h l i,227,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,sand ,671,SAND,false,expert
+JalupaNahuat-70_sand-1,70_sand,xaːhli,xaːhli,x aː h l i,227,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,sand ,671,SAND,false,expert
+Pipil-70_sand-1,70_sand,aː-xaːl,aː-xaːl,aː + x aː l,227,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,sand ,671,SAND,false,expert
+ProtoAztecan-70_sand-1,70_sand,*xaːl-lɨ,*xaːl-lɨ,x aː l + l ɨ,227,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,sand ,671,SAND,false,expert
+ClassicalNahuatl-71_say-1,71_say,"(i)ʔtoaː (to say something), (i)lwiaː (to say something to someone)",ʔtoaː_,ʔ t o aː,228,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,say ,1458,SAY,false,expert
+TetelcingoNahuatl-71_say-1,71_say,-htoa,-htoa,ʰt o a,228,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,say ,1458,SAY,false,expert
+NorthPueblaNahuatl-71_say-1,71_say,-ihtoa,-ihtoa,i h t o a,228,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,say ,1458,SAY,false,expert
+MecayapanNahuat-71_say-1,71_say,"k-ihtoa, k-ihliá (algo a alguien)",k-ihtoa,k + i h t o a,228,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,say ,1458,SAY,false,expert
+PajapanNahuat-71_say-1,71_say,"-ihtoa, -ihlia",-ihtoa,i h t o a,228,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,say ,1458,SAY,false,expert
+JalupaNahuat-71_say-1,71_say,-ihli,-ihli,i h l i,229,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,say ,1458,SAY,false,expert
+Pipil-71_say-1,71_say,ilwia,ilwia,i l w i a,229,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,say ,1458,SAY,false,expert
+Pochutec-71_say-1,71_say,"ití (decirle), nuká (de- cirlo)",ití_,i t í/i,230,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,say ,1458,SAY,false,expert
+ClassicalNahuatl-72_see-1,72_see,(i)tta,tta,t t a,231,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,see ,1409,SEE,false,expert
+TetelcingoNahuatl-72_see-1,72_see,-hta,-hta,ʰt a,231,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,see ,1409,SEE,false,expert
+NorthPueblaNahuatl-72_see-1,72_see,-ita,-ita,i t a,231,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,see ,1409,SEE,false,expert
+MecayapanNahuat-72_see-1,72_see,-ita,-ita,i t a,231,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,see ,1409,SEE,false,expert
+PajapanNahuat-72_see-1,72_see,-ita,-ita,i t a,231,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,see ,1409,SEE,false,expert
+JalupaNahuat-72_see-1,72_see,-ira,-ira,i r a,231,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,see ,1409,SEE,false,expert
+Pipil-72_see-1,72_see,ita,ita,i t a,231,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,see ,1409,SEE,false,expert
+Pochutec-72_see-1,72_see,itá,itá,i t á/a,231,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,see ,1409,SEE,false,expert
+ProtoAztecan-72_see-1,72_see,*­ɨhta,*ɨhta,ɨ h t a,231,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,see ,1409,SEE,false,expert
+ClassicalNahuatl-73_seed-1,73_seed,ach-tli,ach-tli,a tʃ + tɬ i,232,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,seed ,714,SEED,false,expert
+TetelcingoNahuatl-73_seed-1,73_seed,xiːn-öch-tliː,xiːn-öch-tliː,x iː n + ø tʃ + tɬ iː,232,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,seed ,714,SEED,false,expert
+NorthPueblaNahuatl-73_seed-1,73_seed,"achtli, xin-achtli",achtli,a tʃ tɬ i,232,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,seed ,714,SEED,false,expert
+MecayapanNahuat-73_seed-1,73_seed,-yoːl,-yoːl,j oː l,233,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,seed ,714,SEED,false,expert
+PajapanNahuat-73_seed-1,73_seed,-yoːl,-yoːl,j oː l,233,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,seed ,714,SEED,false,expert
+JalupaNahuat-73_seed-1,73_seed,yuhlu,yuhlu,j u h l u,233,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,seed ,714,SEED,false,expert
+Pipil-73_seed-1,73_seed,iːx,iːx,iː x,234,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,seed ,714,SEED,false,expert
+Pochutec-73_seed-1,73_seed,ax-t (cf. /no/-achú ‘mi semilla’),ax-t_,a x + t,232,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,seed ,714,SEED,false,expert
+ProtoAztecan-73_seed-1,73_seed,*aːch-tlɨ,*aːch-tlɨ,aː tʃ + tɬ ɨ,232,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,seed ,714,SEED,false,expert
+ClassicalNahuatl-74_sit-1,74_sit,mo-tlaːliaː,mo-tlaːliaː,m o + tɬ aː l i aː,235,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,sit ,1416,SIT,false,expert
+TetelcingoNahuatl-74_sit-1,74_sit,mo-tlöliːa,mo-tlöliːa,m o + tɬ ø l iː a,235,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,sit ,1416,SIT,false,expert
+NorthPueblaNahuatl-74_sit-1,74_sit,mo-tlalia,mo-tlalia,m o + tɬ a l i a,235,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,sit ,1416,SIT,false,expert
+MecayapanNahuat-74_sit-1,74_sit,mo-taːliá,mo-taːliá,m o + t aː l i á/a,235,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,sit ,1416,SIT,false,expert
+PajapanNahuat-74_sit-1,74_sit,mo-taːli/mo-tzogoloa,mo-taːli,m o + t aː l i,235,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,sit ,1416,SIT,false,expert
+JalupaNahuat-74_sit-1,74_sit,mu-ralih-tuk (sentado),mu-ralih-tuk_,m u + r a l i h + t u k,235,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,sit ,1416,SIT,false,expert
+Pipil-74_sit-1,74_sit,mu-taːlia,mu-taːlia,m u + t aː l i a,235,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,sit ,1416,SIT,false,expert
+Pochutec-74_sit-1,74_sit,metzá,metzá,m e ts á/a,236,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,sit ,1416,SIT,false,expert
+ProtoAztecan-74_sit-1,74_sit,*mo-tlalɨ-ha,*mo-tlalɨ-ha,m o + tɬ a l ɨ + h a,235,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,sit ,1416,SIT,false,expert
+ClassicalNahuatl-75_skin-1,75_skin,eːwa-tl,eːwa-tl,eː w a + tɬ,237,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,skin ,763,SKIN,false,expert
+TetelcingoNahuatl-75_skin-1,75_skin,"-yewayo, -kwiːtlaxkol",-yewayo,j e w a j o,237,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,skin ,763,SKIN,false,expert
+NorthPueblaNahuatl-75_skin-1,75_skin,-yewayo,-yewayo,j e w a j o,237,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,skin ,763,SKIN,false,expert
+MecayapanNahuat-75_skin-1,75_skin,kahloː-ʔ,kahloː-ʔ,k a h l oː + ʔ,238,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,skin ,763,SKIN,false,expert
+PajapanNahuat-75_skin-1,75_skin,-betax,-betax,b e t a x,239,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,skin ,763,SKIN,false,expert
+JalupaNahuat-75_skin-1,75_skin,bwéraxti,bwéraxti,b w é/e r a x t i,239,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,skin ,763,SKIN,false,expert
+Pipil-75_skin-1,75_skin,-eːwayu,-eːwayu,eː w a j u,237,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,skin ,763,SKIN,false,expert
+Pochutec-75_skin-1,75_skin,kwetéx-t,kwetéx-t,kʷ e t é/e x + t,239,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,skin ,763,SKIN,false,expert
+ProtoAztecan-75_skin-1,75_skin,*eːwa-tl,*eːwa-tl,eː w a + tɬ,237,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,skin ,763,SKIN,false,expert
+ClassicalNahuatl-76_sleep-1,76_sleep,koch(i),koch,k o tʃ,240,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+TetelcingoNahuatl-76_sleep-1,76_sleep,kochiː,kochiː,k o tʃ iː,240,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+NorthPueblaNahuatl-76_sleep-1,76_sleep,kochi,kochi,k o tʃ i,240,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+MecayapanNahuat-76_sleep-1,76_sleep,kochi,kochi,k o tʃ i,240,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+PajapanNahuat-76_sleep-1,76_sleep,-gochi,-gochi,g o tʃ i,240,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+JalupaNahuat-76_sleep-1,76_sleep,-kuchi,-kuchi,k u tʃ i,240,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+Pipil-76_sleep-1,76_sleep,kuchi,kuchi,k u tʃ i,240,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+Pochutec-76_sleep-1,76_sleep,kochí,kochí,k o tʃ í/i,240,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+ProtoAztecan-76_sleep-1,76_sleep,*kochɨ,*kochɨ,k o tʃ ɨ,240,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,sleep ,1585,SLEEP,false,expert
+ClassicalNahuatl-77_small-1,77_small,"tepi-toːn, tepi-tzin",tepi-toːn,t e p i + t oː n,241,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,small ,1246,SMALL,false,expert
+TetelcingoNahuatl-77_small-1,77_small,tzitziːkiː-tzi,tzitziːkiː-tzi,ts i ts iː k iː + ts i,242,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,small ,1246,SMALL,false,expert
+NorthPueblaNahuatl-77_small-1,77_small,kitzinin,kitzinin,k i ts i n i n,243,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,small ,1246,SMALL,false,expert
+MecayapanNahuat-77_small-1,77_small,aliːm-pa,aliːm-pa,a l iː m + p a,244,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,small ,1246,SMALL,false,expert
+PajapanNahuat-77_small-1,77_small,chihchinti-tzin,chihchinti-tzin,tʃ i h tʃ i n t i + ts i n,245,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,small ,1246,SMALL,false,expert
+JalupaNahuat-77_small-1,77_small,tziri-tuk,tziri-tuk,ts i r i + t u k,246,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,small ,1246,SMALL,false,expert
+Pipil-77_small-1,77_small,"achih-chin, atzih-tzin",achih-chin,a tʃ i h + tʃ i n,247,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,small ,1246,SMALL,false,expert
+Pochutec-77_small-1,77_small,"nixtún (pequeño, poquito), túchi (pequeño)",nixtún_,n i x t ú/u n,248,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,small ,1246,SMALL,false,expert
+ClassicalNahuatl-78_smoke-1,78_smoke,poːk-tli,poːk-tli,p oː k + tɬ i,249,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+TetelcingoNahuatl-78_smoke-1,78_smoke,puk-tliː,puk-tliː,p u k + tɬ iː,249,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+NorthPueblaNahuatl-78_smoke-1,78_smoke,pok-tli,pok-tli,p o k + tɬ i,249,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+MecayapanNahuat-78_smoke-1,78_smoke,poːk-ti,poːk-ti,p oː k + t i,249,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+PajapanNahuat-78_smoke-1,78_smoke,poːk-ti,poːk-ti,p oː k + t i,249,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+JalupaNahuat-78_smoke-1,78_smoke,puːk-ti,puːk-ti,p uː k + t i,249,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+Pipil-78_smoke-1,78_smoke,puk-ti,puk-ti,p u k + t i,249,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+Pochutec-78_smoke-1,78_smoke,a-potók-t,a-potók-t,a + p o t ó/o k + t,250,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+ProtoAztecan-78_smoke-1,78_smoke,*poːk-tlɨ ?,*poːk-tlɨ_?,p oː k + tɬ ɨ,249,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,smoke ,778,SMOKE (EXHAUST),false,expert
+ClassicalNahuatl-79_stand-1,79_stand,mo-ketza(a),mo-ketza,m o + k e ts a,251,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,stand ,1442,STAND,false,expert
+TetelcingoNahuatl-79_stand-1,79_stand,mo-ketza,mo-ketza,m o + k e ts a,251,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,stand ,1442,STAND,false,expert
+NorthPueblaNahuatl-79_stand-1,79_stand,"mo-tel-ketza, mo-ketza",mo-tel-ketza,m o + t e l + k e ts a,251,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,stand ,1442,STAND,false,expert
+MecayapanNahuat-79_stand-1,79_stand,mo-ketza,mo-ketza,m o + k e ts a,251,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,stand ,1442,STAND,false,expert
+PajapanNahuat-79_stand-1,79_stand,mo-getza,mo-getza,m o + g e ts a,251,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,stand ,1442,STAND,false,expert
+JalupaNahuat-79_stand-1,79_stand,ihkatuk (parado),ihkatuk_,i h k a t u k,267,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,stand ,1442,STAND,false,expert
+Pipil-79_stand-1,79_stand,mu-ketza,mu-ketza,m u + k e ts a,251,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,stand ,1442,STAND,false,expert
+Pochutec-79_stand-1,79_stand,x-mo-ktzé (¡Párate!),x-mo-ktzé_,x + m o + k ts é/e,251,true,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,stand ,1442,STAND,false,expert
+ProtoAztecan-79_stand-1,79_stand,*kɨtza,*kɨtza,k ɨ ts a,251,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,stand ,1442,STAND,false,expert
+ClassicalNahuatl-80_star-1,80_star,siːtlal-in,siːtlal-in,s iː tɬ a l + i n,268,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,star ,1430,STAR,false,expert
+TetelcingoNahuatl-80_star-1,80_star,sitlaliː,sitlaliː,s i tɬ a l iː,268,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,star ,1430,STAR,false,expert
+NorthPueblaNahuatl-80_star-1,80_star,sitlali,sitlali,s i tɬ a l i,268,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,star ,1430,STAR,false,expert
+MecayapanNahuat-80_star-1,80_star,siːtalin,siːtalin,s iː t a l i n,268,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,star ,1430,STAR,false,expert
+PajapanNahuat-80_star-1,80_star,lusero (Spanish loan),lusero_,l u s e r o,282,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,star ,1430,STAR,false,expert
+JalupaNahuat-80_star-1,80_star,siːtal,siːtal,s iː t a l,268,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,star ,1430,STAR,false,expert
+Pipil-80_star-1,80_star,siːtal,siːtal,s iː t a l,268,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,star ,1430,STAR,false,expert
+ProtoAztecan-80_star-1,80_star,*sitlalɨ-m,*sitlalɨ-m,s i tɬ a l ɨ + m,268,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,star ,1430,STAR,false,expert
+ClassicalNahuatl-81_stone-1,81_stone,te-tl,te-tl,t e + tɬ,283,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,stone ,857,STONE,false,expert
+TetelcingoNahuatl-81_stone-1,81_stone,tie-te-tu,tie-te-tu,t i e + t e + t u,283,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,stone ,857,STONE,false,expert
+NorthPueblaNahuatl-81_stone-1,81_stone,te-tl,te-tl,t e + tɬ,283,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,stone ,857,STONE,false,expert
+MecayapanNahuat-81_stone-1,81_stone,teʔ-ti,teʔ-ti,t e ʔ + t i,283,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,stone ,857,STONE,false,expert
+PajapanNahuat-81_stone-1,81_stone,te-t,te-t,t e + t,283,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,stone ,857,STONE,false,expert
+JalupaNahuat-81_stone-1,81_stone,xaːl-te-t,xaːl-te-t,x aː l + t e + t,283,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,stone ,857,STONE,false,expert
+Pipil-81_stone-1,81_stone,te-t,te-t,t e + t,283,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,stone ,857,STONE,false,expert
+Pochutec-81_stone-1,81_stone,to-t,to-t,t o + t,283,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,stone ,857,STONE,false,expert
+ProtoAztecan-81_stone-1,81_stone,*tə-tl,*tə-tl,t ə + tɬ,283,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,stone ,857,STONE,false,expert
+ClassicalNahuatl-82_sun-1,82_sun,toːna-tiw,toːna-tiw,t oː n a + t i w,284,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,sun ,1343,SUN,false,expert
+TetelcingoNahuatl-82_sun-1,82_sun,tunaliː,tunaliː,t u n a l iː,284,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,sun ,1343,SUN,false,expert
+NorthPueblaNahuatl-82_sun-1,82_sun,tonal-tzin-tli,tonal-tzin-tli,t o n a l + ts i n + tɬ i,284,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,sun ,1343,SUN,false,expert
+MecayapanNahuat-82_sun-1,82_sun,to-tah-tziːn (lit. ‘our little (rever.) father’),to-tah-tziːn_,t o + t a h + ts iː n,285,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,sun ,1343,SUN,false,expert
+PajapanNahuat-82_sun-1,82_sun,toːnati,toːnati,t oː n a t i,284,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,sun ,1343,SUN,false,expert
+JalupaNahuat-82_sun-1,82_sun,rontin,rontin,r o n t i n,284,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,sun ,1343,SUN,false,expert
+Pipil-82_sun-1,82_sun,tuːnal,tuːnal,t uː n a l,284,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,sun ,1343,SUN,false,expert
+Pochutec-82_sun-1,82_sun,tunél,tunél,t u n é/e l,284,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,sun ,1343,SUN,false,expert
+ClassicalNahuatl-83_swim-1,83_swim,"aː-wilaːn(a), m-aː-neloaː",aː-wilaːn,aː + w i l aː n,286,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,swim ,1439,SWIM,false,expert
+TetelcingoNahuatl-83_swim-1,83_swim,m-ö-biːlöna,m-ö-biːlöna,m + ø + b iː l ø n a,286,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,swim ,1439,SWIM,false,expert
+NorthPueblaNahuatl-83_swim-1,83_swim,m-al-tiya,m-al-tiya,m + a l + t i j a,287,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,swim ,1439,SWIM,false,expert
+MecayapanNahuat-83_swim-1,83_swim,"aː-pataːni (water-fly), aː-hkitiá (ir flotando)",aː-pataːni_,aː + p a t aː n i,288,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,swim ,1439,SWIM,false,expert
+PajapanNahuat-83_swim-1,83_swim,-aːhkia,-aːhkia,aː h k i a,288,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,swim ,1439,SWIM,false,expert
+ClassicalNahuatl-84_tail-1,84_tail,kwitlapil-li,kwitlapil-li,kʷ i tɬ a p i l + l i,289,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+TetelcingoNahuatl-84_tail-1,84_tail,-kwiːtlapiːl,-kwiːtlapiːl,kʷ iː tɬ a p iː l,289,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+NorthPueblaNahuatl-84_tail-1,84_tail,-kwitlapil,-kwitlapil,kʷ i tɬ a p i l,289,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+MecayapanNahuat-84_tail-1,84_tail,kwitapiːl,kwitapiːl,kʷ i t a p iː l,289,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+PajapanNahuat-84_tail-1,84_tail,-bitapil,-bitapil,b i t a p i l,289,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+JalupaNahuat-84_tail-1,84_tail,-bwirapil,-bwirapil,b w i r a p i l,289,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+Pipil-84_tail-1,84_tail,-kwitlapil,-kwitlapil,kʷ i tɬ a p i l,289,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+ProtoAztecan-84_tail-1,84_tail,*-kwitla-pɨl,*-kwitla-pɨl,kʷ i tɬ a + p ɨ l,289,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,tail ,1220,TAIL,false,expert
+ClassicalNahuatl-85_that-1,85_that,in-oːn,in-oːn,i n + oː n,290,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,that ,78,THAT,false,expert
+TetelcingoNahuatl-85_that-1,85_that,"iːn-u, nieka, iːnu nieka",iːn-u,iː n + u,290,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,that ,78,THAT,false,expert
+NorthPueblaNahuatl-85_that-1,85_that,in-on,in-on,i n + o n,290,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,that ,78,THAT,false,expert
+MecayapanNahuat-85_that-1,85_that,in-eːpa,in-eːpa,i n + eː p a,291,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,that ,78,THAT,false,expert
+PajapanNahuat-85_that-1,85_that,hoːn,hoːn,h oː n,290,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,that ,78,THAT,false,expert
+JalupaNahuat-85_that-1,85_that,huːni,huːni,h uː n i,290,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,that ,78,THAT,false,expert
+Pipil-85_that-1,85_that,uni,uni,u n i,290,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,that ,78,THAT,false,expert
+Pochutec-85_that-1,85_that,namél,namél,n a m é/e l,292,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,that ,78,THAT,false,expert
+ProtoAztecan-85_that-1,85_that,*oːn- ?,*oːn-_?,oː n,290,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,that ,78,THAT,false,expert
+ClassicalNahuatl-86_this-1,86_this,in-iːn,in-iːn,i n + iː n,293,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,this ,1214,THIS,false,expert
+TetelcingoNahuatl-86_this-1,86_this,"in-i, nönka, in-i nönka",in-i,i n + i,293,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,this ,1214,THIS,false,expert
+NorthPueblaNahuatl-86_this-1,86_this,in-in,in-in,i n + i n,293,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,this ,1214,THIS,false,expert
+MecayapanNahuat-86_this-1,86_this,in-iːn,in-iːn,i n + iː n,293,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,this ,1214,THIS,false,expert
+PajapanNahuat-86_this-1,86_this,hiːn,hiːn,h iː n,293,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,this ,1214,THIS,false,expert
+JalupaNahuat-86_this-1,86_this,hiːni,hiːni,h iː n i,293,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,this ,1214,THIS,false,expert
+Pipil-86_this-1,86_this,ini,ini,i n i,293,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,this ,1214,THIS,false,expert
+Pochutec-86_this-1,86_this,iná,iná,i n á/a,293,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,this ,1214,THIS,false,expert
+ProtoAztecan-86_this-1,86_this,*in- ?,*in-_?,i n,293,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,this ,1214,THIS,false,expert
+ClassicalNahuatl-87_thou-1,87_thou,teʔwaː-tl,teʔwaː-tl,t e ʔ w aː + tɬ,294,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,thou ,1215,THOU,false,expert
+TetelcingoNahuatl-87_thou-1,87_thou,taha,taha,t a h a,294,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,thou ,1215,THOU,false,expert
+NorthPueblaNahuatl-87_thou-1,87_thou,tehwa,tehwa,t e h w a,294,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,thou ,1215,THOU,false,expert
+MecayapanNahuat-87_thou-1,87_thou,teh,teh,t e h,294,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,thou ,1215,THOU,false,expert
+PajapanNahuat-87_thou-1,87_thou,teha,teha,t e h a,294,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,thou ,1215,THOU,false,expert
+JalupaNahuat-87_thou-1,87_thou,tehe,tehe,t e h e,294,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,thou ,1215,THOU,false,expert
+Pipil-87_thou-1,87_thou,ta(h) ~ taha,ta,t a,294,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,thou ,1215,THOU,false,expert
+Pochutec-87_thou-1,87_thou,mwen,mwen,m w e n,295,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,thou ,1215,THOU,false,expert
+ProtoAztecan-87_thou-1,87_thou,*təha,*təha,t ə h a,294,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,thou ,1215,THOU,false,expert
+ClassicalNahuatl-88_tongue-1,88_tongue,nene-pil-li,nene-pil-li,n e n e + p i l + l i,296,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+TetelcingoNahuatl-88_tongue-1,88_tongue,-nenepiːl,-nenepiːl,n e n e p iː l,296,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+NorthPueblaNahuatl-88_tongue-1,88_tongue,-nenepil,-nenepil,n e n e p i l,296,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+MecayapanNahuat-88_tongue-1,88_tongue,lenwa (Spanish loan),lenwa_,l e n w a,312,true,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+PajapanNahuat-88_tongue-1,88_tongue,-nenepil,-nenepil,n e n e p i l,296,true,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+JalupaNahuat-88_tongue-1,88_tongue,-neːnepil,-neːnepil,n eː n e p i l,296,true,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+Pipil-88_tongue-1,88_tongue,-nenepil,-nenepil,n e n e p i l,296,true,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+Pochutec-88_tongue-1,88_tongue,nenepíl,nenepíl,n e n e p í/i l,296,true,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+ProtoAztecan-88_tongue-1,88_tongue,*-nɨnɨ-pɨl,*-nɨnɨ-pɨl,n ɨ n ɨ + p ɨ l,296,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,tongue ,1205,TONGUE,false,expert
+ClassicalNahuatl-89_tooth-1,89_tooth,tlan-tli,tlan-tli,tɬ a n + tɬ i,313,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+TetelcingoNahuatl-89_tooth-1,89_tooth,-tlan-koch,-tlan-koch,tɬ a n + k o tʃ,313,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+NorthPueblaNahuatl-89_tooth-1,89_tooth,-tlan,-tlan,tɬ a n,313,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+MecayapanNahuat-89_tooth-1,89_tooth,tan-ti,tan-ti,t a n + t i,313,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+PajapanNahuat-89_tooth-1,89_tooth,-tan,-tan,t a n,313,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+JalupaNahuat-89_tooth-1,89_tooth,-taːn,-taːn,t aː n,313,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+Pipil-89_tooth-1,89_tooth,-tan,-tan,t a n,313,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+ProtoAztecan-89_tooth-1,89_tooth,*-tlan,*-tlan,tɬ a n,313,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,tooth ,1380,TOOTH,false,expert
+ClassicalNahuatl-90_tree-1,90_tree,kwaw(i)-tl,kwaw-tl,kʷ a w + tɬ,314,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,tree ,906,TREE,false,expert
+TetelcingoNahuatl-90_tree-1,90_tree,kwabiː-tl,kwabiː-tl,kʷ a b iː + tɬ,314,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,tree ,906,TREE,false,expert
+NorthPueblaNahuatl-90_tree-1,90_tree,kowi-tl,kowi-tl,k o w i + tɬ,314,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,tree ,906,TREE,false,expert
+MecayapanNahuat-90_tree-1,90_tree,kwawi-ʔ,kwawi-ʔ,kʷ a w i + ʔ,314,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,tree ,906,TREE,false,expert
+PajapanNahuat-90_tree-1,90_tree,bawi-t,bawi-t,b a w i + t,314,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,tree ,906,TREE,false,expert
+JalupaNahuat-90_tree-1,90_tree,koi-t,koi-t,k o i + t,314,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,tree ,906,TREE,false,expert
+Pipil-90_tree-1,90_tree,kwawi-t,kwawi-t,kʷ a w i + t,314,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,tree ,906,TREE,false,expert
+Pochutec-90_tree-1,90_tree,kwagú-t,kwagú-t,kʷ a g ú/u + t,314,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,tree ,906,TREE,false,expert
+ProtoAztecan-90_tree-1,90_tree,*kwa-wɨ-tl,*kwa-wɨ-tl,kʷ a + w ɨ + tɬ,314,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,tree ,906,TREE,false,expert
+ClassicalNahuatl-91_two-1,91_two,oːme,oːme,oː m e,315,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,two ,1498,TWO,false,expert
+TetelcingoNahuatl-91_two-1,91_two,ume,ume,u m e,315,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,two ,1498,TWO,false,expert
+NorthPueblaNahuatl-91_two-1,91_two,ome,ome,o m e,315,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,two ,1498,TWO,false,expert
+MecayapanNahuat-91_two-1,91_two,oːme,oːme,oː m e,315,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,two ,1498,TWO,false,expert
+PajapanNahuat-91_two-1,91_two,oːme,oːme,oː m e,315,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,two ,1498,TWO,false,expert
+JalupaNahuat-91_two-1,91_two,uːme,uːme,uː m e,315,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,two ,1498,TWO,false,expert
+Pipil-91_two-1,91_two,uːme,uːme,uː m e,315,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,two ,1498,TWO,false,expert
+Pochutec-91_two-1,91_two,omém,omém,o m é/e m,315,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,two ,1498,TWO,false,expert
+ProtoAztecan-91_two-1,91_two,*oːmə,*oːmə,oː m ə,315,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,two ,1498,TWO,false,expert
+ClassicalNahuatl-92_walkgo-1,92_walkgo,neʔ-nemi,neʔ-nemi,n e ʔ + n e m i,316,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+TetelcingoNahuatl-92_walkgo-1,92_walkgo,neh-nemiː,neh-nemiː,n e h + n e m iː,316,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+NorthPueblaNahuatl-92_walkgo-1,92_walkgo,neh-nemi,neh-nemi,n e h + n e m i,316,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+MecayapanNahuat-92_walkgo-1,92_walkgo,neh-nemi,neh-nemi,n e h + n e m i,316,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+PajapanNahuat-92_walkgo-1,92_walkgo,neh-nemi,neh-nemi,n e h + n e m i,316,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+JalupaNahuat-92_walkgo-1,92_walkgo,neh-nemi,neh-nemi,n e h + n e m i,316,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+Pipil-92_walkgo-1,92_walkgo,neh-nemi,neh-nemi,n e h + n e m i,316,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+Pochutec-92_walkgo-1,92_walkgo,uí,uí,u í/i,317,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+ProtoAztecan-92_walkgo-1,92_walkgo,*nɨh-nɨmi,*nɨh-nɨmi,n ɨ h + n ɨ m i,316,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,walk (go) ,1443,WALK,false,expert
+ClassicalNahuatl-93_warmhot-1,93_warmhot,"to-toːn-ki (hot), aː-yamaːnil-aː-tl (tepid water), yamaːn-ki (warm of water, cf. <yamanqui ic mixamia> [Primeros Memoriales 81r])",to-toːn-ki_,t o + t oː n + k i,318,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+TetelcingoNahuatl-93_warmhot-1,93_warmhot,"totun-kiː (caliente), yemön-kiː (blando, suave, tierno, tibio)",totun-kiː_,t o t u n + k iː,318,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+NorthPueblaNahuatl-93_warmhot-1,93_warmhot,"totonki (caliente), yemanki (agua, también suave)",totonki_,t o t o n k i,318,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+MecayapanNahuat-93_warmhot-1,93_warmhot,"totoːniʔ (caliente), hokox (tibio, calentito: a loan?)",totoːniʔ_,t o t oː n i ʔ,318,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+PajapanNahuat-93_warmhot-1,93_warmhot,totoːnik (caliente),totoːnik_,t o t oː n i k,318,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+JalupaNahuat-93_warmhot-1,93_warmhot,"truːnik (caliente), yamanik (blando)",truːnik_,t r uː n i k,318,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+Pipil-93_warmhot-1,93_warmhot,"tutuːnik (caliente), yamanka (tibio)",tutuːnik_,t u t uː n i k,318,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+Pochutec-93_warmhot-1,93_warmhot,tuní (caliente),tuní_,t u n í/i,319,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+ProtoAztecan-93_warmhot-1,93_warmhot,*to-toːnɨ-k ?,*to-toːnɨ-k_?,t o + t oː n ɨ + k,318,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,warm (hot) ,2272,HOT OR WARM,false,expert
+ClassicalNahuatl-94_water-1,94_water,aː-tl,aː-tl,aː + tɬ,320,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,water ,948,WATER,false,expert
+TetelcingoNahuatl-94_water-1,94_water,ö-tzin-tli (reverential diminutive suffix -tzin),ö-tzin-tli_,ø + ts i n + tɬ i,320,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,water ,948,WATER,false,expert
+NorthPueblaNahuatl-94_water-1,94_water,a-tl,a-tl,a + tɬ,320,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,water ,948,WATER,false,expert
+MecayapanNahuat-94_water-1,94_water,aːʔ-ti,aːʔ-ti,aː ʔ + t i,320,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,water ,948,WATER,false,expert
+PajapanNahuat-94_water-1,94_water,aː-t,aː-t,aː + t,320,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,water ,948,WATER,false,expert
+JalupaNahuat-94_water-1,94_water,maː-t,maː-t,m aː + t,321,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,water ,948,WATER,false,expert
+Pipil-94_water-1,94_water,aː-t,aː-t,aː + t,320,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,water ,948,WATER,false,expert
+Pochutec-94_water-1,94_water,a-t,a-t,a + t,320,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,water ,948,WATER,false,expert
+ProtoAztecan-94_water-1,94_water,*aː-tl,*aː-tl,aː + tɬ,320,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,water ,948,WATER,false,expert
+ClassicalNahuatl-95_we-1,95_we,teʔwaːn,teʔwaːn,t e ʔ w aː n,322,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,we ,1212,WE,false,expert
+TetelcingoNahuatl-95_we-1,95_we,"tehwa, tehwante",tehwa,t e h w a,322,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,we ,1212,WE,false,expert
+NorthPueblaNahuatl-95_we-1,95_we,"tehwan, tehwanten (todos)",tehwan,t e h w a n,322,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,we ,1212,WE,false,expert
+MecayapanNahuat-95_we-1,95_we,"tehameh (incl.), nehameh (excl.)",tehameh_,t e h a m e h,322,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,we ,1212,WE,false,expert
+PajapanNahuat-95_we-1,95_we,tehameh,tehameh,t e h a m e h,322,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,we ,1212,WE,false,expert
+JalupaNahuat-95_we-1,95_we,tohomen,tohomen,t o h o m e n,322,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,we ,1212,WE,false,expert
+Pipil-95_we-1,95_we,tehemet,tehemet,t e h e m e t,322,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,we ,1212,WE,false,expert
+Pochutec-95_we-1,95_we,twén,twén,t w é/e n,322,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,we ,1212,WE,false,expert
+ProtoAztecan-95_we-1,95_we,*təha-mɨ-t,*təha-mɨ-t,t ə h a + m ɨ + t,322,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,we ,1212,WE,false,expert
+ClassicalNahuatl-96_what-1,96_what,tle(ʔ),tle,tɬ e,323,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,what ,1236,WHAT,false,expert
+TetelcingoNahuatl-96_what-1,96_what,tliniːnu,tliniːnu,tɬ i n iː n u,323,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,what ,1236,WHAT,false,expert
+NorthPueblaNahuatl-96_what-1,96_what,tlen,tlen,tɬ e n,323,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,what ,1236,WHAT,false,expert
+MecayapanNahuat-96_what-1,96_what,teː,teː,t eː,323,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,what ,1236,WHAT,false,expert
+PajapanNahuat-96_what-1,96_what,teː,teː,t eː,323,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,what ,1236,WHAT,false,expert
+JalupaNahuat-96_what-1,96_what,tai,tai,t a i,323,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,what ,1236,WHAT,false,expert
+Pipil-96_what-1,96_what,taː,taː,t aː,323,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,what ,1236,WHAT,false,expert
+Pochutec-96_what-1,96_what,te,te,t e,323,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,what ,1236,WHAT,false,expert
+ProtoAztecan-96_what-1,96_what,*tla-(hi ?),*tla-,tɬ a,323,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,what ,1236,WHAT,false,expert
+ClassicalNahuatl-97_white-1,97_white,istaːk,istaːk,i s t aː k,324,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,white ,1335,WHITE,false,expert
+TetelcingoNahuatl-97_white-1,97_white,"chipːpöwak, istök",chipːpöwak,tʃ i pː p ø w a k,324,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,white ,1335,WHITE,false,expert
+NorthPueblaNahuatl-97_white-1,97_white,istak,istak,i s t a k,324,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,white ,1335,WHITE,false,expert
+MecayapanNahuat-97_white-1,97_white,"istaːʔ, ichkatiʔ",istaːʔ,i s t aː ʔ,324,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,white ,1335,WHITE,false,expert
+PajapanNahuat-97_white-1,97_white,istaːk,istaːk,i s t aː k,324,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,white ,1335,WHITE,false,expert
+JalupaNahuat-97_white-1,97_white,istaːk,istaːk,i s t aː k,324,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,white ,1335,WHITE,false,expert
+Pipil-97_white-1,97_white,istak,istak,i s t a k,324,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,white ,1335,WHITE,false,expert
+Pochutec-97_white-1,97_white,chupék (cf. CNa chipaːwak),chupék_,tʃ u p é/e k,325,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,white ,1335,WHITE,false,expert
+ProtoAztecan-97_white-1,97_white,*istaː-kɨ ?,*istaː-kɨ_?,i s t aː + k ɨ,324,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,white ,1335,WHITE,false,expert
+ClassicalNahuatl-98_who-1,98_who,aːk,aːk,aː k,326,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,who ,1235,WHO,false,expert
+TetelcingoNahuatl-98_who-1,98_who,ökiːnu,ökiːnu,ø k iː n u,326,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,who ,1235,WHO,false,expert
+NorthPueblaNahuatl-98_who-1,98_who,akin,akin,a k i n,326,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,who ,1235,WHO,false,expert
+MecayapanNahuat-98_who-1,98_who,aːʔ,aːʔ,aː ʔ,326,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,who ,1235,WHO,false,expert
+PajapanNahuat-98_who-1,98_who,aːk,aːk,aː k,326,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,who ,1235,WHO,false,expert
+JalupaNahuat-98_who-1,98_who,aik,aik,a i k,326,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,who ,1235,WHO,false,expert
+Pipil-98_who-1,98_who,kaː ~ kah ~ kahuni,kaː,k aː,327,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,who ,1235,WHO,false,expert
+Pochutec-98_who-1,98_who,ak,ak,a k,326,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,who ,1235,WHO,false,expert
+ProtoAztecan-98_who-1,98_who,*aːk,*aːk,aː k,326,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,who ,1235,WHO,false,expert
+ClassicalNahuatl-99_woman-1,99_woman,siwaː-tl ~ sowa-tl,siwaː-tl,s i w aː + tɬ,328,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+TetelcingoNahuatl-99_woman-1,99_woman,sowa-tl,sowa-tl,s o w a + tɬ,328,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+NorthPueblaNahuatl-99_woman-1,99_woman,siwa-tl,siwa-tl,s i w a + tɬ,328,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+MecayapanNahuat-99_woman-1,99_woman,siwaː-ʔ,siwaː-ʔ,s i w aː + ʔ,328,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+PajapanNahuat-99_woman-1,99_woman,soáː-t,soáː-t,s o áː/aː + t,328,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+JalupaNahuat-99_woman-1,99_woman,suwa-t,suwa-t,s u w a + t,328,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+Pipil-99_woman-1,99_woman,siwaː-t,siwaː-t,s i w aː + t,328,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+Pochutec-99_woman-1,99_woman,g’las-t,g’las-t,g’ l a s + t,329,false,,Pochutec,Pochutec,poch1244,Pochutec,xpo,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+ProtoAztecan-99_woman-1,99_woman,*si/owaː-tl,*si,s i,328,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,woman ,962,WOMAN,false,expert
+ClassicalNahuatl-100_yellow-1,100_yellow,kos-tik,kos-tik,k o s + t i k,330,false,,ClassicalNahuatl,Classical Nahuatl,clas1250,Classical Nahuatl,nci,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+TetelcingoNahuatl-100_yellow-1,100_yellow,kostiːk,kostiːk,k o s t iː k,330,false,,TetelcingoNahuatl,Tetelcingo Nahuatl,tete1251,Tetelcingo Nahuatl,nhg,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+NorthPueblaNahuatl-100_yellow-1,100_yellow,kostik,kostik,k o s t i k,330,false,,NorthPueblaNahuatl,North Puebla Nahuatl,nort2957,Northern Puebla Nahuatl,ncj,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+MecayapanNahuat-100_yellow-1,100_yellow,kostiʔ,kostiʔ,k o s t i ʔ,330,false,,MecayapanNahuat,Mecayapan Nahuat,isth1242,Isthmus-Mecayapan Nahuatl,nhx,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+PajapanNahuat-100_yellow-1,100_yellow,gostik,gostik,g o s t i k,330,false,,PajapanNahuat,Pajapán Nahuat,isth1241,Isthmus-Pajapan Nahuatl,nhp,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+JalupaNahuat-100_yellow-1,100_yellow,yuksik,yuksik,j u k s i k,331,false,,JalupaNahuat,Jalupa Nahuat,taba1265,Tabasco Nahuatl,nhc,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+Pipil-100_yellow-1,100_yellow,tultik,tultik,t u l t i k,332,false,,Pipil,Pipil,pipi1250,Pipil,ppl,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
+ProtoAztecan-100_yellow-1,100_yellow,*kos-tɨ-k ?,*kos-tɨ-k_?,k o s + t ɨ + k,330,,,ProtoAztecan,Proto-Aztecan,azte1234,Aztec,,Uto-Aztecan,,yellow,1424,YELLOW,false,expert
