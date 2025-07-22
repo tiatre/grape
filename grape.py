@@ -49,7 +49,7 @@ class ParameterSearchStrategy:
     def initialize(self) -> float:
         raise NotImplementedError
 
-    def update(self, current_value: float) -> float:
+    def update(self, current_value: float, current_communities: int = None) -> float:
         raise NotImplementedError
 
     def should_stop(self, num_communities: int, target: int) -> bool:
@@ -63,7 +63,7 @@ class FixedIncrementStrategy(ParameterSearchStrategy):
     def initialize(self) -> float:
         return 0.0
 
-    def update(self, current_value: float) -> float:
+    def update(self, current_value: float, current_communities: int = None) -> float:
         return current_value + self.increment
 
     def should_stop(self, num_communities: int, target: int) -> bool:
@@ -78,7 +78,7 @@ class DynamicAdjustmentStrategy(ParameterSearchStrategy):
     def initialize(self) -> float:
         return self.value
 
-    def update(self, current_value: float) -> float:
+    def update(self, current_value: float, current_communities: int = None) -> float:
         # Dynamic adjustment logic can be implemented here
         # For simplicity, let's just increment by a variable factor
         self.value += self.adjust_factor * self.value
@@ -111,19 +111,34 @@ class AdaptiveDynamicAdjustmentStrategy(ParameterSearchStrategy):
         # If this is the first update, initialize previous_diff
         if self.previous_diff is None:
             self.previous_diff = diff
-            return current_value
+            # Determine initial direction based on current state
+            if current_communities < self.target:
+                # Need more communities, increase resolution
+                self.value += abs(self.adjust_factor)
+            elif current_communities > self.target:
+                # Need fewer communities, decrease resolution
+                self.value -= abs(self.adjust_factor)
+            return max(0.001, self.value)
 
-        # Check if the number of communities is moving towards the target or not
-        if diff < self.previous_diff:
-            # We are getting closer to the target, increase the adjustment factor slightly
-            self.adjust_factor *= 1.1
+        # Determine adjustment direction based on target
+        if current_communities < self.target:
+            # Need more communities, increase resolution
+            adjustment = abs(self.adjust_factor)
         else:
-            # We are moving away from the target, decrease the adjustment factor and change direction
-            self.adjust_factor *= -0.5
+            # Need fewer communities, decrease resolution  
+            adjustment = -abs(self.adjust_factor)
+
+        # Check if we're getting closer to target
+        if diff < self.previous_diff:
+            # We are getting closer, keep same direction but maybe smaller steps
+            self.adjust_factor = abs(self.adjust_factor) * 0.9
+        else:
+            # We are moving away, try smaller steps in same direction
+            self.adjust_factor = abs(self.adjust_factor) * 0.5
 
         self.previous_diff = diff
-        self.value += self.adjust_factor
-        return self.value
+        self.value += adjustment
+        return max(0.001, self.value)
 
     def should_stop(self, num_communities: int, target: int) -> bool:
         return num_communities == target
@@ -164,8 +179,10 @@ def build_history(
 
     history = []
     parameter = strategy.initialize()
+    max_iterations = 50  # Prevent infinite loops
+    iteration_count = 0
 
-    while True:
+    while iteration_count < max_iterations:
         identified_communities = community_method.find_communities(resolution=parameter)
 
         # After obtaining the communities, we must make sure that the new communities do not contradict the
@@ -186,13 +203,17 @@ def build_history(
         if not history or num_communities > history[-1].number_of_communities:
             history_entry = common.HistoryEntry(parameter, communities)
             history.append(history_entry)
-            print(f"Parameter: {parameter:.2f}, Communities: {num_communities}")
+            print(f"Parameter: {parameter:.4f}, Communities: {num_communities}")
 
         if strategy.should_stop(num_communities, num_languages):
             break
 
-        parameter = strategy.update(parameter)
+        parameter = strategy.update(parameter, num_communities)
+        iteration_count += 1
 
+    if iteration_count >= max_iterations:
+        print(f"Warning: Reached maximum iterations ({max_iterations}). Stopping search.")
+    
     return history
 
 
