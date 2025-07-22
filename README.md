@@ -31,12 +31,20 @@ python grape.py resources/language_families/austroasiatic.tsv --graph adjusted -
 - NetworkX
 - ETE3
 - NumPy
-- Six (required by ETE3)
+- Toytree (for publication-quality visualizations)
+- Toyplot (for rendering)
 
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
+
+### Generate Visualizations
+
+After running GRAPE analysis, generate publication-quality tree visualizations:
+```bash
+python generate_tree_visualizations.py
 ```
 
 ### Optional Dependencies
@@ -114,24 +122,24 @@ GRAPE has been tested and validated on 7 major language families representing di
 
 ## 🌳 Publication-Quality Tree Visualizations
 
-GRAPE generates comprehensive phylogenetic tree visualizations following linguistic best practices:
+GRAPE generates publication-quality phylogenetic tree visualizations using adaptive layout strategies:
 
-### Visualization Types
-- **📊 Publication Images**: High-resolution PNG/SVG for academic papers and presentations
-- **📝 ASCII Trees**: Text-based representations for documentation and analysis  
-- **🔬 Linguistic Analysis**: Automatic validation of established language groupings
-- **📋 Multiple Formats**: Newick, formatted text, and comprehensive statistics
+### Visualization Strategies
+- **📊 Rectangular Layout**: For small, well-balanced trees (≤25 languages)
+- **🔄 Circular Layout**: For medium-sized trees (26-75 languages)
+- **🌐 Unrooted Layout**: For large, complex trees (>75 languages)
+- **📝 ASCII Trees**: Text-based representations for documentation
 
 ### Available Language Family Trees
 
-| Family | Publication Image | ASCII Tree | Languages | Key Features |
-|--------|------------------|------------|-----------|--------------|
-| **Romance** | [PNG](docs/images/trees/publication/romance.png) \| [SVG](docs/images/trees/publication/romance.svg) | [Text](docs/images/trees/romance_formatted.txt) | 43 | European dialectal branches |
-| **Austroasiatic** | [PNG](docs/images/trees/publication/austroasiatic.png) \| [SVG](docs/images/trees/publication/austroasiatic.svg) | [Text](docs/images/trees/austroasiatic_formatted.txt) | 109 | SE Asian linguistic diversity |
-| **Turkic** | [PNG](docs/images/trees/publication/turkic.png) \| [SVG](docs/images/trees/publication/turkic.svg) | [Text](docs/images/trees/turkic_formatted.txt) | 32 | Central Asian nomadic spread |
-| **Dravidian** | [PNG](docs/images/trees/publication/dravidian.png) \| [SVG](docs/images/trees/publication/dravidian.svg) | [Text](docs/images/trees/dravidian_formatted.txt) | 20 | South Indian agglutinative |
-| **Polynesian** | [PNG](docs/images/trees/publication/polynesian.png) \| [SVG](docs/images/trees/publication/polynesian.svg) | [Text](docs/images/trees/polynesian_formatted.txt) | 31 | Pacific island migration |
-| **Tupian** | [PNG](docs/images/trees/publication/tupian.png) \| [SVG](docs/images/trees/publication/tupian.svg) | [Text](docs/images/trees/tupian_formatted.txt) | 29 | Amazonian indigenous |
+| Family | Publication Image | Layout Strategy | Languages | Key Features |
+|--------|------------------|------------------|-----------|--------------|
+| **Romance** | [PNG](docs/images/trees/publication_final/romance_circular.png) \| [SVG](docs/images/trees/publication_final/romance_circular.svg) | Circular | 43 | European dialectal branches |
+| **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic_unrooted.png) \| [SVG](docs/images/trees/publication_final/austroasiatic_unrooted.svg) | Unrooted | 109 | SE Asian linguistic diversity |
+| **Turkic** | [PNG](docs/images/trees/publication_final/turkic_circular.png) \| [SVG](docs/images/trees/publication_final/turkic_circular.svg) | Circular | 32 | Central Asian nomadic spread |
+| **Dravidian** | [PNG](docs/images/trees/publication_final/dravidian_rectangular.png) \| [SVG](docs/images/trees/publication_final/dravidian_rectangular.svg) | Rectangular | 20 | South Indian agglutinative |
+| **Polynesian** | [PNG](docs/images/trees/publication_final/polynesian_circular.png) \| [SVG](docs/images/trees/publication_final/polynesian_circular.svg) | Circular | 31 | Pacific island migration |
+| **Tupian** | [PNG](docs/images/trees/publication_final/tupian_circular.png) \| [SVG](docs/images/trees/publication_final/tupian_circular.svg) | Circular | 29 | Amazonian indigenous |
 
 ### Publication Standards
 - **300 DPI resolution** for print-quality output

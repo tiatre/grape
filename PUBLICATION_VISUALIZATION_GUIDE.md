@@ -2,16 +2,20 @@
 
 ## Overview
 
-GRAPE now provides comprehensive publication-quality phylogenetic tree visualizations following best practices for linguistic research. Each language family tree is available in multiple formats optimized for different use cases.
+GRAPE provides publication-quality phylogenetic tree visualizations using toytree with adaptive layout strategies. Each language family automatically receives the optimal visualization approach based on its size and structural complexity.
 
-## Visualization Types
+## Visualization Strategies
 
-### 1. Publication Images (High-Resolution)
-- **PNG Format**: Raster images at 300 DPI for print publications
-- **SVG Format**: Vector graphics for perfect scaling and web use
-- **Dimensions**: 1200×800 pixels optimized for standard page layouts
-- **Color Coding**: Linguistic subgroups distinguished by colors
-- **Typography**: Professional sans-serif fonts with hierarchical sizing
+### 1. Layout Selection (Automatic)
+- **Rectangular Layout**: Small trees (≤25 languages) - generous spacing, detailed annotations
+- **Circular Layout**: Medium trees (26-75 languages) - balanced space utilization  
+- **Unrooted Layout**: Large trees (>75 languages) - optimal for complex, unbalanced structures
+
+### 2. Technical Specifications
+- **High Resolution**: 2000×2000 pixels for detailed visualization
+- **Multiple Formats**: PNG (with white background) and SVG (vector graphics)
+- **Professional Typography**: 14px font size for clear readability
+- **Consistent Styling**: Unified visual language across all families
 
 ### 2. ASCII Trees (Text-Based)
 - **Text format**: Plain text representations for documentation
@@ -26,53 +30,53 @@ GRAPE now provides comprehensive publication-quality phylogenetic tree visualiza
 
 ## Available Language Families
 
-### Romance Languages (43 languages)
+### Romance Languages (43 languages) - Circular Layout
 - **Publication Images**: 
-  - PNG: `docs/images/trees/publication/romance.png`
-  - SVG: `docs/images/trees/publication/romance.svg`
+  - PNG: `docs/images/trees/publication_final/romance_circular.png`
+  - SVG: `docs/images/trees/publication_final/romance_circular.svg`
+- **Layout Strategy**: Circular (optimal for medium-sized, balanced tree)
 - **ASCII Tree**: `docs/images/trees/romance_formatted.txt`
 - **Newick**: `docs/images/trees/romance.newick`
-- **Subgroups**: Italian, Iberian, Gallo-Romance, Eastern Romance, Rhaeto-Romance
 
-### Austroasiatic Languages (109 languages)
+### Austroasiatic Languages (109 languages) - Unrooted Layout
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication/austroasiatic.png`
-  - SVG: `docs/images/trees/publication/austroasiatic.svg`
+  - PNG: `docs/images/trees/publication_final/austroasiatic_unrooted.png`
+  - SVG: `docs/images/trees/publication_final/austroasiatic_unrooted.svg`
+- **Layout Strategy**: Unrooted (optimal for large, highly unbalanced tree)
 - **ASCII Tree**: `docs/images/trees/austroasiatic_formatted.txt`
 - **Newick**: `docs/images/trees/austroasiatic.newick`
-- **Subgroups**: Mon-Khmer, Munda, Bahnaric, Katuic, Pearic, Vietic
 
-### Turkic Languages (32 languages)
+### Turkic Languages (32 languages) - Circular Layout
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication/turkic.png`
-  - SVG: `docs/images/trees/publication/turkic.svg`
+  - PNG: `docs/images/trees/publication_final/turkic_circular.png`
+  - SVG: `docs/images/trees/publication_final/turkic_circular.svg`
+- **Layout Strategy**: Circular (optimal for medium-sized tree)
 - **ASCII Tree**: `docs/images/trees/turkic_formatted.txt`
 - **Newick**: `docs/images/trees/turkic.newick`
-- **Subgroups**: Oghuz, Kipchak, Karluk, Siberian, Oghur
 
-### Dravidian Languages (20 languages)
+### Dravidian Languages (20 languages) - Rectangular Layout
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication/dravidian.png`
-  - SVG: `docs/images/trees/publication/dravidian.svg`
+  - PNG: `docs/images/trees/publication_final/dravidian_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/dravidian_rectangular.svg`
+- **Layout Strategy**: Rectangular (optimal for small, well-structured tree)
 - **ASCII Tree**: `docs/images/trees/dravidian_formatted.txt`
 - **Newick**: `docs/images/trees/dravidian.newick`
-- **Subgroups**: South Dravidian, Central Dravidian, North Dravidian
 
-### Polynesian Languages (31 languages)
+### Polynesian Languages (31 languages) - Circular Layout
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication/polynesian.png`
-  - SVG: `docs/images/trees/publication/polynesian.svg`
+  - PNG: `docs/images/trees/publication_final/polynesian_circular.png`
+  - SVG: `docs/images/trees/publication_final/polynesian_circular.svg`
+- **Layout Strategy**: Circular (optimal for medium-sized tree)
 - **ASCII Tree**: `docs/images/trees/polynesian_formatted.txt`
 - **Newick**: `docs/images/trees/polynesian.newick`
-- **Subgroups**: Tongic, Eastern Polynesian, Nuclear Polynesian
 
-### Tupian Languages (29 languages)
+### Tupian Languages (29 languages) - Circular Layout
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication/tupian.png`
-  - SVG: `docs/images/trees/publication/tupian.svg`
+  - PNG: `docs/images/trees/publication_final/tupian_circular.png`
+  - SVG: `docs/images/trees/publication_final/tupian_circular.svg`
+- **Layout Strategy**: Circular (optimal for medium-sized tree)
 - **ASCII Tree**: `docs/images/trees/tupian_formatted.txt`
 - **Newick**: `docs/images/trees/tupian.newick`
-- **Subgroups**: Guaranic, Tupi-Guarani, Early Branching
 
 ## Usage in Publications
 
@@ -80,92 +84,85 @@ GRAPE now provides comprehensive publication-quality phylogenetic tree visualiza
 ```latex
 \\begin{figure}[htbp]
   \\centering
-  \\includegraphics[width=0.8\\textwidth]{docs/images/trees/publication/romance.png}
-  \\caption{Romance language phylogeny reconstructed using GRAPE community detection methods. Colors indicate established linguistic subgroups: Italian (blue), Iberian (red), Gallo-Romance (green), Eastern Romance (orange), and Rhaeto-Romance (purple).}
+  \\includegraphics[width=0.8\\textwidth]{docs/images/trees/publication_final/romance_circular.png}
+  \\caption{Romance language phylogeny reconstructed using GRAPE community detection methods, displayed in circular layout for optimal readability.}
   \\label{fig:romance-tree}
 \\end{figure}
 ```
 
 ### Markdown Documents
 ```markdown
-![Romance Language Phylogeny](docs/images/trees/publication/romance.png)
-*Romance language family tree generated by GRAPE, showing clear separation of major geographic branches.*
+![Romance Language Phylogeny](docs/images/trees/publication_final/romance_circular.png)
+*Romance language family tree generated by GRAPE using adaptive circular layout for medium-sized language families.*
 ```
 
-### HTML Documents
+### HTML Documents  
 ```html
 <figure>
-  <img src="docs/images/trees/publication/romance.png" 
+  <img src="docs/images/trees/publication_final/romance_circular.png" 
        alt="Romance Language Phylogeny" 
        width="800" 
        style="max-width: 100%; height: auto;">
-  <figcaption>Romance language phylogeny with color-coded linguistic subgroups</figcaption>
+  <figcaption>Romance language phylogeny using circular layout</figcaption>
 </figure>
 ```
 
 ### Microsoft Word
 1. Insert → Pictures → This Device
-2. Navigate to `docs/images/trees/publication/`
-3. Select desired `.png` file
+2. Navigate to `docs/images/trees/publication_final/`
+3. Select desired family with appropriate layout (e.g., `romance_circular.png`)
 4. Resize to fit column width (typically 6-7 inches for single column)
 
 ## Linguistic Best Practices Implemented
 
-### Color Coding Strategy
-- **Consistent colors** across related visualizations
-- **Distinct hues** for major subgroups to aid visual separation
-- **Accessible palette** avoiding problematic color combinations
-- **Professional appearance** suitable for academic publication
+### Layout Strategies
+- **Adaptive Selection**: Automatic layout choice based on tree size and complexity
+- **Rectangular**: Small trees (≤25 languages) with generous spacing
+- **Circular**: Medium trees (26-75 languages) with balanced space utilization
+- **Unrooted**: Large trees (>75 languages) optimized for complex structures
 
-### Typography Hierarchy
-- **Family name**: 16pt bold title
-- **Language names**: 9pt clear sans-serif labels
-- **Branch lengths**: 7pt subtle numeric annotations
-- **Legend text**: 10-12pt explanatory information
-
-### Layout Optimization
-- **Rectangular cladogram** format preferred for linguistic trees
-- **Adequate spacing** between branches for readability
-- **Clear branch length** representation with numeric values
-- **Comprehensive legends** explaining color coding and symbols
+### Typography Standards
+- **Language names**: 14px clear, readable font size
+- **Consistent sizing**: Uniform text scaling across all visualizations
+- **High contrast**: Black text on white background for maximum legibility
+- **Professional appearance**: Clean, academic styling
 
 ### Scientific Accuracy
-- **Reproducible results** using `--seed 42` for consistency
-- **Validated subgroups** against established linguistic classifications
+- **Reproducible results** using `--seed 42` for GRAPE analysis consistency
+- **Preserved phylogenetic relationships** - all tree topologies maintained accurately
 - **Quantitative branch lengths** representing evolutionary distances
-- **Multiple format outputs** for different analytical needs
+- **Multiple format outputs** (PNG and SVG) for different use cases
 
 ## Technical Specifications
 
+### Rendering Engine
+- **Toytree Library**: Modern Python phylogenetic visualization
+- **Toyplot Backend**: High-quality SVG and PNG rendering
+- **Adaptive Strategies**: Automatic layout selection based on tree metrics
+
 ### Image Quality
-- **Resolution**: 300 DPI for print-quality output
-- **Color space**: RGB for digital use
-- **File size**: Optimized for quality vs. size balance
-- **Compatibility**: Standard formats readable by all major software
+- **High Resolution**: 2000×2000 pixel canvas for detailed visualization
+- **Vector Graphics**: SVG format for perfect scalability  
+- **Raster Graphics**: PNG with white background for publications
+- **Professional Standards**: Publication-ready output suitable for academic journals
 
-### Reproducibility
-- **Fixed random seeds** ensure identical trees across runs
-- **Documented parameters** for each language family
-- **Version control** of all generated visualizations
-- **Source data tracking** with complete provenance
-
-### Performance
-- **Batch generation** of all formats simultaneously
-- **Efficient rendering** using ETE3 optimization
-- **Scalable workflow** for additional language families
-- **Quality validation** with automatic checks
+### Performance and Scalability
+- **Efficient Processing**: Fast rendering even for large trees (100+ languages)
+- **Batch Generation**: Process all language families simultaneously
+- **Extensible Framework**: Easy to add new families or modify parameters
+- **Consistent Output**: Uniform quality across all visualizations
 
 ## Citation Guidelines
 
 When using these visualizations in academic work, please cite:
 
 1. **The GRAPE software** and methodology
-2. **Original language datasets** (see individual family info files)
-3. **Specific parameters** used for analysis (included in summary files)
-4. **ETE3 visualization toolkit** for image generation
+2. **Original language datasets** (see individual family info files) 
+3. **Specific parameters** used for analysis (included in log files)
+4. **Toytree visualization library** for publication-quality rendering
 
 Example citation format:
-> "Phylogenetic trees were generated using GRAPE (Graph Analysis and Phylogenetic Estimation) with Louvain community detection (resolution=0.4, seed=42). High-resolution visualizations were created using the ETE3 toolkit following linguistic phylogenetic best practices."
+> "Phylogenetic trees were generated using GRAPE (Graph Analysis and Phylogenetic Estimation) with community detection algorithms (seed=42 for reproducibility). Publication-quality visualizations were created using toytree with adaptive layout strategies optimized for each language family size and structure."
 
 ## Troubleshooting
 

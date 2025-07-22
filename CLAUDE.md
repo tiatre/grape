@@ -44,6 +44,7 @@ The project includes comprehensive documentation in multiple formats:
 - **grape.py**: Main module containing community detection methods, parameter search strategies, and tree construction logic
 - **common.py**: Shared data structures (HistoryEntry) and utility functions for reading cognate files  
 - **distance_tree.py**: Alternative phylogenetic methods using distance matrices (NJ/UPGMA) with BioPython
+- **generate_tree_visualizations.py**: Publication-quality tree visualization using toytree with adaptive layout strategies
 
 ### Key Classes
 
@@ -99,10 +100,12 @@ The `data/` directory contains several cognate datasets:
 ### Dependencies
 
 Core dependencies from requirements.txt:
-- `ete3`: Tree manipulation and visualization
+- `ete3`: Tree manipulation and basic analysis
 - `networkx`: Graph algorithms and community detection
 - `numpy`: Numerical computations
 - `six`: Python 2/3 compatibility (required by ete3)
+- `toytree`: Modern phylogenetic visualization with adaptive layouts
+- `toyplot`: High-quality SVG and PNG rendering backend
 
 Additional dependency for distance-based methods:
 - `biopython`: Required for distance_tree.py (NJ/UPGMA methods)
@@ -110,6 +113,24 @@ Additional dependency for distance-based methods:
 ### Output Format
 
 GRAPE outputs phylogenetic trees in Newick format to standard output.
+
+### Publication-Quality Visualizations
+
+Generate high-quality tree visualizations using:
+
+```bash
+python generate_tree_visualizations.py
+```
+
+**Adaptive Layout System**:
+- **Rectangular Layout**: Small trees (≤25 languages) - detailed, spacious layout
+- **Circular Layout**: Medium trees (26-75 languages) - balanced space utilization
+- **Unrooted Layout**: Large trees (>75 languages) - optimal for complex, unbalanced structures
+
+**Output Locations**:
+- High-quality visualizations: `docs/images/trees/publication_final/`
+- Format: Both PNG (white background) and SVG (scalable vector graphics)
+- Resolution: 2000×2000 pixels for publication quality
 
 ### Testing
 

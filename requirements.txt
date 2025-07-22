@@ -2,10 +2,8 @@ ete3
 networkx
 numpy
 six # required for ete3
-matplotlib
-seaborn
+toytree # for publication-quality tree visualizations
+toyplot # required for toytree rendering
 pandas
 jupyter
 nbconvert
-PyQt5 # required for ETE3 visualization
-lxml # required for ETE3 SVG output

@@ -1,6 +1,0 @@
-
-   /-Urdu
---|
-  |   /-Italian
-   \-|
-      \-Ukrainian
