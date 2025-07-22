@@ -1,0 +1,309 @@
+[INFO] Detected CSV dialect: Delimiter='	', Quotechar='"', Lineterminator='\r\n'
+[INFO] Reduced Hittite-Ancient_Greek edge weight by factor 0.1
+[INFO] Reduced Hittite-Breton edge weight by factor 0.1
+[INFO] Reduced Hittite-Cornish edge weight by factor 0.1
+[INFO] Reduced Hittite-Frisian edge weight by factor 0.1
+[INFO] Reduced Hittite-German edge weight by factor 0.1
+[INFO] Reduced Hittite-Gothic edge weight by factor 0.1
+[INFO] Reduced Hittite-Irish edge weight by factor 0.1
+[INFO] Reduced Hittite-Latin edge weight by factor 0.1
+[INFO] Reduced Hittite-Lithuanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_High_German edge weight by factor 0.1
+[INFO] Reduced Hittite-Scots_Gaelic edge weight by factor 0.1
+[INFO] Reduced Hittite-Swiss_German edge weight by factor 0.1
+[INFO] Reduced Hittite-Welsh edge weight by factor 0.1
+[INFO] Reduced Hittite-Avestan edge weight by factor 0.1
+[INFO] Reduced Hittite-Modern_Greek edge weight by factor 0.1
+[INFO] Reduced Hittite-Vedic_Sanskrit edge weight by factor 0.1
+[INFO] Reduced Hittite-Arvanitika edge weight by factor 0.1
+[INFO] Reduced Hittite-Faroese edge weight by factor 0.1
+[INFO] Reduced Hittite-Latvian edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_West_Norse edge weight by factor 0.1
+[INFO] Reduced Hittite-Tosk edge weight by factor 0.1
+[INFO] Reduced Hittite-Arumanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Eastern_Armenian edge weight by factor 0.1
+[INFO] Reduced Hittite-Marathi edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Irish edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Prussian edge weight by factor 0.1
+[INFO] Reduced Hittite-Panjabi edge weight by factor 0.1
+[INFO] Reduced Hittite-Romani edge weight by factor 0.1
+[INFO] Reduced Hittite-Romansh edge weight by factor 0.1
+[INFO] Reduced Hittite-Sariqoli edge weight by factor 0.1
+[INFO] Reduced Hittite-Shughni edge weight by factor 0.1
+[INFO] Reduced Hittite-Sindhi edge weight by factor 0.1
+[INFO] Reduced Hittite-Singhalese edge weight by factor 0.1
+[INFO] Reduced Hittite-Bulgarian edge weight by factor 0.1
+[INFO] Reduced Hittite-Kashmiri edge weight by factor 0.1
+[INFO] Reduced Hittite-Macedonian edge weight by factor 0.1
+[INFO] Reduced Hittite-Norwegian edge weight by factor 0.1
+[INFO] Reduced Hittite-Polish edge weight by factor 0.1
+[INFO] Reduced Hittite-Tocharian_B edge weight by factor 0.1
+[INFO] Reduced Hittite-Ladin edge weight by factor 0.1
+[INFO] Reduced Hittite-Marwari edge weight by factor 0.1
+[INFO] Reduced Hittite-Serbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Oriya edge weight by factor 0.1
+[INFO] Reduced Hittite-Baluchi edge weight by factor 0.1
+[INFO] Reduced Hittite-Catalan edge weight by factor 0.1
+[INFO] Reduced Hittite-Gujarati edge weight by factor 0.1
+[INFO] Reduced Hittite-Portuguese edge weight by factor 0.1
+[INFO] Reduced Hittite-Waziri edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Church_Slavic edge weight by factor 0.1
+[INFO] Reduced Hittite-Adapazar edge weight by factor 0.1
+[INFO] Reduced Hittite-Classical_Armenian edge weight by factor 0.1
+[INFO] Reduced Hittite-French edge weight by factor 0.1
+[INFO] Reduced Hittite-Friulian edge weight by factor 0.1
+[INFO] Reduced Hittite-Italian edge weight by factor 0.1
+[INFO] Reduced Hittite-Provencal edge weight by factor 0.1
+[INFO] Reduced Hittite-Spanish edge weight by factor 0.1
+[INFO] Reduced Hittite-Walloon edge weight by factor 0.1
+[INFO] Reduced Hittite-Afrikaans edge weight by factor 0.1
+[INFO] Reduced Hittite-Belarusian edge weight by factor 0.1
+[INFO] Reduced Hittite-Cagliari edge weight by factor 0.1
+[INFO] Reduced Hittite-Danish edge weight by factor 0.1
+[INFO] Reduced Hittite-Dutch edge weight by factor 0.1
+[INFO] Reduced Hittite-Flemish edge weight by factor 0.1
+[INFO] Reduced Hittite-Icelandic edge weight by factor 0.1
+[INFO] Reduced Hittite-Kurdish edge weight by factor 0.1
+[INFO] Reduced Hittite-Luxembourgish edge weight by factor 0.1
+[INFO] Reduced Hittite-Nuorese edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_English edge weight by factor 0.1
+[INFO] Reduced Hittite-Pashto edge weight by factor 0.1
+[INFO] Reduced Hittite-Persian edge weight by factor 0.1
+[INFO] Reduced Hittite-Romanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Russian edge weight by factor 0.1
+[INFO] Reduced Hittite-Swedish edge weight by factor 0.1
+[INFO] Reduced Hittite-Tajik edge weight by factor 0.1
+[INFO] Reduced Hittite-Tocharian_A edge weight by factor 0.1
+[INFO] Reduced Hittite-Ukrainian edge weight by factor 0.1
+[INFO] Reduced Hittite-Czech edge weight by factor 0.1
+[INFO] Reduced Hittite-Lower_Sorbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Slovak edge weight by factor 0.1
+[INFO] Reduced Hittite-Slovenian edge weight by factor 0.1
+[INFO] Reduced Hittite-Upper_Sorbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Zazaki edge weight by factor 0.1
+[INFO] Reduced Hittite-Assamese edge weight by factor 0.1
+[INFO] Reduced Hittite-Bengali edge weight by factor 0.1
+[INFO] Reduced Hittite-Bihari edge weight by factor 0.1
+[INFO] Reduced Hittite-English edge weight by factor 0.1
+[INFO] Reduced Hittite-Hindi edge weight by factor 0.1
+[INFO] Reduced Hittite-Lahnda edge weight by factor 0.1
+[INFO] Reduced Hittite-Nepali edge weight by factor 0.1
+[INFO] Reduced Hittite-Sogdian edge weight by factor 0.1
+[INFO] Reduced Hittite-Urdu edge weight by factor 0.1
+[INFO] Reduced Hittite-Wakhi edge weight by factor 0.1
+[INFO] Reduced Hittite-Digor_Ossetic edge weight by factor 0.1
+[INFO] Applied outgroup weighting to: ['Hittite']
+[INFO] Graph built successfully.
+[INFO] Forced 1 outgroup languages to root level
+[INFO] Applied outgroup root restructuring
+[INFO] Phylogeny: 
+   /-Hittite
+  |
+  |         /-Gothic
+  |        |
+  |        |   /-English
+  |        |  |
+  |        |  |      /-Danish
+  |      /-|  |   /-|
+  |     |  |  |  |   \-Swedish
+  |     |  |  |--|
+  |     |  |  |  |   /-Norwegian
+  |     |  |  |   \-|
+  |     |   \-|     |   /-Old_West_Norse
+  |     |     |      \-|
+  |     |     |        |   /-Faroese
+  |     |     |         \-|
+  |     |     |            \-Icelandic
+  |     |     |
+  |     |     |   /-Old_English
+  |     |     |  |
+  |     |      \-|   /-Old_High_German
+  |     |        |  |
+  |     |        |  |      /-Luxembourgish
+  |     |         \-|   /-|
+  |     |           |  |  |   /-German
+  |     |           |  |   \-|
+  |   /-|            \-|      \-Swiss_German
+  |  |  |              |
+  |  |  |              |   /-Frisian
+  |  |  |               \-|
+  |  |  |                 |   /-Dutch
+  |  |  |                  \-|
+--|  |  |                    |   /-Afrikaans
+  |  |  |                     \-|
+  |  |  |                        \-Flemish
+  |  |  |
+  |  |  |      /-Arvanitika/Tosk
+  |  |  |     |
+  |  |  |     |      /-Welsh
+  |  |  |   /-|   /-|
+  |  |  |  |  |  |  |   /-Breton
+  |  |  |  |  |  |   \-|
+  |  |  |  |   \-|      \-Cornish
+  |  |  |  |     |
+  |  |  |  |     |   /-Old_Irish
+  |  |  |  |      \-|
+  |  |   \-|        |   /-Irish
+  |  |     |         \-|
+  |  |     |            \-Scots_Gaelic
+  |  |     |
+  |  |     |   /-Arumanian
+  |  |     |  |
+  |  |     |  |   /-Latin
+  |  |      \-|  |
+  |  |        |  |--Romanian
+  |  |        |  |
+  |  |        |  |      /-Cagliari
+  |  |         \-|   /-|
+  |  |           |  |   \-Nuorese
+  |  |           |  |
+  |  |           |  |      /-Catalan
+  |  |           |  |   /-|
+  |  |            \-|  |  |   /-Portuguese
+  |  |              |  |   \-|
+  |  |              |  |      \-Spanish
+   \-|              |  |
+     |              |  |   /-Provencal
+     |               \-|--|
+     |                 |  |   /-French
+     |                 |   \-|
+     |                 |      \-Walloon
+     |                 |
+     |                 |   /-Italian
+     |                  \-|
+     |                    |   /-Ladin
+     |                     \-|
+     |                       |   /-Friulian
+     |                        \-|
+     |                           \-Romansh
+     |
+     |         /-Old_Prussian
+     |      /-|
+     |     |  |   /-Latvian
+     |     |   \-|
+     |     |      \-Lithuanian
+     |   /-|
+     |  |  |   /-Slovenian
+     |  |  |  |
+     |  |  |  |      /-Bulgarian
+     |  |   \-|   /-|
+     |  |     |  |   \-Macedonian
+     |  |     |  |
+     |  |     |  |   /-Russian
+     |  |      \-|  |
+     |  |        |  |--Serbian
+     |  |        |  |
+     |  |        |  |   /-Polish
+     |  |        |  |--|
+     |  |         \-|  |   /-Belarusian
+     |  |           |   \-|
+     |  |           |      \-Ukrainian
+     |  |           |
+     |  |           |   /-Old_Church_Slavic
+     |  |           |  |
+     |  |            \-|      /-Czech
+      \-|              |   /-|
+        |              |  |   \-Slovak
+        |               \-|
+        |                 |   /-Lower_Sorbian
+        |                  \-|
+        |                     \-Upper_Sorbian
+        |
+        |      /- /-Tocharian_A/Tocharian_B
+        |     |
+        |   /-|      /-Adapazar/Eastern_Armenian
+        |  |  |   /-|
+        |  |  |  |   \-Classical_Armenian
+        |  |   \-|
+        |  |     |   /-Ancient_Greek
+        |  |      \-|
+        |  |         \-Modern_Greek
+        |  |
+        |  |      /-Avestan
+        |  |     |
+        |  |   /-|   /-Digor_Ossetic
+         \-|  |  |  |
+           |  |   \-|   /-Sogdian
+           |  |     |  |
+           |  |      \-|   /-Pashto/Waziri
+           |  |        |  |
+           |  |        |  |      /-Wakhi
+           |  |         \-|   /-|
+           |  |           |  |  |   /-Sariqoli
+           |  |           |  |   \-|
+           |  |            \-|      \-Shughni
+           |  |              |
+            \-|              |   /-Kurdish
+              |              |  |
+              |               \-|   /-Baluchi
+              |                 |  |
+              |                  \-|--Zazaki
+              |                    |
+              |                    |   /-Persian
+              |                     \-|
+              |                        \-Tajik
+              |
+              |   /-Vedic_Sanskrit
+              |  |
+               \-|      /-Romani
+                 |   /-|
+                 |  |   \-Singhalese
+                  \-|
+                    |   /-Kashmiri
+                    |  |
+                     \-|   /-Assamese
+                       |  |
+                       |  |--Sindhi
+                        \-|
+                          |   /-Marwari
+                          |  |
+                           \-|   /-Oriya
+                             |  |
+                              \-|   /-Bengali
+                                |  |
+                                |  |   /-Nepali
+                                 \-|  |
+                                   |  |   /-Gujarati
+                                   |  |--|
+                                    \-|   \-Marathi
+                                      |
+                                      |   /-Bihari
+                                      |  |
+                                       \-|      /-Hindi
+                                         |   /-|
+                                         |  |   \-Urdu
+                                          \-|
+                                            |   /-Lahnda
+                                             \-|
+                                                \-Panjabi
+[INFO] Newick format tree: (Hittite:0.5,(((Gothic:0.9,(English:0.1,((Danish:0.1,Swedish:0.1):0.5,(Norwegian:0.1,(Old_West_Norse:0.3,(Faroese:0.2,Icelandic:0.2):0.3):0.1):0.5):0.1,(Old_English:0.1,(Old_High_German:0.1,((Luxembourgish:0.2,(German:0.2,Swiss_German:0.2):0.2):0.2,(Frisian:0.3,(Dutch:0.2,(Afrikaans:0.2,Flemish:0.2):0.2):0.3):0.2):0.1):0.1):0.1):0.9):0.1,((Arvanitika/Tosk:0.2,((Welsh:1.5,(Breton:0.2,Cornish:0.2):1.5):1.1,(Old_Irish:1.3,(Irish:0.7,Scots_Gaelic:0.7):1.3):1.1):0.2):0.1,(Arumanian:0.8,(Latin:0.1,Romanian:0.1,((Cagliari:0.7,Nuorese:0.7):0.2,((Catalan:0.2,(Portuguese:0.3,Spanish:0.3):0.2):0.1,(Provencal:0.4,(French:0.1,Walloon:0.1):0.4):0.1,(Italian:0.1,(Ladin:0.1,(Friulian:0.1,Romansh:0.1):0.1):0.1):0.1):0.2):0.1):0.8):0.1):0.1):0.8,(((Old_Prussian:0.7,(Latvian:0.9,Lithuanian:0.9):0.7):0.5,(Slovenian:0.7,((Bulgarian:0.4,Macedonian:0.4):0.1,(Russian:0.1,Serbian:0.1,(Polish:0.1,(Belarusian:0.2,Ukrainian:0.2):0.1):0.1,(Old_Church_Slavic:0.1,((Czech:0.3,Slovak:0.3):0.1,(Lower_Sorbian:0.6,Upper_Sorbian:0.6):0.1):0.1):0.1):0.1):0.7):0.5):0.1,(((Tocharian_A/Tocharian_B:0.5):0.6,((Adapazar/Eastern_Armenian:2.9,Classical_Armenian:2.9):0.2,(Ancient_Greek:1.8,Modern_Greek:1.8):0.2):0.6):0.1,((Avestan:0.6,(Digor_Ossetic:0.1,(Sogdian:0.3,(Pashto/Waziri:0.3,((Wakhi:0.5,(Sariqoli:1.2,Shughni:1.2):0.5):0.2,(Kurdish:0.1,(Baluchi:0.2,Zazaki:0.2,(Persian:1.3,Tajik:1.3):0.2):0.1):0.2):0.3):0.3):0.1):0.6):0.2,(Vedic_Sanskrit:0.2,((Romani:0.1,Singhalese:0.1):0.4,(Kashmiri:0.3,(Assamese:0.2,Sindhi:0.2,(Marwari:0.1,(Oriya:0.1,(Bengali:0.1,(Nepali:0.1,(Gujarati:0.6,Marathi:0.6):0.1,(Bihari:0.1,((Hindi:0.2,Urdu:0.2):0.6,(Lahnda:0.2,Panjabi:0.2):0.6):0.1):0.1):0.1):0.1):0.1):0.2):0.3):0.4):0.2):0.2):0.1):0.1):0.8):0);
+Parameter: 0.0000, Communities: 1
+Parameter: 0.8000, Communities: 2
+Parameter: 0.9000, Communities: 4
+Parameter: 1.0000, Communities: 6
+Parameter: 1.2000, Communities: 8
+Parameter: 1.4000, Communities: 10
+Parameter: 1.6000, Communities: 11
+Parameter: 1.8000, Communities: 16
+Parameter: 1.9000, Communities: 22
+Parameter: 2.0000, Communities: 23
+Parameter: 2.1000, Communities: 29
+Parameter: 2.2000, Communities: 33
+Parameter: 2.3000, Communities: 41
+Parameter: 2.4000, Communities: 47
+Parameter: 2.5000, Communities: 54
+Parameter: 2.6000, Communities: 59
+Parameter: 2.7000, Communities: 65
+Parameter: 2.8000, Communities: 71
+Parameter: 3.0000, Communities: 76
+Parameter: 3.1000, Communities: 77
+Parameter: 3.2000, Communities: 78
+Parameter: 3.3000, Communities: 79
+Parameter: 3.4000, Communities: 80
+Parameter: 3.6000, Communities: 84
+Parameter: 3.8000, Communities: 85
+Parameter: 4.0000, Communities: 86
+Parameter: 4.3000, Communities: 88
+Parameter: 4.4000, Communities: 89
+Parameter: 4.7000, Communities: 90
+Warning: Reached maximum iterations (50). Stopping search.

@@ -179,7 +179,7 @@ def build_history(
 
     history = []
     parameter = strategy.initialize()
-    max_iterations = 50  # Prevent infinite loops
+    max_iterations = 200  # Increased for complex datasets like Indo-European
     iteration_count = 0
 
     while iteration_count < max_iterations:
@@ -215,6 +215,91 @@ def build_history(
         print(f"Warning: Reached maximum iterations ({max_iterations}). Stopping search.")
     
     return history
+
+
+def force_outgroups_to_root(tree: TreeNode, outgroup_languages: List[str]) -> TreeNode:
+    """
+    Post-process tree to force specified languages to be sequential outgroups.
+    
+    Creates a structure where:
+    - First outgroup language splits first from all others
+    - Second outgroup language splits second from remaining languages  
+    - etc.
+    
+    @param tree: The input phylogenetic tree
+    @param outgroup_languages: List of language names to force as outgroups (in order)
+    @return: Restructured tree with sequential outgroup splits
+    """
+    if not outgroup_languages:
+        return tree
+        
+    # Find all outgroup leaves in the tree
+    outgroup_nodes = []
+    for lang in outgroup_languages:
+        nodes = tree.search_nodes(name=lang)
+        if nodes:
+            outgroup_nodes.extend(nodes)
+    
+    if not outgroup_nodes:
+        logging.warning(f"No outgroup languages found in tree: {outgroup_languages}")
+        return tree
+        
+    # Get all leaves
+    all_leaves = tree.get_leaves()
+    
+    # Build the tree from the outside in
+    current_tree = None
+    remaining_languages = [leaf.name for leaf in all_leaves]
+    
+    for outgroup_lang in outgroup_languages:
+        if outgroup_lang not in remaining_languages:
+            continue
+            
+        # Remove this outgroup from remaining languages
+        remaining_languages.remove(outgroup_lang)
+        
+        # Create new level of tree
+        new_root = TreeNode()
+        
+        # Add outgroup as one child
+        outgroup_node = TreeNode(name=outgroup_lang)
+        new_root.add_child(outgroup_node)
+        
+        # Add remaining languages as other child
+        if len(remaining_languages) == 1:
+            # Single remaining language
+            remaining_node = TreeNode(name=remaining_languages[0])
+            new_root.add_child(remaining_node)
+        elif len(remaining_languages) > 1:
+            if current_tree is None:
+                # Create subtree for remaining languages from original tree
+                remaining_leaf_nodes = [leaf for leaf in all_leaves 
+                                      if leaf.name in remaining_languages]
+                if len(remaining_leaf_nodes) > 1:
+                    lca = tree.get_common_ancestor(remaining_leaf_nodes)
+                    remaining_subtree = lca.copy()
+                    
+                    # Remove outgroup languages from this subtree
+                    for leaf in remaining_subtree.get_leaves():
+                        if leaf.name in outgroup_languages:
+                            leaf.detach()
+                else:
+                    remaining_subtree = remaining_leaf_nodes[0].copy()
+                
+                new_root.add_child(remaining_subtree)
+            else:
+                # Use the previously built tree
+                new_root.add_child(current_tree)
+        
+        current_tree = new_root
+    
+    if current_tree is None:
+        return tree
+        
+    # Clean up and return
+    current_tree.ladderize()
+    logging.info(f"Created sequential outgroup structure for {len(outgroup_nodes)} languages")
+    return current_tree
 
 
 def remove_single_descendant_nodes(tree: TreeNode) -> TreeNode:
@@ -524,6 +609,32 @@ def adjusted_cognateset_graph(
     return G
 
 
+def apply_outgroup_weighting(graph: nx.Graph, outgroup_languages: List[str], weight_factor: float) -> nx.Graph:
+    """
+    Reduce edge weights for specified outgroup languages to encourage early branching.
+    
+    @param graph: The input graph
+    @param outgroup_languages: List of language names to treat as outgroups
+    @param weight_factor: Factor to multiply edge weights (e.g., 0.1 to reduce by 90%)
+    @return: Modified graph with reduced outgroup connectivity
+    """
+    if not outgroup_languages:
+        return graph
+        
+    modified_graph = graph.copy()
+    
+    for lang in outgroup_languages:
+        if lang in graph.nodes:
+            # Reduce weights of all edges connected to this language
+            for neighbor in graph.neighbors(lang):
+                if modified_graph.has_edge(lang, neighbor):
+                    current_weight = modified_graph[lang][neighbor].get('weight', 1.0)
+                    modified_graph[lang][neighbor]['weight'] = current_weight * weight_factor
+                    logging.info(f"Reduced {lang}-{neighbor} edge weight by factor {weight_factor}")
+    
+    return modified_graph
+
+
 def build_graph(method: str, **kwargs) -> nx.Graph:
     """
     Selects and executes a graph construction method based on the provided method string.
@@ -532,14 +643,26 @@ def build_graph(method: str, **kwargs) -> nx.Graph:
     @param kwargs: Additional keyword arguments to pass to the selected graph construction method.
     @return: A graph constructed using the selected method.
     """
+    # Extract outgroup parameters before building the base graph
+    outgroup_languages = kwargs.pop("outgroup_languages", [])
+    outgroup_weight_factor = kwargs.pop("outgroup_weight_factor", 0.1)
+    
     graph_methods = {
         "cognateset_graph": cognateset_graph,
         "adjusted_cognateset_graph": adjusted_cognateset_graph,
     }
+    
     if method in graph_methods:
-        return graph_methods[method](**kwargs)
+        graph = graph_methods[method](**kwargs)
     else:
         raise ValueError(f"Invalid graph construction method: {method}")
+    
+    # Apply outgroup weighting if specified
+    if outgroup_languages:
+        graph = apply_outgroup_weighting(graph, outgroup_languages, outgroup_weight_factor)
+        logging.info(f"Applied outgroup weighting to: {outgroup_languages}")
+    
+    return graph
 
 
 def main(args):
@@ -561,7 +684,12 @@ def main(args):
     # Build the graph
     G = None
     if args["graph"] == "unadjusted":
-        G = build_graph("cognateset_graph", data=cognates)
+        G = build_graph(
+            "cognateset_graph", 
+            data=cognates,
+            outgroup_languages=args["outgroup_languages"],
+            outgroup_weight_factor=args["outgroup_weight_factor"]
+        )
     elif args["graph"] == "adjusted":
         # Compute the distance matrix
         distance_matrix = common.compute_distance_matrix(
@@ -575,6 +703,8 @@ def main(args):
             sorted_languages=languages,
             proximity_weight=args["proximity_weight"],
             sharing_factor=args["sharing_factor"],
+            outgroup_languages=args["outgroup_languages"],
+            outgroup_weight_factor=args["outgroup_weight_factor"]
         )
     if G is None:
         raise ValueError("Graph could not be built. Please check the --graph argument.")
@@ -594,6 +724,12 @@ def main(args):
     )
 
     phylogeny = build_tree_from_history(family_history)
+    
+    # Apply outgroup post-processing if requested
+    if args["force_outgroup_root"] and args["outgroup_languages"]:
+        phylogeny = force_outgroups_to_root(phylogeny, args["outgroup_languages"])
+        logging.info("Applied outgroup root restructuring")
+    
     logging.info(f"Phylogeny: {phylogeny}")
 
     # Print the tree in Newick format, with internal node names and branch lengths
@@ -703,6 +839,22 @@ if __name__ == "__main__":
         type=float,
         default=0.5,
         help="Factor for the sharing correction when using adjusted weights",
+    )
+    parser.add_argument(
+        "--outgroup_languages",
+        nargs="*",
+        help="Languages to treat as outgroups by reducing their graph connectivity",
+    )
+    parser.add_argument(
+        "--outgroup_weight_factor",
+        type=float,
+        default=0.1,
+        help="Factor to multiply edge weights for outgroup languages (default: 0.1)",
+    )
+    parser.add_argument(
+        "--force_outgroup_root",
+        action="store_true",
+        help="Force outgroup languages to root level by post-processing the tree",
     )
 
     # Parse arguments

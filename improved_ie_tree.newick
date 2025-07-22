@@ -1,0 +1,511 @@
+[INFO] Detected CSV dialect: Delimiter='	', Quotechar='"', Lineterminator='\r\n'
+[INFO] Reduced Hittite-Cornish edge weight by factor 0.1
+[INFO] Reduced Hittite-Kashmiri edge weight by factor 0.1
+[INFO] Reduced Hittite-Oriya edge weight by factor 0.1
+[INFO] Reduced Hittite-Singhalese edge weight by factor 0.1
+[INFO] Reduced Hittite-Ancient_Greek edge weight by factor 0.1
+[INFO] Reduced Hittite-Arvanitika edge weight by factor 0.1
+[INFO] Reduced Hittite-Assamese edge weight by factor 0.1
+[INFO] Reduced Hittite-Bihari edge weight by factor 0.1
+[INFO] Reduced Hittite-Catalan edge weight by factor 0.1
+[INFO] Reduced Hittite-Latin edge weight by factor 0.1
+[INFO] Reduced Hittite-Marathi edge weight by factor 0.1
+[INFO] Reduced Hittite-Marwari edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Church_Slavic edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_English edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_High_German edge weight by factor 0.1
+[INFO] Reduced Hittite-Romani edge weight by factor 0.1
+[INFO] Reduced Hittite-Romanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Serbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Sindhi edge weight by factor 0.1
+[INFO] Reduced Hittite-Slovenian edge weight by factor 0.1
+[INFO] Reduced Hittite-Swiss_German edge weight by factor 0.1
+[INFO] Reduced Hittite-Tosk edge weight by factor 0.1
+[INFO] Reduced Hittite-Vedic_Sanskrit edge weight by factor 0.1
+[INFO] Reduced Hittite-Belarusian edge weight by factor 0.1
+[INFO] Reduced Hittite-Czech edge weight by factor 0.1
+[INFO] Reduced Hittite-Latvian edge weight by factor 0.1
+[INFO] Reduced Hittite-Tocharian_A edge weight by factor 0.1
+[INFO] Reduced Hittite-Tocharian_B edge weight by factor 0.1
+[INFO] Reduced Hittite-Ukrainian edge weight by factor 0.1
+[INFO] Reduced Hittite-Avestan edge weight by factor 0.1
+[INFO] Reduced Hittite-Sariqoli edge weight by factor 0.1
+[INFO] Reduced Hittite-Tajik edge weight by factor 0.1
+[INFO] Reduced Hittite-Gujarati edge weight by factor 0.1
+[INFO] Reduced Hittite-Zazaki edge weight by factor 0.1
+[INFO] Reduced Hittite-Classical_Armenian edge weight by factor 0.1
+[INFO] Reduced Hittite-Dutch edge weight by factor 0.1
+[INFO] Reduced Hittite-Lahnda edge weight by factor 0.1
+[INFO] Reduced Hittite-Romansh edge weight by factor 0.1
+[INFO] Reduced Hittite-Eastern_Armenian edge weight by factor 0.1
+[INFO] Reduced Hittite-Icelandic edge weight by factor 0.1
+[INFO] Reduced Hittite-Nepali edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Prussian edge weight by factor 0.1
+[INFO] Reduced Hittite-Wakhi edge weight by factor 0.1
+[INFO] Reduced Hittite-Adapazar edge weight by factor 0.1
+[INFO] Reduced Hittite-Breton edge weight by factor 0.1
+[INFO] Reduced Hittite-Irish edge weight by factor 0.1
+[INFO] Reduced Hittite-Lithuanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Modern_Greek edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_Irish edge weight by factor 0.1
+[INFO] Reduced Hittite-Scots_Gaelic edge weight by factor 0.1
+[INFO] Reduced Hittite-Welsh edge weight by factor 0.1
+[INFO] Reduced Hittite-Arumanian edge weight by factor 0.1
+[INFO] Reduced Hittite-Bengali edge weight by factor 0.1
+[INFO] Reduced Hittite-English edge weight by factor 0.1
+[INFO] Reduced Hittite-Polish edge weight by factor 0.1
+[INFO] Reduced Hittite-Swedish edge weight by factor 0.1
+[INFO] Reduced Hittite-Walloon edge weight by factor 0.1
+[INFO] Reduced Hittite-Gothic edge weight by factor 0.1
+[INFO] Reduced Hittite-Cagliari edge weight by factor 0.1
+[INFO] Reduced Hittite-Faroese edge weight by factor 0.1
+[INFO] Reduced Hittite-Nuorese edge weight by factor 0.1
+[INFO] Reduced Hittite-Old_West_Norse edge weight by factor 0.1
+[INFO] Reduced Hittite-Provencal edge weight by factor 0.1
+[INFO] Reduced Hittite-Russian edge weight by factor 0.1
+[INFO] Reduced Hittite-Baluchi edge weight by factor 0.1
+[INFO] Reduced Hittite-Frisian edge weight by factor 0.1
+[INFO] Reduced Hittite-Pashto edge weight by factor 0.1
+[INFO] Reduced Hittite-Persian edge weight by factor 0.1
+[INFO] Reduced Hittite-Shughni edge weight by factor 0.1
+[INFO] Reduced Hittite-Sogdian edge weight by factor 0.1
+[INFO] Reduced Hittite-Waziri edge weight by factor 0.1
+[INFO] Reduced Hittite-Bulgarian edge weight by factor 0.1
+[INFO] Reduced Hittite-Lower_Sorbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Macedonian edge weight by factor 0.1
+[INFO] Reduced Hittite-Slovak edge weight by factor 0.1
+[INFO] Reduced Hittite-Upper_Sorbian edge weight by factor 0.1
+[INFO] Reduced Hittite-Danish edge weight by factor 0.1
+[INFO] Reduced Hittite-French edge weight by factor 0.1
+[INFO] Reduced Hittite-Friulian edge weight by factor 0.1
+[INFO] Reduced Hittite-German edge weight by factor 0.1
+[INFO] Reduced Hittite-Hindi edge weight by factor 0.1
+[INFO] Reduced Hittite-Italian edge weight by factor 0.1
+[INFO] Reduced Hittite-Luxembourgish edge weight by factor 0.1
+[INFO] Reduced Hittite-Panjabi edge weight by factor 0.1
+[INFO] Reduced Hittite-Spanish edge weight by factor 0.1
+[INFO] Reduced Hittite-Urdu edge weight by factor 0.1
+[INFO] Reduced Hittite-Afrikaans edge weight by factor 0.1
+[INFO] Reduced Hittite-Flemish edge weight by factor 0.1
+[INFO] Reduced Hittite-Kurdish edge weight by factor 0.1
+[INFO] Reduced Hittite-Ladin edge weight by factor 0.1
+[INFO] Reduced Hittite-Norwegian edge weight by factor 0.1
+[INFO] Reduced Hittite-Portuguese edge weight by factor 0.1
+[INFO] Reduced Hittite-Digor_Ossetic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Ancient_Greek edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Arumanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Breton edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Cagliari edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Catalan edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Classical_Armenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Cornish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Eastern_Armenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-French edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Friulian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Irish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Italian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Ladin edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Latin edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Modern_Greek edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Nuorese edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_Irish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Portuguese edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Provencal edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Romanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Romansh edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Scots_Gaelic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Spanish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Tocharian_B edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Walloon edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Welsh edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Adapazar edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Afrikaans edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Assamese edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Avestan edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Baluchi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Belarusian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Bengali edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Bihari edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Bulgarian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Czech edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Danish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Digor_Ossetic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Dutch edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-English edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Faroese edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Flemish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Frisian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-German edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Gothic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Gujarati edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Hindi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Icelandic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Kashmiri edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Kurdish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Lahnda edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Lithuanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Lower_Sorbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Luxembourgish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Macedonian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Marathi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Marwari edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Nepali edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Norwegian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_Church_Slavic edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_English edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_High_German edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_Prussian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Old_West_Norse edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Oriya edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Panjabi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Pashto edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Persian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Polish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Romani edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Russian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Sariqoli edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Serbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Shughni edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Sindhi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Singhalese edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Slovak edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Slovenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Sogdian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Swedish edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Swiss_German edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Tajik edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Ukrainian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Upper_Sorbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Urdu edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Vedic_Sanskrit edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Wakhi edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Waziri edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Zazaki edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Hittite edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Latvian edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Arvanitika edge weight by factor 0.1
+[INFO] Reduced Tocharian_A-Tosk edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Ancient_Greek edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Arumanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Breton edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Cagliari edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Catalan edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Classical_Armenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Cornish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Eastern_Armenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-French edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Friulian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Irish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Italian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Ladin edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Latin edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Modern_Greek edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Nuorese edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_Irish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Portuguese edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Provencal edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Romanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Romansh edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Scots_Gaelic edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Spanish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Tocharian_A edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Walloon edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Welsh edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Adapazar edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Afrikaans edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Assamese edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Avestan edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Baluchi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Belarusian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Bengali edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Bihari edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Bulgarian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Czech edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Danish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Digor_Ossetic edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Dutch edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-English edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Faroese edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Flemish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Frisian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-German edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Gothic edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Gujarati edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Hindi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Icelandic edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Kashmiri edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Kurdish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Lahnda edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Lithuanian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Lower_Sorbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Luxembourgish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Macedonian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Marathi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Marwari edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Nepali edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Norwegian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_Church_Slavic edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_English edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_High_German edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_Prussian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Old_West_Norse edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Oriya edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Panjabi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Pashto edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Persian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Polish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Romani edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Russian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Sariqoli edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Serbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Shughni edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Sindhi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Singhalese edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Slovak edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Slovenian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Sogdian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Swedish edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Swiss_German edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Tajik edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Ukrainian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Upper_Sorbian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Urdu edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Vedic_Sanskrit edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Wakhi edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Waziri edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Zazaki edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Hittite edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Latvian edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Arvanitika edge weight by factor 0.1
+[INFO] Reduced Tocharian_B-Tosk edge weight by factor 0.1
+[INFO] Applied outgroup weighting to: ['Hittite', 'Tocharian_A', 'Tocharian_B']
+[INFO] Graph built successfully.
+[INFO] Created sequential outgroup structure for 3 languages
+[INFO] Applied outgroup root restructuring
+[INFO] Phylogeny: 
+   /-Tocharian_B
+  |
+  |   /-Tocharian_A
+  |  |
+  |  |   /-Hittite
+  |  |  |
+  |  |  |         /-Old_Prussian
+  |  |  |      /-|
+  |  |  |     |  |   /-Latvian
+--|  |  |     |   \-|
+  |  |  |     |      \-Lithuanian
+  |  |  |   /-|
+  |  |  |  |  |   /-Slovenian
+  |  |  |  |  |  |
+  |  |  |  |  |  |      /-Serbian
+  |  |  |  |  |  |   /-|
+  |  |  |  |   \-|  |  |   /-Bulgarian
+  |  |  |  |     |  |   \-|
+   \-|  |  |     |  |      \-Macedonian
+     |  |  |     |  |
+     |  |  |      \-|   /-Russian
+     |  |  |        |  |
+     |  |  |        |  |   /-Polish
+     |  |  |        |  |--|
+     |  |  |        |  |  |   /-Belarusian
+     |  |  |         \-|   \-|
+     |  |  |           |      \-Ukrainian
+     |  |  |           |
+     |  |  |           |   /-Old_Church_Slavic
+     |  |  |           |  |
+     |  |  |            \-|      /-Czech
+     |  |  |              |   /-|
+     |  |  |              |  |   \-Slovak
+     |  |  |               \-|
+     |  |  |                 |   /-Lower_Sorbian
+      \-|  |                  \-|
+        |  |                     \-Upper_Sorbian
+        |  |
+        |  |      /-Avestan
+        |  |     |
+        |  |   /-|   /-Digor_Ossetic
+        |  |  |  |  |
+        |  |  |   \-|   /-Sogdian
+        |  |  |     |  |
+        |  |  |     |  |      /-Pashto
+        |  |  |      \-|   /-|
+        |  |  |        |  |   \-Waziri
+        |  |  |        |  |
+        |  |  |         \-|   /-Kurdish
+        |  |  |           |  |
+        |  |  |           |  |      /-Wakhi
+        |  |  |            \-|   /-|
+        |  |  |              |  |  |   /-Sariqoli
+        |  |--|              |  |   \-|
+        |  |  |               \-|      \-Shughni
+        |  |  |                 |
+        |  |  |                 |   /-Baluchi
+        |  |  |                  \-|
+        |  |  |                    |   /-Zazaki
+        |  |  |                     \-|
+        |  |  |                       |   /-Persian
+        |  |  |                        \-|
+        |  |  |                           \-Tajik
+        |  |  |
+        |  |  |   /-Vedic_Sanskrit
+        |  |  |  |
+        |  |   \-|      /-Romani
+         \-|     |   /-|
+           |     |  |   \-Singhalese
+           |      \-|
+           |        |   /-Kashmiri
+           |        |  |
+           |         \-|   /-Assamese
+           |           |  |
+           |           |  |--Sindhi
+           |            \-|
+           |              |   /-Marwari
+           |              |  |
+           |               \-|   /-Oriya
+           |                 |  |
+           |                  \-|   /-Bengali
+           |                    |  |
+           |                    |  |   /-Nepali
+           |                     \-|  |
+           |                       |  |   /-Gujarati
+           |                       |  |--|
+           |                        \-|   \-Marathi
+           |                          |
+           |                          |   /-Bihari
+           |                          |  |
+           |                           \-|      /-Hindi
+           |                             |   /-|
+           |                             |  |   \-Urdu
+           |                              \-|
+           |                                |   /-Lahnda
+           |                                 \-|
+           |                                    \-Panjabi
+           |
+           |      /-Gothic
+           |     |
+           |     |   /-English
+           |     |  |
+           |     |  |      /-Danish
+           |   /-|  |   /-|
+           |  |  |  |  |   \-Swedish
+           |  |  |  |--|
+           |  |  |  |  |   /-Norwegian
+           |  |  |  |   \-|
+           |  |   \-|     |   /-Old_West_Norse
+           |  |     |      \-|
+           |  |     |        |   /-Faroese
+           |  |     |         \-|
+           |  |     |            \-Icelandic
+           |  |     |
+           |  |     |   /-Old_English
+           |  |     |  |
+           |  |      \-|   /-Old_High_German
+           |  |        |  |
+           |  |        |  |      /-Luxembourgish
+           |  |         \-|   /-|
+           |  |           |  |  |   /-German
+           |  |           |  |   \-|
+           |  |            \-|      \-Swiss_German
+            \-|              |
+              |              |   /-Frisian
+              |               \-|
+              |                 |   /-Dutch
+              |                  \-|
+              |                    |   /-Afrikaans
+              |                     \-|
+              |                        \-Flemish
+              |
+              |      /-
+              |     |
+              |   /-|      /-Ancient_Greek
+              |  |  |   /-|
+              |  |  |  |   \-Modern_Greek
+              |  |   \-|
+              |  |     |   /-Classical_Armenian
+              |  |      \-|
+              |  |        |   /-Adapazar
+              |  |         \-|
+              |  |            \-Eastern_Armenian
+              |  |
+               \-|         /-Arvanitika
+                 |      /-|
+                 |     |   \-Tosk
+                 |     |
+                 |   /-|      /-Welsh
+                 |  |  |   /-|
+                 |  |  |  |  |   /-Breton
+                 |  |  |  |   \-|
+                 |  |   \-|      \-Cornish
+                 |  |     |
+                 |  |     |   /-Old_Irish
+                  \-|      \-|
+                    |        |   /-Irish
+                    |         \-|
+                    |            \-Scots_Gaelic
+                    |
+                    |   /-Arumanian
+                    |  |
+                    |  |   /-Latin
+                     \-|  |
+                       |  |--Romanian
+                       |  |
+                       |  |      /-Cagliari
+                        \-|   /-|
+                          |  |   \-Nuorese
+                          |  |
+                          |  |      /-Catalan
+                          |  |   /-|
+                           \-|  |  |   /-Portuguese
+                             |  |   \-|
+                             |  |      \-Spanish
+                             |  |
+                             |  |   /-Provencal
+                              \-|--|
+                                |  |   /-French
+                                |   \-|
+                                |      \-Walloon
+                                |
+                                |   /-Italian
+                                 \-|
+                                   |   /-Ladin
+                                    \-|
+                                      |   /-Friulian
+                                       \-|
+                                          \-Romansh
+[INFO] Newick format tree: (Tocharian_B:1,(Tocharian_A:1,(Hittite:1,(((Old_Prussian:0.7,(Latvian:0.9,Lithuanian:0.9):0.7):0.6,(Slovenian:0.7,((Serbian:0.3,(Bulgarian:0.1,Macedonian:0.1):0.3):0.1,(Russian:0.1,(Polish:0.1,(Belarusian:0.2,Ukrainian:0.2):0.1):0.1,(Old_Church_Slavic:0.1,((Czech:0.3,Slovak:0.3):0.1,(Lower_Sorbian:0.6,Upper_Sorbian:0.6):0.1):0.1):0.1):0.1):0.7):0.6):0.8,((Avestan:0.6,(Digor_Ossetic:0.1,(Sogdian:0.3,((Pashto:4.5,Waziri:4.5):0.2,(Kurdish:0.3,((Wakhi:0.4,(Sariqoli:1.2,Shughni:1.2):0.4):0.1,(Baluchi:0.1,(Zazaki:0.1,(Persian:1.3,Tajik:1.3):0.1):0.1):0.1):0.3):0.2):0.3):0.1):0.6):0.4,(Vedic_Sanskrit:0.2,((Romani:0.1,Singhalese:0.1):0.4,(Kashmiri:0.3,(Assamese:0.2,Sindhi:0.2,(Marwari:0.1,(Oriya:0.1,(Bengali:0.1,(Nepali:0.1,(Gujarati:0.6,Marathi:0.6):0.1,(Bihari:0.1,((Hindi:0.2,Urdu:0.2):0.6,(Lahnda:0.2,Panjabi:0.2):0.6):0.1):0.1):0.1):0.1):0.1):0.2):0.3):0.4):0.2):0.4):0.8,((Gothic:0.9,(English:0.1,((Danish:0.1,Swedish:0.1):0.5,(Norwegian:0.1,(Old_West_Norse:0.3,(Faroese:0.2,Icelandic:0.2):0.3):0.1):0.5):0.1,(Old_English:0.1,(Old_High_German:0.1,((Luxembourgish:0.2,(German:0.2,Swiss_German:0.2):0.2):0.2,(Frisian:0.2,(Dutch:0.3,(Afrikaans:0.2,Flemish:0.2):0.3):0.2):0.2):0.1):0.1):0.1):0.9):0.1,((:0.6,((Ancient_Greek:1.9,Modern_Greek:1.9):0.2,(Classical_Armenian:3,(Adapazar:0.7,Eastern_Armenian:0.7):3):0.2):0.6):0.1,(((Arvanitika:6,Tosk:6):0.1,((Welsh:1.5,(Breton:0.2,Cornish:0.2):1.5):1.1,(Old_Irish:1.4,(Irish:0.6,Scots_Gaelic:0.6):1.4):1.1):0.1):0.1,(Arumanian:0.7,(Latin:0.1,Romanian:0.1,((Cagliari:0.7,Nuorese:0.7):0.2,((Catalan:0.2,(Portuguese:0.3,Spanish:0.3):0.2):0.1,(Provencal:0.3,(French:0.2,Walloon:0.2):0.3):0.1,(Italian:0.1,(Ladin:0.1,(Friulian:0.1,Romansh:0.1):0.1):0.1):0.1):0.2):0.1):0.7):0.1):0.1):0.1):0.8):0):1):1);
+Parameter: 0.0000, Communities: 1
+Parameter: 0.8000, Communities: 3
+Parameter: 0.9000, Communities: 5
+Parameter: 1.0000, Communities: 6
+Parameter: 1.1000, Communities: 7
+Parameter: 1.2000, Communities: 9
+Parameter: 1.4000, Communities: 11
+Parameter: 1.6000, Communities: 12
+Parameter: 1.8000, Communities: 17
+Parameter: 1.9000, Communities: 23
+Parameter: 2.0000, Communities: 24
+Parameter: 2.1000, Communities: 29
+Parameter: 2.2000, Communities: 33
+Parameter: 2.3000, Communities: 40
+Parameter: 2.4000, Communities: 47
+Parameter: 2.5000, Communities: 56
+Parameter: 2.6000, Communities: 59
+Parameter: 2.7000, Communities: 65
+Parameter: 2.8000, Communities: 71
+Parameter: 2.9000, Communities: 72
+Parameter: 3.0000, Communities: 76
+Parameter: 3.1000, Communities: 77
+Parameter: 3.2000, Communities: 78
+Parameter: 3.3000, Communities: 79
+Parameter: 3.4000, Communities: 80
+Parameter: 3.6000, Communities: 82
+Parameter: 3.7000, Communities: 84
+Parameter: 3.8000, Communities: 85
+Parameter: 4.0000, Communities: 86
+Parameter: 4.3000, Communities: 88
+Parameter: 4.4000, Communities: 89
+Parameter: 4.8000, Communities: 90
+Parameter: 5.5000, Communities: 91
+Parameter: 5.9000, Communities: 92
+Parameter: 6.9000, Communities: 93
+Parameter: 7.2000, Communities: 94
