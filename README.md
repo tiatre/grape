@@ -86,7 +86,7 @@ GRAPE has been tested and validated on 7 major language families representing di
 
 | Family | Dataset | Languages | Geographic Distribution | Typology |
 |--------|---------|-----------|------------------------|----------|
-| **Indo-European** | `ielex_2022.tsv` | 200+ | Global (Europe, Asia, Americas) | Diverse: Germanic, Romance, Slavic, etc. |
+| **Indo-European** | `ielex_2022.tsv` | 85 | Global (Europe, Asia, Americas) | Diverse: Germanic, Romance, Slavic, etc. |
 | **Romance** | `romance.tsv` | 43 | Western/Southern Europe | Fusional, rich morphology |
 | **Austroasiatic** | `austroasiatic.tsv` | 109 | Southeast Asia | Isolating/analytic |  
 | **Turkic** | `turkic.tsv` | 32 | Central Asia, Turkey | Agglutinative, vowel harmony |
@@ -136,7 +136,7 @@ GRAPE generates publication-quality phylogenetic tree visualizations using consi
 
 | Family | Publication Image | Languages | Key Features |
 |--------|-------------------|-----------|--------------|
-| **Indo-European** | [PNG](docs/images/trees/publication_final/indo_european.png) \| [SVG](docs/images/trees/publication_final/indo_european.svg) | 200+ | Global major branches (Germanic, Romance, Slavic, Indo-Iranian) |
+| **Indo-European** | [PNG](docs/images/trees/publication_final/indo_european.png) \| [SVG](docs/images/trees/publication_final/indo_european.svg) | 85 | Global major branches (Germanic, Romance, Slavic, Indo-Iranian) |
 | **Romance** | [PNG](docs/images/trees/publication_final/romance.png) \| [SVG](docs/images/trees/publication_final/romance.svg) | 43 | European dialectal branches |
 | **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic.png) \| [SVG](docs/images/trees/publication_final/austroasiatic.svg) | 109 | SE Asian linguistic diversity |
 | **Turkic** | [PNG](docs/images/trees/publication_final/turkic.png) \| [SVG](docs/images/trees/publication_final/turkic.svg) | 32 | Central Asian nomadic spread |

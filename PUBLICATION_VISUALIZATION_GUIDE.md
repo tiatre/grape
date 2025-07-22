@@ -31,11 +31,11 @@ GRAPE provides publication-quality phylogenetic tree visualizations using consis
 
 ## Available Language Families
 
-### Indo-European Languages (200+ languages)
+### Indo-European Languages (85 languages)
 - **Publication Images**: 
   - PNG: `docs/images/trees/publication_final/indo_european.png`
   - SVG: `docs/images/trees/publication_final/indo_european.svg`
-- **Canvas Size**: 2000×3800+ pixels (800 + 200×15, estimated)
+- **Canvas Size**: 2000×2075 pixels (800 + 85×15)
 - **ASCII Tree**: `docs/images/trees/indo_european_formatted.txt`
 - **Newick**: `docs/images/trees/indo_european.newick`
 
