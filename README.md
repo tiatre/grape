@@ -112,27 +112,34 @@ GRAPE has been tested and validated on 7 major language families representing di
 - [**Jupyter Notebook**](docs/examples/grape_analysis.ipynb) - Executable examples
 - [**Advanced Usage**](docs/examples/advanced_usage.md) - Complex scenarios
 
-## 🌳 Tree Visualizations
+## 🌳 Publication-Quality Tree Visualizations
 
-GRAPE generates detailed phylogenetic tree visualizations for all language families:
+GRAPE generates comprehensive phylogenetic tree visualizations following linguistic best practices:
 
-- **ASCII Trees**: Text-based tree representations for documentation and analysis
-- **Linguistic Analysis**: Automatic validation of established language groupings
-- **Multiple Formats**: Newick, formatted text, and summary statistics
+### Visualization Types
+- **📊 Publication Images**: High-resolution PNG/SVG for academic papers and presentations
+- **📝 ASCII Trees**: Text-based representations for documentation and analysis  
+- **🔬 Linguistic Analysis**: Automatic validation of established language groupings
+- **📋 Multiple Formats**: Newick, formatted text, and comprehensive statistics
 
-**Available visualizations:**
-- [Romance Tree](docs/images/trees/romance_formatted.txt) - 43 languages, European branches
-- [Austroasiatic Tree](docs/images/trees/austroasiatic_formatted.txt) - 109 languages, SE Asian diversity
-- [Turkic Tree](docs/images/trees/turkic_formatted.txt) - 32 languages, Central Asian spread
-- [Dravidian Tree](docs/images/trees/dravidian_formatted.txt) - 20 languages, South Indian branches
-- [Polynesian Tree](docs/images/trees/polynesian_formatted.txt) - 31 languages, Pacific migration
-- [Tupian Tree](docs/images/trees/tupian_formatted.txt) - 91 languages, Amazonian diversity
+### Available Language Family Trees
 
-All visualizations include:
-- Tree statistics (height, number of languages)
-- ASCII art representation
-- Linguistic grouping analysis
-- Complete language lists
+| Family | Publication Image | ASCII Tree | Languages | Key Features |
+|--------|------------------|------------|-----------|--------------|
+| **Romance** | [PNG](docs/images/trees/publication/romance.png) \| [SVG](docs/images/trees/publication/romance.svg) | [Text](docs/images/trees/romance_formatted.txt) | 43 | European dialectal branches |
+| **Austroasiatic** | [PNG](docs/images/trees/publication/austroasiatic.png) \| [SVG](docs/images/trees/publication/austroasiatic.svg) | [Text](docs/images/trees/austroasiatic_formatted.txt) | 109 | SE Asian linguistic diversity |
+| **Turkic** | [PNG](docs/images/trees/publication/turkic.png) \| [SVG](docs/images/trees/publication/turkic.svg) | [Text](docs/images/trees/turkic_formatted.txt) | 32 | Central Asian nomadic spread |
+| **Dravidian** | [PNG](docs/images/trees/publication/dravidian.png) \| [SVG](docs/images/trees/publication/dravidian.svg) | [Text](docs/images/trees/dravidian_formatted.txt) | 20 | South Indian agglutinative |
+| **Polynesian** | [PNG](docs/images/trees/publication/polynesian.png) \| [SVG](docs/images/trees/publication/polynesian.svg) | [Text](docs/images/trees/polynesian_formatted.txt) | 31 | Pacific island migration |
+| **Tupian** | [PNG](docs/images/trees/publication/tupian.png) \| [SVG](docs/images/trees/publication/tupian.svg) | [Text](docs/images/trees/tupian_formatted.txt) | 29 | Amazonian indigenous |
+
+### Publication Standards
+- **300 DPI resolution** for print-quality output
+- **Color-coded linguistic subgroups** based on established classifications
+- **Clear typography** with readable language names and branch lengths
+- **Comprehensive legends** for subgroup identification
+- **Multiple formats** (PNG for raster, SVG for vector graphics)
+- **Reproducible generation** using fixed random seeds
 
 ## 🧪 Testing
 

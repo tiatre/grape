@@ -1,13 +1,4 @@
-Polynesian Language Family Phylogenetic Tree
-==================================================
-
-TREE STATISTICS:
-  Languages: 31
-  Tree height: 2.157
-
-TREE STRUCTURE:
---------------------
-
+Polynesian Language Family Phylogenetic Tree\n==================================================\n\nTREE STATISTICS:\n  Languages: 31\n  Tree height: 2.157\n\nTREE STRUCTURE:\n--------------------\n
       /-Leo_Pukapuka
      |
      |   /-Rapanui
@@ -68,43 +59,4 @@ TREE STRUCTURE:
            |  |
             \-|--Fakauvea
               |
-               \-Lea_Fakatonga
-
-LINGUISTIC GROUPINGS FOUND:
--------------------------
-Tongic: Lea_Fakatonga, Vagahau_Niue
-Eastern Polynesian: olelo_Hawaii, Reo_Tahiti, Reo_Maori, Rapanui, eo_enana
-
-ALL LANGUAGES IN TREE:
---------------------
-  • Fakafutuna
-  • Fakamae
-  • Fakatikopia
-  • Fakauvea
-  • Fesau_Futuna
-  • Gagana_Samoa
-  • Kapingamarangi
-  • Lea_Fakatonga
-  • Leo_Pukapuka
-  • Leo_Tuvalu
-  • Luangiua
-  • Manihiki
-  • MeleFila
-  • Nukeria
-  • Penrhyn
-  • Proto_Polynesian
-  • Rapanui
-  • RennellBellona
-  • Reo_Magareva
-  • Reo_Maori
-  • Reo_Raivavae
-  • Reo_Rarotongan
-  • Reo_Rurutu
-  • Reo_Tahiti
-  • Reo_o_te_Tuamotu
-  • Sikaiana
-  • TarangapakaAnuta
-  • VaeakauTaumako
-  • Vagahau_Niue
-  • eo_enana
-  • olelo_Hawaii
+               \-Lea_Fakatonga\n\nALL LANGUAGES IN TREE:\n--------------------\n  • Fakafutuna\n  • Fakamae\n  • Fakatikopia\n  • Fakauvea\n  • Fesau_Futuna\n  • Gagana_Samoa\n  • Kapingamarangi\n  • Lea_Fakatonga\n  • Leo_Pukapuka\n  • Leo_Tuvalu\n  • Luangiua\n  • Manihiki\n  • MeleFila\n  • Nukeria\n  • Penrhyn\n  • Proto_Polynesian\n  • Rapanui\n  • RennellBellona\n  • Reo_Magareva\n  • Reo_Maori\n  • Reo_Raivavae\n  • Reo_Rarotongan\n  • Reo_Rurutu\n  • Reo_Tahiti\n  • Reo_o_te_Tuamotu\n  • Sikaiana\n  • TarangapakaAnuta\n  • VaeakauTaumako\n  • Vagahau_Niue\n  • eo_enana\n  • olelo_Hawaii\n

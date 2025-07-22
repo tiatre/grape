@@ -1,13 +1,4 @@
-Dravidian Language Family Phylogenetic Tree
-==================================================
-
-TREE STATISTICS:
-  Languages: 20
-  Tree height: 4.600
-
-TREE STRUCTURE:
---------------------
-
+Dravidian Language Family Phylogenetic Tree\n==================================================\n\nTREE STATISTICS:\n  Languages: 20\n  Tree height: 4.600\n\nTREE STRUCTURE:\n--------------------\n
       /-Tulu
      |
      |   /-Badga
@@ -46,33 +37,4 @@ TREE STRUCTURE:
          \-|
            |   /-Koya
             \-|
-               \-Telugu
-
-LINGUISTIC GROUPINGS FOUND:
--------------------------
-South Dravidian: Tamil, Malayalam, Kannada, Tulu, Kodava, Badga, Kota, Toda
-Central Dravidian: Gondi, Koya, Kuwi, Kolami, Parji, Ollari_Gadba
-North Dravidian: Brahui, Kurukh, Malto
-
-ALL LANGUAGES IN TREE:
---------------------
-  • Badga
-  • Betta_Kurumba
-  • Brahui
-  • Gondi
-  • Kannada
-  • Kodava
-  • Kolami
-  • Kota
-  • Koya
-  • Kurukh
-  • Kuwi
-  • Malayalam
-  • Malto
-  • Ollari_Gadba
-  • Parji
-  • Tamil
-  • Telugu
-  • Toda
-  • Tulu
-  • Yeruva
+               \-Telugu\n\nALL LANGUAGES IN TREE:\n--------------------\n  • Badga\n  • Betta_Kurumba\n  • Brahui\n  • Gondi\n  • Kannada\n  • Kodava\n  • Kolami\n  • Kota\n  • Koya\n  • Kurukh\n  • Kuwi\n  • Malayalam\n  • Malto\n  • Ollari_Gadba\n  • Parji\n  • Tamil\n  • Telugu\n  • Toda\n  • Tulu\n  • Yeruva\n

@@ -7,3 +7,5 @@ seaborn
 pandas
 jupyter
 nbconvert
+PyQt5 # required for ETE3 visualization
+lxml # required for ETE3 SVG output

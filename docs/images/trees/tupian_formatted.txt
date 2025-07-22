@@ -1,13 +1,4 @@
-Tupian Language Family Phylogenetic Tree
-==================================================
-
-TREE STATISTICS:
-  Languages: 29
-  Tree height: 2.000
-
-TREE STRUCTURE:
---------------------
-
+Tupian Language Family Phylogenetic Tree\n==================================================\n\nTREE STATISTICS:\n  Languages: 29\n  Tree height: 2.000\n\nTREE STRUCTURE:\n--------------------\n
       /-Arawete
      |
      |   /-Aweti
@@ -64,41 +55,4 @@ TREE STRUCTURE:
         |
         |   /-Guarani
          \-|
-            \-Mbya
-
-LINGUISTIC GROUPINGS FOUND:
--------------------------
-Guaranic: Mbya, Guarani, Kaiowa
-Early Branching: Mawe, Aweti
-
-ALL LANGUAGES IN TREE:
---------------------
-  • Ache
-  • Amondawa
-  • Apiaka
-  • Arawete
-  • Aweti
-  • Chiriguano
-  • Guaja
-  • Guajajara
-  • Guarani
-  • Guarayo
-  • Kaapor
-  • Kaiowa
-  • Kamajura
-  • Kayabi
-  • Mawe
-  • Mbya
-  • Nheengatu
-  • Siriono
-  • Tapiete
-  • Tapirape
-  • Teko
-  • Tembe
-  • Tupinamba
-  • Urueuwauwau
-  • Warazu
-  • Wayampi
-  • Xeta
-  • Yuki
-  • Zoe
+            \-Mbya\n\nALL LANGUAGES IN TREE:\n--------------------\n  • Ache\n  • Amondawa\n  • Apiaka\n  • Arawete\n  • Aweti\n  • Chiriguano\n  • Guaja\n  • Guajajara\n  • Guarani\n  • Guarayo\n  • Kaapor\n  • Kaiowa\n  • Kamajura\n  • Kayabi\n  • Mawe\n  • Mbya\n  • Nheengatu\n  • Siriono\n  • Tapiete\n  • Tapirape\n  • Teko\n  • Tembe\n  • Tupinamba\n  • Urueuwauwau\n  • Warazu\n  • Wayampi\n  • Xeta\n  • Yuki\n  • Zoe\n
