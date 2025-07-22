@@ -2,17 +2,18 @@
 
 ## Overview
 
-GRAPE provides publication-quality phylogenetic tree visualizations using toytree with adaptive layout strategies. Each language family automatically receives the optimal visualization approach based on its size and structural complexity.
+GRAPE provides publication-quality phylogenetic tree visualizations using consistent rectangular cladogram layout. All language families use the same professional format with dynamic sizing to accommodate trees from small (20 languages) to very large (100+ languages).
 
-## Visualization Strategies
+## Visualization Format
 
-### 1. Layout Selection (Automatic)
-- **Rectangular Layout**: Small trees (≤25 languages) - generous spacing, detailed annotations
-- **Circular Layout**: Medium trees (26-75 languages) - balanced space utilization  
-- **Unrooted Layout**: Large trees (>75 languages) - optimal for complex, unbalanced structures
+### 1. Rectangular Cladogram Layout
+- **Consistent Format**: All language families use rectangular phylogenetic tree layout
+- **Dynamic Scaling**: Canvas height automatically adjusts (800 + languages × 15 pixels)
+- **Professional Appearance**: Standard academic phylogenetic tree format
+- **Optimal Readability**: Clear branching patterns and language name placement
 
 ### 2. Technical Specifications
-- **High Resolution**: 2000×2000 pixels for detailed visualization
+- **Dynamic Resolution**: 2000px width, height scales with tree size (800-2500+ pixels)
 - **Multiple Formats**: PNG (with white background) and SVG (vector graphics)
 - **Professional Typography**: 14px font size for clear readability
 - **Consistent Styling**: Unified visual language across all families
@@ -30,51 +31,51 @@ GRAPE provides publication-quality phylogenetic tree visualizations using toytre
 
 ## Available Language Families
 
-### Romance Languages (43 languages) - Circular Layout
+### Romance Languages (43 languages)
 - **Publication Images**: 
-  - PNG: `docs/images/trees/publication_final/romance_circular.png`
-  - SVG: `docs/images/trees/publication_final/romance_circular.svg`
-- **Layout Strategy**: Circular (optimal for medium-sized, balanced tree)
+  - PNG: `docs/images/trees/publication_final/romance_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/romance_rectangular.svg`
+- **Canvas Size**: 2000×1445 pixels (800 + 43×15)
 - **ASCII Tree**: `docs/images/trees/romance_formatted.txt`
 - **Newick**: `docs/images/trees/romance.newick`
 
-### Austroasiatic Languages (109 languages) - Unrooted Layout
+### Austroasiatic Languages (109 languages)
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication_final/austroasiatic_unrooted.png`
-  - SVG: `docs/images/trees/publication_final/austroasiatic_unrooted.svg`
-- **Layout Strategy**: Unrooted (optimal for large, highly unbalanced tree)
+  - PNG: `docs/images/trees/publication_final/austroasiatic_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/austroasiatic_rectangular.svg`
+- **Canvas Size**: 2000×2435 pixels (800 + 109×15)
 - **ASCII Tree**: `docs/images/trees/austroasiatic_formatted.txt`
 - **Newick**: `docs/images/trees/austroasiatic.newick`
 
-### Turkic Languages (32 languages) - Circular Layout
+### Turkic Languages (32 languages)
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication_final/turkic_circular.png`
-  - SVG: `docs/images/trees/publication_final/turkic_circular.svg`
-- **Layout Strategy**: Circular (optimal for medium-sized tree)
+  - PNG: `docs/images/trees/publication_final/turkic_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/turkic_rectangular.svg`
+- **Canvas Size**: 2000×1280 pixels (800 + 32×15)
 - **ASCII Tree**: `docs/images/trees/turkic_formatted.txt`
 - **Newick**: `docs/images/trees/turkic.newick`
 
-### Dravidian Languages (20 languages) - Rectangular Layout
+### Dravidian Languages (20 languages)
 - **Publication Images**:
   - PNG: `docs/images/trees/publication_final/dravidian_rectangular.png`
   - SVG: `docs/images/trees/publication_final/dravidian_rectangular.svg`
-- **Layout Strategy**: Rectangular (optimal for small, well-structured tree)
+- **Canvas Size**: 2000×1100 pixels (800 + 20×15)
 - **ASCII Tree**: `docs/images/trees/dravidian_formatted.txt`
 - **Newick**: `docs/images/trees/dravidian.newick`
 
-### Polynesian Languages (31 languages) - Circular Layout
+### Polynesian Languages (31 languages)
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication_final/polynesian_circular.png`
-  - SVG: `docs/images/trees/publication_final/polynesian_circular.svg`
-- **Layout Strategy**: Circular (optimal for medium-sized tree)
+  - PNG: `docs/images/trees/publication_final/polynesian_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/polynesian_rectangular.svg`
+- **Canvas Size**: 2000×1265 pixels (800 + 31×15)
 - **ASCII Tree**: `docs/images/trees/polynesian_formatted.txt`
 - **Newick**: `docs/images/trees/polynesian.newick`
 
-### Tupian Languages (29 languages) - Circular Layout
+### Tupian Languages (29 languages)
 - **Publication Images**:
-  - PNG: `docs/images/trees/publication_final/tupian_circular.png`
-  - SVG: `docs/images/trees/publication_final/tupian_circular.svg`
-- **Layout Strategy**: Circular (optimal for medium-sized tree)
+  - PNG: `docs/images/trees/publication_final/tupian_rectangular.png`
+  - SVG: `docs/images/trees/publication_final/tupian_rectangular.svg`
+- **Canvas Size**: 2000×1235 pixels (800 + 29×15)
 - **ASCII Tree**: `docs/images/trees/tupian_formatted.txt`
 - **Newick**: `docs/images/trees/tupian.newick`
 
@@ -84,42 +85,42 @@ GRAPE provides publication-quality phylogenetic tree visualizations using toytre
 ```latex
 \\begin{figure}[htbp]
   \\centering
-  \\includegraphics[width=0.8\\textwidth]{docs/images/trees/publication_final/romance_circular.png}
-  \\caption{Romance language phylogeny reconstructed using GRAPE community detection methods, displayed in circular layout for optimal readability.}
+  \\includegraphics[width=0.8\\textwidth]{docs/images/trees/publication_final/romance_rectangular.png}
+  \\caption{Romance language phylogeny reconstructed using GRAPE community detection methods, displayed in rectangular cladogram format.}
   \\label{fig:romance-tree}
 \\end{figure}
 ```
 
 ### Markdown Documents
 ```markdown
-![Romance Language Phylogeny](docs/images/trees/publication_final/romance_circular.png)
-*Romance language family tree generated by GRAPE using adaptive circular layout for medium-sized language families.*
+![Romance Language Phylogeny](docs/images/trees/publication_final/romance_rectangular.png)
+*Romance language family tree generated by GRAPE using rectangular cladogram layout.*
 ```
 
 ### HTML Documents  
 ```html
 <figure>
-  <img src="docs/images/trees/publication_final/romance_circular.png" 
+  <img src="docs/images/trees/publication_final/romance_rectangular.png" 
        alt="Romance Language Phylogeny" 
        width="800" 
        style="max-width: 100%; height: auto;">
-  <figcaption>Romance language phylogeny using circular layout</figcaption>
+  <figcaption>Romance language phylogeny using rectangular cladogram</figcaption>
 </figure>
 ```
 
 ### Microsoft Word
 1. Insert → Pictures → This Device
 2. Navigate to `docs/images/trees/publication_final/`
-3. Select desired family with appropriate layout (e.g., `romance_circular.png`)
+3. Select desired family file (e.g., `romance_rectangular.png`)
 4. Resize to fit column width (typically 6-7 inches for single column)
 
 ## Linguistic Best Practices Implemented
 
-### Layout Strategies
-- **Adaptive Selection**: Automatic layout choice based on tree size and complexity
-- **Rectangular**: Small trees (≤25 languages) with generous spacing
-- **Circular**: Medium trees (26-75 languages) with balanced space utilization
-- **Unrooted**: Large trees (>75 languages) optimized for complex structures
+### Layout Standards
+- **Consistent Format**: All trees use rectangular cladogram layout
+- **Dynamic Scaling**: Canvas height scales with number of languages
+- **Professional Appearance**: Standard academic phylogenetic tree format
+- **Optimal Readability**: Clear branching patterns and taxonomic organization
 
 ### Typography Standards
 - **Language names**: 14px clear, readable font size

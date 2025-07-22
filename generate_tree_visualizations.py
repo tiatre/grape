@@ -31,30 +31,21 @@ def get_tree_metrics(tree_path):
         "max_distance": max_dist,
     }
 
-def get_layout_strategy(metrics):
-    """Choose a layout strategy based on tree metrics."""
-    if metrics["size"] > 75:
-        return "unrooted"
-    elif metrics["size"] > 25:
-        return "circular"
-    else:
-        return "rectangular"
-
 def generate_visualization(tree_path, output_dir):
     """
-    Generates a visualization for a single tree using an adaptive strategy.
+    Generates a rectangular visualization for a single tree.
     """
     tree_name = os.path.basename(tree_path).replace(".newick", "")
     metrics = get_tree_metrics(tree_path)
-    strategy = get_layout_strategy(metrics)
 
     # Load tree with toytree
     ttree = toytree.tree(tree_path)
 
-    # Common style settings
+    # Rectangular layout settings for all trees
     kwargs = {
+        "tree_style": 'r',  # Always use rectangular layout
         "width": 2000,
-        "height": 2000,
+        "height": 800 + metrics["size"] * 15,  # Dynamic height based on tree size
         "tip_labels_align": True,
         "tip_labels_style": {
             "font-size": "14px",
@@ -65,30 +56,21 @@ def generate_visualization(tree_path, output_dir):
         },
     }
 
-    if strategy == "rectangular":
-        kwargs["tree_style"] = 'r'
-        kwargs["height"] = 800 + metrics["size"] * 15 # Dynamic height
-    elif strategy == "circular":
-        kwargs["tree_style"] = 'c'
-    elif strategy == "unrooted":
-        kwargs["tree_style"] = 'u'
-        kwargs["tip_labels_align"] = False # Better for unrooted
-
     # Generate drawing
     canvas, axes, mark = ttree.draw(**kwargs)
 
     # Save SVG visualization
-    svg_output_path = os.path.join(output_dir, f"{tree_name}_{strategy}.svg")
+    svg_output_path = os.path.join(output_dir, f"{tree_name}_rectangular.svg")
     import toyplot.svg
     toyplot.svg.render(canvas, svg_output_path)
-    print(f"Generated {strategy} visualization for {tree_name} at {svg_output_path}")
+    print(f"Generated rectangular visualization for {tree_name} at {svg_output_path}")
 
     # Save PNG visualization with a white background
-    png_output_path = os.path.join(output_dir, f"{tree_name}_{strategy}.png")
+    png_output_path = os.path.join(output_dir, f"{tree_name}_rectangular.png")
     import toyplot.png
     canvas.style = {"background-color": "white"}
     toyplot.png.render(canvas, png_output_path)
-    print(f"Generated {strategy} visualization for {tree_name} at {png_output_path}")
+    print(f"Generated rectangular visualization for {tree_name} at {png_output_path}")
 
 
 def main():

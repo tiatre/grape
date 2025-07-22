@@ -122,15 +122,15 @@ Generate high-quality tree visualizations using:
 python generate_tree_visualizations.py
 ```
 
-**Adaptive Layout System**:
-- **Rectangular Layout**: Small trees (≤25 languages) - detailed, spacious layout
-- **Circular Layout**: Medium trees (26-75 languages) - balanced space utilization
-- **Unrooted Layout**: Large trees (>75 languages) - optimal for complex, unbalanced structures
+**Rectangular Cladogram Layout**:
+- **Consistent Format**: All trees use professional rectangular phylogenetic layout
+- **Dynamic Scaling**: Canvas height adjusts automatically (800 + languages × 15 pixels)
+- **Publication Quality**: Clear, readable format suitable for academic publications
 
 **Output Locations**:
 - High-quality visualizations: `docs/images/trees/publication_final/`
 - Format: Both PNG (white background) and SVG (scalable vector graphics)
-- Resolution: 2000×2000 pixels for publication quality
+- Resolution: 2000px width, height varies by tree size (1100-2500+ pixels)
 
 ### Testing
 

@@ -122,24 +122,24 @@ GRAPE has been tested and validated on 7 major language families representing di
 
 ## 🌳 Publication-Quality Tree Visualizations
 
-GRAPE generates publication-quality phylogenetic tree visualizations using adaptive layout strategies:
+GRAPE generates publication-quality phylogenetic tree visualizations using consistent rectangular cladogram layout:
 
-### Visualization Strategies
-- **📊 Rectangular Layout**: For small, well-balanced trees (≤25 languages)
-- **🔄 Circular Layout**: For medium-sized trees (26-75 languages)
-- **🌐 Unrooted Layout**: For large, complex trees (>75 languages)
-- **📝 ASCII Trees**: Text-based representations for documentation
+### Visualization Format
+- **📊 Rectangular Cladogram**: Professional phylogenetic tree layout for all language families
+- **🔧 Dynamic Scaling**: Canvas height automatically adjusts based on number of languages
+- **📝 ASCII Trees**: Text-based representations for documentation and analysis
+- **🎯 Consistent Styling**: Uniform 14px typography and professional appearance
 
 ### Available Language Family Trees
 
-| Family | Publication Image | Layout Strategy | Languages | Key Features |
-|--------|------------------|------------------|-----------|--------------|
-| **Romance** | [PNG](docs/images/trees/publication_final/romance_circular.png) \| [SVG](docs/images/trees/publication_final/romance_circular.svg) | Circular | 43 | European dialectal branches |
-| **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic_unrooted.png) \| [SVG](docs/images/trees/publication_final/austroasiatic_unrooted.svg) | Unrooted | 109 | SE Asian linguistic diversity |
-| **Turkic** | [PNG](docs/images/trees/publication_final/turkic_circular.png) \| [SVG](docs/images/trees/publication_final/turkic_circular.svg) | Circular | 32 | Central Asian nomadic spread |
-| **Dravidian** | [PNG](docs/images/trees/publication_final/dravidian_rectangular.png) \| [SVG](docs/images/trees/publication_final/dravidian_rectangular.svg) | Rectangular | 20 | South Indian agglutinative |
-| **Polynesian** | [PNG](docs/images/trees/publication_final/polynesian_circular.png) \| [SVG](docs/images/trees/publication_final/polynesian_circular.svg) | Circular | 31 | Pacific island migration |
-| **Tupian** | [PNG](docs/images/trees/publication_final/tupian_circular.png) \| [SVG](docs/images/trees/publication_final/tupian_circular.svg) | Circular | 29 | Amazonian indigenous |
+| Family | Publication Image | Languages | Key Features |
+|--------|-------------------|-----------|--------------|
+| **Romance** | [PNG](docs/images/trees/publication_final/romance_rectangular.png) \| [SVG](docs/images/trees/publication_final/romance_rectangular.svg) | 43 | European dialectal branches |
+| **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic_rectangular.png) \| [SVG](docs/images/trees/publication_final/austroasiatic_rectangular.svg) | 109 | SE Asian linguistic diversity |
+| **Turkic** | [PNG](docs/images/trees/publication_final/turkic_rectangular.png) \| [SVG](docs/images/trees/publication_final/turkic_rectangular.svg) | 32 | Central Asian nomadic spread |
+| **Dravidian** | [PNG](docs/images/trees/publication_final/dravidian_rectangular.png) \| [SVG](docs/images/trees/publication_final/dravidian_rectangular.svg) | 20 | South Indian agglutinative |
+| **Polynesian** | [PNG](docs/images/trees/publication_final/polynesian_rectangular.png) \| [SVG](docs/images/trees/publication_final/polynesian_rectangular.svg) | 31 | Pacific island migration |
+| **Tupian** | [PNG](docs/images/trees/publication_final/tupian_rectangular.png) \| [SVG](docs/images/trees/publication_final/tupian_rectangular.svg) | 29 | Amazonian indigenous |
 
 ### Publication Standards
 - **300 DPI resolution** for print-quality output
