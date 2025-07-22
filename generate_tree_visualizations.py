@@ -60,17 +60,17 @@ def generate_visualization(tree_path, output_dir):
     canvas, axes, mark = ttree.draw(**kwargs)
 
     # Save SVG visualization
-    svg_output_path = os.path.join(output_dir, f"{tree_name}_rectangular.svg")
+    svg_output_path = os.path.join(output_dir, f"{tree_name}.svg")
     import toyplot.svg
     toyplot.svg.render(canvas, svg_output_path)
-    print(f"Generated rectangular visualization for {tree_name} at {svg_output_path}")
+    print(f"Generated visualization for {tree_name} at {svg_output_path}")
 
     # Save PNG visualization with a white background
-    png_output_path = os.path.join(output_dir, f"{tree_name}_rectangular.png")
+    png_output_path = os.path.join(output_dir, f"{tree_name}.png")
     import toyplot.png
     canvas.style = {"background-color": "white"}
     toyplot.png.render(canvas, png_output_path)
-    print(f"Generated rectangular visualization for {tree_name} at {png_output_path}")
+    print(f"Generated visualization for {tree_name} at {png_output_path}")
 
 
 def main():

@@ -134,12 +134,12 @@ GRAPE generates publication-quality phylogenetic tree visualizations using consi
 
 | Family | Publication Image | Languages | Key Features |
 |--------|-------------------|-----------|--------------|
-| **Romance** | [PNG](docs/images/trees/publication_final/romance_rectangular.png) \| [SVG](docs/images/trees/publication_final/romance_rectangular.svg) | 43 | European dialectal branches |
-| **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic_rectangular.png) \| [SVG](docs/images/trees/publication_final/austroasiatic_rectangular.svg) | 109 | SE Asian linguistic diversity |
-| **Turkic** | [PNG](docs/images/trees/publication_final/turkic_rectangular.png) \| [SVG](docs/images/trees/publication_final/turkic_rectangular.svg) | 32 | Central Asian nomadic spread |
-| **Dravidian** | [PNG](docs/images/trees/publication_final/dravidian_rectangular.png) \| [SVG](docs/images/trees/publication_final/dravidian_rectangular.svg) | 20 | South Indian agglutinative |
-| **Polynesian** | [PNG](docs/images/trees/publication_final/polynesian_rectangular.png) \| [SVG](docs/images/trees/publication_final/polynesian_rectangular.svg) | 31 | Pacific island migration |
-| **Tupian** | [PNG](docs/images/trees/publication_final/tupian_rectangular.png) \| [SVG](docs/images/trees/publication_final/tupian_rectangular.svg) | 29 | Amazonian indigenous |
+| **Romance** | [PNG](docs/images/trees/publication_final/romance.png) \| [SVG](docs/images/trees/publication_final/romance.svg) | 43 | European dialectal branches |
+| **Austroasiatic** | [PNG](docs/images/trees/publication_final/austroasiatic.png) \| [SVG](docs/images/trees/publication_final/austroasiatic.svg) | 109 | SE Asian linguistic diversity |
+| **Turkic** | [PNG](docs/images/trees/publication_final/turkic.png) \| [SVG](docs/images/trees/publication_final/turkic.svg) | 32 | Central Asian nomadic spread |
+| **Dravidian** | [PNG](docs/images/trees/publication_final/dravidian.png) \| [SVG](docs/images/trees/publication_final/dravidian.svg) | 20 | South Indian agglutinative |
+| **Polynesian** | [PNG](docs/images/trees/publication_final/polynesian.png) \| [SVG](docs/images/trees/publication_final/polynesian.svg) | 31 | Pacific island migration |
+| **Tupian** | [PNG](docs/images/trees/publication_final/tupian.png) \| [SVG](docs/images/trees/publication_final/tupian.svg) | 29 | Amazonian indigenous |
 
 ### Publication Standards
 - **300 DPI resolution** for print-quality output
